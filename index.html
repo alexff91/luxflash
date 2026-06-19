@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="LuxFlash — a free, open-source flashcard app to learn Luxembourgish (Lëtzebuergesch). Spaced repetition, 2000+ words with example sentences, levels A1–B2, progress saved in your browser." />
+<meta name="theme-color" content="#00a1de" />
+<title>LuxFlash · Learn Luxembourgish with flashcards</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='33.3' y='0' fill='%23ED2939'/%3E%3Crect width='100' height='33.4' y='33.3' fill='%23fff'/%3E%3Crect width='100' height='33.3' y='66.7' fill='%2300A1DE'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-flag" aria-hidden="true"></span>
+    <div class="brand-text">
+      <strong>LuxFlash</strong>
+      <span class="brand-sub">Léier Lëtzebuergesch</span>
+    </div>
+  </div>
+
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button class="tab is-active" role="tab" data-view="study" aria-selected="true">Study</button>
+    <button class="tab" role="tab" data-view="browse" aria-selected="false">Browse</button>
+    <button class="tab" role="tab" data-view="stats" aria-selected="false">Progress</button>
+    <button class="tab" role="tab" data-view="settings" aria-selected="false">Settings</button>
+  </nav>
+
+  <button id="themeToggle" class="icon-btn" title="Toggle dark mode" aria-label="Toggle dark mode">
+    <span class="theme-icon">🌙</span>
+  </button>
+</header>
+
+<main id="main">
+
+  <!-- ============ STUDY ============ -->
+  <section class="view is-active" id="view-study" role="tabpanel">
+    <div class="study-toolbar">
+      <div class="chipset" id="levelChips" aria-label="Levels"></div>
+      <div class="study-meta">
+        <label class="switch" title="Show the meaning first, recall the Luxembourgish word">
+          <input type="checkbox" id="reverseMode" />
+          <span>Reverse (EN → LB)</span>
+        </label>
+        <span class="queue-pill" id="queuePill" title="Cards waiting in this session">0 left</span>
+      </div>
+    </div>
+
+    <div class="card-stage">
+      <div class="flashcard" id="flashcard" tabindex="0" aria-live="polite">
+        <div class="flashcard-inner">
+          <div class="flashcard-face flashcard-front">
+            <div class="card-top">
+              <span class="pos-tag" id="frontPos"></span>
+              <span class="level-tag" id="frontLevel"></span>
+            </div>
+            <div class="headword" id="frontWord">Welcome!</div>
+            <div class="subword" id="frontSub"></div>
+            <div class="example" id="frontExample"></div>
+            <div class="flip-hint">Tap card or press <kbd>Space</kbd> to flip</div>
+          </div>
+          <div class="flashcard-face flashcard-back">
+            <div class="card-top">
+              <span class="pos-tag" id="backPos"></span>
+              <a class="lod-link" id="lodLink" href="#" target="_blank" rel="noopener" title="Open in the Lëtzebuerger Online Dictionnaire (audio, declensions)">LOD ↗</a>
+            </div>
+            <div class="headword headword-answer" id="backWord"></div>
+            <ul class="translations" id="backTranslations"></ul>
+            <div class="example example-answer" id="backExample"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grade-bar" id="gradeBar" hidden>
+      <button class="grade again" data-grade="again"><b>Again</b><small>&lt;1m</small></button>
+      <button class="grade hard"  data-grade="hard"><b>Hard</b><small id="gtHard">—</small></button>
+      <button class="grade good"  data-grade="good"><b>Good</b><small id="gtGood">—</small></button>
+      <button class="grade easy"  data-grade="easy"><b>Easy</b><small id="gtEasy">—</small></button>
+    </div>
+
+    <div class="flip-bar" id="flipBar">
+      <button class="btn primary big" id="flipBtn">Show answer</button>
+      <button class="icon-btn" id="speakBtn" title="Hear the word (browser speech)" aria-label="Pronounce">🔊</button>
+    </div>
+
+    <div class="empty-state" id="studyEmpty" hidden>
+      <div class="empty-emoji">🎉</div>
+      <h2>All caught up!</h2>
+      <p id="emptyMsg">No cards are due right now. Pick more levels above, or come back later.</p>
+      <button class="btn" id="studyAnywayBtn">Study ahead anyway</button>
+    </div>
+  </section>
+
+  <!-- ============ BROWSE ============ -->
+  <section class="view" id="view-browse" role="tabpanel">
+    <div class="browse-toolbar">
+      <input type="search" id="searchInput" class="search" placeholder="Search words, meanings, examples…" autocomplete="off" />
+      <select id="catFilter" class="select" aria-label="Filter by category"></select>
+      <select id="levelFilter" class="select" aria-label="Filter by level">
+        <option value="">All levels</option>
+        <option value="A1">A1</option><option value="A2">A2</option>
+        <option value="B1">B1</option><option value="B2">B2</option>
+      </select>
+    </div>
+    <p class="browse-count" id="browseCount"></p>
+    <div class="word-grid" id="wordGrid"></div>
+  </section>
+
+  <!-- ============ STATS ============ -->
+  <section class="view" id="view-stats" role="tabpanel">
+    <div class="stat-cards">
+      <div class="stat-card"><span class="stat-num" id="statTotal">0</span><span class="stat-label">Words total</span></div>
+      <div class="stat-card"><span class="stat-num" id="statSeen">0</span><span class="stat-label">Started</span></div>
+      <div class="stat-card"><span class="stat-num" id="statLearned">0</span><span class="stat-label">Learned</span></div>
+      <div class="stat-card"><span class="stat-num" id="statDue">0</span><span class="stat-label">Due now</span></div>
+      <div class="stat-card"><span class="stat-num" id="statStreak">0</span><span class="stat-label">Day streak</span></div>
+    </div>
+    <h3>Progress by level</h3>
+    <div id="levelProgress" class="level-progress"></div>
+    <h3>Mastery (Leitner boxes)</h3>
+    <div id="boxChart" class="box-chart"></div>
+  </section>
+
+  <!-- ============ SETTINGS ============ -->
+  <section class="view" id="view-settings" role="tabpanel">
+    <div class="setting-block">
+      <h3>Your progress is private</h3>
+      <p class="muted">Everything you study is stored only in this browser (localStorage). Nothing is uploaded. Move to another device by exporting a backup file and importing it there.</p>
+      <div class="btn-row">
+        <button class="btn primary" id="exportBtn">⬇ Download progress (JSON)</button>
+        <label class="btn" for="importFile">⬆ Upload progress (JSON)</label>
+        <input type="file" id="importFile" accept="application/json,.json" hidden />
+      </div>
+      <p id="ioMsg" class="io-msg" role="status"></p>
+    </div>
+
+    <div class="setting-block">
+      <h3>New cards per session</h3>
+      <p class="muted">How many brand-new words to introduce each study session.</p>
+      <input type="range" id="newLimit" min="5" max="60" step="5" value="20" />
+      <span id="newLimitVal">20</span>
+    </div>
+
+    <div class="setting-block danger">
+      <h3>Reset</h3>
+      <p class="muted">Delete all saved progress in this browser. This cannot be undone — export a backup first.</p>
+      <button class="btn danger" id="resetBtn">Reset all progress</button>
+    </div>
+
+    <div class="setting-block">
+      <h3>About</h3>
+      <p class="muted">
+        LuxFlash is free &amp; open source (MIT). Vocabulary is community-maintained;
+        always verify spelling, gender, audio and full declensions on the official
+        <a href="https://lod.lu" target="_blank" rel="noopener">Lëtzebuerger Online Dictionnaire (lod.lu)</a>
+        — every card links straight to it. Found a mistake?
+        <a href="https://github.com/alexff91/luxflash/issues" target="_blank" rel="noopener">Open an issue or PR</a>.
+      </p>
+    </div>
+  </section>
+</main>
+
+<div id="toast" class="toast" hidden></div>
+
+<!-- Data is loaded as a plain global so the app also works from file:// (no fetch/CORS) -->
+<script src="data/words.js"></script>
+<script src="assets/js/storage.js"></script>
+<script src="assets/js/srs.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
