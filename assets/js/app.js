@@ -15,12 +15,30 @@
       .replace(/[öô]/g, "o").replace(/[üû]/g, "u").replace(/ç/g, "c")
       .replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
   }
-  WORDS.forEach(function (w) { w.id = slug(w.lb) + "." + (w.pos || "x"); });
+  // Some source rows already bake the article into the headword ("d'Aarbecht",
+  // "den Apel"). Strip it so we store a bare headword and add the article once,
+  // consistently, at render time.
+  function stripArticle(lb) {
+    var s = String(lb || "");
+    s = s.replace(/^d'\s*(?=\S)/i, "");               // elided: "d'Aarbecht" -> "Aarbecht"
+    s = s.replace(/^(den|déi|de)\s+(?=\S)/i, "");      // spaced: "den Apel" -> "Apel"
+    return s.trim();
+  }
+  WORDS.forEach(function (w) {
+    if (w.pos === "noun") w.lb = stripArticle(w.lb);
+    w.id = slug(w.lb) + "." + (w.pos || "x");
+  });
   var BY_ID = {};
   WORDS.forEach(function (w) { BY_ID[w.id] = w; });
 
   function lodURL(word) { return "https://lod.lu/?q=" + encodeURIComponent(word); }
-  function articleFor(w) { return (w.pos === "noun" && ARTICLE[w.gender]) ? ARTICLE[w.gender] + " " : ""; }
+  function articleFor(w) {
+    if (w.pos !== "noun") return "";
+    var a = ARTICLE[w.gender];
+    if (!a) return "";
+    // "d'" joins the word with no space ("d'Aarbecht"); "den"/"de" take a space
+    return a + (/'$/.test(a) ? "" : " ");
+  }
   function boldWord(sentence, word) {
     if (!sentence) return "";
     var esc = escapeHTML(sentence);
@@ -89,7 +107,7 @@
     if (i >= 0) { if (sel.length > 1) sel.splice(i, 1); }
     else sel.push(lv);
     LFStore.setSettings({ levels: sel });
-    refreshChips(); buildSession(); render();
+    refreshChips(); buildSession(); nextCard();
   }
 
   /* ---------- session queue ---------- */
@@ -249,16 +267,32 @@
     studyAhead = true; buildSession(); nextCard();
   });
 
-  /* speech */
+  /* speech — no browser ships a Luxembourgish voice yet, so we prefer an
+     actual lb voice if one ever exists, then fall back to German (closest
+     phonetics) rather than letting it default to an English voice. */
+  function pickVoice() {
+    var voices = window.speechSynthesis.getVoices() || [];
+    return voices.find(function (v) { return /^lb\b/i.test(v.lang); })
+        || voices.find(function (v) { return /^de\b/i.test(v.lang); })
+        || null;
+  }
+  function speakWord(text) {
+    if (!text || !window.speechSynthesis) return;
+    var go = function () {
+      var u = new SpeechSynthesisUtterance(text);
+      var v = pickVoice();
+      if (v) { u.voice = v; u.lang = v.lang; } else { u.lang = "de-DE"; }
+      u.rate = 0.9;
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(u);
+    };
+    // getVoices() is often empty until the voiceschanged event fires
+    if ((window.speechSynthesis.getVoices() || []).length) go();
+    else window.speechSynthesis.addEventListener("voiceschanged", go, { once: true });
+  }
   $("#speakBtn").addEventListener("click", function (e) {
     e.stopPropagation();
-    if (!current || !window.speechSynthesis) return;
-    var u = new SpeechSynthesisUtterance(current.lb);
-    u.lang = "lb-LU"; u.rate = 0.9;
-    var voices = window.speechSynthesis.getVoices();
-    var v = voices.find(function (x) { return /lb|de/i.test(x.lang); });
-    if (v) u.voice = v; else u.lang = "de-DE";
-    window.speechSynthesis.cancel(); window.speechSynthesis.speak(u);
+    if (current) speakWord(current.lb);
   });
 
   /* ---------- browse ---------- */

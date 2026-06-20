@@ -1,3 +1,7 @@
+/* `display: grid/flex` on author CSS overrides the UA rule for [hidden];
+   restore it so toggling the `hidden` attribute actually hides elements. */
+[hidden] { display: none !important; }
+
 :root {
   --lux-red: #ED2939;
   --lux-blue: #00a1de;
