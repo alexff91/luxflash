@@ -67,6 +67,8 @@
     $$(".view").forEach(function (v) { v.classList.toggle("is-active", v.id === "view-" + name); });
     if (name === "browse") renderBrowse();
     if (name === "stats") renderStats();
+    if (name === "grammar") renderGrammar();
+    if (name === "resources") renderResources();
   }
 
   /* ---------- theme ---------- */
@@ -267,9 +269,13 @@
     studyAhead = true; buildSession(); nextCard();
   });
 
-  /* speech — no browser ships a Luxembourgish voice yet, so we prefer an
-     actual lb voice if one ever exists, then fall back to German (closest
-     phonetics) rather than letting it default to an English voice. */
+  /* ---------- audio ----------
+     Prefer the real LOD recording when a word has a `lodId` (LOD hosts
+     pronunciation openly / CC0 at https://lod.lu/uploads/OGG/<id>.ogg and
+     /AAC/<id>.m4a — populate ids via scripts/fetch_lod_audio.py). Otherwise
+     fall back to browser speech: no browser ships a Luxembourgish voice yet,
+     so prefer an lb voice if one ever exists, then German (closest phonetics)
+     rather than defaulting to an English voice. */
   function pickVoice() {
     var voices = window.speechSynthesis.getVoices() || [];
     return voices.find(function (v) { return /^lb\b/i.test(v.lang); })
@@ -290,10 +296,85 @@
     if ((window.speechSynthesis.getVoices() || []).length) go();
     else window.speechSynthesis.addEventListener("voiceschanged", go, { once: true });
   }
+  function lodAudioURLs(id) {
+    id = String(id).toLowerCase();
+    return ["https://lod.lu/uploads/OGG/" + id + ".ogg",
+            "https://lod.lu/uploads/AAC/" + id + ".m4a"];
+  }
+  function playAudio(word) {
+    if (!word) return;
+    if (word.lodId) {
+      var urls = lodAudioURLs(word.lodId), i = 0;
+      var a = new Audio();
+      a.onerror = function () { i++; if (i < urls.length) { a.src = urls[i]; a.play().catch(function () { speakWord(word.lb); }); } else speakWord(word.lb); };
+      a.src = urls[0];
+      a.play().catch(function () { a.onerror(); });
+      return;
+    }
+    speakWord(word.lb);
+  }
   $("#speakBtn").addEventListener("click", function (e) {
     e.stopPropagation();
-    if (current) speakWord(current.lb);
+    if (current) playAudio(current);
   });
+
+  /* ---------- grammar ---------- */
+  function renderGrammar() {
+    var host = $("#grammarList");
+    if (host.dataset.done) return;
+    var G = window.LUXFLASH_GRAMMAR || [];
+    host.innerHTML = G.map(function (sec, idx) {
+      return '<details class="gram-item"' + (idx === 0 ? " open" : "") + '>' +
+        '<summary>' + escapeHTML(sec.title) + '</summary>' +
+        '<div class="gram-body">' +
+        (sec.intro ? '<p>' + escapeHTML(sec.intro) + '</p>' : '') +
+        (sec.body || []).map(renderGrammarBlock).join("") +
+        '</div></details>';
+    }).join("");
+    host.dataset.done = "1";
+  }
+  function renderGrammarBlock(b) {
+    if (b.type === "p") return '<p>' + b.text + '</p>';
+    if (b.type === "list") return '<ul class="gram-ul">' + b.items.map(function (i) { return '<li>' + i + '</li>'; }).join("") + '</ul>';
+    if (b.type === "ex") return '<div class="gram-ex"><span class="gex-lb">' + escapeHTML(b.lb) + '</span><span class="gex-en">' + escapeHTML(b.en) + '</span></div>';
+    if (b.type === "tip") return '<div class="gram-tip">💡 ' + escapeHTML(b.text) + '</div>';
+    if (b.type === "table") return '<div class="gram-table-wrap"><table class="gram-table"><thead><tr>' +
+      b.head.map(function (h) { return '<th>' + escapeHTML(h) + '</th>'; }).join("") + '</tr></thead><tbody>' +
+      b.rows.map(function (r) { return '<tr>' + r.map(function (c) { return '<td>' + escapeHTML(c) + '</td>'; }).join("") + '</tr>'; }).join("") +
+      '</tbody></table></div>';
+    return "";
+  }
+
+  /* ---------- resources ---------- */
+  var RESOURCES = [
+    { name: "Luxembourgish with Anne", url: "https://luxembourgishwithanne.lu/", tag: "Courses · Blog · Podcast",
+      desc: "The best-known Luxembourgish teacher online. Self-study A1–B courses, a free sentence-structure mini-course, flashcards, and Sproochentest exam prep." },
+    { name: "LOD — Lëtzebuerger Online Dictionnaire", url: "https://lod.lu/", tag: "Official dictionary",
+      desc: "The official dictionary: meanings, native audio, IPA, examples and full declensions. Every LuxFlash card links here. Data is open (CC0)." },
+    { name: "Luxembourgish with Anne — Podcast", url: "https://open.spotify.com/show/00VXbMpd9bHNxc4p08qDjl", tag: "Listening",
+      desc: "Short episodes to train your ear, also on Apple Podcasts and YouTube." },
+    { name: "Zentrum fir d'Lëtzebuerger Sprooch (ZLS)", url: "https://portal.education.lu/zls/", tag: "Language authority",
+      desc: "The official body for Luxembourgish: orthography rules, the Sproochenhaus, and reference resources." },
+    { name: "LOD open data & API", url: "https://data.public.lu/en/datasets/letzebuerger-online-dictionnaire-lod-public-api/", tag: "Developers",
+      desc: "The full LOD dataset and a public REST API, including the open audio files used for native pronunciation." },
+    { name: "RTL Lëtzebuerg", url: "https://www.rtl.lu/", tag: "Authentic input",
+      desc: "News, radio and TV in Luxembourgish — real-world listening and reading once you reach A2/B1." },
+    { name: "lod-anki (open source)", url: "https://github.com/brunopacheco1/lod-anki", tag: "Anki decks",
+      desc: "Community project that turns LOD content (with audio) into Anki flashcards — handy if you also use Anki." },
+    { name: "Sproochentest — naturalisation test", url: "https://www.sproochentest.lu/", tag: "Exam",
+      desc: "Official information about the spoken Luxembourgish test required for citizenship." }
+  ];
+  function renderResources() {
+    var host = $("#resGrid");
+    if (host.dataset.done) return;
+    host.innerHTML = RESOURCES.map(function (r) {
+      return '<a class="res-card" href="' + r.url + '" target="_blank" rel="noopener">' +
+        '<div class="res-top"><span class="res-name">' + escapeHTML(r.name) + '</span><span class="res-go">↗</span></div>' +
+        '<span class="res-tag">' + escapeHTML(r.tag) + '</span>' +
+        '<p class="res-desc">' + escapeHTML(r.desc) + '</p></a>';
+    }).join("");
+    host.dataset.done = "1";
+  }
 
   /* ---------- browse ---------- */
   var catFilter = $("#catFilter");

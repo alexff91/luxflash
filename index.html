@@ -24,7 +24,9 @@
   <nav class="tabs" role="tablist" aria-label="Sections">
     <button class="tab is-active" role="tab" data-view="study" aria-selected="true">Study</button>
     <button class="tab" role="tab" data-view="browse" aria-selected="false">Browse</button>
+    <button class="tab" role="tab" data-view="grammar" aria-selected="false">Grammar</button>
     <button class="tab" role="tab" data-view="stats" aria-selected="false">Progress</button>
+    <button class="tab" role="tab" data-view="resources" aria-selected="false">Resources</button>
     <button class="tab" role="tab" data-view="settings" aria-selected="false">Settings</button>
   </nav>
 
@@ -83,7 +85,7 @@
 
     <div class="flip-bar" id="flipBar">
       <button class="btn primary big" id="flipBtn">Show answer</button>
-      <button class="icon-btn" id="speakBtn" title="Hear the word (browser speech)" aria-label="Pronounce">🔊</button>
+      <button class="icon-btn" id="speakBtn" title="Hear the word (native LOD audio when available, else browser speech)" aria-label="Pronounce">🔊</button>
     </div>
 
     <div class="empty-state" id="studyEmpty" hidden>
@@ -107,6 +109,24 @@
     </div>
     <p class="browse-count" id="browseCount"></p>
     <div class="word-grid" id="wordGrid"></div>
+  </section>
+
+  <!-- ============ GRAMMAR ============ -->
+  <section class="view" id="view-grammar" role="tabpanel">
+    <div class="grammar-head">
+      <h2>Grammar in a nutshell</h2>
+      <p class="muted">Short, practical notes to get you reading and forming sentences. For authoritative forms, audio and full tables, follow the LOD links on each word card.</p>
+    </div>
+    <div id="grammarList" class="grammar-list"></div>
+  </section>
+
+  <!-- ============ RESOURCES ============ -->
+  <section class="view" id="view-resources" role="tabpanel">
+    <div class="grammar-head">
+      <h2>Keep learning</h2>
+      <p class="muted">Hand-picked, free and paid resources for Luxembourgish. LuxFlash links to these — it doesn't reproduce their content.</p>
+    </div>
+    <div class="res-grid" id="resGrid"></div>
   </section>
 
   <!-- ============ STATS ============ -->
@@ -167,6 +187,7 @@
 
 <!-- Data is loaded as a plain global so the app also works from file:// (no fetch/CORS) -->
 <script src="data/words.js"></script>
+<script src="data/grammar.js"></script>
 <script src="assets/js/storage.js"></script>
 <script src="assets/js/srs.js"></script>
 <script src="assets/js/app.js"></script>

@@ -223,6 +223,38 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(16px, 3vw, 30px); 
 #newLimit { width: 220px; vertical-align: middle; accent-color: var(--accent); }
 #newLimitVal { font-weight: 800; margin-left: 8px; }
 
+/* ---------- Grammar ---------- */
+.grammar-head { margin-bottom: 16px; }
+.grammar-head h2 { margin: 0 0 4px; }
+.grammar-list { display: flex; flex-direction: column; gap: 10px; }
+.gram-item { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); box-shadow: var(--shadow); overflow: hidden; }
+.gram-item summary { cursor: pointer; padding: 15px 18px; font-weight: 700; font-size: 1.02rem; list-style: none; display: flex; justify-content: space-between; align-items: center; }
+.gram-item summary::-webkit-details-marker { display: none; }
+.gram-item summary::after { content: "+"; color: var(--accent); font-weight: 800; font-size: 1.2rem; }
+.gram-item[open] summary::after { content: "–"; }
+.gram-body { padding: 0 18px 16px; color: var(--text); line-height: 1.6; }
+.gram-body p { margin: 8px 0; color: var(--text-soft); }
+.gram-ul { margin: 8px 0; padding-left: 20px; color: var(--text-soft); }
+.gram-ul li { margin: 4px 0; }
+.gram-ex { display: flex; flex-wrap: wrap; gap: 4px 14px; padding: 9px 12px; margin: 8px 0; background: color-mix(in srgb, var(--accent) 7%, transparent); border-left: 3px solid var(--accent); border-radius: 8px; }
+.gex-lb { font-weight: 700; }
+.gex-en { color: var(--text-soft); }
+.gram-tip { margin: 10px 0; padding: 9px 12px; background: color-mix(in srgb, var(--hard) 14%, transparent); border-radius: 8px; font-size: .9rem; }
+.gram-table-wrap { overflow-x: auto; margin: 10px 0; }
+.gram-table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+.gram-table th, .gram-table td { border: 1px solid var(--border); padding: 7px 10px; text-align: left; }
+.gram-table th { background: var(--bg-elev); font-weight: 700; }
+
+/* ---------- Resources ---------- */
+.res-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+.res-card { display: block; text-decoration: none; color: inherit; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 16px 18px; box-shadow: var(--shadow); transition: .16s; }
+.res-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
+.res-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+.res-name { font-weight: 800; font-size: 1.04rem; line-height: 1.2; }
+.res-go { color: var(--accent); font-weight: 800; }
+.res-tag { display: inline-block; margin: 6px 0; font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; font-weight: 800; color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, transparent); padding: 3px 9px; border-radius: 999px; }
+.res-desc { margin: 6px 0 0; color: var(--text-soft); font-size: .9rem; line-height: 1.5; }
+
 /* ---------- Toast ---------- */
 .toast {
   position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%) translateY(20px);

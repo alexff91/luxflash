@@ -65,6 +65,9 @@ def clean(entry):
     }
     if entry.get("plural"):
         out["plural"] = str(entry["plural"]).strip()
+    # optional LOD entry id -> enables native audio (see scripts/fetch_lod_audio.py)
+    if entry.get("lodId"):
+        out["lodId"] = str(entry["lodId"]).strip()
     return out
 
 
