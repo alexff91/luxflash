@@ -29,6 +29,12 @@ or upload a JSON backup** to move between devices.
   sentence and its translation.
 - **Reverse mode** — practise English → Luxembourgish recall.
 - **Browse & search** — scan the whole dictionary, filter by level/category.
+- **Grammar tab** — concise, practical notes (gender & articles, cases, plurals,
+  verb tenses, word order, the Eifeler Regel, numbers, questions…).
+- **Resources tab** — curated links to keep learning (Luxembourgish with Anne,
+  LOD, RTL, ZLS and more). LuxFlash links to these, it doesn't reproduce them.
+- **Native pronunciation** — plays the real LOD recording when a word has a
+  `lodId` (open CC0 audio from lod.lu), falling back to the browser speech engine.
 - **lod.lu integration** — every card and list entry deep-links to LOD so you can
   verify spelling, hear the pronunciation and see the full grammar.
 - **Progress dashboard** — words learned, due today, day-streak, per-level bars,
@@ -102,6 +108,22 @@ python3 scripts/build_data.py
 
 This regenerates `data/words.js` / `data/words.json` (validated, de-duplicated,
 sorted by level). Commit the regenerated files.
+
+## 🔊 Native LOD audio
+
+LOD publishes pronunciation audio openly (CC0) at
+`https://lod.lu/uploads/OGG/<id>.ogg` and `…/AAC/<id>.m4a`, where `<id>` is the
+LOD entry id. To wire real recordings to LuxFlash words, run (on a machine that
+can reach `lod.lu` / `data.public.lu`):
+
+```bash
+python3 scripts/fetch_lod_audio.py    # adds "lodId" to data/chunks/*.json
+python3 scripts/build_data.py         # rebuild data/words.js
+```
+
+The 🔊 button then plays the native recording, and falls back to the browser's
+speech engine for any word without a match. The per-word **LOD ↗** link always
+opens the official entry with audio regardless.
 
 ## 🙏 Vocabulary accuracy & lod.lu
 
