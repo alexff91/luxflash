@@ -23,7 +23,19 @@
     };
   }
 
+  // Detect whether localStorage actually works (private windows / blocked
+  // third-party storage throw on write, not on read).
+  var storageOK = (function () {
+    try {
+      var t = "luxflash.test";
+      localStorage.setItem(t, "1");
+      localStorage.removeItem(t);
+      return true;
+    } catch (e) { return false; }
+  })();
+
   var state = load();
+  var lastSavedAt = null;
 
   function load() {
     try {
@@ -52,8 +64,11 @@
   var saveTimer = null;
   function save() {
     state.updatedAt = Date.now();
+    clearTimeout(saveTimer);
+    saveTimer = null;
     try {
       localStorage.setItem(KEY, JSON.stringify(state));
+      lastSavedAt = Date.now();
     } catch (e) {
       console.warn("LuxFlash: save failed (storage full or blocked).", e);
     }
@@ -63,8 +78,28 @@
     saveTimer = setTimeout(save, 250);
   }
 
+  // Never lose the last review: flush any pending debounced save the moment
+  // the tab is hidden or closed (mobile browsers rarely fire "unload").
+  function flushPending() { if (saveTimer) save(); }
+  window.addEventListener("pagehide", flushPending);
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "hidden") flushPending();
+  });
+
+  // Ask the browser to protect this origin's storage from automatic eviction.
+  var persisted = null;
+  if (navigator.storage && navigator.storage.persist) {
+    navigator.storage.persisted().then(function (p) {
+      persisted = p;
+      if (!p) return navigator.storage.persist().then(function (g) { persisted = g; });
+    }).catch(function () {});
+  }
+
   window.LFStore = {
     get state() { return state; },
+    get available() { return storageOK; },
+    get persisted() { return persisted; },
+    get lastSavedAt() { return lastSavedAt; },
     settings: function () { return state.settings; },
     getCard: function (id) { return state.cards[id] || null; },
     setCard: function (id, prog) { state.cards[id] = prog; saveDebounced(); },
