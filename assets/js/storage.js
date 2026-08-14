@@ -17,7 +17,7 @@
       app: "luxflash",
       createdAt: Date.now(),
       updatedAt: Date.now(),
-      settings: { levels: ["A1", "A2"], newPerSession: 20, reverse: false, theme: null },
+      settings: { levels: ["A1", "A2"], newPerSession: 20, reverse: false, autoplay: false, theme: null },
       streak: { current: 0, longest: 0, lastDay: null },
       cards: {} // id -> { box, due, reps, lapses, last }
     };
