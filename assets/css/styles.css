@@ -269,6 +269,41 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(16px, 3vw, 30px); 
   .topbar { flex-wrap: wrap; }
   .grade small { display: none; }
 }
+/* ---------- Phone ----------
+   Two things were wrong at 390px. The row of six tabs was 565px wide in a
+   357px slot, so the browser laid the whole page out at 583px and scaled it
+   down: every size below was really about two thirds of what the stylesheet
+   says. The tabs now wrap onto two rows, which keeps the page at 390px and
+   keeps all six sections visible - a scrolling row would have hidden two of
+   them behind a swipe with nothing to hint at it. Second, the targets were
+   sized for a mouse; a finger needs 44px. Sizes only, and only here: the
+   desktop rules above are untouched. */
+@media (max-width: 760px) {
+  .tabs { flex-wrap: wrap; justify-content: center; max-width: 100%; }
+  .tab { min-height: 44px; }
+  .icon-btn { width: 46px; height: 46px; }
+  .chip { min-height: 44px; display: inline-flex; align-items: center; }
+  /* The box stays 16px; the label around it is what the finger aims at. */
+  .switch { min-height: 44px; }
+  .lod-link { display: inline-flex; align-items: center; min-height: 44px; }
+  .grade { min-height: 44px; }
+  .btn, .search, .select { min-height: 44px; }
+  /* Nothing readable goes below 12px on a phone. */
+  .pos-tag { font-size: 12px; }
+  .level-tag { font-size: 12px; }
+  .flip-hint, .flip-hint kbd { font-size: 12px; }
+  .translations .lang { font-size: 12px; }
+  .wc-lvl, .wc-cat, .mini-link { font-size: 12px; }
+  .chip small { font-size: 12px; }
+  /* The dictionary link in a word card is 38x15 of ink. The negative margin
+     keeps the card the same height while the finger gets its 44px. */
+  .mini-link {
+    display: inline-flex; align-items: center; justify-content: flex-end;
+    min-height: 44px; min-width: 44px; margin: -12px -6px -12px 0; padding: 0 6px;
+  }
+  .res-tag { font-size: 12px; }
+  .box-lab { font-size: 12px; }
+}
 @media (prefers-reduced-motion: reduce) {
   .flashcard-inner { transition: none; }
   * { animation: none !important; }
