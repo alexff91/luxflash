@@ -3,9 +3,44 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="LuxFlash — a free, open-source flashcard app to learn Luxembourgish (Lëtzebuergesch). Spaced repetition, 2000+ words with example sentences, levels A1–B2, progress saved in your browser." />
+<meta name="description" content="A free flashcard app for Luxembourgish: 2,404 words from A1 to B2, each with a part of speech, an example sentence and English, German and French translations. Leitner spaced repetition, progress kept in your browser." />
 <meta name="theme-color" content="#00a1de" />
-<title>LuxFlash · Learn Luxembourgish with flashcards</title>
+<title>LuxFlash · Learn Luxembourgish with 2,404 flashcards</title>
+<link rel="canonical" href="https://luxflash.alftech.space/" />
+<meta name="robots" content="index, follow" />
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="alftech" />
+<meta property="og:title" content="LuxFlash · Learn Luxembourgish with 2,404 flashcards" />
+<meta property="og:description" content="2,404 words from A1 to B2, each with an example sentence and English, German and French translations. What you know comes back less often; what you forget comes back sooner. No account." />
+<meta property="og:url" content="https://luxflash.alftech.space/" />
+<meta property="og:image" content="https://luxflash.alftech.space/og.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="LuxFlash: a Luxembourgish flashcard with its example sentence, and the A1 to B2 level counts." />
+<meta property="og:locale" content="en_US" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="LuxFlash · Learn Luxembourgish with 2,404 flashcards" />
+<meta name="twitter:description" content="2,404 Luxembourgish words A1–B2 with example sentences and audio links to lod.lu. Spaced repetition, progress stays in your browser." />
+<meta name="twitter:image" content="https://luxflash.alftech.space/og.png" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "LuxFlash",
+  "url": "https://luxflash.alftech.space/",
+  "description": "A free, open-source flashcard app for Luxembourgish (Lëtzebuergesch). 2,404 words graded A1 to B2, each with a part of speech, a Luxembourgish example sentence and English, German and French translations. Scheduling is a Leitner system, and progress is kept in the browser rather than on a server.",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "Any (web browser)",
+  "inLanguage": "en",
+  "teaches": "Luxembourgish (Lëtzebuergesch)",
+  "isAccessibleForFree": true,
+  "license": "https://github.com/alexff91/luxflash/blob/main/LICENSE",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }
+}
+</script>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='33.3' y='0' fill='%23ED2939'/%3E%3Crect width='100' height='33.4' y='33.3' fill='%23fff'/%3E%3Crect width='100' height='33.3' y='66.7' fill='%2300A1DE'/%3E%3C/svg%3E" />
 <link rel="stylesheet" href="assets/css/styles.css" />
 </head>
@@ -182,6 +217,55 @@
     </div>
   </section>
 </main>
+
+<!-- What the deck actually is. Sits under the app on every tab: the tool's own
+     text lives inside tab panels that are display:none until you open them, so
+     a search engine and a chat link preview had the chrome and none of the
+     substance. Numbers here come from data/words.json, not from memory. -->
+<footer class="about" id="about">
+  <h2>Luxembourgish, 2,404 words at a time</h2>
+  <p>
+    People usually come to Luxembourgish for one reason — the Sproochentest — and
+    find there is very little to study from. LuxFlash is a deck of
+    <strong>2,404 words</strong> graded A1 to B2: 478 at A1, 814 at A2, 819 at B1
+    and 293 at B2. Pick the levels you want and work through them a card at a time.
+  </p>
+  <p>
+    Scheduling is a Leitner system with six boxes. A card you get right moves up a
+    box and comes back later — after 1, 2, 4, 8 and finally 16 days — while a card
+    you miss drops to the first box and comes round again in the same session. So
+    what you already know stops taking up your time, and what you keep forgetting
+    keeps showing up.
+  </p>
+
+  <h3>What is on a card</h3>
+  <ul>
+    <li>The Luxembourgish word, its part of speech and, for nouns, its gender.</li>
+    <li>An example sentence in Luxembourgish with an English translation — all 2,404 have one.</li>
+    <li>English, German and French translations, so you can lean on whichever you already read.</li>
+    <li>A link straight to the entry in <a href="https://lod.lu" target="_blank" rel="noopener">lod.lu</a>, the state dictionary, where the recordings and the full declensions live.</li>
+    <li>Words are tagged by topic — 104 of them, from <em>body</em> and <em>food</em> to <em>administration</em> — and the Browse tab searches across word, meaning and example.</li>
+  </ul>
+
+  <h3>Who it is for</h3>
+  <p>
+    Anyone building Luxembourgish vocabulary from scratch or keeping it warm:
+    residents preparing for the Sproochentest, newcomers who want to follow a
+    conversation at the crèche or the commune, and anyone who has tried to find a
+    Luxembourgish textbook and come up short. Study in reverse (English to
+    Luxembourgish) once recognition is easy.
+  </p>
+
+  <h3>What it does not do</h3>
+  <p>
+    No account, no sign-up, no server: your progress is stored in this browser and
+    you move it to another device by exporting a JSON file and importing it there.
+    The vocabulary is community-maintained, so spelling, gender and declensions are
+    worth checking against lod.lu — every card links to it. LuxFlash is free and
+    open source under the MIT licence; corrections go to the
+    <a href="https://github.com/alexff91/luxflash" target="_blank" rel="noopener">repository</a>.
+  </p>
+</footer>
 
 <div id="toast" class="toast" hidden></div>
 

@@ -308,3 +308,23 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(16px, 3vw, 30px); 
   .flashcard-inner { transition: none; }
   * { animation: none !important; }
 }
+
+/* ---------- About (static, under the app) ----------
+   Deliberately outside the tab panels: those are display:none until you open
+   them, so a crawler or a chat link preview saw the navigation and nothing
+   about the deck. Kept quiet enough not to compete with the study card. */
+.about {
+  max-width: var(--maxw);
+  margin: 8px auto 0;
+  padding: 28px clamp(16px, 3vw, 30px) 56px;
+  border-top: 1px solid var(--border);
+  color: var(--text-soft);
+  font-size: .95rem;
+  line-height: 1.65;
+}
+.about h2 { margin: 0 0 14px; font-size: 1.15rem; color: var(--text); }
+.about h3 { margin: 26px 0 10px; font-size: .95rem; color: var(--text); }
+.about p { margin: 0 0 14px; }
+.about strong { color: var(--text); }
+.about ul { margin: 0 0 14px; padding-left: 20px; }
+.about li { margin-bottom: 8px; }
