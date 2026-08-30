@@ -14,8 +14,9 @@ across CEFR levels **A1 → B2**, each with an **example sentence**, German &
 French glosses, and a **direct link to the official [Lëtzebuerger Online
 Dictionnaire (lod.lu)](https://lod.lu)** for audio, gender and full declensions.
 
-Your progress is saved locally (browser `localStorage`) and you can **download
-or upload a JSON backup** to move between devices.
+Your progress is saved locally (browser `localStorage`, flushed on tab close and
+protected with persistent storage where the browser allows it) and you can
+**download or upload a JSON backup** to move between devices.
 
 ---
 
@@ -33,8 +34,9 @@ or upload a JSON backup** to move between devices.
   verb tenses, word order, the Eifeler Regel, numbers, questions…).
 - **Resources tab** — curated links to keep learning (Luxembourgish with Anne,
   LOD, RTL, ZLS and more). LuxFlash links to these, it doesn't reproduce them.
-- **Native pronunciation** — plays the real LOD recording when a word has a
-  `lodId` (open CC0 audio from lod.lu), falling back to the browser speech engine.
+- **Native pronunciation** — 1800+ words play the real native recording from
+  lod.lu (open CC0 audio, verified against the official LOD open-data dump),
+  with optional auto-play and a browser-speech fallback for the rest.
 - **lod.lu integration** — every card and list entry deep-links to LOD so you can
   verify spelling, hear the pronunciation and see the full grammar.
 - **Progress dashboard** — words learned, due today, day-streak, per-level bars,
@@ -52,6 +54,7 @@ or upload a JSON backup** to move between devices.
 | --- | --- |
 | `Space` | Flip card |
 | `1` `2` `3` `4` | Grade: Again / Hard / Good / Easy |
+| `P` | Play the pronunciation |
 
 ## 🚀 Run it locally
 
@@ -117,9 +120,14 @@ LOD entry id. To wire real recordings to LuxFlash words, run (on a machine that
 can reach `lod.lu` / `data.public.lu`):
 
 ```bash
-python3 scripts/fetch_lod_audio.py    # adds "lodId" to data/chunks/*.json
-python3 scripts/build_data.py         # rebuild data/words.js
+python3 scripts/fetch_lod_audio.py --verify   # match words + HEAD-check audio, writes "lodId"
+python3 scripts/build_data.py                 # rebuild data/words.js
 ```
+
+The script auto-discovers the newest LOD dump via the data.public.lu API,
+matches headwords part-of-speech-aware, and (with `--verify`) keeps only ids
+whose audio file actually exists. Use `--local file.zip` to reuse a downloaded
+dump and `--force` to re-match existing ids.
 
 The 🔊 button then plays the native recording, and falls back to the browser's
 speech engine for any word without a match. The per-word **LOD ↗** link always

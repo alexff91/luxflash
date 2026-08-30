@@ -69,6 +69,23 @@
     if (name === "stats") renderStats();
     if (name === "grammar") renderGrammar();
     if (name === "resources") renderResources();
+    if (name === "settings") renderStorageStatus();
+  }
+
+  function renderStorageStatus() {
+    var el = $("#storageStatus");
+    if (!el) return;
+    if (!LFStore.available) {
+      el.innerHTML = "⚠️ <b>Saving is blocked in this browser</b> (private window or storage disabled). " +
+        "Your progress will be lost when you close this tab — export a backup below.";
+      el.style.color = "var(--again)";
+      return;
+    }
+    var n = Object.keys(LFStore.state.cards).length;
+    var txt = "✓ Autosave is on — " + n + " card" + (n === 1 ? "" : "s") + " tracked in this browser.";
+    if (LFStore.persisted === true) txt += " Persistent storage granted: the browser won't evict it.";
+    el.textContent = txt;
+    el.style.color = "var(--good)";
   }
 
   /* ---------- theme ---------- */
@@ -199,6 +216,12 @@
       $("#backExample").innerHTML = boldWord(w.ex_lb, w.lb);
     }
 
+    // audio: hide the front button when the front shows English (reverse mode)
+    $("#frontAudio").hidden = reverse;
+    preloadAudio(w);
+    // auto-play when the Luxembourgish word is visible from the start
+    if (!reverse && LFStore.settings().autoplay) playAudio(w, true);
+
     // grade hints
     var pv = LFsrs.preview(LFStore.getCard(w.id));
     $("#gtHard").textContent = pv.hard; $("#gtGood").textContent = pv.good; $("#gtEasy").textContent = pv.easy;
@@ -229,6 +252,8 @@
     flipped = !flipped;
     elFlashcard.classList.toggle("flipped", flipped);
     showGradeBar(flipped);
+    // reverse mode: the Luxembourgish answer appears on flip — auto-play it here
+    if (flipped && LFStore.settings().reverse && LFStore.settings().autoplay) playAudio(current, true);
   }
 
   elFlashcard.addEventListener("click", flip);
@@ -254,6 +279,7 @@
     if (/^(input|textarea|select)$/i.test(e.target.tagName)) return;
     if (!$("#view-study").classList.contains("is-active")) return;
     if (e.key === " ") { e.preventDefault(); flip(); return; }
+    if (e.key === "p" || e.key === "P") { if (current) playAudio(current); return; }
     if (flipped) {
       if (e.key === "1") gradeCurrent("again");
       else if (e.key === "2") gradeCurrent("hard");
@@ -264,6 +290,9 @@
 
   $("#reverseMode").addEventListener("change", function (e) {
     LFStore.setSettings({ reverse: e.target.checked }); render();
+  });
+  $("#autoPlay").addEventListener("change", function (e) {
+    LFStore.setSettings({ autoplay: e.target.checked });
   });
   $("#studyAnywayBtn").addEventListener("click", function () {
     studyAhead = true; buildSession(); nextCard();
@@ -301,21 +330,54 @@
     return ["https://lod.lu/uploads/OGG/" + id + ".ogg",
             "https://lod.lu/uploads/AAC/" + id + ".m4a"];
   }
-  function playAudio(word) {
+
+  // Keep a tiny cache of preloaded Audio elements so the 🔊 tap is instant.
+  var audioCache = {};
+  var audioCacheOrder = [];
+  function preloadAudio(word) {
+    if (!word || !word.lodId || audioCache[word.lodId]) return;
+    var a = new Audio();
+    a.preload = "auto";
+    a.src = lodAudioURLs(word.lodId)[0];
+    audioCache[word.lodId] = a;
+    audioCacheOrder.push(word.lodId);
+    if (audioCacheOrder.length > 20) delete audioCache[audioCacheOrder.shift()];
+  }
+
+  function markPlaying(on) {
+    $$(".face-audio").forEach(function (b) { b.classList.toggle("playing", on); });
+  }
+  function playAudio(word, quiet) {
     if (!word) return;
     if (word.lodId) {
       var urls = lodAudioURLs(word.lodId), i = 0;
-      var a = new Audio();
-      a.onerror = function () { i++; if (i < urls.length) { a.src = urls[i]; a.play().catch(function () { speakWord(word.lb); }); } else speakWord(word.lb); };
-      a.src = urls[0];
-      a.play().catch(function () { a.onerror(); });
+      var a = audioCache[word.lodId] || new Audio();
+      if (!a.src) a.src = urls[0];
+      var fallback = function () {
+        i++;
+        if (i < urls.length) { a = new Audio(); a.src = urls[i]; hook(a); a.play().catch(done); }
+        else if (!quiet) speakWord(word.lb);
+      };
+      var done = function () { markPlaying(false); };
+      var hook = function (el) {
+        el.onerror = fallback;
+        el.onended = done; el.onpause = done;
+      };
+      hook(a);
+      a.currentTime = 0;
+      markPlaying(true);
+      a.play().then(null, function () { markPlaying(false); if (!quiet) speakWord(word.lb); });
       return;
     }
-    speakWord(word.lb);
+    if (!quiet) speakWord(word.lb);
   }
-  $("#speakBtn").addEventListener("click", function (e) {
-    e.stopPropagation();
-    if (current) playAudio(current);
+  ["speakBtn", "frontAudio", "backAudio"].forEach(function (id) {
+    var el = $("#" + id);
+    if (!el) return;
+    el.addEventListener("click", function (e) {
+      e.stopPropagation();
+      if (current) playAudio(current);
+    });
   });
 
   /* ---------- grammar ---------- */
@@ -362,7 +424,19 @@
     { name: "lod-anki (open source)", url: "https://github.com/brunopacheco1/lod-anki", tag: "Anki decks",
       desc: "Community project that turns LOD content (with audio) into Anki flashcards — handy if you also use Anki." },
     { name: "Sproochentest — naturalisation test", url: "https://www.sproochentest.lu/", tag: "Exam",
-      desc: "Official information about the spoken Luxembourgish test required for citizenship." }
+      desc: "Official information about the spoken Luxembourgish test required for citizenship." },
+    { name: "LLO.lu — Lëtzebuergesch Léieren Online", url: "https://www.llo.lu/", tag: "Free official courses",
+      desc: "The government's free e-learning platform (by the INL): full CEFR-structured courses A1–B2 with audio, speech-recognition exercises and live conversation tables." },
+    { name: "INL — Institut National des Langues", url: "https://www.inll.lu/", tag: "Classes & exams",
+      desc: "Luxembourg's national language institute: in-person and online Luxembourgish classes, plus the official language certifications." },
+    { name: "Spellchecker.lu", url: "https://spellchecker.lu/", tag: "Writing tool",
+      desc: "Free Luxembourgish spelling and grammar checker — paste any text and correct it; also ships browser add-ons and office plugins." },
+    { name: "Radio 100,7", url: "https://www.100komma7.lu/", tag: "Listening",
+      desc: "Luxembourg's public radio, entirely in Luxembourgish — clear, calm speech that's great listening practice from B1." },
+    { name: "Lëtzebuergesch Wikipedia", url: "https://lb.wikipedia.org/", tag: "Reading",
+      desc: "Thousands of articles written in Luxembourgish — pick a topic you know well and read it in Lëtzebuergesch." },
+    { name: "Learn Luxembourgish (Liz Wenger)", url: "https://learnluxembourgish.com/", tag: "Courses · Vocabulary",
+      desc: "Online courses, vocabulary lists and learning tips from a certified Luxembourgish teacher." }
   ];
   function renderResources() {
     var host = $("#resGrid");
@@ -506,6 +580,7 @@
   function refreshFromStore() {
     refreshChips();
     $("#reverseMode").checked = !!LFStore.settings().reverse;
+    $("#autoPlay").checked = !!LFStore.settings().autoplay;
     newLimit.value = LFStore.settings().newPerSession;
     $("#newLimitVal").textContent = newLimit.value;
     studyAhead = false; buildSession(); nextCard();
@@ -521,8 +596,12 @@
     }
     refreshChips();
     $("#reverseMode").checked = !!LFStore.settings().reverse;
+    $("#autoPlay").checked = !!LFStore.settings().autoplay;
     buildSession();
     nextCard();
+    if (!LFStore.available) {
+      toast("⚠️ Progress can't be saved in this browser (private mode?)");
+    }
   }
   boot();
 })();

@@ -9,7 +9,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Mir reesen am Summer op Italien.",
-  "ex_en": "We travel to Italy in summer."
+  "ex_en": "We travel to Italy in summer.",
+  "lodId": "REESEN1"
  },
  {
   "lb": "d'Rees",
@@ -21,7 +22,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "D'Rees war ganz schéin.",
-  "ex_en": "The trip was very nice."
+  "ex_en": "The trip was very nice.",
+  "lodId": "REES1"
  },
  {
   "lb": "d'Vakanz",
@@ -33,7 +35,8 @@
   "level": "A1",
   "category": "travel",
   "ex_lb": "Mir fueren an d'Vakanz.",
-  "ex_en": "We are going on holiday."
+  "ex_en": "We are going on holiday.",
+  "lodId": "VAKANZ1"
  },
  {
   "lb": "de Fluch",
@@ -45,7 +48,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "De Fluch dauert zwou Stonnen.",
-  "ex_en": "The flight lasts two hours."
+  "ex_en": "The flight lasts two hours.",
+  "lodId": "FLUCH1"
  },
  {
   "lb": "de Pass",
@@ -57,7 +61,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Ech hunn mäi Pass vergiess.",
-  "ex_en": "I forgot my passport."
+  "ex_en": "I forgot my passport.",
+  "lodId": "PASS1"
  },
  {
   "lb": "d'Bagage",
@@ -69,7 +74,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Meng Bagage ass ze schwéier.",
-  "ex_en": "My luggage is too heavy."
+  "ex_en": "My luggage is too heavy.",
+  "lodId": "BAGAGE1"
  },
  {
   "lb": "de Koffer",
@@ -81,7 +87,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Ech packen de Koffer.",
-  "ex_en": "I am packing the suitcase."
+  "ex_en": "I am packing the suitcase.",
+  "lodId": "KOFFER1"
  },
  {
   "lb": "de Rucksak",
@@ -93,7 +100,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Mäi Rucksak ass voll.",
-  "ex_en": "My backpack is full."
+  "ex_en": "My backpack is full.",
+  "lodId": "RUCKSAK1"
  },
  {
   "lb": "d'Tickett",
@@ -117,7 +125,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Ech wëll en Zëmmer reservéieren.",
-  "ex_en": "I want to book a room."
+  "ex_en": "I want to book a room.",
+  "lodId": "RESERVEIEREN1"
  },
  {
   "lb": "de Tourist",
@@ -129,7 +138,8 @@
   "level": "A2",
   "category": "tourism",
   "ex_lb": "Vill Touristen kommen op Lëtzebuerg.",
-  "ex_en": "Many tourists come to Luxembourg."
+  "ex_en": "Many tourists come to Luxembourg.",
+  "lodId": "TOURIST1"
  },
  {
   "lb": "den Tourismus",
@@ -141,7 +151,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "Den Tourismus ass wichteg fir d'Land.",
-  "ex_en": "Tourism is important for the country."
+  "ex_en": "Tourism is important for the country.",
+  "lodId": "TOURISMUS1"
  },
  {
   "lb": "de Guide",
@@ -153,7 +164,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "De Guide weist eis d'Stad.",
-  "ex_en": "The guide shows us the city."
+  "ex_en": "The guide shows us the city.",
+  "lodId": "GUIDE1"
  },
  {
   "lb": "d'Visitt",
@@ -165,7 +177,8 @@
   "level": "A2",
   "category": "tourism",
   "ex_lb": "D'Visitt vum Schlass war interessant.",
-  "ex_en": "The visit of the castle was interesting."
+  "ex_en": "The visit of the castle was interesting.",
+  "lodId": "VISITT1"
  },
  {
   "lb": "besichtegen",
@@ -177,7 +190,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "Mir besichtegen de Musée.",
-  "ex_en": "We are visiting the museum."
+  "ex_en": "We are visiting the museum.",
+  "lodId": "BESICHTEGEN1"
  },
  {
   "lb": "de Souvenir",
@@ -189,7 +203,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "Ech kafen e Souvenir fir meng Mamm.",
-  "ex_en": "I buy a souvenir for my mum."
+  "ex_en": "I buy a souvenir for my mum.",
+  "lodId": "SOUVENIR1"
  },
  {
   "lb": "de Foto",
@@ -201,7 +216,8 @@
   "level": "A1",
   "category": "tourism",
   "ex_lb": "Maach e Foto vun der Bréck.",
-  "ex_en": "Take a photo of the bridge."
+  "ex_en": "Take a photo of the bridge.",
+  "lodId": "FOTO1"
  },
  {
   "lb": "d'Kamera",
@@ -213,7 +229,8 @@
   "level": "A2",
   "category": "tourism",
   "ex_lb": "Meng Kamera ass nei.",
-  "ex_en": "My camera is new."
+  "ex_en": "My camera is new.",
+  "lodId": "KAMERA1"
  },
  {
   "lb": "d'Plage",
@@ -225,7 +242,8 @@
   "level": "A2",
   "category": "tourism",
   "ex_lb": "Mir ginn op d'Plage.",
-  "ex_en": "We are going to the beach."
+  "ex_en": "We are going to the beach.",
+  "lodId": "PLAGE1"
  },
  {
   "lb": "d'Mier",
@@ -237,7 +255,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "D'Mier ass blo a roueg.",
-  "ex_en": "The sea is blue and calm."
+  "ex_en": "The sea is blue and calm.",
+  "lodId": "MIER1"
  },
  {
   "lb": "de Séi",
@@ -249,7 +268,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Mir schwammen am Séi.",
-  "ex_en": "We swim in the lake."
+  "ex_en": "We swim in the lake.",
+  "lodId": "SEI1"
  },
  {
   "lb": "de Bierg",
@@ -261,7 +281,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "De Bierg ass héich.",
-  "ex_en": "The mountain is high."
+  "ex_en": "The mountain is high.",
+  "lodId": "BIERG1"
  },
  {
   "lb": "de Floss",
@@ -273,7 +294,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "De Floss leeft duerch d'Stad.",
-  "ex_en": "The river flows through the city."
+  "ex_en": "The river flows through the city.",
+  "lodId": "FLOSS1"
  },
  {
   "lb": "de Bësch",
@@ -285,7 +307,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Mir spadséieren am Bësch.",
-  "ex_en": "We walk in the forest."
+  "ex_en": "We walk in the forest.",
+  "lodId": "BESCH1"
  },
  {
   "lb": "d'Land",
@@ -297,7 +320,8 @@
   "level": "A1",
   "category": "geography",
   "ex_lb": "Lëtzebuerg ass e klengt Land.",
-  "ex_en": "Luxembourg is a small country."
+  "ex_en": "Luxembourg is a small country.",
+  "lodId": "LAND1"
  },
  {
   "lb": "d'Insel",
@@ -309,7 +333,8 @@
   "level": "B1",
   "category": "geography",
   "ex_lb": "D'Insel läit am Mier.",
-  "ex_en": "The island lies in the sea."
+  "ex_en": "The island lies in the sea.",
+  "lodId": "INSEL1"
  },
  {
   "lb": "d'Wüst",
@@ -321,7 +346,8 @@
   "level": "B2",
   "category": "geography",
   "ex_lb": "D'Wüst ass ganz waarm.",
-  "ex_en": "The desert is very hot."
+  "ex_en": "The desert is very hot.",
+  "lodId": "WUST1"
  },
  {
   "lb": "d'Natur",
@@ -333,7 +359,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Ech hunn d'Natur gär.",
-  "ex_en": "I like nature."
+  "ex_en": "I like nature.",
+  "lodId": "NATUR1"
  },
  {
   "lb": "d'Landschaft",
@@ -345,7 +372,8 @@
   "level": "B1",
   "category": "geography",
   "ex_lb": "D'Landschaft ass wonnerschéin.",
-  "ex_en": "The landscape is wonderful."
+  "ex_en": "The landscape is wonderful.",
+  "lodId": "LANDSCHAFT1"
  },
  {
   "lb": "d'Grenz",
@@ -357,7 +385,8 @@
   "level": "B1",
   "category": "geography",
   "ex_lb": "Mir fueren iwwer d'Grenz.",
-  "ex_en": "We drive across the border."
+  "ex_en": "We drive across the border.",
+  "lodId": "GRENZ1"
  },
  {
   "lb": "de Bus",
@@ -369,7 +398,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Ech huelen de Bus an d'Schoul.",
-  "ex_en": "I take the bus to school."
+  "ex_en": "I take the bus to school.",
+  "lodId": "BUS1"
  },
  {
   "lb": "den Zuch",
@@ -381,7 +411,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Den Zuch fiert um aacht Auer.",
-  "ex_en": "The train leaves at eight o'clock."
+  "ex_en": "The train leaves at eight o'clock.",
+  "lodId": "ZUCH1"
  },
  {
   "lb": "d'Tram",
@@ -393,7 +424,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "D'Tram fiert duerch d'Stad.",
-  "ex_en": "The tram goes through the city."
+  "ex_en": "The tram goes through the city.",
+  "lodId": "TRAM1"
  },
  {
   "lb": "den Auto",
@@ -405,7 +437,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Mäin Auto ass rout.",
-  "ex_en": "My car is red."
+  "ex_en": "My car is red.",
+  "lodId": "AUTO1"
  },
  {
   "lb": "de Camion",
@@ -417,7 +450,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "De Camion ass ganz grouss.",
-  "ex_en": "The truck is very big."
+  "ex_en": "The truck is very big.",
+  "lodId": "CAMION1"
  },
  {
   "lb": "d'Vëlo",
@@ -429,7 +463,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Ech fueren mam Vëlo op d'Aarbecht.",
-  "ex_en": "I ride my bike to work."
+  "ex_en": "I ride my bike to work.",
+  "lodId": "VELO1"
  },
  {
   "lb": "de Moto",
@@ -441,7 +476,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Hie fiert e séiere Moto.",
-  "ex_en": "He rides a fast motorbike."
+  "ex_en": "He rides a fast motorbike.",
+  "lodId": "MOTO1"
  },
  {
   "lb": "de Fliger",
@@ -453,7 +489,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "De Fliger fléit héich.",
-  "ex_en": "The plane flies high."
+  "ex_en": "The plane flies high.",
+  "lodId": "FLIGER1"
  },
  {
   "lb": "de Boot",
@@ -465,7 +502,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Mir fueren mam Boot.",
-  "ex_en": "We go by boat."
+  "ex_en": "We go by boat.",
+  "lodId": "BOOT1"
  },
  {
   "lb": "d'Schëff",
@@ -477,7 +515,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "D'Schëff fiert op England.",
-  "ex_en": "The ship sails to England."
+  "ex_en": "The ship sails to England.",
+  "lodId": "SCHEFF1"
  },
  {
   "lb": "den Taxi",
@@ -489,7 +528,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Ech ruffen en Taxi.",
-  "ex_en": "I call a taxi."
+  "ex_en": "I call a taxi.",
+  "lodId": "TAXI1"
  },
  {
   "lb": "de Métro",
@@ -513,7 +553,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Ech fueren an d'Stad.",
-  "ex_en": "I drive into town."
+  "ex_en": "I drive into town.",
+  "lodId": "FUEREN1"
  },
  {
   "lb": "fléien",
@@ -525,7 +566,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Mir fléien op New York.",
-  "ex_en": "We fly to New York."
+  "ex_en": "We fly to New York.",
+  "lodId": "FLEIEN1"
  },
  {
   "lb": "goen",
@@ -537,7 +579,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Ech ginn zu Fouss.",
-  "ex_en": "I go on foot."
+  "ex_en": "I go on foot.",
+  "lodId": "GOEN1"
  },
  {
   "lb": "klamen",
@@ -597,7 +640,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "D'Gare ass am Zentrum.",
-  "ex_en": "The station is in the centre."
+  "ex_en": "The station is in the centre.",
+  "lodId": "GARE1"
  },
  {
   "lb": "de Quai",
@@ -609,7 +653,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Den Zuch steet um Quai dräi.",
-  "ex_en": "The train is on platform three."
+  "ex_en": "The train is on platform three.",
+  "lodId": "QUAI1"
  },
  {
   "lb": "d'Statioun",
@@ -621,7 +666,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Déi nächst Statioun ass Lëmpertsbierg.",
-  "ex_en": "The next stop is Limpertsberg."
+  "ex_en": "The next stop is Limpertsberg.",
+  "lodId": "STATIOUN1"
  },
  {
   "lb": "de Fluchhafen",
@@ -633,7 +679,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "De Fluchhafen ass zu Findel.",
-  "ex_en": "The airport is in Findel."
+  "ex_en": "The airport is in Findel.",
+  "lodId": "FLUCHHAFEN1"
  },
  {
   "lb": "de Parking",
@@ -645,7 +692,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "De Parking ass voll.",
-  "ex_en": "The car park is full."
+  "ex_en": "The car park is full.",
+  "lodId": "PARKING1"
  },
  {
   "lb": "parken",
@@ -657,7 +705,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Ech parken den Auto hei.",
-  "ex_en": "I park the car here."
+  "ex_en": "I park the car here.",
+  "lodId": "PARKEN1"
  },
  {
   "lb": "d'Tankstell",
@@ -669,7 +718,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Mir halen un der Tankstell.",
-  "ex_en": "We stop at the petrol station."
+  "ex_en": "We stop at the petrol station.",
+  "lodId": "TANKSTELL1"
  },
  {
   "lb": "tanken",
@@ -681,7 +731,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Ech muss tanken.",
-  "ex_en": "I have to refuel."
+  "ex_en": "I have to refuel.",
+  "lodId": "TANKEN1"
  },
  {
   "lb": "d'Strooss",
@@ -693,7 +744,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Ech wunnen an dëser Strooss.",
-  "ex_en": "I live on this street."
+  "ex_en": "I live on this street.",
+  "lodId": "STROOSS1"
  },
  {
   "lb": "den Trottoir",
@@ -705,7 +757,8 @@
   "level": "B1",
   "category": "directions",
   "ex_lb": "Geet op den Trottoir.",
-  "ex_en": "Walk on the pavement."
+  "ex_en": "Walk on the pavement.",
+  "lodId": "TROTTOIR1"
  },
  {
   "lb": "d'Autobunn",
@@ -717,7 +770,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "D'Autobunn ass séier.",
-  "ex_en": "The motorway is fast."
+  "ex_en": "The motorway is fast.",
+  "lodId": "AUTOBUNN1"
  },
  {
   "lb": "de Wee",
@@ -729,7 +783,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Ech weisen dir de Wee.",
-  "ex_en": "I show you the way."
+  "ex_en": "I show you the way.",
+  "lodId": "WEE1"
  },
  {
   "lb": "d'Kräizung",
@@ -741,7 +796,8 @@
   "level": "B1",
   "category": "directions",
   "ex_lb": "Bei der Kräizung lénks ofbéien.",
-  "ex_en": "Turn left at the crossroads."
+  "ex_en": "Turn left at the crossroads.",
+  "lodId": "KRAIZUNG1"
  },
  {
   "lb": "den Eck",
@@ -753,7 +809,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "D'Geschäft ass um Eck.",
-  "ex_en": "The shop is on the corner."
+  "ex_en": "The shop is on the corner.",
+  "lodId": "ECK1"
  },
  {
   "lb": "d'Ampel",
@@ -777,7 +834,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Béi lénks of.",
-  "ex_en": "Turn left."
+  "ex_en": "Turn left.",
+  "lodId": "LENKS2"
  },
  {
   "lb": "riets",
@@ -789,7 +847,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Géi riets.",
-  "ex_en": "Go right."
+  "ex_en": "Go right.",
+  "lodId": "RIETS2"
  },
  {
   "lb": "riicht",
@@ -801,7 +860,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Géi riicht aus.",
-  "ex_en": "Go straight ahead."
+  "ex_en": "Go straight ahead.",
+  "lodId": "RIICHT2"
  },
  {
   "lb": "erëm",
@@ -813,7 +873,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Géi e bëssen erëm.",
-  "ex_en": "Go back a little."
+  "ex_en": "Go back a little.",
+  "lodId": "EREM1"
  },
  {
   "lb": "no",
@@ -825,7 +886,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Mir fueren no Tréier.",
-  "ex_en": "We are going to Trier."
+  "ex_en": "We are going to Trier.",
+  "lodId": "NO1"
  },
  {
   "lb": "bei",
@@ -837,7 +899,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "D'Bank ass bei der Post.",
-  "ex_en": "The bank is near the post office."
+  "ex_en": "The bank is near the post office.",
+  "lodId": "BEI2"
  },
  {
   "lb": "niewent",
@@ -849,7 +912,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "D'Apdikt ass niewent dem Café.",
-  "ex_en": "The pharmacy is next to the café."
+  "ex_en": "The pharmacy is next to the café.",
+  "lodId": "NIEWENT1"
  },
  {
   "lb": "géintiwwer",
@@ -861,7 +925,8 @@
   "level": "B1",
   "category": "directions",
   "ex_lb": "D'Kierch ass géintiwwer dem Hotel.",
-  "ex_en": "The church is opposite the hotel."
+  "ex_en": "The church is opposite the hotel.",
+  "lodId": "GEINTIWWER1"
  },
  {
   "lb": "hannert",
@@ -873,7 +938,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "De Parking ass hannert dem Haus.",
-  "ex_en": "The car park is behind the house."
+  "ex_en": "The car park is behind the house.",
+  "lodId": "HANNERT1"
  },
  {
   "lb": "virun",
@@ -885,7 +951,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Ech waarden virun der Gare.",
-  "ex_en": "I wait in front of the station."
+  "ex_en": "I wait in front of the station.",
+  "lodId": "VIRUN1"
  },
  {
   "lb": "tëschent",
@@ -897,7 +964,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "D'Schoul ass tëschent zwou Stroossen.",
-  "ex_en": "The school is between two streets."
+  "ex_en": "The school is between two streets.",
+  "lodId": "TESCHENT1"
  },
  {
   "lb": "no bei",
@@ -921,7 +989,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Ass et nach wäit?",
-  "ex_en": "Is it still far?"
+  "ex_en": "Is it still far?",
+  "lodId": "WAIT2"
  },
  {
   "lb": "ofbéien",
@@ -933,7 +1002,8 @@
   "level": "B1",
   "category": "directions",
   "ex_lb": "Béi an déi éischt Strooss of.",
-  "ex_en": "Turn into the first street."
+  "ex_en": "Turn into the first street.",
+  "lodId": "OFBEIEN1"
  },
  {
   "lb": "weisen",
@@ -945,7 +1015,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Kënnt Dir mir de Wee weisen?",
-  "ex_en": "Can you show me the way?"
+  "ex_en": "Can you show me the way?",
+  "lodId": "WEISEN1"
  },
  {
   "lb": "sichen",
@@ -957,7 +1028,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Ech sichen d'Gare.",
-  "ex_en": "I am looking for the station."
+  "ex_en": "I am looking for the station.",
+  "lodId": "SICHEN1"
  },
  {
   "lb": "de Plang",
@@ -969,7 +1041,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Ech kucken op de Plang.",
-  "ex_en": "I look at the map."
+  "ex_en": "I look at the map.",
+  "lodId": "PLANG1"
  },
  {
   "lb": "d'Kaart",
@@ -981,7 +1054,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Hutt Dir eng Kaart vun der Stad?",
-  "ex_en": "Do you have a map of the city?"
+  "ex_en": "Do you have a map of the city?",
+  "lodId": "KAART1"
  },
  {
   "lb": "d'Adress",
@@ -993,7 +1067,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Wéi ass Är Adress?",
-  "ex_en": "What is your address?"
+  "ex_en": "What is your address?",
+  "lodId": "ADRESS1"
  },
  {
   "lb": "d'Richtung",
@@ -1005,7 +1080,8 @@
   "level": "B1",
   "category": "directions",
   "ex_lb": "An wéi enger Richtung ass d'Gare?",
-  "ex_en": "In which direction is the station?"
+  "ex_en": "In which direction is the station?",
+  "lodId": "RICHTUNG1"
  },
  {
   "lb": "de Kilometer",
@@ -1017,7 +1093,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Et sinn dräi Kilometer.",
-  "ex_en": "It is three kilometres."
+  "ex_en": "It is three kilometres.",
+  "lodId": "KILOMETER1"
  },
  {
   "lb": "d'Stad",
@@ -1029,7 +1106,8 @@
   "level": "A1",
   "category": "city",
   "ex_lb": "Ech wunnen an der Stad.",
-  "ex_en": "I live in the city."
+  "ex_en": "I live in the city.",
+  "lodId": "STAD1"
  },
  {
   "lb": "d'Duerf",
@@ -1041,7 +1119,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Mäin Duerf ass kleng.",
-  "ex_en": "My village is small."
+  "ex_en": "My village is small.",
+  "lodId": "DUERF1"
  },
  {
   "lb": "d'Zentrum",
@@ -1053,7 +1132,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "D'Geschäfter sinn am Zentrum.",
-  "ex_en": "The shops are in the centre."
+  "ex_en": "The shops are in the centre.",
+  "lodId": "ZENTRUM1"
  },
  {
   "lb": "de Quartier",
@@ -1065,7 +1145,8 @@
   "level": "B1",
   "category": "city",
   "ex_lb": "Mäi Quartier ass roueg.",
-  "ex_en": "My neighbourhood is quiet."
+  "ex_en": "My neighbourhood is quiet.",
+  "lodId": "QUARTIER1"
  },
  {
   "lb": "de Maart",
@@ -1077,7 +1158,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Ech kafen Uebst um Maart.",
-  "ex_en": "I buy fruit at the market."
+  "ex_en": "I buy fruit at the market.",
+  "lodId": "MAART1"
  },
  {
   "lb": "de Park",
@@ -1089,7 +1171,8 @@
   "level": "A1",
   "category": "city",
   "ex_lb": "D'Kanner spillen am Park.",
-  "ex_en": "The children play in the park."
+  "ex_en": "The children play in the park.",
+  "lodId": "PARK1"
  },
  {
   "lb": "d'Plaz",
@@ -1101,7 +1184,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Op der Plaz ass e Maart.",
-  "ex_en": "There is a market on the square."
+  "ex_en": "There is a market on the square.",
+  "lodId": "PLAZ1"
  },
  {
   "lb": "d'Bréck",
@@ -1113,7 +1197,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Mir ginn iwwer d'Bréck.",
-  "ex_en": "We go over the bridge."
+  "ex_en": "We go over the bridge.",
+  "lodId": "BRECK1"
  },
  {
   "lb": "d'Gebai",
@@ -1125,7 +1210,8 @@
   "level": "B1",
   "category": "buildings",
   "ex_lb": "Dat Gebai ass ganz al.",
-  "ex_en": "That building is very old."
+  "ex_en": "That building is very old.",
+  "lodId": "GEBAI1"
  },
  {
   "lb": "d'Haus",
@@ -1137,7 +1223,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "Mäin Haus ass grouss.",
-  "ex_en": "My house is big."
+  "ex_en": "My house is big.",
+  "lodId": "HAUS1"
  },
  {
   "lb": "d'Kierch",
@@ -1149,7 +1236,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "D'Kierch ass am Zentrum.",
-  "ex_en": "The church is in the centre."
+  "ex_en": "The church is in the centre.",
+  "lodId": "KIERCH1"
  },
  {
   "lb": "d'Kathedral",
@@ -1161,7 +1249,8 @@
   "level": "B1",
   "category": "buildings",
   "ex_lb": "D'Kathedral zu Lëtzebuerg ass schéin.",
-  "ex_en": "The cathedral in Luxembourg is beautiful."
+  "ex_en": "The cathedral in Luxembourg is beautiful.",
+  "lodId": "KATHEDRAL1"
  },
  {
   "lb": "d'Schlass",
@@ -1173,7 +1262,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "D'Schlass ass op engem Bierg.",
-  "ex_en": "The castle is on a hill."
+  "ex_en": "The castle is on a hill.",
+  "lodId": "SCHLASS1"
  },
  {
   "lb": "de Musée",
@@ -1185,7 +1275,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "De Musée ass haut zou.",
-  "ex_en": "The museum is closed today."
+  "ex_en": "The museum is closed today.",
+  "lodId": "MUSEE1"
  },
  {
   "lb": "d'Bibliothéik",
@@ -1197,7 +1288,8 @@
   "level": "B1",
   "category": "buildings",
   "ex_lb": "Ech liesen an der Bibliothéik.",
-  "ex_en": "I read in the library."
+  "ex_en": "I read in the library.",
+  "lodId": "BIBLIOTHEIK1"
  },
  {
   "lb": "d'Theater",
@@ -1209,7 +1301,8 @@
   "level": "B1",
   "category": "buildings",
   "ex_lb": "Mir ginn an d'Theater.",
-  "ex_en": "We go to the theatre."
+  "ex_en": "We go to the theatre.",
+  "lodId": "THEATER1"
  },
  {
   "lb": "de Kino",
@@ -1221,7 +1314,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "De Film leeft am Kino.",
-  "ex_en": "The film is showing at the cinema."
+  "ex_en": "The film is showing at the cinema.",
+  "lodId": "KINO1"
  },
  {
   "lb": "den Hotel",
@@ -1233,7 +1327,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "Mir iwwernuechten am Hotel.",
-  "ex_en": "We stay overnight at the hotel."
+  "ex_en": "We stay overnight at the hotel.",
+  "lodId": "HOTEL1"
  },
  {
   "lb": "de Restaurant",
@@ -1245,7 +1340,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "De Restaurant ass voll.",
-  "ex_en": "The restaurant is full."
+  "ex_en": "The restaurant is full.",
+  "lodId": "RESTAURANT1"
  },
  {
   "lb": "de Café",
@@ -1257,7 +1353,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "Mir drénken e Kaffi am Café.",
-  "ex_en": "We drink a coffee at the café."
+  "ex_en": "We drink a coffee at the café.",
+  "lodId": "CAFE1"
  },
  {
   "lb": "d'Bank",
@@ -1269,7 +1366,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "D'Bank mécht um néng Auer op.",
-  "ex_en": "The bank opens at nine."
+  "ex_en": "The bank opens at nine.",
+  "lodId": "BANK1"
  },
  {
   "lb": "d'Post",
@@ -1281,7 +1379,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "Ech ginn op d'Post.",
-  "ex_en": "I am going to the post office."
+  "ex_en": "I am going to the post office.",
+  "lodId": "POST1"
  },
  {
   "lb": "d'Apdikt",
@@ -1293,7 +1392,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "D'Apdikt ass nach op.",
-  "ex_en": "The pharmacy is still open."
+  "ex_en": "The pharmacy is still open.",
+  "lodId": "APDIKT1"
  },
  {
   "lb": "d'Spidol",
@@ -1305,7 +1405,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "D'Spidol ass net wäit.",
-  "ex_en": "The hospital is not far."
+  "ex_en": "The hospital is not far.",
+  "lodId": "SPIDOL1"
  },
  {
   "lb": "d'Schoul",
@@ -1317,7 +1418,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "D'Kanner ginn an d'Schoul.",
-  "ex_en": "The children go to school."
+  "ex_en": "The children go to school.",
+  "lodId": "SCHOUL1"
  },
  {
   "lb": "d'Universitéit",
@@ -1329,7 +1431,8 @@
   "level": "B1",
   "category": "buildings",
   "ex_lb": "Hie studéiert op der Universitéit.",
-  "ex_en": "He studies at the university."
+  "ex_en": "He studies at the university.",
+  "lodId": "UNIVERSITEIT1"
  },
  {
   "lb": "d'Geschäft",
@@ -1341,7 +1444,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "D'Geschäft ass zou.",
-  "ex_en": "The shop is closed."
+  "ex_en": "The shop is closed.",
+  "lodId": "GESCHAFT1"
  },
  {
   "lb": "de Supermarché",
@@ -1353,7 +1457,8 @@
   "level": "A1",
   "category": "buildings",
   "ex_lb": "Ech kafen am Supermarché an.",
-  "ex_en": "I shop at the supermarket."
+  "ex_en": "I shop at the supermarket.",
+  "lodId": "SUPERMARCHE1"
  },
  {
   "lb": "d'Mairie",
@@ -1377,7 +1482,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "Dee Buttek verkeeft Kleeder.",
-  "ex_en": "That shop sells clothes."
+  "ex_en": "That shop sells clothes.",
+  "lodId": "BUTTEK1"
  },
  {
   "lb": "d'Bäckerei",
@@ -1389,7 +1495,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "Ech kafen Brout an der Bäckerei.",
-  "ex_en": "I buy bread at the bakery."
+  "ex_en": "I buy bread at the bakery.",
+  "lodId": "BACKEREI1"
  },
  {
   "lb": "de Tuerm",
@@ -1401,7 +1508,8 @@
   "level": "B1",
   "category": "buildings",
   "ex_lb": "De Tuerm ass ganz héich.",
-  "ex_en": "The tower is very high."
+  "ex_en": "The tower is very high.",
+  "lodId": "TUERM1"
  },
  {
   "lb": "d'Toilette",
@@ -1413,7 +1521,8 @@
   "level": "A1",
   "category": "city",
   "ex_lb": "Wou ass d'Toilette?",
-  "ex_en": "Where is the toilet?"
+  "ex_en": "Where is the toilet?",
+  "lodId": "TOILETTE1"
  },
  {
   "lb": "d'Statue",
@@ -1437,7 +1546,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "De Maart ass um Knuedler.",
-  "ex_en": "The market is on the Knuedler."
+  "ex_en": "The market is on the Knuedler.",
+  "lodId": "KNUEDLER1"
  },
  {
   "lb": "de Gronn",
@@ -1449,7 +1559,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "De Gronn läit ënnen un der Alzette.",
-  "ex_en": "The Grund lies below by the Alzette."
+  "ex_en": "The Grund lies below by the Alzette.",
+  "lodId": "GRONN1"
  },
  {
   "lb": "d'Alzette",
@@ -1473,7 +1584,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "Un der Musel gëtt et gudde Wäin.",
-  "ex_en": "There is good wine by the Moselle."
+  "ex_en": "There is good wine by the Moselle.",
+  "lodId": "MUSEL1"
  },
  {
   "lb": "d'Éislek",
@@ -1485,7 +1597,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "D'Éislek ass am Norden vum Land.",
-  "ex_en": "The Oesling is in the north of the country."
+  "ex_en": "The Oesling is in the north of the country.",
+  "lodId": "EISLEK1"
  },
  {
   "lb": "de Guttland",
@@ -1497,7 +1610,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "De Guttland ass am Süden.",
-  "ex_en": "The Gutland is in the south."
+  "ex_en": "The Gutland is in the south.",
+  "lodId": "GUTTLAND1"
  },
  {
   "lb": "de Findel",
@@ -1509,7 +1623,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "De Fliger landet zu Findel.",
-  "ex_en": "The plane lands at Findel."
+  "ex_en": "The plane lands at Findel.",
+  "lodId": "FINDEL1"
  },
  {
   "lb": "d'Haaptstad",
@@ -1521,7 +1636,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Lëtzebuerg ass d'Haaptstad vum Land.",
-  "ex_en": "Luxembourg is the capital of the country."
+  "ex_en": "Luxembourg is the capital of the country.",
+  "lodId": "HAAPTSTAD1"
  },
  {
   "lb": "Esch",
@@ -1533,7 +1649,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "Esch ass déi zweetgréisste Stad.",
-  "ex_en": "Esch is the second-biggest city."
+  "ex_en": "Esch is the second-biggest city.",
+  "lodId": "ESCH1"
  },
  {
   "lb": "Veianen",
@@ -1545,7 +1662,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "D'Schlass vu Veianen ass beréimt.",
-  "ex_en": "The castle of Vianden is famous."
+  "ex_en": "The castle of Vianden is famous.",
+  "lodId": "VEIANEN1"
  },
  {
   "lb": "Iechternach",
@@ -1557,7 +1675,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "Iechternach ass déi eelst Stad.",
-  "ex_en": "Echternach is the oldest town."
+  "ex_en": "Echternach is the oldest town.",
+  "lodId": "IECHTERNACH1"
  },
  {
   "lb": "d'Sprangprëssioun",
@@ -1581,7 +1700,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "D'Schueberfouer ass am August.",
-  "ex_en": "The Schueberfouer is in August."
+  "ex_en": "The Schueberfouer is in August.",
+  "lodId": "SCHUEBERFOUER1"
  },
  {
   "lb": "de Groussherzog",
@@ -1593,7 +1713,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "De Groussherzog wunnt am Palais.",
-  "ex_en": "The Grand Duke lives in the palace."
+  "ex_en": "The Grand Duke lives in the palace.",
+  "lodId": "GROUSSHERZOG1"
  },
  {
   "lb": "de Palais",
@@ -1605,7 +1726,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "De Palais ass an der Stad.",
-  "ex_en": "The palace is in the city."
+  "ex_en": "The palace is in the city.",
+  "lodId": "PALAIS1"
  },
  {
   "lb": "de Bock",
@@ -1617,7 +1739,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "D'Kasematten sinn um Bock.",
-  "ex_en": "The casemates are at the Bock."
+  "ex_en": "The casemates are at the Bock.",
+  "lodId": "BOCK1"
  },
  {
   "lb": "d'Kasematten",
@@ -1629,7 +1752,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "Mir besichtegen d'Kasematten.",
-  "ex_en": "We visit the casemates."
+  "ex_en": "We visit the casemates.",
+  "lodId": "KASEMATTEN1"
  },
  {
   "lb": "de Wäin",
@@ -1641,7 +1765,8 @@
   "level": "A2",
   "category": "luxembourg",
   "ex_lb": "De Musel-Wäin ass gutt.",
-  "ex_en": "The Moselle wine is good."
+  "ex_en": "The Moselle wine is good.",
+  "lodId": "WAIN1"
  },
  {
   "lb": "de Crémant",
@@ -1665,7 +1790,8 @@
   "level": "A1",
   "category": "country",
   "ex_lb": "Ech kommen aus Lëtzebuerg.",
-  "ex_en": "I come from Luxembourg."
+  "ex_en": "I come from Luxembourg.",
+  "lodId": "LETZEBUERG1"
  },
  {
   "lb": "Däitschland",
@@ -1677,7 +1803,8 @@
   "level": "A1",
   "category": "country",
   "ex_lb": "Däitschland läit am Osten.",
-  "ex_en": "Germany is to the east."
+  "ex_en": "Germany is to the east.",
+  "lodId": "DAITSCHLAND1"
  },
  {
   "lb": "Frankräich",
@@ -1689,7 +1816,8 @@
   "level": "A1",
   "category": "country",
   "ex_lb": "Frankräich ass eist Nopeschland.",
-  "ex_en": "France is our neighbouring country."
+  "ex_en": "France is our neighbouring country.",
+  "lodId": "FRANKRAICH1"
  },
  {
   "lb": "België",
@@ -1713,7 +1841,8 @@
   "level": "A1",
   "category": "country",
   "ex_lb": "Mir fueren op Italien an d'Vakanz.",
-  "ex_en": "We go to Italy on holiday."
+  "ex_en": "We go to Italy on holiday.",
+  "lodId": "ITALIEN1"
  },
  {
   "lb": "Spuenien",
@@ -1725,7 +1854,8 @@
   "level": "A1",
   "category": "country",
   "ex_lb": "Spuenien ass waarm am Summer.",
-  "ex_en": "Spain is warm in summer."
+  "ex_en": "Spain is warm in summer.",
+  "lodId": "SPUENIEN1"
  },
  {
   "lb": "Portugal",
@@ -1737,7 +1867,8 @@
   "level": "A1",
   "category": "country",
   "ex_lb": "Vill Leit kommen aus Portugal.",
-  "ex_en": "Many people come from Portugal."
+  "ex_en": "Many people come from Portugal.",
+  "lodId": "PORTUGAL1"
  },
  {
   "lb": "England",
@@ -1749,7 +1880,8 @@
   "level": "A1",
   "category": "country",
   "ex_lb": "England läit op enger Insel.",
-  "ex_en": "England is on an island."
+  "ex_en": "England is on an island.",
+  "lodId": "ENGLAND1"
  },
  {
   "lb": "d'Schwäiz",
@@ -1761,7 +1893,8 @@
   "level": "A2",
   "category": "country",
   "ex_lb": "D'Schwäiz huet héich Bierger.",
-  "ex_en": "Switzerland has high mountains."
+  "ex_en": "Switzerland has high mountains.",
+  "lodId": "SCHWAIZ1"
  },
  {
   "lb": "Holland",
@@ -1773,7 +1906,8 @@
   "level": "A2",
   "category": "country",
   "ex_lb": "Holland ass flaach.",
-  "ex_en": "The Netherlands is flat."
+  "ex_en": "The Netherlands is flat.",
+  "lodId": "HOLLAND1"
  },
  {
   "lb": "Éisträich",
@@ -1785,7 +1919,8 @@
   "level": "A2",
   "category": "country",
   "ex_lb": "Éisträich huet schéin Bierger.",
-  "ex_en": "Austria has beautiful mountains."
+  "ex_en": "Austria has beautiful mountains.",
+  "lodId": "EISTRAICH1"
  },
  {
   "lb": "Griicheland",
@@ -1797,7 +1932,8 @@
   "level": "A2",
   "category": "country",
   "ex_lb": "Griicheland huet schéin Inselen.",
-  "ex_en": "Greece has beautiful islands."
+  "ex_en": "Greece has beautiful islands.",
+  "lodId": "GRIICHELAND1"
  },
  {
   "lb": "d'USA",
@@ -1809,7 +1945,8 @@
   "level": "A2",
   "category": "country",
   "ex_lb": "D'USA sinn e grousst Land.",
-  "ex_en": "The USA is a big country."
+  "ex_en": "The USA is a big country.",
+  "lodId": "USA1"
  },
  {
   "lb": "China",
@@ -1821,7 +1958,8 @@
   "level": "A2",
   "category": "country",
   "ex_lb": "China huet vill Leit.",
-  "ex_en": "China has many people."
+  "ex_en": "China has many people.",
+  "lodId": "CHINA1"
  },
  {
   "lb": "Europa",
@@ -1833,7 +1971,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Lëtzebuerg läit a Europa.",
-  "ex_en": "Luxembourg is in Europe."
+  "ex_en": "Luxembourg is in Europe.",
+  "lodId": "EUROPA1"
  },
  {
   "lb": "Afrika",
@@ -1845,7 +1984,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Afrika ass e grousse Kontinent.",
-  "ex_en": "Africa is a big continent."
+  "ex_en": "Africa is a big continent.",
+  "lodId": "AFRIKA1"
  },
  {
   "lb": "de Kontinent",
@@ -1857,7 +1997,8 @@
   "level": "B1",
   "category": "geography",
   "ex_lb": "Europa ass e klenge Kontinent.",
-  "ex_en": "Europe is a small continent."
+  "ex_en": "Europe is a small continent.",
+  "lodId": "KONTINENT1"
  },
  {
   "lb": "d'Welt",
@@ -1869,7 +2010,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Ech wëll d'Welt gesinn.",
-  "ex_en": "I want to see the world."
+  "ex_en": "I want to see the world.",
+  "lodId": "WELT1"
  },
  {
   "lb": "de Lëtzebuerger",
@@ -1881,7 +2023,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "Hien ass Lëtzebuerger.",
-  "ex_en": "He is a Luxembourger."
+  "ex_en": "He is a Luxembourger.",
+  "lodId": "LETZEBUERGER1"
  },
  {
   "lb": "d'Lëtzebuergerin",
@@ -1893,7 +2036,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "Si ass Lëtzebuergerin.",
-  "ex_en": "She is a Luxembourger."
+  "ex_en": "She is a Luxembourger.",
+  "lodId": "LETZEBUERGERIN1"
  },
  {
   "lb": "de Frantséis",
@@ -1917,7 +2061,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "Den Däitschen schwätzt gutt Lëtzebuergesch.",
-  "ex_en": "The German speaks good Luxembourgish."
+  "ex_en": "The German speaks good Luxembourgish.",
+  "lodId": "DAITSCHEN1"
  },
  {
   "lb": "de Belsch",
@@ -1929,7 +2074,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "De Belsch wunnt no bei der Grenz.",
-  "ex_en": "The Belgian lives near the border."
+  "ex_en": "The Belgian lives near the border.",
+  "lodId": "BELSCH2"
  },
  {
   "lb": "den Italiener",
@@ -1953,7 +2099,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "De Portugis schafft op der Bau.",
-  "ex_en": "The Portuguese works on the construction site."
+  "ex_en": "The Portuguese works on the construction site.",
+  "lodId": "PORTUGIS1"
  },
  {
   "lb": "lëtzebuergesch",
@@ -1965,7 +2112,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "Dat ass e lëtzebuergescht Geriicht.",
-  "ex_en": "That is a Luxembourgish dish."
+  "ex_en": "That is a Luxembourgish dish.",
+  "lodId": "LETZEBUERGESCH1"
  },
  {
   "lb": "däitsch",
@@ -1977,7 +2125,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "Dat ass eng däitsch Stad.",
-  "ex_en": "That is a German city."
+  "ex_en": "That is a German city.",
+  "lodId": "DAITSCH1"
  },
  {
   "lb": "franséisch",
@@ -1989,7 +2138,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "Dat ass franséische Kéis.",
-  "ex_en": "That is French cheese."
+  "ex_en": "That is French cheese.",
+  "lodId": "FRANSEISCH1"
  },
  {
   "lb": "d'Sprooch",
@@ -2001,7 +2151,8 @@
   "level": "A2",
   "category": "nationality",
   "ex_lb": "Lëtzebuergesch ass meng Sprooch.",
-  "ex_en": "Luxembourgish is my language."
+  "ex_en": "Luxembourgish is my language.",
+  "lodId": "SPROOCH1"
  },
  {
   "lb": "d'Nationalitéit",
@@ -2013,7 +2164,8 @@
   "level": "B1",
   "category": "nationality",
   "ex_lb": "Wéi eng Nationalitéit hutt Dir?",
-  "ex_en": "What nationality are you?"
+  "ex_en": "What nationality are you?",
+  "lodId": "NATIONALITEIT1"
  },
  {
   "lb": "d'Norden",
@@ -2025,7 +2177,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Veianen läit am Norden.",
-  "ex_en": "Vianden is in the north."
+  "ex_en": "Vianden is in the north.",
+  "lodId": "NORDEN1"
  },
  {
   "lb": "de Süden",
@@ -2037,7 +2190,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Esch läit am Süden.",
-  "ex_en": "Esch is in the south."
+  "ex_en": "Esch is in the south.",
+  "lodId": "SUDEN1"
  },
  {
   "lb": "den Osten",
@@ -2049,7 +2203,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "D'Musel läit am Osten.",
-  "ex_en": "The Moselle is in the east."
+  "ex_en": "The Moselle is in the east.",
+  "lodId": "OSTEN1"
  },
  {
   "lb": "de Westen",
@@ -2061,7 +2216,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "België läit am Westen.",
-  "ex_en": "Belgium is to the west."
+  "ex_en": "Belgium is to the west.",
+  "lodId": "WESTEN1"
  },
  {
   "lb": "d'Géigend",
@@ -2073,7 +2229,8 @@
   "level": "B1",
   "category": "geography",
   "ex_lb": "Déi Géigend ass ganz schéin.",
-  "ex_en": "That area is very beautiful."
+  "ex_en": "That area is very beautiful.",
+  "lodId": "GEIGEND1"
  },
  {
   "lb": "de Klima",
@@ -2085,7 +2242,8 @@
   "level": "B2",
   "category": "geography",
   "ex_lb": "De Klima hei ass mëll.",
-  "ex_en": "The climate here is mild."
+  "ex_en": "The climate here is mild.",
+  "lodId": "KLIMA1"
  },
  {
   "lb": "d'Héicht",
@@ -2097,7 +2255,8 @@
   "level": "B2",
   "category": "geography",
   "ex_lb": "D'Héicht vum Bierg ass dräi Honnert Meter.",
-  "ex_en": "The height of the mountain is three hundred metres."
+  "ex_en": "The height of the mountain is three hundred metres.",
+  "lodId": "HEICHT1"
  },
  {
   "lb": "de Wee fannen",
@@ -2169,7 +2328,8 @@
   "level": "A2",
   "category": "asking-the-way",
   "ex_lb": "Ech brauch Är Hëllef.",
-  "ex_en": "I need your help."
+  "ex_en": "I need your help.",
+  "lodId": "HELLEF1"
  },
  {
   "lb": "hëllefen",
@@ -2181,7 +2341,8 @@
   "level": "A2",
   "category": "asking-the-way",
   "ex_lb": "Kënnt Dir mir hëllefen?",
-  "ex_en": "Can you help me?"
+  "ex_en": "Can you help me?",
+  "lodId": "HELLEFEN1"
  },
  {
   "lb": "Entschëllegt",
@@ -2205,7 +2366,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "D'Gare ass hei.",
-  "ex_en": "The station is here."
+  "ex_en": "The station is here.",
+  "lodId": "HEI1"
  },
  {
   "lb": "do",
@@ -2217,7 +2379,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "De Bus hält do.",
-  "ex_en": "The bus stops there."
+  "ex_en": "The bus stops there.",
+  "lodId": "DO1"
  },
  {
   "lb": "uewen",
@@ -2229,7 +2392,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "D'Schlass ass uewen um Bierg.",
-  "ex_en": "The castle is up on the hill."
+  "ex_en": "The castle is up on the hill.",
+  "lodId": "UEWEN1"
  },
  {
   "lb": "ënnen",
@@ -2241,7 +2405,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "De Gronn läit ënnen.",
-  "ex_en": "The Grund lies below."
+  "ex_en": "The Grund lies below.",
+  "lodId": "ENNEN1"
  },
  {
   "lb": "baussen",
@@ -2253,7 +2418,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Mir waarden baussen.",
-  "ex_en": "We wait outside."
+  "ex_en": "We wait outside.",
+  "lodId": "BAUSSEN1"
  },
  {
   "lb": "dobannen",
@@ -2265,7 +2431,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "D'Leit sinn dobannen.",
-  "ex_en": "The people are inside."
+  "ex_en": "The people are inside.",
+  "lodId": "DOBANNEN1"
  },
  {
   "lb": "d'Entrée",
@@ -2277,7 +2444,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "D'Entrée ass um Eck.",
-  "ex_en": "The entrance is on the corner."
+  "ex_en": "The entrance is on the corner.",
+  "lodId": "ENTREE1"
  },
  {
   "lb": "den Ausgang",
@@ -2289,7 +2457,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "Wou ass den Ausgang?",
-  "ex_en": "Where is the exit?"
+  "ex_en": "Where is the exit?",
+  "lodId": "AUSGANG1"
  },
  {
   "lb": "d'Trap",
@@ -2301,7 +2470,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "Huel d'Trap no uewen.",
-  "ex_en": "Take the stairs up."
+  "ex_en": "Take the stairs up.",
+  "lodId": "TRAP1"
  },
  {
   "lb": "den Asseur",
@@ -2325,7 +2495,8 @@
   "level": "B1",
   "category": "buildings",
   "ex_lb": "D'Bureau ass am drëtten Etage.",
-  "ex_en": "The office is on the third floor."
+  "ex_en": "The office is on the third floor.",
+  "lodId": "ETAGE1"
  },
  {
   "lb": "de Bureau",
@@ -2337,7 +2508,8 @@
   "level": "A2",
   "category": "buildings",
   "ex_lb": "Mäi Bureau ass am Zentrum.",
-  "ex_en": "My office is in the centre."
+  "ex_en": "My office is in the centre.",
+  "lodId": "BUREAU1"
  },
  {
   "lb": "d'Verspéidung",
@@ -2349,7 +2521,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Den Zuch huet Verspéidung.",
-  "ex_en": "The train is delayed."
+  "ex_en": "The train is delayed.",
+  "lodId": "VERSPEIDUNG1"
  },
  {
   "lb": "ofgoen",
@@ -2361,7 +2534,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Den Zuch geet gläich of.",
-  "ex_en": "The train departs soon."
+  "ex_en": "The train departs soon.",
+  "lodId": "OFGOEN1"
  },
  {
   "lb": "ukommen",
@@ -2373,7 +2547,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Mir kommen um sechs Auer un.",
-  "ex_en": "We arrive at six o'clock."
+  "ex_en": "We arrive at six o'clock.",
+  "lodId": "UKOMMEN1"
  },
  {
   "lb": "d'Arrivée",
@@ -2385,7 +2560,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "D'Arrivée ass um néng Auer.",
-  "ex_en": "The arrival is at nine."
+  "ex_en": "The arrival is at nine.",
+  "lodId": "ARRIVEE1"
  },
  {
   "lb": "den Horaire",
@@ -2397,7 +2573,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Kuck op den Horaire.",
-  "ex_en": "Look at the timetable."
+  "ex_en": "Look at the timetable.",
+  "lodId": "HORAIRE1"
  },
  {
   "lb": "fräi",
@@ -2409,7 +2586,8 @@
   "level": "A1",
   "category": "travel",
   "ex_lb": "Ass den Zëmmer fräi?",
-  "ex_en": "Is the room available?"
+  "ex_en": "Is the room available?",
+  "lodId": "FRAI1"
  },
  {
   "lb": "besat",
@@ -2433,7 +2611,8 @@
   "level": "A1",
   "category": "travel",
   "ex_lb": "Ech hunn en Zëmmer reservéiert.",
-  "ex_en": "I booked a room."
+  "ex_en": "I booked a room.",
+  "lodId": "ZEMMER1"
  },
  {
   "lb": "iwwernuechten",
@@ -2445,7 +2624,8 @@
   "level": "B1",
   "category": "travel",
   "ex_lb": "Mir iwwernuechten zu Tréier.",
-  "ex_en": "We stay overnight in Trier."
+  "ex_en": "We stay overnight in Trier.",
+  "lodId": "IWWERNUECHTEN1"
  },
  {
   "lb": "de Camping",
@@ -2457,7 +2637,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Mir schlofen um Camping.",
-  "ex_en": "We sleep at the campsite."
+  "ex_en": "We sleep at the campsite.",
+  "lodId": "CAMPING1"
  },
  {
   "lb": "d'Zelt",
@@ -2469,7 +2650,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Mir baue d'Zelt op.",
-  "ex_en": "We put up the tent."
+  "ex_en": "We put up the tent.",
+  "lodId": "ZELT1"
  },
  {
   "lb": "d'Schlëssel",
@@ -2481,7 +2663,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Hei ass de Schlëssel fir den Zëmmer.",
-  "ex_en": "Here is the key for the room."
+  "ex_en": "Here is the key for the room.",
+  "lodId": "SCHLESSEL1"
  },
  {
   "lb": "d'Informatioun",
@@ -2493,7 +2676,8 @@
   "level": "A2",
   "category": "tourism",
   "ex_lb": "D'Informatioun ass um Schalter.",
-  "ex_en": "The information is at the counter."
+  "ex_en": "The information is at the counter.",
+  "lodId": "INFORMATIOUN1"
  },
  {
   "lb": "spadséieren",
@@ -2505,7 +2689,8 @@
   "level": "A2",
   "category": "tourism",
   "ex_lb": "Mir spadséieren am Park.",
-  "ex_en": "We stroll in the park."
+  "ex_en": "We stroll in the park.",
+  "lodId": "SPADSEIEREN1"
  },
  {
   "lb": "wanderen",
@@ -2517,7 +2702,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "Mir wanderen am Éislek.",
-  "ex_en": "We hike in the Oesling."
+  "ex_en": "We hike in the Oesling.",
+  "lodId": "WANDEREN1"
  },
  {
   "lb": "gratis",
@@ -2529,7 +2715,8 @@
   "level": "A2",
   "category": "tourism",
   "ex_lb": "Den ëffentlechen Transport ass gratis.",
-  "ex_en": "Public transport is free."
+  "ex_en": "Public transport is free.",
+  "lodId": "GRATIS1"
  },
  {
   "lb": "den ëffentlechen Transport",
@@ -2553,7 +2740,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "De Verkéier ass haut staark.",
-  "ex_en": "The traffic is heavy today."
+  "ex_en": "The traffic is heavy today.",
+  "lodId": "VERKEIER1"
  },
  {
   "lb": "de Stau",
@@ -2565,7 +2753,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Mir stinn am Stau.",
-  "ex_en": "We are stuck in a traffic jam."
+  "ex_en": "We are stuck in a traffic jam.",
+  "lodId": "STAU1"
  },
  {
   "lb": "d'Geschwindegkeet",
@@ -2577,7 +2766,8 @@
   "level": "B2",
   "category": "transport",
   "ex_lb": "D'Geschwindegkeet ass ze héich.",
-  "ex_en": "The speed is too high."
+  "ex_en": "The speed is too high.",
+  "lodId": "GESCHWINDEGKEET1"
  },
  {
   "lb": "de Chauffeur",
@@ -2589,7 +2779,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "De Chauffeur fiert virsiichteg.",
-  "ex_en": "The driver drives carefully."
+  "ex_en": "The driver drives carefully.",
+  "lodId": "CHAUFFEUR1"
  },
  {
   "lb": "de Permis",
@@ -2601,7 +2792,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Ech hunn de Permis gemaach.",
-  "ex_en": "I got my driving licence."
+  "ex_en": "I got my driving licence.",
+  "lodId": "PERMIS1"
  },
  {
   "lb": "d'Rad",
@@ -2613,7 +2805,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "D'Rad ass futti.",
-  "ex_en": "The wheel is broken."
+  "ex_en": "The wheel is broken.",
+  "lodId": "RAD1"
  },
  {
   "lb": "d'Pann",
@@ -2625,7 +2818,8 @@
   "level": "B2",
   "category": "transport",
   "ex_lb": "Mir hunn eng Pann um Wee.",
-  "ex_en": "We have a breakdown on the way."
+  "ex_en": "We have a breakdown on the way.",
+  "lodId": "PANN1"
  },
  {
   "lb": "d'Police",
@@ -2637,7 +2831,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Ruff w.e.g. d'Police.",
-  "ex_en": "Please call the police."
+  "ex_en": "Please call the police.",
+  "lodId": "POLICE1"
  },
  {
   "lb": "ënnerwee",
@@ -2649,7 +2844,8 @@
   "level": "B1",
   "category": "travel",
   "ex_lb": "Mir sinn nach ënnerwee.",
-  "ex_en": "We are still on the way."
+  "ex_en": "We are still on the way.",
+  "lodId": "ENNERWEE1"
  },
  {
   "lb": "halen",
@@ -2661,7 +2857,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "De Bus hält hei.",
-  "ex_en": "The bus stops here."
+  "ex_en": "The bus stops here.",
+  "lodId": "HALEN1"
  },
  {
   "lb": "waarden",
@@ -2673,7 +2870,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Ech waarden op den Zuch.",
-  "ex_en": "I am waiting for the train."
+  "ex_en": "I am waiting for the train.",
+  "lodId": "WAARDEN1"
  },
  {
   "lb": "verpassen",
@@ -2685,7 +2883,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Ech hunn de Bus verpasst.",
-  "ex_en": "I missed the bus."
+  "ex_en": "I missed the bus.",
+  "lodId": "VERPASSEN1"
  },
  {
   "lb": "d'Grenzgänger",
@@ -2697,7 +2896,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "Vill Grenzgänger schaffen zu Lëtzebuerg.",
-  "ex_en": "Many cross-border commuters work in Luxembourg."
+  "ex_en": "Many cross-border commuters work in Luxembourg.",
+  "lodId": "GRENZGANGER1"
  },
  {
   "lb": "de Geld",
@@ -2709,7 +2909,8 @@
   "level": "A1",
   "category": "travel",
   "ex_lb": "Ech hunn net genuch Geld.",
-  "ex_en": "I don't have enough money."
+  "ex_en": "I don't have enough money.",
+  "lodId": "GELD1"
  },
  {
   "lb": "de Bankomat",
@@ -2733,7 +2934,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "De Bauer schafft um Feld.",
-  "ex_en": "The farmer works in the field."
+  "ex_en": "The farmer works in the field.",
+  "lodId": "FELD1"
  },
  {
   "lb": "d'Tal",
@@ -2757,7 +2959,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "D'Wolleke sinn donkel.",
-  "ex_en": "The clouds are dark."
+  "ex_en": "The clouds are dark.",
+  "lodId": "WOLLEK1"
  },
  {
   "lb": "d'Sonn",
@@ -2769,7 +2972,8 @@
   "level": "A1",
   "category": "geography",
   "ex_lb": "D'Sonn schéngt haut.",
-  "ex_en": "The sun is shining today."
+  "ex_en": "The sun is shining today.",
+  "lodId": "SONN1"
  },
  {
   "lb": "de Reen",
@@ -2781,7 +2985,8 @@
   "level": "A1",
   "category": "geography",
   "ex_lb": "Et gëtt vill Reen am Hierscht.",
-  "ex_en": "There is a lot of rain in autumn."
+  "ex_en": "There is a lot of rain in autumn.",
+  "lodId": "REEN1"
  },
  {
   "lb": "de Schnéi",
@@ -2793,7 +2998,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "Am Wanter läit Schnéi am Éislek.",
-  "ex_en": "In winter there is snow in the Oesling."
+  "ex_en": "In winter there is snow in the Oesling.",
+  "lodId": "SCHNEI1"
  },
  {
   "lb": "de Wand",
@@ -2805,7 +3011,8 @@
   "level": "A2",
   "category": "geography",
   "ex_lb": "De Wand ass haut staark.",
-  "ex_en": "The wind is strong today."
+  "ex_en": "The wind is strong today.",
+  "lodId": "WAND1"
  },
  {
   "lb": "d'Wieder",
@@ -2817,7 +3024,8 @@
   "level": "A1",
   "category": "geography",
   "ex_lb": "D'Wieder ass schéin haut.",
-  "ex_en": "The weather is nice today."
+  "ex_en": "The weather is nice today.",
+  "lodId": "WIEDER1"
  },
  {
   "lb": "d'Jugendherberg",
@@ -2829,7 +3037,8 @@
   "level": "B1",
   "category": "travel",
   "ex_lb": "D'Jugendherberg ass bëlleg.",
-  "ex_en": "The youth hostel is cheap."
+  "ex_en": "The youth hostel is cheap.",
+  "lodId": "JUGENDHERBERG1"
  },
  {
   "lb": "bëlleg",
@@ -2841,7 +3050,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Den Hotel ass bëlleg.",
-  "ex_en": "The hotel is cheap."
+  "ex_en": "The hotel is cheap.",
+  "lodId": "BELLEG1"
  },
  {
   "lb": "deier",
@@ -2853,7 +3063,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "De Restaurant ass deier.",
-  "ex_en": "The restaurant is expensive."
+  "ex_en": "The restaurant is expensive.",
+  "lodId": "DEIER2"
  },
  {
   "lb": "de Präis",
@@ -2865,7 +3076,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Wat ass de Präis fir den Zëmmer?",
-  "ex_en": "What is the price for the room?"
+  "ex_en": "What is the price for the room?",
+  "lodId": "PRAIS1"
  },
  {
   "lb": "kaschten",
@@ -2877,7 +3089,8 @@
   "level": "A2",
   "category": "travel",
   "ex_lb": "Wéi vill kascht den Tickett?",
-  "ex_en": "How much does the ticket cost?"
+  "ex_en": "How much does the ticket cost?",
+  "lodId": "KASCHTEN2"
  },
  {
   "lb": "de Zebrasträif",
@@ -2901,7 +3114,8 @@
   "level": "B1",
   "category": "directions",
   "ex_lb": "Liest dat Schëld do.",
-  "ex_en": "Read that sign there."
+  "ex_en": "Read that sign there.",
+  "lodId": "SCHELD1"
  },
  {
   "lb": "zréck",
@@ -2925,7 +3139,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Géi nach e bësse weider.",
-  "ex_en": "Go a little further."
+  "ex_en": "Go a little further.",
+  "lodId": "WEIDER1"
  },
  {
   "lb": "di éischt",
@@ -2973,7 +3188,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Pass op de Verkéier op.",
-  "ex_en": "Watch out for the traffic."
+  "ex_en": "Watch out for the traffic.",
+  "lodId": "OPPASSEN1"
  },
  {
   "lb": "d'Sécherheet",
@@ -2985,7 +3201,8 @@
   "level": "B1",
   "category": "travel",
   "ex_lb": "D'Sécherheet um Fluchhafen ass streng.",
-  "ex_en": "Security at the airport is strict."
+  "ex_en": "Security at the airport is strict.",
+  "lodId": "SECHERHEET1"
  },
  {
   "lb": "de Begréissung",
@@ -2997,7 +3214,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "D'Begréissung war waarm.",
-  "ex_en": "The greeting was warm."
+  "ex_en": "The greeting was warm.",
+  "lodId": "BEGREISSUNG1"
  },
  {
   "lb": "begleeden",
@@ -3009,7 +3227,8 @@
   "level": "B1",
   "category": "travel",
   "ex_lb": "Ech begleeden dech bis op d'Gare.",
-  "ex_en": "I accompany you to the station."
+  "ex_en": "I accompany you to the station.",
+  "lodId": "BEGLEEDEN1"
  },
  {
   "lb": "folgen",
@@ -3033,7 +3252,8 @@
   "level": "B1",
   "category": "travel",
   "ex_lb": "Mir erreechen d'Stad um Owend.",
-  "ex_en": "We reach the city in the evening."
+  "ex_en": "We reach the city in the evening.",
+  "lodId": "ERREECHEN1"
  },
  {
   "lb": "ofhuelen",
@@ -3045,7 +3265,8 @@
   "level": "B1",
   "category": "travel",
   "ex_lb": "Ech huelen dech op der Gare of.",
-  "ex_en": "I pick you up at the station."
+  "ex_en": "I pick you up at the station.",
+  "lodId": "OFHUELEN1"
  },
  {
   "lb": "de Welt-Patrimoine",
@@ -3069,7 +3290,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "D'Festung Lëtzebuerg war wichteg.",
-  "ex_en": "The Luxembourg fortress was important."
+  "ex_en": "The Luxembourg fortress was important.",
+  "lodId": "FESTUNG1"
  },
  {
   "lb": "roueg",
@@ -3081,7 +3303,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "De Quartier ass ganz roueg.",
-  "ex_en": "The neighbourhood is very quiet."
+  "ex_en": "The neighbourhood is very quiet.",
+  "lodId": "ROUEG1"
  },
  {
   "lb": "belieft",
@@ -3105,7 +3328,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Dat ass e moderne Gebai.",
-  "ex_en": "That is a modern building."
+  "ex_en": "That is a modern building.",
+  "lodId": "MODERN1"
  },
  {
   "lb": "al",
@@ -3117,7 +3341,8 @@
   "level": "A1",
   "category": "city",
   "ex_lb": "D'Stadmauer ass ganz al.",
-  "ex_en": "The city wall is very old."
+  "ex_en": "The city wall is very old.",
+  "lodId": "AL1"
  },
  {
   "lb": "historesch",
@@ -3129,7 +3354,8 @@
   "level": "B1",
   "category": "city",
   "ex_lb": "D'Altstad ass historesch.",
-  "ex_en": "The old town is historic."
+  "ex_en": "The old town is historic.",
+  "lodId": "HISTORESCH1"
  },
  {
   "lb": "d'Altstad",
@@ -3153,7 +3379,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "D'EU-Institutiounen sinn um Kierchbierg.",
-  "ex_en": "The EU institutions are on the Kirchberg."
+  "ex_en": "The EU institutions are on the Kirchberg.",
+  "lodId": "KIERCHBIERG1"
  },
  {
   "lb": "d'EU",
@@ -3165,7 +3392,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "Lëtzebuerg ass e Sëtz vun der EU.",
-  "ex_en": "Luxembourg is a seat of the EU."
+  "ex_en": "Luxembourg is a seat of the EU.",
+  "lodId": "EU1"
  },
  {
   "lb": "d'Konscht",
@@ -3177,7 +3405,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "Ech hunn d'Konscht gär.",
-  "ex_en": "I like art."
+  "ex_en": "I like art.",
+  "lodId": "KONSCHT1"
  },
  {
   "lb": "d'Kultur",
@@ -3189,7 +3418,8 @@
   "level": "B1",
   "category": "tourism",
   "ex_lb": "D'Lëtzebuerger Kultur ass räich.",
-  "ex_en": "Luxembourgish culture is rich."
+  "ex_en": "Luxembourgish culture is rich.",
+  "lodId": "KULTUR1"
  },
  {
   "lb": "d'Traditioun",
@@ -3201,7 +3431,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "D'Sprangprëssioun ass eng al Traditioun.",
-  "ex_en": "The dancing procession is an old tradition."
+  "ex_en": "The dancing procession is an old tradition.",
+  "lodId": "TRADITIOUN1"
  },
  {
   "lb": "de Feierdag",
@@ -3213,7 +3444,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "Den Nationalfeierdag ass de 23. Juni.",
-  "ex_en": "National Day is the 23rd of June."
+  "ex_en": "National Day is the 23rd of June.",
+  "lodId": "FEIERDAG1"
  },
  {
   "lb": "den Nationalfeierdag",
@@ -3225,7 +3457,8 @@
   "level": "B2",
   "category": "luxembourg",
   "ex_lb": "Mir feieren den Nationalfeierdag.",
-  "ex_en": "We celebrate National Day."
+  "ex_en": "We celebrate National Day.",
+  "lodId": "NATIONALFEIERDAG1"
  },
  {
   "lb": "feieren",
@@ -3237,7 +3470,8 @@
   "level": "A2",
   "category": "luxembourg",
   "ex_lb": "Mir feieren um Knuedler.",
-  "ex_en": "We celebrate on the Knuedler."
+  "ex_en": "We celebrate on the Knuedler.",
+  "lodId": "FEIEREN1"
  },
  {
   "lb": "de Fändel",
@@ -3249,7 +3483,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "De Lëtzebuerger Fändel ass rout, wäiss, blo.",
-  "ex_en": "The Luxembourg flag is red, white, blue."
+  "ex_en": "The Luxembourg flag is red, white, blue.",
+  "lodId": "FANDEL1"
  },
  {
   "lb": "d'Heemecht",
@@ -3261,7 +3496,8 @@
   "level": "B1",
   "category": "luxembourg",
   "ex_lb": "Lëtzebuerg ass meng Heemecht.",
-  "ex_en": "Luxembourg is my homeland."
+  "ex_en": "Luxembourg is my homeland.",
+  "lodId": "HEEMECHT1"
  },
  {
   "lb": "de Wee weisen",
@@ -3309,7 +3545,8 @@
   "level": "A1",
   "category": "travel",
   "ex_lb": "De Bus kënnt an zéng Minutten.",
-  "ex_en": "The bus comes in ten minutes."
+  "ex_en": "The bus comes in ten minutes.",
+  "lodId": "MINUTT1"
  },
  {
   "lb": "d'Stonn",
@@ -3321,7 +3558,8 @@
   "level": "A1",
   "category": "travel",
   "ex_lb": "D'Rees dauert eng Stonn.",
-  "ex_en": "The trip takes one hour."
+  "ex_en": "The trip takes one hour.",
+  "lodId": "STONN1"
  },
  {
   "lb": "séier",
@@ -3333,7 +3571,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "Den Zuch ass séier.",
-  "ex_en": "The train is fast."
+  "ex_en": "The train is fast.",
+  "lodId": "SEIER1"
  },
  {
   "lb": "lues",
@@ -3345,7 +3584,8 @@
   "level": "A1",
   "category": "transport",
   "ex_lb": "De Bus fiert lues.",
-  "ex_en": "The bus drives slowly."
+  "ex_en": "The bus drives slowly.",
+  "lodId": "LUES1"
  },
  {
   "lb": "direkt",
@@ -3357,7 +3597,8 @@
   "level": "A2",
   "category": "transport",
   "ex_lb": "Et gëtt en direkten Zuch op Bréissel.",
-  "ex_en": "There is a direct train to Brussels."
+  "ex_en": "There is a direct train to Brussels.",
+  "lodId": "DIREKT1"
  },
  {
   "lb": "Bréissel",
@@ -3369,7 +3610,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Bréissel ass d'Haaptstad vu België.",
-  "ex_en": "Brussels is the capital of Belgium."
+  "ex_en": "Brussels is the capital of Belgium.",
+  "lodId": "BREISSEL1"
  },
  {
   "lb": "Paräis",
@@ -3381,7 +3623,8 @@
   "level": "A1",
   "category": "city",
   "ex_lb": "Paräis ass eng grouss Stad.",
-  "ex_en": "Paris is a big city."
+  "ex_en": "Paris is a big city.",
+  "lodId": "PARAIS1"
  },
  {
   "lb": "Tréier",
@@ -3393,7 +3636,8 @@
   "level": "A2",
   "category": "city",
   "ex_lb": "Tréier läit no bei der Grenz.",
-  "ex_en": "Trier is near the border."
+  "ex_en": "Trier is near the border.",
+  "lodId": "TREIER1"
  },
  {
   "lb": "d'Awunner",
@@ -3405,7 +3649,8 @@
   "level": "B1",
   "category": "city",
   "ex_lb": "Lëtzebuerg huet sechs Honnert Dausend Awunner.",
-  "ex_en": "Luxembourg has six hundred thousand inhabitants."
+  "ex_en": "Luxembourg has six hundred thousand inhabitants.",
+  "lodId": "AWUNNER1"
  },
  {
   "lb": "d'Tunnel",
@@ -3417,7 +3662,8 @@
   "level": "B1",
   "category": "transport",
   "ex_lb": "Den Zuch fiert duerch den Tunnel.",
-  "ex_en": "The train goes through the tunnel."
+  "ex_en": "The train goes through the tunnel.",
+  "lodId": "TUNNEL1"
  },
  {
   "lb": "laanscht",
@@ -3429,7 +3675,8 @@
   "level": "B1",
   "category": "directions",
   "ex_lb": "Géi laanscht d'Kierch.",
-  "ex_en": "Go past the church."
+  "ex_en": "Go past the church.",
+  "lodId": "LAANSCHT1"
  },
  {
   "lb": "duerch",
@@ -3441,7 +3688,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Géi duerch de Park.",
-  "ex_en": "Go through the park."
+  "ex_en": "Go through the park.",
+  "lodId": "DUERCH3"
  },
  {
   "lb": "iwwer",
@@ -3453,7 +3701,8 @@
   "level": "A2",
   "category": "directions",
   "ex_lb": "Géi iwwer d'Bréck.",
-  "ex_en": "Go across the bridge."
+  "ex_en": "Go across the bridge.",
+  "lodId": "IWWER1"
  },
  {
   "lb": "bis",
@@ -3465,7 +3714,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Géi bis bei d'Ampel.",
-  "ex_en": "Go up to the traffic light."
+  "ex_en": "Go up to the traffic light.",
+  "lodId": "BIS1"
  },
  {
   "lb": "vun",
@@ -3477,7 +3727,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Vun hei ass et net wäit.",
-  "ex_en": "From here it is not far."
+  "ex_en": "From here it is not far.",
+  "lodId": "VUN1"
  },
  {
   "lb": "op",
@@ -3489,7 +3740,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Mir fueren op Lëtzebuerg.",
-  "ex_en": "We are going to Luxembourg."
+  "ex_en": "We are going to Luxembourg.",
+  "lodId": "OP2"
  },
  {
   "lb": "an",
@@ -3501,7 +3753,8 @@
   "level": "A1",
   "category": "directions",
   "ex_lb": "Ech ginn an d'Stad.",
-  "ex_en": "I am going into town."
+  "ex_en": "I am going into town.",
+  "lodId": "AN3"
  },
  {
   "lb": "mieden",

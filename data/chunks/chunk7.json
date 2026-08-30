@@ -9,7 +9,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech sinn midd.",
-  "ex_en": "I am tired."
+  "ex_en": "I am tired.",
+  "lodId": "SINN1"
  },
  {
   "lb": "hunn",
@@ -21,7 +22,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech hunn en Auto.",
-  "ex_en": "I have a car."
+  "ex_en": "I have a car.",
+  "lodId": "HUNN1"
  },
  {
   "lb": "goen",
@@ -33,7 +35,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Mir ginn an d'Stad.",
-  "ex_en": "We go to town."
+  "ex_en": "We go to town.",
+  "lodId": "GOEN1"
  },
  {
   "lb": "kommen",
@@ -45,7 +48,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Komm bei mech!",
-  "ex_en": "Come to me!"
+  "ex_en": "Come to me!",
+  "lodId": "KOMMEN1"
  },
  {
   "lb": "maachen",
@@ -57,7 +61,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Wat méchs du?",
-  "ex_en": "What are you doing?"
+  "ex_en": "What are you doing?",
+  "lodId": "MAACHEN1"
  },
  {
   "lb": "kucken",
@@ -69,7 +74,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech kucken den Film.",
-  "ex_en": "I watch the film."
+  "ex_en": "I watch the film.",
+  "lodId": "KUCKEN1"
  },
  {
   "lb": "schwätzen",
@@ -81,7 +87,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Mir schwätzen Lëtzebuergesch.",
-  "ex_en": "We speak Luxembourgish."
+  "ex_en": "We speak Luxembourgish.",
+  "lodId": "SCHWATZEN1"
  },
  {
   "lb": "soen",
@@ -93,7 +100,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Wat sees du?",
-  "ex_en": "What are you saying?"
+  "ex_en": "What are you saying?",
+  "lodId": "SOEN1"
  },
  {
   "lb": "wëssen",
@@ -105,7 +113,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech weess et net.",
-  "ex_en": "I don't know it."
+  "ex_en": "I don't know it.",
+  "lodId": "WESSEN2"
  },
  {
   "lb": "kennen",
@@ -117,7 +126,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech kennen hatt gutt.",
-  "ex_en": "I know her well."
+  "ex_en": "I know her well.",
+  "lodId": "KENNEN2"
  },
  {
   "lb": "gesinn",
@@ -129,7 +139,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech gesinn d'Haus.",
-  "ex_en": "I see the house."
+  "ex_en": "I see the house.",
+  "lodId": "GESINN1"
  },
  {
   "lb": "héieren",
@@ -141,7 +152,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Héiers du d'Musek?",
-  "ex_en": "Do you hear the music?"
+  "ex_en": "Do you hear the music?",
+  "lodId": "HEIEREN1"
  },
  {
   "lb": "liesen",
@@ -153,7 +165,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech liesen e Buch.",
-  "ex_en": "I read a book."
+  "ex_en": "I read a book.",
+  "lodId": "LIESEN1"
  },
  {
   "lb": "schreiwen",
@@ -165,7 +178,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech schreiwen e Bréif.",
-  "ex_en": "I write a letter."
+  "ex_en": "I write a letter.",
+  "lodId": "SCHREIWEN1"
  },
  {
   "lb": "iessen",
@@ -177,7 +191,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Mir iessen elo.",
-  "ex_en": "We eat now."
+  "ex_en": "We eat now.",
+  "lodId": "IESSEN3"
  },
  {
   "lb": "drénken",
@@ -189,7 +204,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech drénken Waasser.",
-  "ex_en": "I drink water."
+  "ex_en": "I drink water.",
+  "lodId": "DRENKEN1"
  },
  {
   "lb": "schlofen",
@@ -201,7 +217,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "D'Kand schléift.",
-  "ex_en": "The child is sleeping."
+  "ex_en": "The child is sleeping.",
+  "lodId": "SCHLOFEN1"
  },
  {
   "lb": "schaffen",
@@ -213,7 +230,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech schaffen zu Lëtzebuerg.",
-  "ex_en": "I work in Luxembourg."
+  "ex_en": "I work in Luxembourg.",
+  "lodId": "SCHAFFEN3"
  },
  {
   "lb": "spillen",
@@ -225,7 +243,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "D'Kanner spillen am Gaart.",
-  "ex_en": "The children play in the garden."
+  "ex_en": "The children play in the garden.",
+  "lodId": "SPILLEN1"
  },
  {
   "lb": "léieren",
@@ -237,7 +256,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech léieren Lëtzebuergesch.",
-  "ex_en": "I learn Luxembourgish."
+  "ex_en": "I learn Luxembourgish.",
+  "lodId": "LEIEREN2"
  },
  {
   "lb": "verstoen",
@@ -249,7 +269,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech verstinn dech net.",
-  "ex_en": "I don't understand you."
+  "ex_en": "I don't understand you.",
+  "lodId": "VERSTOEN1"
  },
  {
   "lb": "froen",
@@ -261,7 +282,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech froen de Léierer.",
-  "ex_en": "I ask the teacher."
+  "ex_en": "I ask the teacher.",
+  "lodId": "FROEN1"
  },
  {
   "lb": "äntweren",
@@ -273,7 +295,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Hatt äntwert net.",
-  "ex_en": "She doesn't answer."
+  "ex_en": "She doesn't answer.",
+  "lodId": "ANTWEREN1"
  },
  {
   "lb": "hëllefen",
@@ -285,7 +308,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Kanns du mer hëllefen?",
-  "ex_en": "Can you help me?"
+  "ex_en": "Can you help me?",
+  "lodId": "HELLEFEN1"
  },
  {
   "lb": "kafen",
@@ -297,7 +321,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech kafen Brout.",
-  "ex_en": "I buy bread."
+  "ex_en": "I buy bread.",
+  "lodId": "KAFEN1"
  },
  {
   "lb": "verkafen",
@@ -309,7 +334,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Si verkafen den Auto.",
-  "ex_en": "They sell the car."
+  "ex_en": "They sell the car.",
+  "lodId": "VERKAFEN1"
  },
  {
   "lb": "bezuelen",
@@ -321,7 +347,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech bezuelen mat der Kaart.",
-  "ex_en": "I pay by card."
+  "ex_en": "I pay by card.",
+  "lodId": "BEZUELEN1"
  },
  {
   "lb": "huelen",
@@ -333,7 +360,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech huelen den Zuch.",
-  "ex_en": "I take the train."
+  "ex_en": "I take the train.",
+  "lodId": "HUELEN1"
  },
  {
   "lb": "ginn",
@@ -345,7 +373,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Gëff mer d'Buch.",
-  "ex_en": "Give me the book."
+  "ex_en": "Give me the book.",
+  "lodId": "GINN1"
  },
  {
   "lb": "bréngen",
@@ -357,7 +386,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Bréng mer e Glas Waasser.",
-  "ex_en": "Bring me a glass of water."
+  "ex_en": "Bring me a glass of water.",
+  "lodId": "BRENGEN1"
  },
  {
   "lb": "fueren",
@@ -369,7 +399,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Mir fueren op Paräis.",
-  "ex_en": "We drive to Paris."
+  "ex_en": "We drive to Paris.",
+  "lodId": "FUEREN1"
  },
  {
   "lb": "flunn",
@@ -393,7 +424,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Hie leeft ganz séier.",
-  "ex_en": "He runs very fast."
+  "ex_en": "He runs very fast.",
+  "lodId": "LAFEN1"
  },
  {
   "lb": "stoen",
@@ -405,7 +437,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech stinn un der Dier.",
-  "ex_en": "I stand at the door."
+  "ex_en": "I stand at the door.",
+  "lodId": "STOEN1"
  },
  {
   "lb": "sëtzen",
@@ -417,7 +450,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Mir sëtzen um Dësch.",
-  "ex_en": "We sit at the table."
+  "ex_en": "We sit at the table.",
+  "lodId": "SETZEN1"
  },
  {
   "lb": "leien",
@@ -429,7 +463,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "D'Buch läit um Dësch.",
-  "ex_en": "The book lies on the table."
+  "ex_en": "The book lies on the table.",
+  "lodId": "LEIEN2"
  },
  {
   "lb": "setzen",
@@ -441,7 +476,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Setz dech hei.",
-  "ex_en": "Sit down here."
+  "ex_en": "Sit down here.",
+  "lodId": "SETZEN2"
  },
  {
   "lb": "opstoen",
@@ -453,7 +489,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech stinn fréi op.",
-  "ex_en": "I get up early."
+  "ex_en": "I get up early.",
+  "lodId": "OPSTOEN2"
  },
  {
   "lb": "opmaachen",
@@ -465,7 +502,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Maach d'Fënster op.",
-  "ex_en": "Open the window."
+  "ex_en": "Open the window.",
+  "lodId": "OPMAACHEN1"
  },
  {
   "lb": "zoumaachen",
@@ -477,7 +515,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Maach d'Dier zou.",
-  "ex_en": "Close the door."
+  "ex_en": "Close the door.",
+  "lodId": "ZOUMAACHEN1"
  },
  {
   "lb": "ufänken",
@@ -489,7 +528,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "De Film fänkt un.",
-  "ex_en": "The film begins."
+  "ex_en": "The film begins.",
+  "lodId": "UFANKEN1"
  },
  {
   "lb": "ophalen",
@@ -501,7 +541,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Hal op ze schwätzen!",
-  "ex_en": "Stop talking!"
+  "ex_en": "Stop talking!",
+  "lodId": "OPHALEN1"
  },
  {
   "lb": "bleiwen",
@@ -513,7 +554,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech bleiwen doheem.",
-  "ex_en": "I stay at home."
+  "ex_en": "I stay at home.",
+  "lodId": "BLEIWEN1"
  },
  {
   "lb": "wunnen",
@@ -525,7 +567,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech wunnen zu Lëtzebuerg.",
-  "ex_en": "I live in Luxembourg."
+  "ex_en": "I live in Luxembourg.",
+  "lodId": "WUNNEN1"
  },
  {
   "lb": "liewen",
@@ -537,7 +580,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Si liewen zesummen.",
-  "ex_en": "They live together."
+  "ex_en": "They live together.",
+  "lodId": "LIEWEN2"
  },
  {
   "lb": "waarden",
@@ -549,7 +593,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Waart op mech!",
-  "ex_en": "Wait for me!"
+  "ex_en": "Wait for me!",
+  "lodId": "WAARDEN1"
  },
  {
   "lb": "sichen",
@@ -561,7 +606,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech sichen mäi Schlëssel.",
-  "ex_en": "I'm looking for my key."
+  "ex_en": "I'm looking for my key.",
+  "lodId": "SICHEN1"
  },
  {
   "lb": "fannen",
@@ -573,7 +619,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech fannen d'Buch net.",
-  "ex_en": "I can't find the book."
+  "ex_en": "I can't find the book.",
+  "lodId": "FANNEN1"
  },
  {
   "lb": "verléieren",
@@ -585,7 +632,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech verléieren ëmmer alles.",
-  "ex_en": "I always lose everything."
+  "ex_en": "I always lose everything.",
+  "lodId": "VERLEIEREN1"
  },
  {
   "lb": "gewannen",
@@ -597,7 +645,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Mir gewannen d'Spill.",
-  "ex_en": "We win the game."
+  "ex_en": "We win the game.",
+  "lodId": "GEWANNEN1"
  },
  {
   "lb": "denken",
@@ -609,7 +658,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech denken un dech.",
-  "ex_en": "I think of you."
+  "ex_en": "I think of you.",
+  "lodId": "DENKEN1"
  },
  {
   "lb": "mengen",
@@ -621,7 +671,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Wat méngs du?",
-  "ex_en": "What do you mean?"
+  "ex_en": "What do you mean?",
+  "lodId": "MENGEN1"
  },
  {
   "lb": "gleewen",
@@ -633,7 +684,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech gleewen dir.",
-  "ex_en": "I believe you."
+  "ex_en": "I believe you.",
+  "lodId": "GLEEWEN1"
  },
  {
   "lb": "hoffen",
@@ -645,7 +697,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech hoffen et reent net.",
-  "ex_en": "I hope it doesn't rain."
+  "ex_en": "I hope it doesn't rain.",
+  "lodId": "HOFFEN1"
  },
  {
   "lb": "brauchen",
@@ -657,7 +710,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech brauchen Hëllef.",
-  "ex_en": "I need help."
+  "ex_en": "I need help.",
+  "lodId": "BRAUCHEN1"
  },
  {
   "lb": "gefalen",
@@ -669,7 +723,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Dat gefält mer gutt.",
-  "ex_en": "I like that a lot."
+  "ex_en": "I like that a lot.",
+  "lodId": "GEFALEN1"
  },
  {
   "lb": "gär hunn",
@@ -705,7 +760,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "Ech hu mech verléift.",
-  "ex_en": "I fell in love."
+  "ex_en": "I fell in love.",
+  "lodId": "VERLEIWEN1"
  },
  {
   "lb": "laachen",
@@ -717,7 +773,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "D'Kanner laachen.",
-  "ex_en": "The children laugh."
+  "ex_en": "The children laugh.",
+  "lodId": "LAACHEN1"
  },
  {
   "lb": "kräischen",
@@ -729,7 +786,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "D'Bëbé kräischt.",
-  "ex_en": "The baby cries."
+  "ex_en": "The baby cries.",
+  "lodId": "KRAISCHEN1"
  },
  {
   "lb": "sangen",
@@ -741,7 +799,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Mir sangen e Lidd.",
-  "ex_en": "We sing a song."
+  "ex_en": "We sing a song.",
+  "lodId": "SANGEN1"
  },
  {
   "lb": "danzen",
@@ -753,7 +812,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Si danzen zesummen.",
-  "ex_en": "They dance together."
+  "ex_en": "They dance together.",
+  "lodId": "DANZEN1"
  },
  {
   "lb": "kachen",
@@ -765,7 +825,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech kachen d'Iessen.",
-  "ex_en": "I cook the meal."
+  "ex_en": "I cook the meal.",
+  "lodId": "KACHEN2"
  },
  {
   "lb": "botzen",
@@ -777,7 +838,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech botzen d'Kichen.",
-  "ex_en": "I clean the kitchen."
+  "ex_en": "I clean the kitchen.",
+  "lodId": "BOTZEN1"
  },
  {
   "lb": "wäschen",
@@ -789,7 +851,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech wäschen meng Hänn.",
-  "ex_en": "I wash my hands."
+  "ex_en": "I wash my hands.",
+  "lodId": "WASCHEN1"
  },
  {
   "lb": "reesen",
@@ -801,7 +864,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Mir reesen vill.",
-  "ex_en": "We travel a lot."
+  "ex_en": "We travel a lot.",
+  "lodId": "REESEN1"
  },
  {
   "lb": "vergiessen",
@@ -813,7 +877,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech vergiessen ëmmer säin Numm.",
-  "ex_en": "I always forget his name."
+  "ex_en": "I always forget his name.",
+  "lodId": "VERGIESSEN1"
  },
  {
   "lb": "erënneren",
@@ -825,7 +890,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "Ech erënneren mech drun.",
-  "ex_en": "I remember it."
+  "ex_en": "I remember it.",
+  "lodId": "ERENNEREN1"
  },
  {
   "lb": "änneren",
@@ -837,7 +903,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "Ech wëll alles änneren.",
-  "ex_en": "I want to change everything."
+  "ex_en": "I want to change everything.",
+  "lodId": "ANNEREN1"
  },
  {
   "lb": "probéieren",
@@ -849,7 +916,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Probéier et nach eng Kéier.",
-  "ex_en": "Try it again."
+  "ex_en": "Try it again.",
+  "lodId": "PROBEIEREN1"
  },
  {
   "lb": "benotzen",
@@ -861,7 +929,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech benotzen de Computer.",
-  "ex_en": "I use the computer."
+  "ex_en": "I use the computer.",
+  "lodId": "BENOTZEN1"
  },
  {
   "lb": "opruffen",
@@ -873,7 +942,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech ruffen dech muer op.",
-  "ex_en": "I'll call you tomorrow."
+  "ex_en": "I'll call you tomorrow.",
+  "lodId": "OPRUFFEN1"
  },
  {
   "lb": "schécken",
@@ -885,7 +955,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech schécken eng Mail.",
-  "ex_en": "I send an email."
+  "ex_en": "I send an email.",
+  "lodId": "SCHECKEN1"
  },
  {
   "lb": "kréien",
@@ -897,7 +968,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech kréien e Cadeau.",
-  "ex_en": "I get a present."
+  "ex_en": "I get a present.",
+  "lodId": "KREIEN1"
  },
  {
   "lb": "weisen",
@@ -909,7 +981,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Weis mer de Wee.",
-  "ex_en": "Show me the way."
+  "ex_en": "Show me the way.",
+  "lodId": "WEISEN1"
  },
  {
   "lb": "erzielen",
@@ -921,7 +994,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Erziel mer eng Geschicht.",
-  "ex_en": "Tell me a story."
+  "ex_en": "Tell me a story.",
+  "lodId": "ERZIELEN1"
  },
  {
   "lb": "kënnen",
@@ -933,7 +1007,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech kann schwammen.",
-  "ex_en": "I can swim."
+  "ex_en": "I can swim.",
+  "lodId": "KENNEN1"
  },
  {
   "lb": "mussen",
@@ -945,7 +1020,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech muss elo goen.",
-  "ex_en": "I must go now."
+  "ex_en": "I must go now.",
+  "lodId": "MUSSEN1"
  },
  {
   "lb": "wëllen",
@@ -957,7 +1033,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Ech wëll Kaffi.",
-  "ex_en": "I want coffee."
+  "ex_en": "I want coffee.",
+  "lodId": "WELLEN1"
  },
  {
   "lb": "sollen",
@@ -969,7 +1046,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Du solls méi schlofen.",
-  "ex_en": "You should sleep more."
+  "ex_en": "You should sleep more.",
+  "lodId": "SOLLEN1"
  },
  {
   "lb": "däerfen",
@@ -981,7 +1059,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Däerf ech eran?",
-  "ex_en": "May I come in?"
+  "ex_en": "May I come in?",
+  "lodId": "DAERFEN1"
  },
  {
   "lb": "ech",
@@ -993,7 +1072,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Ech sinn doheem.",
-  "ex_en": "I am at home."
+  "ex_en": "I am at home.",
+  "lodId": "ECH1"
  },
  {
   "lb": "du",
@@ -1005,7 +1085,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Du bass nett.",
-  "ex_en": "You are nice."
+  "ex_en": "You are nice.",
+  "lodId": "DU2"
  },
  {
   "lb": "hien",
@@ -1017,7 +1098,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Hien ass mäi Brudder.",
-  "ex_en": "He is my brother."
+  "ex_en": "He is my brother.",
+  "lodId": "HIEN1"
  },
  {
   "lb": "si",
@@ -1029,7 +1111,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Si ass meng Schwëster.",
-  "ex_en": "She is my sister."
+  "ex_en": "She is my sister.",
+  "lodId": "SI1"
  },
  {
   "lb": "hatt",
@@ -1041,7 +1124,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Hatt ass meng Frëndin.",
-  "ex_en": "She is my friend."
+  "ex_en": "She is my friend.",
+  "lodId": "HATT2"
  },
  {
   "lb": "et",
@@ -1053,7 +1137,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Et reent haut.",
-  "ex_en": "It is raining today."
+  "ex_en": "It is raining today.",
+  "lodId": "ET1"
  },
  {
   "lb": "mir",
@@ -1065,7 +1150,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Mir ginn heem.",
-  "ex_en": "We go home."
+  "ex_en": "We go home.",
+  "lodId": "MIR1"
  },
  {
   "lb": "dir",
@@ -1077,7 +1163,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Wou wunnt Dir?",
-  "ex_en": "Where do you live?"
+  "ex_en": "Where do you live?",
+  "lodId": "DIR1"
  },
  {
   "lb": "mech",
@@ -1089,7 +1176,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Kuck mech un.",
-  "ex_en": "Look at me."
+  "ex_en": "Look at me.",
+  "lodId": "MECH1"
  },
  {
   "lb": "dech",
@@ -1101,7 +1189,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Ech gesinn dech.",
-  "ex_en": "I see you."
+  "ex_en": "I see you.",
+  "lodId": "DECH1"
  },
  {
   "lb": "eis",
@@ -1113,7 +1202,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Hëllef eis wann ech gelift.",
-  "ex_en": "Help us please."
+  "ex_en": "Help us please.",
+  "lodId": "EIS1"
  },
  {
   "lb": "iech",
@@ -1125,7 +1215,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Ech soen iech alles.",
-  "ex_en": "I tell you everything."
+  "ex_en": "I tell you everything.",
+  "lodId": "IECH1"
  },
  {
   "lb": "mäin",
@@ -1137,7 +1228,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Dat ass mäin Auto.",
-  "ex_en": "That is my car."
+  "ex_en": "That is my car.",
+  "lodId": "MAIN1"
  },
  {
   "lb": "däin",
@@ -1149,7 +1241,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Wou ass däin Heem?",
-  "ex_en": "Where is your home?"
+  "ex_en": "Where is your home?",
+  "lodId": "DAIN1"
  },
  {
   "lb": "säin",
@@ -1161,7 +1254,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Dat ass säin Hond.",
-  "ex_en": "That is his dog."
+  "ex_en": "That is his dog.",
+  "lodId": "SAIN1"
  },
  {
   "lb": "hir",
@@ -1173,7 +1267,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Dat ass hir Famill.",
-  "ex_en": "That is her family."
+  "ex_en": "That is her family.",
+  "lodId": "HIR2"
  },
  {
   "lb": "eisen",
@@ -1185,7 +1280,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Dat ass eisen Hond.",
-  "ex_en": "That is our dog."
+  "ex_en": "That is our dog.",
+  "lodId": "EISEN3"
  },
  {
   "lb": "ären",
@@ -1197,7 +1293,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Wou ass ären Auto?",
-  "ex_en": "Where is your car?"
+  "ex_en": "Where is your car?",
+  "lodId": "AREN1"
  },
  {
   "lb": "dësen",
@@ -1209,7 +1306,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Dësen Apel ass gutt.",
-  "ex_en": "This apple is good."
+  "ex_en": "This apple is good.",
+  "lodId": "DESEN1"
  },
  {
   "lb": "deen",
@@ -1221,7 +1319,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Deen do gefält mer.",
-  "ex_en": "I like that one."
+  "ex_en": "I like that one.",
+  "lodId": "DEEN1"
  },
  {
   "lb": "alles",
@@ -1233,7 +1332,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Alles ass gutt.",
-  "ex_en": "Everything is fine."
+  "ex_en": "Everything is fine.",
+  "lodId": "ALLES1"
  },
  {
   "lb": "näischt",
@@ -1245,7 +1345,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Ech gesinn näischt.",
-  "ex_en": "I see nothing."
+  "ex_en": "I see nothing.",
+  "lodId": "NAISCHT1"
  },
  {
   "lb": "eppes",
@@ -1257,7 +1358,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Ech wëll eppes iessen.",
-  "ex_en": "I want to eat something."
+  "ex_en": "I want to eat something.",
+  "lodId": "EPPES1"
  },
  {
   "lb": "jiddereen",
@@ -1269,7 +1371,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Jiddereen ass do.",
-  "ex_en": "Everyone is here."
+  "ex_en": "Everyone is here.",
+  "lodId": "JIDDEREEN1"
  },
  {
   "lb": "keen",
@@ -1281,7 +1384,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "Keen ass doheem.",
-  "ex_en": "Nobody is at home."
+  "ex_en": "Nobody is at home.",
+  "lodId": "KEEN1"
  },
  {
   "lb": "een",
@@ -1293,7 +1397,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Do ass een un der Dier.",
-  "ex_en": "There is someone at the door."
+  "ex_en": "There is someone at the door.",
+  "lodId": "EEN1"
  },
  {
   "lb": "sech",
@@ -1305,7 +1410,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Hie wäscht sech.",
-  "ex_en": "He washes himself."
+  "ex_en": "He washes himself.",
+  "lodId": "SECH1"
  },
  {
   "lb": "wien",
@@ -1317,7 +1423,8 @@
   "level": "A1",
   "category": "question",
   "ex_lb": "Wien ass dat?",
-  "ex_en": "Who is that?"
+  "ex_en": "Who is that?",
+  "lodId": "WIEN1"
  },
  {
   "lb": "wat",
@@ -1329,7 +1436,8 @@
   "level": "A1",
   "category": "question",
   "ex_lb": "Wat ass dat?",
-  "ex_en": "What is that?"
+  "ex_en": "What is that?",
+  "lodId": "WAT1"
  },
  {
   "lb": "wou",
@@ -1341,7 +1449,8 @@
   "level": "A1",
   "category": "question",
   "ex_lb": "Wou bass du?",
-  "ex_en": "Where are you?"
+  "ex_en": "Where are you?",
+  "lodId": "WOU1"
  },
  {
   "lb": "wéini",
@@ -1353,7 +1462,8 @@
   "level": "A1",
   "category": "question",
   "ex_lb": "Wéini kënns du?",
-  "ex_en": "When do you come?"
+  "ex_en": "When do you come?",
+  "lodId": "WEINI1"
  },
  {
   "lb": "firwat",
@@ -1365,7 +1475,8 @@
   "level": "A1",
   "category": "question",
   "ex_lb": "Firwat laachs du?",
-  "ex_en": "Why are you laughing?"
+  "ex_en": "Why are you laughing?",
+  "lodId": "FIRWAT1"
  },
  {
   "lb": "wéi",
@@ -1377,7 +1488,8 @@
   "level": "A1",
   "category": "question",
   "ex_lb": "Wéi geet et dir?",
-  "ex_en": "How are you?"
+  "ex_en": "How are you?",
+  "lodId": "WEI1"
  },
  {
   "lb": "wéivill",
@@ -1413,7 +1525,8 @@
   "level": "A2",
   "category": "question",
   "ex_lb": "Wouhin geet Dir?",
-  "ex_en": "Where are you going?"
+  "ex_en": "Where are you going?",
+  "lodId": "WOUHIN1"
  },
  {
   "lb": "a",
@@ -1425,7 +1538,8 @@
   "level": "A1",
   "category": "conjunction",
   "ex_lb": "Brout a Botter.",
-  "ex_en": "Bread and butter."
+  "ex_en": "Bread and butter.",
+  "lodId": "A1"
  },
  {
   "lb": "oder",
@@ -1437,7 +1551,8 @@
   "level": "A1",
   "category": "conjunction",
   "ex_lb": "Kaffi oder Téi?",
-  "ex_en": "Coffee or tea?"
+  "ex_en": "Coffee or tea?",
+  "lodId": "ODER2"
  },
  {
   "lb": "awer",
@@ -1449,7 +1564,8 @@
   "level": "A1",
   "category": "conjunction",
   "ex_lb": "Et ass schéin, awer kal.",
-  "ex_en": "It is nice, but cold."
+  "ex_en": "It is nice, but cold.",
+  "lodId": "AWER2"
  },
  {
   "lb": "mä",
@@ -1461,7 +1577,8 @@
   "level": "A1",
   "category": "conjunction",
   "ex_lb": "Ech wëll, mä ech kann net.",
-  "ex_en": "I want to, but I can't."
+  "ex_en": "I want to, but I can't.",
+  "lodId": "MA1"
  },
  {
   "lb": "well",
@@ -1473,7 +1590,8 @@
   "level": "A1",
   "category": "conjunction",
   "ex_lb": "Ech bleiwen doheem, well et reent.",
-  "ex_en": "I stay home because it rains."
+  "ex_en": "I stay home because it rains.",
+  "lodId": "WELL2"
  },
  {
   "lb": "datt",
@@ -1485,7 +1603,8 @@
   "level": "A2",
   "category": "conjunction",
   "ex_lb": "Ech weess, datt du do bass.",
-  "ex_en": "I know that you are there."
+  "ex_en": "I know that you are there.",
+  "lodId": "DATT1"
  },
  {
   "lb": "wann",
@@ -1497,7 +1616,8 @@
   "level": "A1",
   "category": "conjunction",
   "ex_lb": "Wann et reent, bleiwen ech doheem.",
-  "ex_en": "If it rains, I stay home."
+  "ex_en": "If it rains, I stay home.",
+  "lodId": "WANN2"
  },
  {
   "lb": "ob",
@@ -1509,7 +1629,8 @@
   "level": "A2",
   "category": "conjunction",
   "ex_lb": "Ech weess net, ob hie kënnt.",
-  "ex_en": "I don't know whether he comes."
+  "ex_en": "I don't know whether he comes.",
+  "lodId": "OB1"
  },
  {
   "lb": "obwuel",
@@ -1521,7 +1642,8 @@
   "level": "B1",
   "category": "conjunction",
   "ex_lb": "Obwuel et reent, gi mer.",
-  "ex_en": "Although it rains, we go."
+  "ex_en": "Although it rains, we go.",
+  "lodId": "OBWUEL1"
  },
  {
   "lb": "während",
@@ -1545,7 +1667,8 @@
   "level": "A1",
   "category": "article",
   "ex_lb": "Den Hond bellt.",
-  "ex_en": "The dog barks."
+  "ex_en": "The dog barks.",
+  "lodId": "DEN1"
  },
  {
   "lb": "d'",
@@ -1557,7 +1680,8 @@
   "level": "A1",
   "category": "article",
   "ex_lb": "D'Kaz schléift.",
-  "ex_en": "The cat sleeps."
+  "ex_en": "The cat sleeps.",
+  "lodId": "D1"
  },
  {
   "lb": "de",
@@ -1569,7 +1693,8 @@
   "level": "A1",
   "category": "article",
   "ex_lb": "De Mann schafft.",
-  "ex_en": "The man works."
+  "ex_en": "The man works.",
+  "lodId": "DE1"
  },
  {
   "lb": "en",
@@ -1581,7 +1706,8 @@
   "level": "A1",
   "category": "article",
   "ex_lb": "En Hond leeft do.",
-  "ex_en": "A dog runs there."
+  "ex_en": "A dog runs there.",
+  "lodId": "EN1"
  },
  {
   "lb": "eng",
@@ -1593,7 +1719,8 @@
   "level": "A1",
   "category": "article",
   "ex_lb": "Eng Fra steet do.",
-  "ex_en": "A woman stands there."
+  "ex_en": "A woman stands there.",
+  "lodId": "ENG1"
  },
  {
   "lb": "engem",
@@ -1605,7 +1732,8 @@
   "level": "A2",
   "category": "article",
   "ex_lb": "Ech hëllefen engem Frënd.",
-  "ex_en": "I help a friend."
+  "ex_en": "I help a friend.",
+  "lodId": "ENGEM1"
  },
  {
   "lb": "an",
@@ -1617,7 +1745,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Ech sinn an der Schoul.",
-  "ex_en": "I am in school."
+  "ex_en": "I am in school.",
+  "lodId": "AN3"
  },
  {
   "lb": "op",
@@ -1629,7 +1758,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "D'Buch läit op dem Dësch.",
-  "ex_en": "The book is on the table."
+  "ex_en": "The book is on the table.",
+  "lodId": "OP2"
  },
  {
   "lb": "ënner",
@@ -1641,7 +1771,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "D'Kaz ass ënner dem Bett.",
-  "ex_en": "The cat is under the bed."
+  "ex_en": "The cat is under the bed.",
+  "lodId": "ENNER1"
  },
  {
   "lb": "iwwer",
@@ -1653,7 +1784,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "Mir schwätzen iwwer d'Reesen.",
-  "ex_en": "We talk about travelling."
+  "ex_en": "We talk about travelling.",
+  "lodId": "IWWER1"
  },
  {
   "lb": "virun",
@@ -1665,7 +1797,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "Ech waarden virun der Dier.",
-  "ex_en": "I wait in front of the door."
+  "ex_en": "I wait in front of the door.",
+  "lodId": "VIRUN1"
  },
  {
   "lb": "hannert",
@@ -1677,7 +1810,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "De Gaart ass hannert dem Haus.",
-  "ex_en": "The garden is behind the house."
+  "ex_en": "The garden is behind the house.",
+  "lodId": "HANNERT1"
  },
  {
   "lb": "niewent",
@@ -1689,7 +1823,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "Hie sëtzt niewent mir.",
-  "ex_en": "He sits next to me."
+  "ex_en": "He sits next to me.",
+  "lodId": "NIEWENT1"
  },
  {
   "lb": "tëscht",
@@ -1701,7 +1836,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "Tëscht den zwee Haiser.",
-  "ex_en": "Between the two houses."
+  "ex_en": "Between the two houses.",
+  "lodId": "TESCHT1"
  },
  {
   "lb": "bei",
@@ -1713,7 +1849,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Ech sinn bei mengem Frënd.",
-  "ex_en": "I am at my friend's."
+  "ex_en": "I am at my friend's.",
+  "lodId": "BEI2"
  },
  {
   "lb": "mat",
@@ -1725,7 +1862,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Ech kommen mat dir.",
-  "ex_en": "I come with you."
+  "ex_en": "I come with you.",
+  "lodId": "MAT1"
  },
  {
   "lb": "ouni",
@@ -1737,7 +1875,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Kaffi ouni Zocker.",
-  "ex_en": "Coffee without sugar."
+  "ex_en": "Coffee without sugar.",
+  "lodId": "OUNI1"
  },
  {
   "lb": "vun",
@@ -1749,7 +1888,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Ech kommen vun der Aarbecht.",
-  "ex_en": "I come from work."
+  "ex_en": "I come from work.",
+  "lodId": "VUN1"
  },
  {
   "lb": "zu",
@@ -1761,7 +1901,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Ech wunnen zu Lëtzebuerg.",
-  "ex_en": "I live in Luxembourg."
+  "ex_en": "I live in Luxembourg.",
+  "lodId": "ZU1"
  },
  {
   "lb": "no",
@@ -1773,7 +1914,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "No der Schoul gi mer heem.",
-  "ex_en": "After school we go home."
+  "ex_en": "After school we go home.",
+  "lodId": "NO1"
  },
  {
   "lb": "fir",
@@ -1785,7 +1927,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Dëse Cadeau ass fir dech.",
-  "ex_en": "This gift is for you."
+  "ex_en": "This gift is for you.",
+  "lodId": "FIR2"
  },
  {
   "lb": "géint",
@@ -1797,7 +1940,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "Mir spillen géint hinnen.",
-  "ex_en": "We play against them."
+  "ex_en": "We play against them.",
+  "lodId": "GEINT1"
  },
  {
   "lb": "duerch",
@@ -1809,7 +1953,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "Mir ginn duerch de Park.",
-  "ex_en": "We go through the park."
+  "ex_en": "We go through the park.",
+  "lodId": "DUERCH3"
  },
  {
   "lb": "ëm",
@@ -1821,7 +1966,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Ech kommen ëm aacht Auer.",
-  "ex_en": "I come at eight o'clock."
+  "ex_en": "I come at eight o'clock.",
+  "lodId": "EM2"
  },
  {
   "lb": "bis",
@@ -1833,7 +1979,8 @@
   "level": "A1",
   "category": "preposition",
   "ex_lb": "Bis muer!",
-  "ex_en": "See you tomorrow!"
+  "ex_en": "See you tomorrow!",
+  "lodId": "BIS1"
  },
  {
   "lb": "säit",
@@ -1845,7 +1992,8 @@
   "level": "A2",
   "category": "preposition",
   "ex_lb": "Ech wunnen hei säit 2010.",
-  "ex_en": "I have lived here since 2010."
+  "ex_en": "I have lived here since 2010.",
+  "lodId": "SAIT2"
  },
  {
   "lb": "wärend",
@@ -1857,7 +2005,8 @@
   "level": "B1",
   "category": "preposition",
   "ex_lb": "Wärend dem Dag schaffen ech.",
-  "ex_en": "During the day I work."
+  "ex_en": "During the day I work.",
+  "lodId": "WAREND1"
  },
  {
   "lb": "trotz",
@@ -1869,7 +2018,8 @@
   "level": "B1",
   "category": "preposition",
   "ex_lb": "Trotz dem Reen gi mer.",
-  "ex_en": "Despite the rain we go."
+  "ex_en": "Despite the rain we go.",
+  "lodId": "TROTZ2"
  },
  {
   "lb": "wéinst",
@@ -1881,7 +2031,8 @@
   "level": "B1",
   "category": "preposition",
   "ex_lb": "Wéinst dem Wieder bleiwe mer.",
-  "ex_en": "Because of the weather we stay."
+  "ex_en": "Because of the weather we stay.",
+  "lodId": "WEINST1"
  },
  {
   "lb": "null",
@@ -1893,7 +2044,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "D'Temperatur ass null Grad.",
-  "ex_en": "The temperature is zero degrees."
+  "ex_en": "The temperature is zero degrees.",
+  "lodId": "NULL2"
  },
  {
   "lb": "eent",
@@ -1905,7 +2057,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Ech hunn nëmmen eent.",
-  "ex_en": "I have only one."
+  "ex_en": "I have only one.",
+  "lodId": "EENT2"
  },
  {
   "lb": "zwee",
@@ -1917,7 +2070,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Ech hunn zwee Kanner.",
-  "ex_en": "I have two children."
+  "ex_en": "I have two children.",
+  "lodId": "ZWEE2"
  },
  {
   "lb": "dräi",
@@ -1929,7 +2083,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Et ass dräi Auer.",
-  "ex_en": "It is three o'clock."
+  "ex_en": "It is three o'clock.",
+  "lodId": "DRAI1"
  },
  {
   "lb": "véier",
@@ -1941,7 +2096,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Mir si véier am Team.",
-  "ex_en": "We are four in the team."
+  "ex_en": "We are four in the team.",
+  "lodId": "VEIER1"
  },
  {
   "lb": "fënnef",
@@ -1953,7 +2109,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Ech hu fënnef Euro.",
-  "ex_en": "I have five euros."
+  "ex_en": "I have five euros.",
+  "lodId": "FENNEF1"
  },
  {
   "lb": "sechs",
@@ -1965,7 +2122,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Et ass sechs Auer.",
-  "ex_en": "It is six o'clock."
+  "ex_en": "It is six o'clock.",
+  "lodId": "SECHS1"
  },
  {
   "lb": "siwen",
@@ -1977,7 +2135,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "D'Woch huet siwen Deeg.",
-  "ex_en": "The week has seven days."
+  "ex_en": "The week has seven days.",
+  "lodId": "SIWEN1"
  },
  {
   "lb": "aacht",
@@ -1989,7 +2148,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Ech schaffen aacht Stonnen.",
-  "ex_en": "I work eight hours."
+  "ex_en": "I work eight hours.",
+  "lodId": "AACHT1"
  },
  {
   "lb": "néng",
@@ -2001,7 +2161,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Hatt ass néng Joer al.",
-  "ex_en": "She is nine years old."
+  "ex_en": "She is nine years old.",
+  "lodId": "NENG1"
  },
  {
   "lb": "zéng",
@@ -2013,7 +2174,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Ech hunn zéng Fanger.",
-  "ex_en": "I have ten fingers."
+  "ex_en": "I have ten fingers.",
+  "lodId": "ZENG1"
  },
  {
   "lb": "eelef",
@@ -2025,7 +2187,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Et ass eelef Auer.",
-  "ex_en": "It is eleven o'clock."
+  "ex_en": "It is eleven o'clock.",
+  "lodId": "EELEF1"
  },
  {
   "lb": "zwielef",
@@ -2037,7 +2200,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "D'Joer huet zwielef Méint.",
-  "ex_en": "The year has twelve months."
+  "ex_en": "The year has twelve months.",
+  "lodId": "ZWIELEF1"
  },
  {
   "lb": "dräizéng",
@@ -2049,7 +2213,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Hie wunnt op Nummer dräizéng.",
-  "ex_en": "He lives at number thirteen."
+  "ex_en": "He lives at number thirteen.",
+  "lodId": "DRAIZENG1"
  },
  {
   "lb": "véierzéng",
@@ -2061,7 +2226,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "An véierzéng Deeg.",
-  "ex_en": "In fourteen days."
+  "ex_en": "In fourteen days.",
+  "lodId": "VEIERZENG1"
  },
  {
   "lb": "fofzéng",
@@ -2073,7 +2239,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Et ass Véirel op fofzéng.",
-  "ex_en": "It is fifteen past."
+  "ex_en": "It is fifteen past.",
+  "lodId": "FOFZENG1"
  },
  {
   "lb": "siechzéng",
@@ -2085,7 +2252,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Hatt ass siechzéng Joer al.",
-  "ex_en": "She is sixteen years old."
+  "ex_en": "She is sixteen years old.",
+  "lodId": "SIECHZENG1"
  },
  {
   "lb": "siwwenzéng",
@@ -2097,7 +2265,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Hie gëtt siwwenzéng.",
-  "ex_en": "He turns seventeen."
+  "ex_en": "He turns seventeen.",
+  "lodId": "SIWWENZENG1"
  },
  {
   "lb": "uechtzéng",
@@ -2109,7 +2278,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Mat uechtzéng ass een erwuessen.",
-  "ex_en": "At eighteen one is an adult."
+  "ex_en": "At eighteen one is an adult.",
+  "lodId": "UECHTZENG1"
  },
  {
   "lb": "nonzéng",
@@ -2121,7 +2291,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Si ass nonzéng Joer al.",
-  "ex_en": "She is nineteen years old."
+  "ex_en": "She is nineteen years old.",
+  "lodId": "NONZENG1"
  },
  {
   "lb": "zwanzeg",
@@ -2133,7 +2304,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Ech hunn zwanzeg Euro.",
-  "ex_en": "I have twenty euros."
+  "ex_en": "I have twenty euros.",
+  "lodId": "ZWANZEG1"
  },
  {
   "lb": "drësseg",
@@ -2145,7 +2317,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Hie schafft drësseg Stonnen.",
-  "ex_en": "He works thirty hours."
+  "ex_en": "He works thirty hours.",
+  "lodId": "DRESSEG1"
  },
  {
   "lb": "véierzeg",
@@ -2157,7 +2330,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Si ass véierzeg Joer al.",
-  "ex_en": "She is forty years old."
+  "ex_en": "She is forty years old.",
+  "lodId": "VEIERZEG1"
  },
  {
   "lb": "fofzeg",
@@ -2169,7 +2343,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Dat kascht fofzeg Euro.",
-  "ex_en": "That costs fifty euros."
+  "ex_en": "That costs fifty euros.",
+  "lodId": "FOFZEG1"
  },
  {
   "lb": "sechzeg",
@@ -2181,7 +2356,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Eng Stonn huet sechzeg Minutten.",
-  "ex_en": "An hour has sixty minutes."
+  "ex_en": "An hour has sixty minutes.",
+  "lodId": "SECHZEG1"
  },
  {
   "lb": "siwwenzeg",
@@ -2193,7 +2369,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Mäi Grousspapp ass siwwenzeg.",
-  "ex_en": "My grandpa is seventy."
+  "ex_en": "My grandpa is seventy.",
+  "lodId": "SIWWENZEG1"
  },
  {
   "lb": "achtzeg",
@@ -2205,7 +2382,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Si gëtt achtzeg Joer al.",
-  "ex_en": "She turns eighty."
+  "ex_en": "She turns eighty.",
+  "lodId": "ACHTZEG1"
  },
  {
   "lb": "nonzeg",
@@ -2217,7 +2395,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Bal honnert, nonzeg Joer.",
-  "ex_en": "Almost a hundred, ninety years."
+  "ex_en": "Almost a hundred, ninety years.",
+  "lodId": "NONZEG1"
  },
  {
   "lb": "honnert",
@@ -2229,7 +2408,8 @@
   "level": "A1",
   "category": "number",
   "ex_lb": "Dat kascht honnert Euro.",
-  "ex_en": "That costs a hundred euros."
+  "ex_en": "That costs a hundred euros.",
+  "lodId": "HONNERT1"
  },
  {
   "lb": "dausend",
@@ -2241,7 +2421,8 @@
   "level": "A2",
   "category": "number",
   "ex_lb": "D'Stad huet dausend Awunner.",
-  "ex_en": "The town has a thousand inhabitants."
+  "ex_en": "The town has a thousand inhabitants.",
+  "lodId": "DAUSEND1"
  },
  {
   "lb": "eng Millioun",
@@ -2253,7 +2434,8 @@
   "level": "A2",
   "category": "number",
   "ex_lb": "Hie wënscht sech eng Millioun.",
-  "ex_en": "He wishes for a million."
+  "ex_en": "He wishes for a million.",
+  "lodId": "MILLIOUN1"
  },
  {
   "lb": "éischten",
@@ -2325,7 +2507,8 @@
   "level": "A2",
   "category": "number",
   "ex_lb": "Dat ass dat lescht Stéck.",
-  "ex_en": "That is the last piece."
+  "ex_en": "That is the last piece.",
+  "lodId": "LESCHT2"
  },
  {
   "lb": "jo",
@@ -2337,7 +2520,8 @@
   "level": "A1",
   "category": "particle",
   "ex_lb": "Jo, dat stëmmt.",
-  "ex_en": "Yes, that's right."
+  "ex_en": "Yes, that's right.",
+  "lodId": "JO1"
  },
  {
   "lb": "nee",
@@ -2349,7 +2533,8 @@
   "level": "A1",
   "category": "particle",
   "ex_lb": "Nee, ech wëll net.",
-  "ex_en": "No, I don't want to."
+  "ex_en": "No, I don't want to.",
+  "lodId": "NEE1"
  },
  {
   "lb": "net",
@@ -2361,7 +2546,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech weess et net.",
-  "ex_en": "I don't know it."
+  "ex_en": "I don't know it.",
+  "lodId": "NET1"
  },
  {
   "lb": "och",
@@ -2373,7 +2559,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech kommen och.",
-  "ex_en": "I am coming too."
+  "ex_en": "I am coming too.",
+  "lodId": "OCH1"
  },
  {
   "lb": "nach",
@@ -2385,7 +2572,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech sinn nach midd.",
-  "ex_en": "I am still tired."
+  "ex_en": "I am still tired.",
+  "lodId": "NACH1"
  },
  {
   "lb": "schonn",
@@ -2397,7 +2585,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Bass du schonn do?",
-  "ex_en": "Are you already there?"
+  "ex_en": "Are you already there?",
+  "lodId": "SCHONN1"
  },
  {
   "lb": "ëmmer",
@@ -2409,7 +2598,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech sinn ëmmer midd.",
-  "ex_en": "I am always tired."
+  "ex_en": "I am always tired.",
+  "lodId": "EMMER1"
  },
  {
   "lb": "ni",
@@ -2421,7 +2611,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech rauchen ni.",
-  "ex_en": "I never smoke."
+  "ex_en": "I never smoke.",
+  "lodId": "NI1"
  },
  {
   "lb": "dacks",
@@ -2433,7 +2624,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech ginn dacks lafen.",
-  "ex_en": "I often go running."
+  "ex_en": "I often go running.",
+  "lodId": "DACKS1"
  },
  {
   "lb": "heiansdo",
@@ -2445,7 +2637,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Heiansdo kachen ech.",
-  "ex_en": "Sometimes I cook."
+  "ex_en": "Sometimes I cook.",
+  "lodId": "HEIANSDO1"
  },
  {
   "lb": "selten",
@@ -2457,7 +2650,8 @@
   "level": "B1",
   "category": "adverb",
   "ex_lb": "Ech ginn selten an d'Kino.",
-  "ex_en": "I rarely go to the cinema."
+  "ex_en": "I rarely go to the cinema.",
+  "lodId": "SELTEN1"
  },
  {
   "lb": "haut",
@@ -2469,7 +2663,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Haut ass et schéin.",
-  "ex_en": "Today it is nice."
+  "ex_en": "Today it is nice.",
+  "lodId": "HAUT1"
  },
  {
   "lb": "muer",
@@ -2481,7 +2676,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Muer schaffen ech net.",
-  "ex_en": "Tomorrow I don't work."
+  "ex_en": "Tomorrow I don't work.",
+  "lodId": "MUER1"
  },
  {
   "lb": "gëschter",
@@ -2493,7 +2689,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Gëschter war et kal.",
-  "ex_en": "Yesterday it was cold."
+  "ex_en": "Yesterday it was cold.",
+  "lodId": "GESCHTER1"
  },
  {
   "lb": "elo",
@@ -2505,7 +2702,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech muss elo goen.",
-  "ex_en": "I must go now."
+  "ex_en": "I must go now.",
+  "lodId": "ELO1"
  },
  {
   "lb": "dann",
@@ -2517,7 +2715,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Dann gi mer heem.",
-  "ex_en": "Then we go home."
+  "ex_en": "Then we go home.",
+  "lodId": "DANN2"
  },
  {
   "lb": "fréi",
@@ -2529,7 +2728,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech stinn fréi op.",
-  "ex_en": "I get up early."
+  "ex_en": "I get up early.",
+  "lodId": "FREI1"
  },
  {
   "lb": "spéit",
@@ -2541,7 +2741,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Et ass scho spéit.",
-  "ex_en": "It is already late."
+  "ex_en": "It is already late.",
+  "lodId": "SPEIT1"
  },
  {
   "lb": "haaptsächlech",
@@ -2553,7 +2754,8 @@
   "level": "B2",
   "category": "adverb",
   "ex_lb": "Ech iessen haaptsächlech Geméis.",
-  "ex_en": "I mainly eat vegetables."
+  "ex_en": "I mainly eat vegetables.",
+  "lodId": "HAAPTSACHLECH1"
  },
  {
   "lb": "hei",
@@ -2565,7 +2767,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech sinn hei.",
-  "ex_en": "I am here."
+  "ex_en": "I am here.",
+  "lodId": "HEI1"
  },
  {
   "lb": "do",
@@ -2577,7 +2780,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Hie steet do.",
-  "ex_en": "He stands there."
+  "ex_en": "He stands there.",
+  "lodId": "DO1"
  },
  {
   "lb": "uewen",
@@ -2589,7 +2793,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "D'Buch ass do uewen.",
-  "ex_en": "The book is up there."
+  "ex_en": "The book is up there.",
+  "lodId": "UEWEN1"
  },
  {
   "lb": "ënnen",
@@ -2601,7 +2806,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech waarden do ënnen.",
-  "ex_en": "I wait down there."
+  "ex_en": "I wait down there.",
+  "lodId": "ENNEN1"
  },
  {
   "lb": "lénks",
@@ -2613,7 +2819,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Gitt lénks!",
-  "ex_en": "Go left!"
+  "ex_en": "Go left!",
+  "lodId": "LENKS2"
  },
  {
   "lb": "riets",
@@ -2625,7 +2832,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "D'Bäckerei ass riets.",
-  "ex_en": "The bakery is on the right."
+  "ex_en": "The bakery is on the right.",
+  "lodId": "RIETS2"
  },
  {
   "lb": "baussen",
@@ -2637,7 +2845,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "D'Kanner spillen baussen.",
-  "ex_en": "The children play outside."
+  "ex_en": "The children play outside.",
+  "lodId": "BAUSSEN1"
  },
  {
   "lb": "banne",
@@ -2661,7 +2870,8 @@
   "level": "B1",
   "category": "adverb",
   "ex_lb": "Ech hunn iwwerall gesicht.",
-  "ex_en": "I searched everywhere."
+  "ex_en": "I searched everywhere.",
+  "lodId": "IWWERALL1"
  },
  {
   "lb": "néierens",
@@ -2673,7 +2883,8 @@
   "level": "B1",
   "category": "adverb",
   "ex_lb": "Ech fannen et néierens.",
-  "ex_en": "I find it nowhere."
+  "ex_en": "I find it nowhere.",
+  "lodId": "NEIERENS1"
  },
  {
   "lb": "ganz",
@@ -2685,7 +2896,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Et ass ganz schéin.",
-  "ex_en": "It is very nice."
+  "ex_en": "It is very nice.",
+  "lodId": "GANZ2"
  },
  {
   "lb": "vill",
@@ -2697,7 +2909,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech hu vill ze maachen.",
-  "ex_en": "I have a lot to do."
+  "ex_en": "I have a lot to do.",
+  "lodId": "VILL1"
  },
  {
   "lb": "wéineg",
@@ -2709,7 +2922,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech hunn nëmme wéineg Zäit.",
-  "ex_en": "I have only little time."
+  "ex_en": "I have only little time.",
+  "lodId": "WEINEG1"
  },
  {
   "lb": "e bëssen",
@@ -2733,7 +2947,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech hu genuch giess.",
-  "ex_en": "I have eaten enough."
+  "ex_en": "I have eaten enough.",
+  "lodId": "GENUCH1"
  },
  {
   "lb": "ze",
@@ -2745,7 +2960,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Et ass ze deier.",
-  "ex_en": "It is too expensive."
+  "ex_en": "It is too expensive.",
+  "lodId": "ZE1"
  },
  {
   "lb": "méi",
@@ -2757,7 +2973,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech wëll méi.",
-  "ex_en": "I want more."
+  "ex_en": "I want more.",
+  "lodId": "MEI1"
  },
  {
   "lb": "manner",
@@ -2769,7 +2986,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Iess manner Zocker.",
-  "ex_en": "Eat less sugar."
+  "ex_en": "Eat less sugar.",
+  "lodId": "MANNER1"
  },
  {
   "lb": "am meeschten",
@@ -2793,7 +3011,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Et geet mer gutt.",
-  "ex_en": "I am well."
+  "ex_en": "I am well.",
+  "lodId": "GUTT3"
  },
  {
   "lb": "schlecht",
@@ -2805,7 +3024,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Hie schléift schlecht.",
-  "ex_en": "He sleeps badly."
+  "ex_en": "He sleeps badly.",
+  "lodId": "SCHLECHT2"
  },
  {
   "lb": "séier",
@@ -2817,7 +3037,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Laf net ze séier!",
-  "ex_en": "Don't run too fast!"
+  "ex_en": "Don't run too fast!",
+  "lodId": "SEIER2"
  },
  {
   "lb": "lues",
@@ -2829,7 +3050,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Schwätz w.e.g. lues.",
-  "ex_en": "Please speak slowly."
+  "ex_en": "Please speak slowly.",
+  "lodId": "LUES1"
  },
  {
   "lb": "zesummen",
@@ -2841,7 +3063,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Mir iessen zesummen.",
-  "ex_en": "We eat together."
+  "ex_en": "We eat together.",
+  "lodId": "ZESUMMEN1"
  },
  {
   "lb": "eleng",
@@ -2853,7 +3076,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech wunnen eleng.",
-  "ex_en": "I live alone."
+  "ex_en": "I live alone.",
+  "lodId": "ELENG2"
  },
  {
   "lb": "villäicht",
@@ -2865,7 +3089,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Villäicht kommen ech muer.",
-  "ex_en": "Maybe I will come tomorrow."
+  "ex_en": "Maybe I will come tomorrow.",
+  "lodId": "VILLAICHT1"
  },
  {
   "lb": "sécher",
@@ -2877,7 +3102,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech sinn mer sécher.",
-  "ex_en": "I am sure."
+  "ex_en": "I am sure.",
+  "lodId": "SECHER2"
  },
  {
   "lb": "natierlech",
@@ -2889,7 +3115,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Natierlech hëllefen ech dir.",
-  "ex_en": "Of course I help you."
+  "ex_en": "Of course I help you.",
+  "lodId": "NATIERLECH2"
  },
  {
   "lb": "besonnesch",
@@ -2901,7 +3128,8 @@
   "level": "B1",
   "category": "adverb",
   "ex_lb": "Ech hu besonnesch Hunger.",
-  "ex_en": "I am especially hungry."
+  "ex_en": "I am especially hungry.",
+  "lodId": "BESONNESCH2"
  },
  {
   "lb": "ganz schéin",
@@ -2925,7 +3153,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Maach et esou.",
-  "ex_en": "Do it like this."
+  "ex_en": "Do it like this.",
+  "lodId": "ESOU1"
  },
  {
   "lb": "just",
@@ -2937,7 +3166,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Dat ass just richteg.",
-  "ex_en": "That is just right."
+  "ex_en": "That is just right.",
+  "lodId": "JUST2"
  },
  {
   "lb": "nëmmen",
@@ -2949,7 +3179,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech hunn nëmmen ee Frënd.",
-  "ex_en": "I have only one friend."
+  "ex_en": "I have only one friend.",
+  "lodId": "NEMMEN1"
  },
  {
   "lb": "souguer",
@@ -2961,7 +3192,8 @@
   "level": "B1",
   "category": "adverb",
   "ex_lb": "Et huet souguer geschneit.",
-  "ex_en": "It even snowed."
+  "ex_en": "It even snowed.",
+  "lodId": "SOUGUER1"
  },
  {
   "lb": "bal",
@@ -2973,7 +3205,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech sinn bal fäerdeg.",
-  "ex_en": "I am almost finished."
+  "ex_en": "I am almost finished.",
+  "lodId": "BAL2"
  },
  {
   "lb": "och nach",
@@ -2997,7 +3230,8 @@
   "level": "B1",
   "category": "adverb",
   "ex_lb": "Et reent, dofir bleiwen ech doheem.",
-  "ex_en": "It rains, therefore I stay home."
+  "ex_en": "It rains, therefore I stay home.",
+  "lodId": "DOFIR2"
  },
  {
   "lb": "dann nach",
@@ -3021,7 +3255,8 @@
   "level": "A2",
   "category": "particle",
   "ex_lb": "Kuck mol hei!",
-  "ex_en": "Just look here!"
+  "ex_en": "Just look here!",
+  "lodId": "MOL2"
  },
  {
   "lb": "emol",
@@ -3033,7 +3268,8 @@
   "level": "A2",
   "category": "particle",
   "ex_lb": "Komm emol bei mech.",
-  "ex_en": "Come over here once."
+  "ex_en": "Come over here once.",
+  "lodId": "EMOL2"
  },
  {
   "lb": "halt",
@@ -3045,7 +3281,8 @@
   "level": "B1",
   "category": "particle",
   "ex_lb": "Dat ass halt esou.",
-  "ex_en": "That's just how it is."
+  "ex_en": "That's just how it is.",
+  "lodId": "HALT1"
  },
  {
   "lb": "net wouer",
@@ -3081,7 +3318,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Bis erëm!",
-  "ex_en": "See you again!"
+  "ex_en": "See you again!",
+  "lodId": "EREM1"
  },
  {
   "lb": "zréck",
@@ -3105,7 +3343,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Hie geet fort.",
-  "ex_en": "He goes away."
+  "ex_en": "He goes away.",
+  "lodId": "FORT1"
  },
  {
   "lb": "laut",
@@ -3117,7 +3356,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Schwätz net esou laut.",
-  "ex_en": "Don't speak so loudly."
+  "ex_en": "Don't speak so loudly.",
+  "lodId": "LAUT1"
  },
  {
   "lb": "roueg",
@@ -3141,7 +3381,8 @@
   "level": "A1",
   "category": "adverb",
   "ex_lb": "Ech hëllefen der gären.",
-  "ex_en": "I gladly help you."
+  "ex_en": "I gladly help you.",
+  "lodId": "GAREN2"
  },
  {
   "lb": "endlech",
@@ -3153,7 +3394,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Endlech bass du do!",
-  "ex_en": "Finally you are here!"
+  "ex_en": "Finally you are here!",
+  "lodId": "ENDLECH1"
  },
  {
   "lb": "direkt",
@@ -3165,7 +3407,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech kommen direkt.",
-  "ex_en": "I come right away."
+  "ex_en": "I come right away.",
+  "lodId": "DIREKT2"
  },
  {
   "lb": "schwammen",
@@ -3177,7 +3420,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech schwammen all Dag.",
-  "ex_en": "I swim every day."
+  "ex_en": "I swim every day.",
+  "lodId": "SCHWAMMEN1"
  },
  {
   "lb": "rennen",
@@ -3189,7 +3433,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "D'Kanner rennen iwwer d'Wiss.",
-  "ex_en": "The children run across the meadow."
+  "ex_en": "The children run across the meadow.",
+  "lodId": "RENNEN1"
  },
  {
   "lb": "sprangen",
@@ -3201,7 +3446,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "De Frosch spréngt.",
-  "ex_en": "The frog jumps."
+  "ex_en": "The frog jumps.",
+  "lodId": "SPRANGEN1"
  },
  {
   "lb": "falen",
@@ -3213,7 +3459,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Pass op, du fäls!",
-  "ex_en": "Careful, you'll fall!"
+  "ex_en": "Careful, you'll fall!",
+  "lodId": "FALEN1"
  },
  {
   "lb": "droen",
@@ -3225,7 +3472,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech droen e roude Pull.",
-  "ex_en": "I wear a red sweater."
+  "ex_en": "I wear a red sweater.",
+  "lodId": "DROEN1"
  },
  {
   "lb": "stellen",
@@ -3237,7 +3485,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Stell d'Glas op den Dësch.",
-  "ex_en": "Put the glass on the table."
+  "ex_en": "Put the glass on the table.",
+  "lodId": "STELLEN1"
  },
  {
   "lb": "leeën",
@@ -3249,7 +3498,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Leeg d'Buch op de Buedem.",
-  "ex_en": "Lay the book on the floor."
+  "ex_en": "Lay the book on the floor.",
+  "lodId": "LEEEN1"
  },
  {
   "lb": "zéien",
@@ -3261,7 +3511,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Zéi un der Dier.",
-  "ex_en": "Pull on the door."
+  "ex_en": "Pull on the door.",
+  "lodId": "ZEIEN2"
  },
  {
   "lb": "drécken",
@@ -3273,7 +3524,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Dréck op de Knäppchen.",
-  "ex_en": "Press the button."
+  "ex_en": "Press the button.",
+  "lodId": "DRECKEN1"
  },
  {
   "lb": "werfen",
@@ -3285,7 +3537,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Wierf mer de Ball!",
-  "ex_en": "Throw me the ball!"
+  "ex_en": "Throw me the ball!",
+  "lodId": "WERFEN1"
  },
  {
   "lb": "fänken",
@@ -3297,7 +3550,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Fänk de Ball!",
-  "ex_en": "Catch the ball!"
+  "ex_en": "Catch the ball!",
+  "lodId": "FANKEN1"
  },
  {
   "lb": "halen",
@@ -3309,7 +3563,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Hal meng Hand.",
-  "ex_en": "Hold my hand."
+  "ex_en": "Hold my hand.",
+  "lodId": "HALEN1"
  },
  {
   "lb": "loossen",
@@ -3321,7 +3576,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Looss mech a Rou.",
-  "ex_en": "Leave me alone."
+  "ex_en": "Leave me alone.",
+  "lodId": "LOOSSEN1"
  },
  {
   "lb": "entscheeden",
@@ -3333,7 +3589,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "Ech kann mech net entscheeden.",
-  "ex_en": "I can't decide."
+  "ex_en": "I can't decide.",
+  "lodId": "ENTSCHEEDEN1"
  },
  {
   "lb": "verspriechen",
@@ -3345,7 +3602,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "Ech verspriechen et dir.",
-  "ex_en": "I promise you."
+  "ex_en": "I promise you.",
+  "lodId": "VERSPRIECHEN1"
  },
  {
   "lb": "danken",
@@ -3369,7 +3627,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech treffen e Frënd.",
-  "ex_en": "I meet a friend."
+  "ex_en": "I meet a friend.",
+  "lodId": "TREFFEN1"
  },
  {
   "lb": "besichen",
@@ -3381,7 +3640,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech besichen meng Bomi.",
-  "ex_en": "I visit my grandma."
+  "ex_en": "I visit my grandma.",
+  "lodId": "BESICHEN1"
  },
  {
   "lb": "zielen",
@@ -3393,7 +3653,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech zielen bis zéng.",
-  "ex_en": "I count to ten."
+  "ex_en": "I count to ten.",
+  "lodId": "ZIELEN1"
  },
  {
   "lb": "wuessen",
@@ -3405,7 +3666,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "D'Blummen wuessen.",
-  "ex_en": "The flowers grow."
+  "ex_en": "The flowers grow.",
+  "lodId": "WUESSEN1"
  },
  {
   "lb": "schenken",
@@ -3417,7 +3679,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Ech schenken dir e Buch.",
-  "ex_en": "I give you a book."
+  "ex_en": "I give you a book.",
+  "lodId": "SCHENKEN1"
  },
  {
   "lb": "erkläeren",
@@ -3441,7 +3704,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "Wat bedeit dëst Wuert?",
-  "ex_en": "What does this word mean?"
+  "ex_en": "What does this word mean?",
+  "lodId": "BEDEITEN1"
  },
  {
   "lb": "heeschen",
@@ -3453,7 +3717,8 @@
   "level": "A1",
   "category": "verb",
   "ex_lb": "Wéi heeschs du?",
-  "ex_en": "What is your name?"
+  "ex_en": "What is your name?",
+  "lodId": "HEESCHEN1"
  },
  {
   "lb": "feelen",
@@ -3465,7 +3730,8 @@
   "level": "B1",
   "category": "verb",
   "ex_lb": "Wat feelt dir?",
-  "ex_en": "What is wrong with you?"
+  "ex_en": "What is wrong with you?",
+  "lodId": "FEELEN1"
  },
  {
   "lb": "passéieren",
@@ -3477,7 +3743,8 @@
   "level": "A2",
   "category": "verb",
   "ex_lb": "Wat ass passéiert?",
-  "ex_en": "What happened?"
+  "ex_en": "What happened?",
+  "lodId": "PASSEIEREN4"
  },
  {
   "lb": "arbechten",
@@ -3501,7 +3768,8 @@
   "level": "A2",
   "category": "pronoun",
   "ex_lb": "Jiddwer Dag léieren ech.",
-  "ex_en": "Every day I learn."
+  "ex_en": "Every day I learn.",
+  "lodId": "JIDDWER1"
  },
  {
   "lb": "e puer",
@@ -3525,7 +3793,8 @@
   "level": "A1",
   "category": "pronoun",
   "ex_lb": "All d'Kanner spillen.",
-  "ex_en": "All the children play."
+  "ex_en": "All the children play.",
+  "lodId": "ALL2"
  },
  {
   "lb": "geschwënn",
@@ -3537,7 +3806,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech kommen geschwënn.",
-  "ex_en": "I am coming soon."
+  "ex_en": "I am coming soon.",
+  "lodId": "GESCHWENN1"
  },
  {
   "lb": "moies",
@@ -3549,7 +3819,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Moies drénken ech Kaffi.",
-  "ex_en": "In the morning I drink coffee."
+  "ex_en": "In the morning I drink coffee.",
+  "lodId": "MOIES1"
  },
  {
   "lb": "owes",
@@ -3561,7 +3832,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Owes kucken ech Tëlee.",
-  "ex_en": "In the evening I watch TV."
+  "ex_en": "In the evening I watch TV.",
+  "lodId": "OWES1"
  },
  {
   "lb": "mëttes",
@@ -3573,7 +3845,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Mëttes iesse mir waarm.",
-  "ex_en": "At noon we eat a warm meal."
+  "ex_en": "At noon we eat a warm meal.",
+  "lodId": "METTES1"
  },
  {
   "lb": "nuets",
@@ -3585,7 +3858,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Nuets schlofen ech gutt.",
-  "ex_en": "At night I sleep well."
+  "ex_en": "At night I sleep well.",
+  "lodId": "NUETS1"
  },
  {
   "lb": "all Dag",
@@ -3609,7 +3883,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech hu laang gewaart.",
-  "ex_en": "I waited a long time."
+  "ex_en": "I waited a long time.",
+  "lodId": "LAANG1"
  },
  {
   "lb": "kuerz",
@@ -3621,7 +3896,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech bleiwen nëmme kuerz.",
-  "ex_en": "I stay only briefly."
+  "ex_en": "I stay only briefly.",
+  "lodId": "KUERZ1"
  },
  {
   "lb": "grad",
@@ -3633,7 +3909,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Ech sinn grad ukomm.",
-  "ex_en": "I just arrived."
+  "ex_en": "I just arrived.",
+  "lodId": "GRAD2"
  },
  {
   "lb": "iwwermuer",
@@ -3645,7 +3922,8 @@
   "level": "B1",
   "category": "adverb",
   "ex_lb": "Iwwermuer hu mer fräi.",
-  "ex_en": "The day after tomorrow we are off."
+  "ex_en": "The day after tomorrow we are off.",
+  "lodId": "IWWERMUER1"
  },
  {
   "lb": "wéi laang",
@@ -3693,7 +3971,8 @@
   "level": "A1",
   "category": "particle",
   "ex_lb": "Merci villmools!",
-  "ex_en": "Thank you very much!"
+  "ex_en": "Thank you very much!",
+  "lodId": "MERCI2"
  },
  {
   "lb": "vläicht",
@@ -3705,7 +3984,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Vläicht hues du recht.",
-  "ex_en": "Perhaps you are right."
+  "ex_en": "Perhaps you are right.",
+  "lodId": "VLAICHT1"
  },
  {
   "lb": "genau",
@@ -3717,7 +3997,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Genau, dat mengen ech.",
-  "ex_en": "Exactly, that's what I mean."
+  "ex_en": "Exactly, that's what I mean.",
+  "lodId": "GENAU1"
  },
  {
   "lb": "einfach",
@@ -3729,7 +4010,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Maach et einfach esou.",
-  "ex_en": "Just do it like this."
+  "ex_en": "Just do it like this.",
+  "lodId": "EINFACH1"
  },
  {
   "lb": "wierklech",
@@ -3741,7 +4023,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Dat ass wierklech schéin.",
-  "ex_en": "That is really nice."
+  "ex_en": "That is really nice.",
+  "lodId": "WIERKLECH1"
  },
  {
   "lb": "ongeféier",
@@ -3753,7 +4036,8 @@
   "level": "A2",
   "category": "adverb",
   "ex_lb": "Et ass ongeféier zéng Auer.",
-  "ex_en": "It is approximately ten o'clock."
+  "ex_en": "It is approximately ten o'clock.",
+  "lodId": "ONGEFEIER1"
  },
  {
   "lb": "zimlech",

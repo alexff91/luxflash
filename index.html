@@ -91,7 +91,10 @@
           <div class="flashcard-face flashcard-front">
             <div class="card-top">
               <span class="pos-tag" id="frontPos"></span>
-              <span class="level-tag" id="frontLevel"></span>
+              <span class="card-top-right">
+                <span class="level-tag" id="frontLevel"></span>
+                <button class="face-audio" id="frontAudio" title="Hear the word" aria-label="Pronounce">🔊</button>
+              </span>
             </div>
             <div class="headword" id="frontWord">Welcome!</div>
             <div class="subword" id="frontSub"></div>
@@ -101,7 +104,10 @@
           <div class="flashcard-face flashcard-back">
             <div class="card-top">
               <span class="pos-tag" id="backPos"></span>
-              <a class="lod-link" id="lodLink" href="#" target="_blank" rel="noopener" title="Open in the Lëtzebuerger Online Dictionnaire (audio, declensions)">LOD ↗</a>
+              <span class="card-top-right">
+                <button class="face-audio" id="backAudio" title="Hear the word" aria-label="Pronounce">🔊</button>
+                <a class="lod-link" id="lodLink" href="#" target="_blank" rel="noopener" title="Open in the Lëtzebuerger Online Dictionnaire (audio, declensions)">LOD ↗</a>
+              </span>
             </div>
             <div class="headword headword-answer" id="backWord"></div>
             <ul class="translations" id="backTranslations"></ul>
@@ -184,12 +190,22 @@
     <div class="setting-block">
       <h3>Your progress is private</h3>
       <p class="muted">Everything you study is stored only in this browser (localStorage). Nothing is uploaded. Move to another device by exporting a backup file and importing it there.</p>
+      <p id="storageStatus" class="muted"></p>
       <div class="btn-row">
         <button class="btn primary" id="exportBtn">⬇ Download progress (JSON)</button>
         <label class="btn" for="importFile">⬆ Upload progress (JSON)</label>
         <input type="file" id="importFile" accept="application/json,.json" hidden />
       </div>
       <p id="ioMsg" class="io-msg" role="status"></p>
+    </div>
+
+    <div class="setting-block">
+      <h3>Pronunciation</h3>
+      <p class="muted">Most words play the real native recording from the official LOD dictionary (open CC0 audio); the rest use your browser's speech engine.</p>
+      <label class="switch">
+        <input type="checkbox" id="autoPlay" />
+        <span>Auto-play audio when the Luxembourgish word is shown</span>
+      </label>
     </div>
 
     <div class="setting-block">
