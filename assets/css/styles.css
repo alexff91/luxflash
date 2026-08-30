@@ -273,7 +273,18 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(16px, 3vw, 30px); 
 
 @media (max-width: 620px) {
   .brand-sub { display: none; }
-  .tabs { order: 3; width: 100%; margin: 0; justify-content: space-between; }
+  /* Six tabs need 565px and a phone gives the row 357px, so the page itself
+     scrolled sideways by 192px. The row scrolls inside itself instead, and the
+     tabs keep their own width rather than being squeezed unreadable. */
+  .tabs {
+    order: 3; width: 100%; margin: 0;
+    justify-content: flex-start;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { flex: none; }
   .topbar { flex-wrap: wrap; }
   .grade small { display: none; }
 }
