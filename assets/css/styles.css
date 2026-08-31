@@ -1,46 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
 /* `display: grid/flex` on author CSS overrides the UA rule for [hidden];
    restore it so toggling the `hidden` attribute actually hides elements. */
 [hidden] { display: none !important; }
 
+/* One family with dfd.academy and the courses app: Manrope, a violet accent
+   and soft rounded panels. The Luxembourg red and blue stay, but as the flag
+   they are — they identify the subject and no longer double as the interface
+   colour, which is why the buttons and the national palette used to blur into
+   one another. */
 :root {
   --lux-red: #ED2939;
   --lux-blue: #00a1de;
-  --accent: #00a1de;
-  --accent-2: #5b6cff;
-  --bg: #f4f6fb;
+  --accent: #5b34ea;
+  --accent-press: #4a29c9;
+  --accent-soft: #efebff;
+  --accent-2: #8b6cf6;
+  --bg: #f5f5fc;
   --bg-elev: #ffffff;
   --surface: #ffffff;
-  --text: #16202c;
-  --text-soft: #5c6b7a;
-  --border: #e4e9f1;
-  --shadow: 0 10px 30px rgba(20, 40, 80, .08);
-  --shadow-lg: 0 24px 60px rgba(20, 40, 80, .16);
-  --radius: 18px;
-  --radius-sm: 12px;
-  --good: #2bb673;
-  --hard: #f0a020;
-  --again: #ec5b5b;
-  --easy: #3ba0ff;
+  --text: #15162b;
+  --text-soft: #5c5e7e;
+  --border: #e8e9f5;
+  --shadow: 0 1px 2px rgba(21, 22, 43, .04), 0 4px 12px rgba(91, 52, 234, .06);
+  --shadow-lg: 0 2px 6px rgba(21, 22, 43, .06), 0 16px 32px rgba(91, 52, 234, .10);
+  --radius: 20px;
+  --radius-sm: 14px;
+  --good: #12b76a;
+  --hard: #f59e0b;
+  --again: #f04438;
+  --easy: #5b34ea;
   --maxw: 860px;
 }
+/* The toggle stays — some people study at night — but the dark side is retuned
+   to the same violet rather than the old cyan. */
 [data-theme="dark"] {
-  --bg: #0e1420;
-  --bg-elev: #161e2d;
-  --surface: #1b2536;
-  --text: #e8eef7;
-  --text-soft: #9aa9bd;
-  --border: #28344a;
+  --bg: #14131f;
+  --bg-elev: #1c1b2b;
+  --surface: #221f36;
+  --text: #eceaf6;
+  --text-soft: #a5a2c0;
+  --border: #322e4d;
+  --accent: #9b7cff;
+  --accent-press: #b09aff;
+  --accent-soft: #2a2440;
   --shadow: 0 10px 30px rgba(0,0,0,.35);
   --shadow-lg: 0 24px 60px rgba(0,0,0,.5);
-  --accent: #2bb6f6;
 }
 
 * { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
+html, body { margin: 0; padding: 0;
+}
 body {
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  background: radial-gradient(1200px 600px at 80% -10%, rgba(0,161,222,.10), transparent 60%),
-              radial-gradient(1000px 500px at -10% 0%, rgba(237,41,57,.07), transparent 55%),
+  font-family: 'Manrope', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  /* The wash was cyan and red — the flag used as wallpaper. It is violet now,
+     the same accent the rest of the family uses, and far quieter. */
+  background: radial-gradient(1200px 600px at 80% -10%, rgba(91, 52, 234, .07), transparent 60%),
+              radial-gradient(1000px 500px at -10% 0%, rgba(139, 108, 246, .05), transparent 55%),
               var(--bg);
   color: var(--text);
   min-height: 100vh;
