@@ -47,7 +47,12 @@
   /* Название сайта стало заголовком первого уровня — раньше страница не имела
      его вовсе. Вид прежний: браузерные умолчания для h1 здесь не нужны. */
   .brand-text h1 { font: inherit; font-weight: 700; margin: 0; }
-</style>
+
+    .printed { margin: 24px 0 0; padding: 16px 18px; background: rgba(255,255,255,.7);
+      border: 1px solid var(--line, #e3e8ef); border-radius: 14px; }
+    .printed h2 { font-size: 17px; margin: 0 0 6px; }
+    .printed p { margin: 0; font-size: 15.5px; opacity: .85; }
+  </style>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -243,7 +248,14 @@
      text lives inside tab panels that are display:none until you open them, so
      a search engine and a chat link preview had the chrome and none of the
      substance. Numbers here come from data/words.json, not from memory. -->
-<footer class="about" id="about">
+<section class="printed">
+      <h2>Or just read the list</h2>
+      <p>All 2,404 words are printed out by topic and level, with German and French
+        alongside and an example for each: <a href="/words/">the vocabulary list</a> —
+        <a href="/words/greetings">greetings</a>, <a href="/words/food">food</a>,
+        <a href="/words/work">work</a>, <a href="/words/level-a1">level A1</a>.</p>
+    </section>
+    <footer class="about" id="about">
   <h2>Luxembourgish, 2,404 words at a time</h2>
   <p>
     People usually come to Luxembourgish for one reason — the Sproochentest — and
