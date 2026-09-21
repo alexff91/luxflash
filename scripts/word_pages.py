@@ -19,6 +19,10 @@ import time
 from collections import Counter, defaultdict
 from pathlib import Path
 
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import lux_block  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / 'words'
 ORIGIN = 'https://luxflash.alftech.space'
@@ -64,6 +68,8 @@ def shell(title, description, canonical, body):
           'description': description, 'url': canonical, 'inLanguage': 'en',
           'about': {'@type': 'Language', 'name': 'Luxembourgish', 'alternateName': 'lb'},
           'isPartOf': {'@type': 'WebSite', 'name': 'LuxFlash', 'url': ORIGIN}}
+    lux_css = lux_block.css(line='#e3e8ef', soft='#5b6779', accent='#00a1de')
+    lux_html = lux_block.html('luxflash.alftech.space')
     return f'''<!doctype html>
 <html lang="en">
 <head>
@@ -117,7 +123,7 @@ def shell(title, description, canonical, body):
   .cta {{ display:inline-flex; align-items:center; min-height:48px; padding:0 20px;
     border-radius:10px; background:var(--accent); color:#fff; font-weight:600;
     text-decoration:none; margin:6px 0; }}
-  footer {{ margin-top:30px; padding-top:16px; border-top:1px solid var(--line);
+{lux_css}  footer {{ margin-top:30px; padding-top:16px; border-top:1px solid var(--line);
     color:var(--soft); font-size:13.5px; }}
   @media (max-width:520px) {{ .w {{ grid-template-columns:1fr; }} .en {{ text-align:left; }} }}
 </style>
@@ -125,6 +131,8 @@ def shell(title, description, canonical, body):
 <body>
 <div class="wrap">
 {body}
+  {lux_html}
+
   <footer>
     <p>Words come from the flashcard deck this site drills you on, checked against the
       <a href="https://lod.lu/" rel="noopener">Lëtzebuerger Online Dictionnaire</a>. The gender
