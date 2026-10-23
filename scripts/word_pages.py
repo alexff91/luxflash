@@ -202,10 +202,17 @@ def main():
     for code, ws in topics:
         name = NAMES.get(code, code.title())
         ws = sorted(ws, key=lambda w: (w['level'], w['lb'].lower()))
-        sample = ', '.join(f'{w["lb"]} ({w["en"]})' for w in ws[:3])
-        title = f'{name} in Luxembourgish — {len(ws)} words with English, German and French'
-        description = (f'{len(ws)} Luxembourgish words for {name.lower()}, each with its English, '
-                       f'German and French translation and an example sentence: {sample}. Free, no sign-up.')
+        # Выдача показывает около 160 знаков описания и 60–65 заголовка; дальше
+        # обрезается. Раньше было 200+ и «Luxembourgish words for abstract words».
+        title = f'{name} in Luxembourgish — {len(ws)} words with translations'
+        head = (f'{name} in Luxembourgish: {len(ws)} words with English, German and French '
+                f'and an example sentence')
+        description = head + '.'
+        for k in (3, 2, 1):
+            sample = ', '.join(f'{w["lb"]} ({w["en"]})' for w in ws[:k])
+            if len(f'{head} — {sample}.') <= 160:
+                description = f'{head} — {sample}.'
+                break
         body = f'''  <p class="crumbs"><a href="/">LuxFlash</a> ›
     <a href="/words/">Vocabulary</a> › {esc(name)}</p>
   <h1>{esc(name)} in Luxembourgish</h1>
@@ -225,7 +232,7 @@ def main():
             continue
         title = f'Luxembourgish {level} vocabulary — {len(ws)} words with translations'
         description = (f'The {len(ws)} Luxembourgish words at {level}: {blurb}. '
-                       f'English, German and French translations, with examples. Free, no sign-up.')
+                       f'With English, German and French and examples.')
         body = f'''  <p class="crumbs"><a href="/">LuxFlash</a> ›
     <a href="/words/">Vocabulary</a> › Level {esc(level)}</p>
   <h1>Luxembourgish {esc(level)} vocabulary</h1>
