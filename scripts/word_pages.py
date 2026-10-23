@@ -107,7 +107,7 @@ def shell(title, description, canonical, body):
     border-bottom:1px solid var(--line); }}
   .w:last-child {{ border-bottom:0; }}
   .lb {{ font-weight:700; font-size:18px; }}
-  .lb small {{ font-weight:400; color:var(--soft); font-size:13px; margin-left:6px; }}
+  .lb small {{ font-weight:400; color:var(--soft); font-size:13px; }}
   .en {{ text-align:right; }}
   .other {{ grid-column:1/-1; color:var(--soft); font-size:14px; }}
   .ex {{ grid-column:1/-1; font-size:14.5px; color:var(--soft); margin-top:4px;
@@ -125,7 +125,13 @@ def shell(title, description, canonical, body):
     text-decoration:none; margin:6px 0; }}
 {lux_css}  footer {{ margin-top:30px; padding-top:16px; border-top:1px solid var(--line);
     color:var(--soft); font-size:13.5px; }}
-  @media (max-width:520px) {{ .w {{ grid-template-columns:1fr; }} .en {{ text-align:left; }} }}
+  @media (max-width:520px) {{ .w {{ grid-template-columns:1fr; }} .en {{ text-align:left; }} .say {{ margin-left:auto; }} }}
+  .lb {{ display:flex; align-items:center; flex-wrap:wrap; gap:0 6px; }}
+  .say {{ width:34px; height:34px; margin-left:4px; border-radius:50%; border:1px solid var(--line);
+    background:var(--accent-soft); color:var(--accent); font-size:12px; cursor:pointer;
+    vertical-align:2px; padding:0; }}
+  .say:focus-visible {{ outline:2px solid var(--accent); outline-offset:2px; }}
+  .say.on {{ background:var(--accent); color:#fff; }}
 </style>
 </head>
 <body>
@@ -137,11 +143,29 @@ def shell(title, description, canonical, body):
     <p>Words come from the flashcard deck this site drills you on, checked against the
       <a href="https://lod.lu/" rel="noopener">Lëtzebuerger Online Dictionnaire</a>. The gender
       article is given as Luxembourgish uses it.</p>
+    <p>▶ plays the native recording from LOD (CC0).</p>
     <p><a href="{ORIGIN}/">Drill these as flashcards</a> ·
       <a href="https://vivre.alftech.space/">citizenship test practice</a> ·
       <a href="https://alftech.space/">more free tools</a></p>
   </footer>
 </div>
+<script>
+// Записи LOD: ogg там, где браузер его играет, иначе m4a (Safari).
+(function () {{
+  var a = new Audio();
+  var ext = a.canPlayType('audio/ogg; codecs=vorbis') ? ['OGG', 'ogg'] : ['AAC', 'm4a'];
+  document.addEventListener('click', function (e) {{
+    var b = e.target.closest('.say');
+    if (!b) return;
+    document.querySelectorAll('.say.on').forEach(function (x) {{ x.classList.remove('on'); }});
+    a.pause();
+    a.src = 'https://lod.lu/uploads/' + ext[0] + '/' + b.dataset.id + '.' + ext[1];
+    b.classList.add('on');
+    a.onended = a.onerror = function () {{ b.classList.remove('on'); }};
+    a.play().catch(function () {{ b.classList.remove('on'); }});
+  }});
+}})();
+</script>
 </body>
 </html>
 '''
@@ -165,7 +189,11 @@ def word_html(w):
     if w.get('ex_lb'):
         ex = f'<div class="ex"><b>{esc(w["ex_lb"])}</b>{" — " + esc(w["ex_en"]) if w.get("ex_en") else ""}</div>'
     other_html = f'<div class="other">{other}</div>' if other else ''
-    return (f'<div class="w"><div class="lb">{esc(lb)}<small>{esc(", ".join(bits))}</small></div>'
+    # Настоящая запись из LOD (CC0) — у 1836 слов из 2404. Учить произношение
+    # по немецкому синтезатору нельзя, а записей у страниц словаря не было.
+    say = (f'<button class="say" type="button" data-id="{esc(str(w["lodId"]).lower())}" '
+           f'aria-label="Listen: {esc(lb)}">▶</button>') if w.get('lodId') else ''
+    return (f'<div class="w"><div class="lb">{esc(lb)}<small>{esc(", ".join(bits))}</small>{say}</div>'
             f'<div class="en">{esc(w.get("en"))}</div>{other_html}{ex}</div>')
 
 

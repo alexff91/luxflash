@@ -363,3 +363,9 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(16px, 3vw, 30px); 
 .about strong { color: var(--text); }
 .about ul { margin: 0 0 14px; padding-left: 20px; }
 .about li { margin-bottom: 8px; }
+
+/* На телефоне шапка с шестью вкладками в две строки занимала 190px — четверть
+   экрана — и висела при прокрутке над каждым словом. Там она не прилипает. */
+@media (max-width: 620px) {
+  .topbar { position: static; }
+}
