@@ -9,8 +9,9 @@
   The drill behind the "Проверить себя" button in the Luxembourgish lesson bot.
 
   The lesson passes its words as ids in the address fragment (#n=394&t=verb&w=…);
-  the words themselves come from ../data/words.json, the same LOD-checked list
-  the site uses. Each answer is "know" or "not yet", and the next showing is
+  the words come from ./words.json, which the bot's tools/match_lod.py builds:
+  each word tied to the LOD entry that matches its meaning, with LOD's own
+  example sentences and their recordings. Each answer is "know" or "not yet", and the next showing is
   spaced out from that: a word you know comes back after 1, 3, 7, 14, 30 and 60
   days, a word you don't comes back tomorrow.
 
@@ -93,7 +94,8 @@
     <div class="answer hidden" id="answer">
       <div class="tr" id="back"></div>
       <div class="ex" id="ex"></div>
-      <div class="exen" id="exen"></div>
+      <button class="say hidden" id="sayEx" type="button">▶ Пример</button>
+      <div class="exen" id="exen">Пример из словаря LOD</div>
     </div>
   </section>
   <button class="big show" id="showBtn" type="button">Показать ответ</button>
@@ -129,15 +131,6 @@ var LEARNED = 3;                        // box from which a word counts as learn
 var REVIEW_MAX = 20;
 var today = Math.floor(Date.now() / DAY);
 
-function slug(s) {
-  return String(s).toLowerCase()
-    .replace(/[äàâ]/g, 'a').replace(/[ëéèê]/g, 'e').replace(/[ïî]/g, 'i')
-    .replace(/[öô]/g, 'o').replace(/[üû]/g, 'u').replace(/ç/g, 'c')
-    .replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-}
-function stripArticle(lb) {
-  return String(lb || '').replace(/^d'\s*(?=\S)/i, '').replace(/^(den|déi|de)\s+(?=\S)/i, '').trim();
-}
 function article(w) {
   if (w.pos !== 'noun') return '';
   if (w.gender === 'f' || w.gender === 'n') return "d'";
@@ -201,8 +194,7 @@ var queue = [], pos = 0, total = 0, know = 0, again = 0, missed = [], cur = null
 
 function start(words) {
   words.forEach(function (w) {
-    if (w.pos === 'noun') w.lb = stripArticle(w.lb);
-    w.id = slug(w.lb) + '.' + (w.pos || 'x');
+    w.ex = (w.examples || []).slice().sort(function (a, b) { return a.lb.length - b.lb.length; })[0] || null;
     BY_ID[w.id] = w;
   });
   var lesson = lessonIds.map(function (id) { return BY_ID[id]; }).filter(Boolean);
@@ -230,8 +222,9 @@ function show() {
   $('front').textContent = reverse ? cur.en : lb;
   $('meta').textContent = reverse ? '' : [cur.pos, cur.gender ? '(' + cur.gender + ')' : '', cur.level].filter(Boolean).join(' · ');
   $('back').textContent = reverse ? lb : cur.en;
-  $('ex').textContent = cur.ex_lb || '';
-  $('exen').textContent = cur.ex_en || '';
+  $('ex').textContent = cur.ex ? cur.ex.lb : '';
+  $('exen').classList.toggle('hidden', !cur.ex);
+  $('sayEx').classList.toggle('hidden', !(cur.ex && cur.ex.ogg));
   $('say').classList.toggle('hidden', !cur.lodId || reverse);
   $('answer').classList.add('hidden');
   $('showBtn').classList.remove('hidden');
@@ -302,21 +295,23 @@ function plural(n, one, few, many) {
 }
 
 var audio = new Audio();
+var ogg = audio.canPlayType('audio/ogg; codecs=vorbis');
+function play(src) { audio.src = src; audio.play().catch(function () {}); }
+// LOD's ids are upper case; its recordings are filed under the lower-case id.
 $('say').onclick = function () {
   var id = String(cur.lodId).toLowerCase();
-  var ogg = audio.canPlayType('audio/ogg; codecs=vorbis');
-  audio.src = 'https://lod.lu/uploads/' + (ogg ? 'OGG/' + id + '.ogg' : 'AAC/' + id + '.m4a');
-  audio.play().catch(function () {});
+  play('https://lod.lu/uploads/' + (ogg ? 'OGG/' + id + '.ogg' : 'AAC/' + id + '.m4a'));
 };
+$('sayEx').onclick = function () { play(ogg ? cur.ex.ogg : cur.ex.aac); };
 $('showBtn').onclick = reveal;
 // Tapping the card shows the answer too; the listen button only plays.
-$('cardView').onclick = function (e) { if (e.target.id !== 'say') reveal(); };
+$('cardView').onclick = function (e) { if (e.target.id !== 'say' && e.target.id !== 'sayEx') reveal(); };
 $('noBtn').onclick = function () { grade(false); };
 $('yesBtn').onclick = function () { grade(true); };
 $('closeBtn').onclick = function () { if (inTelegram) tg.close(); else history.back(); };
 
 load(function () {
-  fetch('../data/words.json')
+  fetch('words.json?v=2')
     .then(function (r) { return r.json(); })
     .then(start)
     .catch(function () { $('front').textContent = 'Не загрузился список слов — попробуйте ещё раз.'; });
