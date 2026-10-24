@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Проверить себя · LuxFlash</title>
+<!--
+  The drill behind the "Проверить себя" button in the Luxembourgish lesson bot.
+
+  The lesson passes its words as ids in the address fragment (#n=394&t=verb&w=…);
+  the words themselves come from ../data/words.json, the same LOD-checked list
+  the site uses. Each answer is "know" or "not yet", and the next showing is
+  spaced out from that: a word you know comes back after 1, 3, 7, 14, 30 and 60
+  days, a word you don't comes back tomorrow.
+
+  Progress lives in Telegram's CloudStorage when the page is opened from the
+  bot, so it follows the account to every device, and in localStorage
+  otherwise. Nothing is sent to this server. The bot shares its token with
+  other scripts that read updates, so buttons that call back to the bot would
+  be swallowed; a page that keeps its own state needs no updates at all.
+-->
+<script src="https://telegram.org/js/telegram-web-app.js?59"></script>
+<style>
+  :root {
+    --bg: var(--tg-theme-secondary-bg-color, #f5f5fc);
+    --card: var(--tg-theme-bg-color, #ffffff);
+    --text: var(--tg-theme-text-color, #15162b);
+    --soft: var(--tg-theme-hint-color, #5c5e7e);
+    --accent: var(--tg-theme-button-color, #5b34ea);
+    --accent-text: var(--tg-theme-button-text-color, #ffffff);
+    --line: rgba(120, 120, 150, .18);
+    --good: #12b76a;
+    --again: #f04438;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: var(--tg-theme-secondary-bg-color, #0f1020);
+      --card: var(--tg-theme-bg-color, #1a1b30);
+      --text: var(--tg-theme-text-color, #ecebff);
+      --soft: var(--tg-theme-hint-color, #a2a3c2);
+      --accent: var(--tg-theme-button-color, #8b6cf6);
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text);
+    font: 17px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 520px; margin: 0 auto; padding: 14px 16px calc(24px + env(safe-area-inset-bottom)); }
+  .top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin: 4px 2px 10px; }
+  .top b { font-size: 16px; }
+  .top span { color: var(--soft); font-size: 14px; font-variant-numeric: tabular-nums; }
+  .bar { height: 4px; border-radius: 4px; background: var(--line); overflow: hidden; margin-bottom: 14px; }
+  .bar i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .25s; }
+  .card { background: var(--card); border-radius: 18px; padding: 22px 18px; min-height: 300px;
+    display: flex; flex-direction: column; gap: 10px; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
+  .dir { color: var(--soft); font-size: 13px; letter-spacing: .04em; text-transform: uppercase; }
+  .word { font-size: 30px; font-weight: 700; line-height: 1.2; overflow-wrap: anywhere; }
+  .meta { color: var(--soft); font-size: 14px; }
+  .say { align-self: flex-start; border: 1px solid var(--line); background: transparent; color: var(--text);
+    border-radius: 999px; min-height: 40px; padding: 0 14px; font-size: 15px; }
+  .answer { border-top: 1px solid var(--line); padding-top: 12px; display: flex; flex-direction: column; gap: 6px; }
+  .answer .tr { font-size: 22px; font-weight: 600; }
+  .answer .ex { font-style: italic; }
+  .answer .exen { color: var(--soft); font-size: 15px; }
+  .hidden { display: none !important; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
+  button.big { min-height: 54px; border: 0; border-radius: 14px; font-size: 17px; font-weight: 600; width: 100%; }
+  .show { background: var(--accent); color: var(--accent-text); margin-top: 14px; }
+  .no { background: color-mix(in srgb, var(--again) 14%, var(--card)); color: var(--again); }
+  .yes { background: color-mix(in srgb, var(--good) 16%, var(--card)); color: var(--good); }
+  .done h1 { font-size: 24px; margin: 4px 0 6px; }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 12px 0; }
+  .stats div { background: var(--bg); border-radius: 12px; padding: 10px 8px; text-align: center; }
+  .stats b { display: block; font-size: 22px; font-variant-numeric: tabular-nums; }
+  .stats span { color: var(--soft); font-size: 12px; }
+  .miss { margin: 6px 0 0; padding-left: 18px; }
+  .miss li { margin: 2px 0; }
+  .note { color: var(--soft); font-size: 13px; margin-top: 12px; }
+  a { color: var(--accent); }
+  button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="top"><b id="title">Проверить себя</b><span id="count"></span></div>
+  <div class="bar"><i id="fill"></i></div>
+
+  <section class="card" id="cardView">
+    <div class="dir" id="dir"></div>
+    <div class="word" id="front">…</div>
+    <div class="meta" id="meta"></div>
+    <button class="say hidden" id="say" type="button">▶ Послушать</button>
+    <div class="answer hidden" id="answer">
+      <div class="tr" id="back"></div>
+      <div class="ex" id="ex"></div>
+      <div class="exen" id="exen"></div>
+    </div>
+  </section>
+  <button class="big show" id="showBtn" type="button">Показать ответ</button>
+  <div class="row hidden" id="grade">
+    <button class="big no" id="noBtn" type="button">Ещё нет</button>
+    <button class="big yes" id="yesBtn" type="button">Знаю</button>
+  </div>
+
+  <section class="card done hidden" id="doneView">
+    <h1 id="doneTitle">Готово</h1>
+    <div class="stats">
+      <div><b id="sKnow">0</b><span>знаю</span></div>
+      <div><b id="sAgain">0</b><span>повторить</span></div>
+      <div><b id="sLearned">0</b><span>выучено</span></div>
+    </div>
+    <div id="missWrap" class="hidden"><b>Вернутся завтра:</b><ul class="miss" id="miss"></ul></div>
+    <p class="note" id="nextNote"></p>
+    <button class="big show" id="closeBtn" type="button">Закрыть</button>
+    <p class="note" id="where"></p>
+  </section>
+</main>
+<script>
+'use strict';
+var tg = window.Telegram && window.Telegram.WebApp;
+var inTelegram = !!(tg && tg.initData);
+var cloud = inTelegram && tg.isVersionAtLeast && tg.isVersionAtLeast('6.9') ? tg.CloudStorage : null;
+if (tg) { try { tg.ready(); tg.expand(); } catch (e) {} }
+
+var $ = function (id) { return document.getElementById(id); };
+var DAY = 86400000;
+var STEPS = [1, 3, 7, 14, 30, 60];     // days until the next showing, by box
+var LEARNED = 3;                        // box from which a word counts as learned
+var REVIEW_MAX = 20;
+var today = Math.floor(Date.now() / DAY);
+
+function slug(s) {
+  return String(s).toLowerCase()
+    .replace(/[äàâ]/g, 'a').replace(/[ëéèê]/g, 'e').replace(/[ïî]/g, 'i')
+    .replace(/[öô]/g, 'o').replace(/[üû]/g, 'u').replace(/ç/g, 'c')
+    .replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+function stripArticle(lb) {
+  return String(lb || '').replace(/^d'\s*(?=\S)/i, '').replace(/^(den|déi|de)\s+(?=\S)/i, '').trim();
+}
+function article(w) {
+  if (w.pos !== 'noun') return '';
+  if (w.gender === 'f' || w.gender === 'n') return "d'";
+  if (w.gender === 'm') return /^[aeiouäëéhdtzn]/i.test(w.lb) ? 'den ' : 'de ';
+  return '';
+}
+
+// ── storage: id -> [box, dueDay], in chunks of under 4 096 characters ──
+var KEY = 'lt.progress.v1';
+var prog = {};
+function pack() {
+  var parts = [], cur = '';
+  Object.keys(prog).forEach(function (id) {
+    var e = id + '|' + prog[id][0] + '|' + prog[id][1] + ';';
+    if (cur.length + e.length > 4000) { parts.push(cur); cur = ''; }
+    cur += e;
+  });
+  if (cur) parts.push(cur);
+  return parts;
+}
+function unpack(parts) {
+  var out = {};
+  parts.forEach(function (s) {
+    (s || '').split(';').forEach(function (e) {
+      var f = e.split('|');
+      if (f.length === 3) out[f[0]] = [+f[1], +f[2]];
+    });
+  });
+  return out;
+}
+function loadLocal() {
+  try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { return {}; }
+}
+function load(done) {
+  var local = loadLocal();
+  if (!cloud) { prog = local; return done(); }
+  cloud.getItem('n', function (err, n) {
+    n = +n || 0;
+    if (err || !n) { prog = local; return done(); }
+    var keys = []; for (var i = 0; i < n; i++) keys.push('p' + i);
+    cloud.getItems(keys, function (err2, vals) {
+      prog = err2 ? local : unpack(keys.map(function (k) { return vals[k]; }));
+      done();
+    });
+  });
+}
+function save() {
+  try { localStorage.setItem(KEY, JSON.stringify(prog)); } catch (e) {}
+  if (!cloud) return;
+  var parts = pack();
+  parts.forEach(function (p, i) { cloud.setItem('p' + i, p); });
+  cloud.setItem('n', String(parts.length));
+}
+
+// ── session ──
+var params = new URLSearchParams(location.hash.slice(1));
+var lessonNo = params.get('n');
+var lessonIds = (params.get('w') || '').split(',').filter(Boolean);
+var BY_ID = {};
+var queue = [], pos = 0, total = 0, know = 0, again = 0, missed = [], cur = null, reverse = false, retried = {};
+
+function start(words) {
+  words.forEach(function (w) {
+    if (w.pos === 'noun') w.lb = stripArticle(w.lb);
+    w.id = slug(w.lb) + '.' + (w.pos || 'x');
+    BY_ID[w.id] = w;
+  });
+  var lesson = lessonIds.map(function (id) { return BY_ID[id]; }).filter(Boolean);
+  var inLesson = {}; lesson.forEach(function (w) { inLesson[w.id] = 1; });
+  var due = Object.keys(prog)
+    .filter(function (id) { return BY_ID[id] && !inLesson[id] && prog[id][1] <= today; })
+    .sort(function (a, b) { return prog[a][1] - prog[b][1]; })
+    .slice(0, REVIEW_MAX)
+    .map(function (id) { return BY_ID[id]; });
+  queue = lesson.concat(due);
+  total = queue.length;
+  $('title').textContent = lessonNo ? 'Урок ' + lessonNo + (due.length ? ' + повторение' : '') : 'Повторение';
+  if (!queue.length) return finish(true);
+  show();
+}
+
+function show() {
+  cur = queue[pos];
+  var p = prog[cur.id];
+  // A word you have answered right twice comes the other way round: from the
+  // meaning to the Luxembourgish, which is the harder half of knowing it.
+  reverse = !!(p && p[0] >= 2);
+  var lb = article(cur) + cur.lb;
+  $('dir').textContent = reverse ? 'Как это по-люксембургски?' : 'Что это значит?';
+  $('front').textContent = reverse ? cur.en : lb;
+  $('meta').textContent = reverse ? '' : [cur.pos, cur.gender ? '(' + cur.gender + ')' : '', cur.level].filter(Boolean).join(' · ');
+  $('back').textContent = reverse ? lb : cur.en;
+  $('ex').textContent = cur.ex_lb || '';
+  $('exen').textContent = cur.ex_en || '';
+  $('say').classList.toggle('hidden', !cur.lodId || reverse);
+  $('answer').classList.add('hidden');
+  $('showBtn').classList.remove('hidden');
+  $('grade').classList.add('hidden');
+  $('count').textContent = Math.min(pos + 1, queue.length) + ' / ' + queue.length;
+  $('fill').style.width = Math.round(pos / queue.length * 100) + '%';
+}
+
+function reveal() {
+  $('answer').classList.remove('hidden');
+  $('showBtn').classList.add('hidden');
+  $('grade').classList.remove('hidden');
+  if (reverse && cur.lodId) $('say').classList.remove('hidden');
+}
+
+function grade(ok) {
+  var p = prog[cur.id] || [0, today];
+  if (ok && retried[cur.id]) {
+    // Right on the second try, minutes after seeing the answer: that is
+    // memory of the answer, not of the word. Tomorrow, from the start.
+    prog[cur.id] = [0, today + 1];
+  } else if (ok) {
+    var box = Math.min(p[0] + 1, STEPS.length);
+    prog[cur.id] = [box, today + STEPS[box - 1]];
+    know++;
+  } else {
+    prog[cur.id] = [0, today + 1];
+    if (!retried[cur.id]) { again++; missed.push(cur); }
+    // Once more at the end of this round, so the session ends on a right answer.
+    if (!retried[cur.id]) { retried[cur.id] = 1; queue.push(cur); }
+  }
+  if (tg && tg.HapticFeedback) { try { tg.HapticFeedback.impactOccurred(ok ? 'light' : 'soft'); } catch (e) {} }
+  save();
+  pos++;
+  if (pos >= queue.length) finish(false); else show();
+}
+
+function finish(empty) {
+  $('cardView').classList.add('hidden');
+  $('showBtn').classList.add('hidden');
+  $('grade').classList.add('hidden');
+  $('doneView').classList.remove('hidden');
+  $('fill').style.width = '100%';
+  $('count').textContent = '';
+  var learned = Object.keys(prog).filter(function (id) { return prog[id][0] >= LEARNED; }).length;
+  var tomorrow = Object.keys(prog).filter(function (id) { return prog[id][1] <= today + 1; }).length;
+  $('sKnow').textContent = know;
+  $('sAgain').textContent = again;
+  $('sLearned').textContent = learned;
+  $('doneTitle').textContent = empty ? 'Сегодня повторять нечего' : (again ? 'Готово' : 'Всё знаешь');
+  if (missed.length) {
+    $('missWrap').classList.remove('hidden');
+    missed.forEach(function (w) {
+      var li = document.createElement('li');
+      li.textContent = article(w) + w.lb + ' — ' + w.en;
+      $('miss').appendChild(li);
+    });
+  }
+  $('nextNote').textContent = 'Завтра на повторение: ' + tomorrow + ' ' + plural(tomorrow, 'слово', 'слова', 'слов') + '. Выученным слово считается после трёх «знаю» подряд.';
+  $('where').textContent = cloud ? 'Прогресс хранится в вашем Telegram — на всех устройствах.' : 'Прогресс хранится в этом браузере.';
+}
+
+function plural(n, one, few, many) {
+  var a = n % 10, b = n % 100;
+  if (a === 1 && b !== 11) return one;
+  if (a >= 2 && a <= 4 && (b < 12 || b > 14)) return few;
+  return many;
+}
+
+var audio = new Audio();
+$('say').onclick = function () {
+  var id = String(cur.lodId).toLowerCase();
+  var ogg = audio.canPlayType('audio/ogg; codecs=vorbis');
+  audio.src = 'https://lod.lu/uploads/' + (ogg ? 'OGG/' + id + '.ogg' : 'AAC/' + id + '.m4a');
+  audio.play().catch(function () {});
+};
+$('showBtn').onclick = reveal;
+// Tapping the card shows the answer too; the listen button only plays.
+$('cardView').onclick = function (e) { if (e.target.id !== 'say') reveal(); };
+$('noBtn').onclick = function () { grade(false); };
+$('yesBtn').onclick = function () { grade(true); };
+$('closeBtn').onclick = function () { if (inTelegram) tg.close(); else history.back(); };
+
+load(function () {
+  fetch('../data/words.json')
+    .then(function (r) { return r.json(); })
+    .then(start)
+    .catch(function () { $('front').textContent = 'Не загрузился список слов — попробуйте ещё раз.'; });
+});
+</script>
+</body>
+</html>
