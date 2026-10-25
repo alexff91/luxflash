@@ -95,7 +95,7 @@
       <div class="tr" id="back"></div>
       <div class="ex" id="ex"></div>
       <button class="say hidden" id="sayEx" type="button">▶ Пример</button>
-      <div class="exen" id="exen">Пример из словаря LOD</div>
+      <div class="exen" id="exen"></div>
     </div>
   </section>
   <button class="big show" id="showBtn" type="button">Показать ответ</button>
@@ -219,10 +219,12 @@ function show() {
   reverse = !!(p && p[0] >= 2);
   var lb = article(cur) + cur.lb;
   $('dir').textContent = reverse ? 'Как это по-люксембургски?' : 'Что это значит?';
-  $('front').textContent = reverse ? cur.en : lb;
+  var meaning = cur.ru ? cur.ru + ' (' + cur.en + ')' : cur.en;
+  $('front').textContent = reverse ? meaning : lb;
   $('meta').textContent = reverse ? '' : [cur.pos, cur.gender ? '(' + cur.gender + ')' : '', cur.level].filter(Boolean).join(' · ');
-  $('back').textContent = reverse ? lb : cur.en;
+  $('back').textContent = reverse ? lb : meaning;
   $('ex').textContent = cur.ex ? cur.ex.lb : '';
+  $('exen').textContent = cur.ex ? (cur.ex.ru || '') + ' · пример из словаря LOD' : '';
   $('exen').classList.toggle('hidden', !cur.ex);
   $('sayEx').classList.toggle('hidden', !(cur.ex && cur.ex.ogg));
   $('say').classList.toggle('hidden', !cur.lodId || reverse);
@@ -279,7 +281,7 @@ function finish(empty) {
     $('missWrap').classList.remove('hidden');
     missed.forEach(function (w) {
       var li = document.createElement('li');
-      li.textContent = article(w) + w.lb + ' — ' + w.en;
+      li.textContent = article(w) + w.lb + ' — ' + (w.ru || w.en);
       $('miss').appendChild(li);
     });
   }
@@ -311,7 +313,7 @@ $('yesBtn').onclick = function () { grade(true); };
 $('closeBtn').onclick = function () { if (inTelegram) tg.close(); else history.back(); };
 
 load(function () {
-  fetch('words.json?v=2')
+  fetch('words.json?v=4')
     .then(function (r) { return r.json(); })
     .then(start)
     .catch(function () { $('front').textContent = 'Не загрузился список слов — попробуйте ещё раз.'; });
