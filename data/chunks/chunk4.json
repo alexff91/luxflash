@@ -8,8 +8,8 @@
   "gender": "f",
   "level": "A1",
   "category": "work",
-  "ex_lb": "Ech hunn vill Aarbecht haut.",
-  "ex_en": "I have a lot of work today.",
+  "ex_lb": "Hien huet vill Freed u senger Aarbecht.",
+  "ex_en": "He takes great pleasure in his work.",
   "lodId": "AARBECHT1"
  },
  {
@@ -21,8 +21,8 @@
   "gender": "",
   "level": "A1",
   "category": "work",
-  "ex_lb": "Ech schaffen an enger Bank.",
-  "ex_en": "I work in a bank.",
+  "ex_lb": "Ech hunn de ganzen Dag am Gaart geschafft.",
+  "ex_en": "I worked in the garden all day.",
   "lodId": "SCHAFFEN3"
  },
  {
@@ -34,8 +34,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Mäi Patron ass ganz streng.",
-  "ex_en": "My boss is very strict.",
+  "ex_lb": "De Patron mengt et gutt mat sengen Employéen.",
+  "ex_en": "The boss treats his employees well.",
   "lodId": "PATRON1"
  },
  {
@@ -47,12 +47,12 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "De Chef ass haut net do.",
-  "ex_en": "The boss isn't here today.",
+  "ex_lb": "De Chef huet de Scoute verschidden nëtzlech Kniet bäibruecht.",
+  "ex_en": "The scout leader taught the scouts several useful knots.",
   "lodId": "CHEF1"
  },
  {
-  "lb": "de Kolleg",
+  "lb": "de Kolleeg",
   "en": "colleague",
   "de": "der Kollege",
   "fr": "le collègue",
@@ -60,8 +60,9 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Mäi Kolleg hëlleft mer gär.",
-  "ex_en": "My colleague helps me gladly."
+  "ex_lb": "De Weekend fueren ech mat engem Kolleeg an d'Vakanz.",
+  "ex_en": "At the weekend I'm going on holiday with a colleague.",
+  "lodId": "KOLLEEG1"
  },
  {
   "lb": "d'Kolleegin",
@@ -72,8 +73,8 @@
   "gender": "f",
   "level": "A2",
   "category": "work",
-  "ex_lb": "D'Kolleegin ass am Congé.",
-  "ex_en": "The colleague is on leave.",
+  "ex_lb": "Eng vu menge Kolleeginne geet mat mer op de Concert.",
+  "ex_en": "One of my colleagues is coming to the concert with me.",
   "lodId": "KOLLEEGIN1"
  },
  {
@@ -85,8 +86,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Wat ass däi Beruff?",
-  "ex_en": "What is your profession?",
+  "ex_lb": "Du hues e schwéiere Beruff.",
+  "ex_en": "You have a hard job.",
   "lodId": "BERUFF1"
  },
  {
@@ -98,8 +99,8 @@
   "gender": "m",
   "level": "A1",
   "category": "work",
-  "ex_lb": "Ech sichen e neie Job.",
-  "ex_en": "I'm looking for a new job.",
+  "ex_lb": "Et ass net einfach, e gudden Job ze fannen.",
+  "ex_en": "It's not easy to find a good job.",
   "lodId": "JOB1"
  },
  {
@@ -111,8 +112,8 @@
   "gender": "f",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Et gëtt eng fräi Plaz.",
-  "ex_en": "There is a vacant position.",
+  "ex_lb": "An der Mëtt vun der Plaz steet e Sprangbuer.",
+  "ex_en": "There's a fountain in the middle of the square.",
   "lodId": "PLAZ1"
  },
  {
@@ -124,8 +125,8 @@
   "gender": "f",
   "level": "A2",
   "category": "business",
-  "ex_lb": "D'Firma ass grouss.",
-  "ex_en": "The company is big.",
+  "ex_lb": "De Patron huet d'Firma op e Patt invitéiert.",
+  "ex_en": "The boss invited the company for a drink.",
   "lodId": "FIRMA1"
  },
  {
@@ -137,8 +138,8 @@
   "gender": "f",
   "level": "B1",
   "category": "business",
-  "ex_lb": "D'Entreprise stellt Leit an.",
-  "ex_en": "The company is hiring people.",
+  "ex_lb": "Ech schaffen an enger Entreprise, déi Brécke baut.",
+  "ex_en": "I work for a company that builds bridges.",
   "lodId": "ENTREPRISE1"
  },
  {
@@ -150,8 +151,8 @@
   "gender": "m",
   "level": "B1",
   "category": "business",
-  "ex_lb": "De Betrib leeft gutt.",
-  "ex_en": "The business is running well.",
+  "ex_lb": "All Joer maachen eng Partie Betriber Faillite.",
+  "ex_en": "Every year a number of companies go bankrupt.",
   "lodId": "BETRIB1"
  },
  {
@@ -163,8 +164,8 @@
   "gender": "m",
   "level": "A1",
   "category": "office",
-  "ex_lb": "Säi Büro ass am drëtte Stack.",
-  "ex_en": "His office is on the third floor.",
+  "ex_lb": "De Bréif ass am ieweschten Tirang vu mengem Büro.",
+  "ex_en": "The letter is in the top drawer of my desk.",
   "lodId": "BURO1"
  },
  {
@@ -176,8 +177,8 @@
   "gender": "f",
   "level": "A2",
   "category": "office",
-  "ex_lb": "D'Reunioun fänkt um néng un.",
-  "ex_en": "The meeting starts at nine.",
+  "ex_lb": "De President huet an deene leschten zwou Reunioune vum Kommitee gefeelt.",
+  "ex_en": "The chairman missed the last two committee meetings.",
   "lodId": "REUNIOUN1"
  },
  {
@@ -189,8 +190,8 @@
   "gender": "m",
   "level": "A1",
   "category": "office",
-  "ex_lb": "Mäi Computer ass futti.",
-  "ex_en": "My computer is broken.",
+  "ex_lb": "D'Computere ginn ëmmer méi bëlleg.",
+  "ex_en": "Computers keep getting cheaper.",
   "lodId": "COMPUTER1"
  },
  {
@@ -202,8 +203,8 @@
   "gender": "f",
   "level": "A1",
   "category": "office",
-  "ex_lb": "Ech schécken eng E-Mail.",
-  "ex_en": "I'm sending an email.",
+  "ex_lb": "Ech souz de ganzen Owend um Computer, E-Mailen ze schreiwen!",
+  "ex_en": "I sat at the computer all evening writing emails!",
   "lodId": "EMAIL3"
  },
  {
@@ -227,8 +228,8 @@
   "gender": "m",
   "level": "A2",
   "category": "office",
-  "ex_lb": "De Drécker huet kee Pabeier.",
-  "ex_en": "The printer has no paper.",
+  "ex_lb": "Eisen Eelsten huet elo eng Léier als Drécker ugefaangen.",
+  "ex_en": "Our eldest has now started an apprenticeship as a printer.",
   "lodId": "DRECKER1"
  },
  {
@@ -240,8 +241,8 @@
   "gender": "m",
   "level": "A1",
   "category": "office",
-  "ex_lb": "Ech brauch e Blat Pabeier.",
-  "ex_en": "I need a sheet of paper.",
+  "ex_lb": "Wat brauch een, fir Pabeier ze produzéieren?",
+  "ex_en": "What do you need to make paper?",
   "lodId": "PABEIER1"
  },
  {
@@ -266,8 +267,8 @@
   "gender": "m",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech schreiwen mam Bläistëft.",
-  "ex_en": "I write with the pencil.",
+  "ex_lb": "Mëll Bläistëfter muss een dacks spëtzen.",
+  "ex_en": "Soft pencils need sharpening often.",
   "lodId": "BLAISTEFT1"
  },
  {
@@ -279,8 +280,8 @@
   "gender": "n",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Dëst Dokument ass wichteg.",
-  "ex_en": "This document is important.",
+  "ex_lb": "D'Enquêteuren hu sämtlech Dokumenter aus dem Büro matgeholl.",
+  "ex_en": "The investigators took all the documents from the office.",
   "lodId": "DOKUMENT1"
  },
  {
@@ -292,8 +293,8 @@
   "gender": "m",
   "level": "A1",
   "category": "office",
-  "ex_lb": "Ech kréien e Bréif vun der Gemeng.",
-  "ex_en": "I get a letter from the municipality.",
+  "ex_lb": "Ech hu vergiess, en Timber op de Bréif ze pechen.",
+  "ex_en": "I forgot to stick a stamp on the letter.",
   "lodId": "BREIF1"
  },
  {
@@ -305,8 +306,8 @@
   "gender": "n",
   "level": "A1",
   "category": "office",
-  "ex_lb": "D'Telefon kléngelt.",
-  "ex_en": "The telephone is ringing.",
+  "ex_lb": "Matzen an der Nuecht huet den Telefon gerabbelt.",
+  "ex_en": "In the middle of the night the phone rang.",
   "lodId": "TELEFON1"
  },
  {
@@ -318,12 +319,12 @@
   "gender": "",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Ech ruffen dech muer un.",
-  "ex_en": "I'll call you tomorrow.",
+  "ex_lb": "Riffs de vun doheem aus un oder bass de ënnerwee?",
+  "ex_en": "Are you calling from home or are you out?",
   "lodId": "URUFFEN1"
  },
  {
-  "lb": "de Léierer",
+  "lb": "den Enseignant",
   "en": "teacher",
   "de": "der Lehrer",
   "fr": "l'enseignant",
@@ -331,8 +332,9 @@
   "gender": "m",
   "level": "A1",
   "category": "school",
-  "ex_lb": "De Léierer erkläert d'Lektioun.",
-  "ex_en": "The teacher explains the lesson."
+  "ex_lb": "Mäi Brudder ass Enseignant.",
+  "ex_en": "My brother is a teacher.",
+  "lodId": "ENSEIGNANT1"
  },
  {
   "lb": "d'Léierin",
@@ -343,8 +345,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "D'Léierin ass ganz frëndlech.",
-  "ex_en": "The teacher is very friendly.",
+  "ex_lb": "Virun der Stonn huet d'Léierin d'Hefter verdeelt.",
+  "ex_en": "Before the lesson the teacher handed out the exercise books.",
   "lodId": "LEIERIN1"
  },
  {
@@ -356,8 +358,8 @@
   "gender": "m",
   "level": "A1",
   "category": "school",
-  "ex_lb": "De Schüler léiert fläisseg.",
-  "ex_en": "The pupil studies diligently.",
+  "ex_lb": "D'Schüler waarden am Schoulsall op hir Professesch.",
+  "ex_en": "The pupils are waiting in the classroom for their teacher.",
   "lodId": "SCHULER1"
  },
  {
@@ -369,8 +371,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "D'Schülerin huet eng gutt Note.",
-  "ex_en": "The pupil has a good grade.",
+  "ex_lb": "Biologie ass där Schülerin hiert Liblingsfach.",
+  "ex_en": "Biology is that pupil's favourite subject.",
   "lodId": "SCHULERIN1"
  },
  {
@@ -382,8 +384,8 @@
   "gender": "m",
   "level": "A2",
   "category": "university",
-  "ex_lb": "De Student wunnt zu Esch.",
-  "ex_en": "The student lives in Esch.",
+  "ex_lb": "Ech schaffen nach net, ech si Student.",
+  "ex_en": "I'm not working yet, I'm a student.",
   "lodId": "STUDENT1"
  },
  {
@@ -395,8 +397,8 @@
   "gender": "f",
   "level": "A2",
   "category": "university",
-  "ex_lb": "D'Studentin schreift hir These.",
-  "ex_en": "The student is writing her thesis.",
+  "ex_lb": "D'Studentin wäert no hirem Bachelor nach e Master an Ugrëff huelen.",
+  "ex_en": "After her bachelor's the student is going to start a master's.",
   "lodId": "STUDENTIN1"
  },
  {
@@ -408,8 +410,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "D'Kanner ginn an d'Schoul.",
-  "ex_en": "The children go to school.",
+  "ex_lb": "Mir sinn zesummen an d'Schoul gaangen.",
+  "ex_en": "We went to school together.",
   "lodId": "SCHOUL1"
  },
  {
@@ -421,8 +423,8 @@
   "gender": "f",
   "level": "A2",
   "category": "university",
-  "ex_lb": "D'Universitéit ass zu Belval.",
-  "ex_en": "The university is in Belval.",
+  "ex_lb": "Fréier hu wéineg Fraen Universitéit gemaach.",
+  "ex_en": "In the past, few women went to university.",
   "lodId": "UNIVERSITEIT1"
  },
  {
@@ -434,8 +436,8 @@
   "gender": "m",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Hie geet an de Lycée zu Lëtzebuerg.",
-  "ex_en": "He goes to high school in Luxembourg.",
+  "ex_lb": "Am Lycée gi verschidde Formatiounen ugebueden, vun der Beruffsausbildung bis hin zur Première.",
+  "ex_en": "The lycée offers various programmes, from vocational training to the final year.",
   "lodId": "LYCEE1"
  },
  {
@@ -447,8 +449,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Meng Klass huet zwanzeg Schüler.",
-  "ex_en": "My class has twenty pupils.",
+  "ex_lb": "Déi iewescht Klasse ginn de Mëtteg schwammen.",
+  "ex_en": "The upper classes go swimming this afternoon.",
   "lodId": "KLASS1"
  },
  {
@@ -460,8 +462,8 @@
   "gender": "m",
   "level": "A1",
   "category": "school",
-  "ex_lb": "De Cours fänkt um aacht un.",
-  "ex_en": "The course starts at eight.",
+  "ex_lb": "Dee Professer hält en interessante Cours.",
+  "ex_en": "That teacher gives an interesting course.",
   "lodId": "COURS1"
  },
  {
@@ -473,8 +475,8 @@
   "gender": "f",
   "level": "A2",
   "category": "school",
-  "ex_lb": "D'Lektioun war interessant.",
-  "ex_en": "The lesson was interesting.",
+  "ex_lb": "Hie wousst seng Lektioun auswenneg.",
+  "ex_en": "He knew his lesson by heart.",
   "lodId": "LEKTIOUN1"
  },
  {
@@ -486,8 +488,8 @@
   "gender": "f",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Ech maachen meng Hausaufgaben.",
-  "ex_en": "I'm doing my homework.",
+  "ex_lb": "Du däerfs eréischt eraus spille goen, wann s de deng Hausaufgabe gemaach hues!",
+  "ex_en": "You can only go out to play once you've done your homework!",
   "lodId": "HAUSAUFGAB1"
  },
  {
@@ -499,8 +501,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech léiere Lëtzebuergesch.",
-  "ex_en": "I'm learning Luxembourgish.",
+  "ex_lb": "Ech hu wëlles, en Handwierk ze léieren.",
+  "ex_en": "I intend to learn a trade.",
   "lodId": "LEIEREN2"
  },
  {
@@ -512,8 +514,8 @@
   "gender": "",
   "level": "A2",
   "category": "university",
-  "ex_lb": "Si studéiert Medezin.",
-  "ex_en": "She studies medicine.",
+  "ex_lb": "Ech studéiere Chimie op enger auslännescher Universitéit.",
+  "ex_en": "I study chemistry at a foreign university.",
   "lodId": "STUDEIEREN1"
  },
  {
@@ -551,8 +553,8 @@
   "gender": "n",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Den Examen ass muer.",
-  "ex_en": "The exam is tomorrow.",
+  "ex_lb": "An zwee Méint ginn d'Examen un.",
+  "ex_en": "The exams start in two months.",
   "lodId": "EXAMEN1"
  },
  {
@@ -564,8 +566,8 @@
   "gender": "n",
   "level": "B1",
   "category": "university",
-  "ex_lb": "Si huet hiren Diplom kritt.",
-  "ex_en": "She received her diploma.",
+  "ex_lb": "Hie mécht en Diplom an der Chimie.",
+  "ex_en": "He is doing a degree in chemistry.",
   "lodId": "DIPLOM1"
  },
  {
@@ -577,8 +579,8 @@
   "gender": "n",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Dëst Buch ass ganz gutt.",
-  "ex_en": "This book is very good.",
+  "ex_lb": "Dat Buch huet bal 500 Säiten.",
+  "ex_en": "That book has almost 500 pages.",
   "lodId": "BUCH1"
  },
  {
@@ -590,8 +592,8 @@
   "gender": "n",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Schreif et an däin Heft.",
-  "ex_en": "Write it in your notebook.",
+  "ex_lb": "Haut de Moien huet de Schoulmeeschter d'Hefter kontrolléiert.",
+  "ex_en": "This morning the teacher checked the exercise books.",
   "lodId": "HEFT2"
  },
  {
@@ -603,8 +605,8 @@
   "gender": "f",
   "level": "A2",
   "category": "school",
-  "ex_lb": "De Léierer schreift op d'Tafel.",
-  "ex_en": "The teacher writes on the board.",
+  "ex_lb": "D'Joffer huet mech haut un d'Tafel geruff.",
+  "ex_en": "The teacher called me up to the blackboard today.",
   "lodId": "TAFEL1"
  },
  {
@@ -616,8 +618,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech liese gär Bicher.",
-  "ex_en": "I like to read books.",
+  "ex_lb": "Ech liese grad e spannend Buch.",
+  "ex_en": "I'm reading an exciting book right now.",
   "lodId": "LIESEN1"
  },
  {
@@ -629,8 +631,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Schreif däin Numm hei.",
-  "ex_en": "Write your name here.",
+  "ex_lb": "Schreift ären Numm op d'Prüfungsblat!",
+  "ex_en": "Write your name on the exam paper!",
   "lodId": "SCHREIWEN1"
  },
  {
@@ -642,8 +644,8 @@
   "gender": "",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Ech rechnen am Kapp.",
-  "ex_en": "I calculate in my head.",
+  "ex_lb": "Erklär mer emol, wéi een d'Fläch vun engem Dräieck rechent!",
+  "ex_en": "Explain to me how you calculate the area of a triangle!",
   "lodId": "RECHNEN1"
  },
  {
@@ -655,8 +657,8 @@
   "gender": "f",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Mathematik ass mäi Liiblingsfach.",
-  "ex_en": "Mathematics is my favourite subject.",
+  "ex_lb": "Hie studéiert Mathematik op der Uni.",
+  "ex_en": "He studies mathematics at university.",
   "lodId": "MATHEMATIK1"
  },
  {
@@ -668,8 +670,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Lëtzebuergesch ass eng schéin Sprooch.",
-  "ex_en": "Luxembourgish is a beautiful language.",
+  "ex_lb": "Dësen Dolmetscher schwätzt siwe Sproochen.",
+  "ex_en": "This interpreter speaks seven languages.",
   "lodId": "SPROOCH1"
  },
  {
@@ -681,8 +683,8 @@
   "gender": "n",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Wat ass däi Liiblingsfach?",
-  "ex_en": "What is your favourite subject?",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "FACH1"
  },
  {
@@ -694,8 +696,8 @@
   "gender": "f",
   "level": "A2",
   "category": "university",
-  "ex_lb": "Ech léieren an der Bibliothéik.",
-  "ex_en": "I study in the library.",
+  "ex_lb": "Ech hu mir an der Bibliothéik e flott Buch geléint.",
+  "ex_en": "I borrowed a nice book from the library.",
   "lodId": "BIBLIOTHEIK1"
  },
  {
@@ -707,8 +709,8 @@
   "gender": "",
   "level": "A1",
   "category": "money",
-  "ex_lb": "Ech hu keng Suen méi.",
-  "ex_en": "I have no more money."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'Bank",
@@ -719,8 +721,8 @@
   "gender": "f",
   "level": "A1",
   "category": "money",
-  "ex_lb": "D'Bank ass um Mëtteg zou.",
-  "ex_en": "The bank is closed at noon.",
+  "ex_lb": "D'Bank huet en décke Benefice gemaach.",
+  "ex_en": "The bank made a huge profit.",
   "lodId": "BANK1"
  },
  {
@@ -732,8 +734,8 @@
   "gender": "m",
   "level": "A1",
   "category": "money",
-  "ex_lb": "Et kascht fofzeg Cent.",
-  "ex_en": "It costs fifty cents.",
+  "ex_lb": "Et ass mer en Cent op de Buedem gefall.",
+  "ex_en": "A cent fell on the floor.",
   "lodId": "CENT1"
  },
  {
@@ -745,8 +747,8 @@
   "gender": "m",
   "level": "A1",
   "category": "money",
-  "ex_lb": "Dat kascht zéng Euro.",
-  "ex_en": "That costs ten euros.",
+  "ex_lb": "Den Euro ass eng staark Wärung.",
+  "ex_en": "The euro is a strong currency.",
   "lodId": "EURO1"
  },
  {
@@ -771,8 +773,8 @@
   "gender": "f",
   "level": "A1",
   "category": "money",
-  "ex_lb": "Ech bezuelen mat der Kaart.",
-  "ex_en": "I pay with the card.",
+  "ex_lb": "Mir hunn eise Frënn eng Kaart aus der Vakanz geschéckt.",
+  "ex_en": "We sent our friends a card from our holiday.",
   "lodId": "KAART1"
  },
  {
@@ -784,8 +786,8 @@
   "gender": "",
   "level": "A1",
   "category": "money",
-  "ex_lb": "Ech bezuelen d'Rechnung.",
-  "ex_en": "I'm paying the bill.",
+  "ex_lb": "De Client huet d'Wuer boer bezuelt.",
+  "ex_en": "The customer paid for the goods in cash.",
   "lodId": "BEZUELEN1"
  },
  {
@@ -797,8 +799,8 @@
   "gender": "f",
   "level": "A2",
   "category": "money",
-  "ex_lb": "D'Rechnung ass ze héich.",
-  "ex_en": "The bill is too high.",
+  "ex_lb": "Ech fäerte ganz, de Schräiner mécht eis eng déck Rechnung!",
+  "ex_en": "I'm afraid the carpenter will send us a hefty bill!",
   "lodId": "RECHNUNG1"
  },
  {
@@ -810,8 +812,8 @@
   "gender": "m",
   "level": "A1",
   "category": "money",
-  "ex_lb": "De Präis ass ganz héich.",
-  "ex_en": "The price is very high.",
+  "ex_lb": "Ech hunn dëse Vëlo fir den hallwe Präis kritt.",
+  "ex_en": "I got this bike at half price.",
   "lodId": "PRAIS1"
  },
  {
@@ -823,8 +825,8 @@
   "gender": "m",
   "level": "A2",
   "category": "money",
-  "ex_lb": "De Loun kënnt all Mount.",
-  "ex_en": "The salary comes every month.",
+  "ex_lb": "D'Léin am Bauwiese sinn ajustéiert ginn.",
+  "ex_en": "Wages in the construction sector have been adjusted.",
   "lodId": "LOUN1"
  },
  {
@@ -836,8 +838,8 @@
   "gender": "m",
   "level": "B1",
   "category": "money",
-  "ex_lb": "Säi Salaire ass héich.",
-  "ex_en": "His salary is high.",
+  "ex_lb": "D'Salairë goufen dëse Mount mat Verspéidung ausbezuelt.",
+  "ex_en": "Salaries were paid late this month.",
   "lodId": "SALAIRE1"
  },
  {
@@ -849,8 +851,8 @@
   "gender": "f",
   "level": "B1",
   "category": "money",
-  "ex_lb": "D'Steiere si geklomm.",
-  "ex_en": "The taxes have risen.",
+  "ex_lb": "Dëst Joer hunn ech nach Steieren nozebezuelen.",
+  "ex_en": "This year I still have to pay back taxes.",
   "lodId": "STEIER1"
  },
  {
@@ -862,24 +864,12 @@
   "gender": "",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Ech spuere fir en Auto.",
-  "ex_en": "I'm saving for a car.",
+  "ex_lb": "Duerch dës Moossnam wäerte mer vill Sue spueren.",
+  "ex_en": "This measure will save us a lot of money.",
   "lodId": "SPUEREN1"
  },
  {
-  "lb": "d'Suen ofhiewen",
-  "en": "to withdraw money",
-  "de": "Geld abheben",
-  "fr": "retirer de l'argent",
-  "pos": "phrase",
-  "gender": "",
-  "level": "B1",
-  "category": "money",
-  "ex_lb": "Ech muss Suen ofhiewen.",
-  "ex_en": "I need to withdraw money."
- },
- {
-  "lb": "de Krédit",
+  "lb": "de Kredit",
   "en": "loan",
   "de": "der Kredit",
   "fr": "le crédit",
@@ -887,8 +877,9 @@
   "gender": "m",
   "level": "B1",
   "category": "money",
-  "ex_lb": "Si huelen e Krédit fir d'Haus.",
-  "ex_en": "They take a loan for the house."
+  "ex_lb": "D'Bank huet eis de Kredit fir eisen neien Auto accordéiert.",
+  "ex_en": "The bank granted us the loan for our new car.",
+  "lodId": "KREDIT1"
  },
  {
   "lb": "de Prêt",
@@ -899,8 +890,8 @@
   "gender": "m",
   "level": "B1",
   "category": "money",
-  "ex_lb": "De Prêt leeft iwwer zwanzeg Joer.",
-  "ex_en": "The loan runs over twenty years.",
+  "ex_lb": "D'Bank huet der jonker Koppel e Prêt bewëllegt.",
+  "ex_en": "The bank granted the young couple a loan.",
   "lodId": "PRET1"
  },
  {
@@ -912,8 +903,8 @@
   "gender": "f",
   "level": "B1",
   "category": "money",
-  "ex_lb": "Hien huet vill Scholden.",
-  "ex_en": "He has a lot of debt.",
+  "ex_lb": "Ech si mer kenger Schold bewosst.",
+  "ex_en": "I'm not aware of any guilt.",
   "lodId": "SCHOLD1"
  },
  {
@@ -925,8 +916,8 @@
   "gender": "f",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "D'Wirtschaft wiisst lues.",
-  "ex_en": "The economy grows slowly.",
+  "ex_lb": "Wéi soll de Stot bei esou enger Wirtschaft senger Scholde lassginn?",
+  "ex_en": "How is the state supposed to get rid of its debts with an economy like this?",
   "lodId": "WIRTSCHAFT1"
  },
  {
@@ -938,8 +929,8 @@
   "gender": "m",
   "level": "A2",
   "category": "economy",
-  "ex_lb": "De Marché ass dënschdes op.",
-  "ex_en": "The market is open on Tuesdays.",
+  "ex_lb": "D'Offer an d'Demande reegelen de Marché.",
+  "ex_en": "Supply and demand regulate the market.",
   "lodId": "MARCHE1"
  },
  {
@@ -951,8 +942,8 @@
   "gender": "m",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "De Verkaf leeft gutt.",
-  "ex_en": "The sale is going well.",
+  "ex_lb": "Um Fest hunn ech beim Verkaf vu Lotterieslouse gehollef.",
+  "ex_en": "At the fête I helped sell raffle tickets.",
   "lodId": "VERKAF1"
  },
  {
@@ -964,8 +955,8 @@
   "gender": "",
   "level": "A2",
   "category": "economy",
-  "ex_lb": "Si verkafe Geméis um Maart.",
-  "ex_en": "They sell vegetables at the market.",
+  "ex_lb": "Op den Tankstelle verkafen se och Blummen.",
+  "ex_en": "They sell flowers at petrol stations too.",
   "lodId": "VERKAFEN1"
  },
  {
@@ -977,8 +968,8 @@
   "gender": "",
   "level": "A1",
   "category": "economy",
-  "ex_lb": "Ech kafe Brout an der Bäckerei.",
-  "ex_en": "I buy bread at the bakery.",
+  "ex_lb": "Ech kafe mir elo eng gutt Mettwurscht!",
+  "ex_en": "I'm going to buy myself a good Mettwurst now!",
   "lodId": "KAFEN1"
  },
  {
@@ -990,12 +981,12 @@
   "gender": "m",
   "level": "A2",
   "category": "economy",
-  "ex_lb": "De Client waart op d'Rechnung.",
-  "ex_en": "The customer is waiting for the bill.",
+  "ex_lb": "De Bäcker begréisst seng Clienten ëmmer héiflech.",
+  "ex_en": "The baker always greets his customers politely.",
   "lodId": "CLIENT1"
  },
  {
-  "lb": "de Concurrent",
+  "lb": "de Konkurrent",
   "en": "competitor",
   "de": "der Konkurrent",
   "fr": "le concurrent",
@@ -1003,8 +994,9 @@
   "gender": "m",
   "level": "B2",
   "category": "economy",
-  "ex_lb": "De Concurrent ass méi bëlleg.",
-  "ex_en": "The competitor is cheaper."
+  "ex_lb": "Wann ee kee Konkurrent huet, ass ee Meeschter um Maart.",
+  "ex_en": "If you have no competitor, you rule the market.",
+  "lodId": "KONKURRENT1"
  },
  {
   "lb": "de Gewënn",
@@ -1015,8 +1007,8 @@
   "gender": "m",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "D'Firma mécht e gudde Gewënn.",
-  "ex_en": "The company makes a good profit.",
+  "ex_lb": "Meng Kanner ginn um Gewënn vum Verkaf bedeelegt.",
+  "ex_en": "My children get a share of the profit from the sale.",
   "lodId": "GEWENN1"
  },
  {
@@ -1028,8 +1020,8 @@
   "gender": "m",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "Mir hu Verloscht gemaach.",
-  "ex_en": "We made a loss.",
+  "ex_lb": "Den Doud vum President ass e grousse Verloscht fir d'Land.",
+  "ex_en": "The president's death is a great loss for the country.",
   "lodId": "VERLOSCHT1"
  },
  {
@@ -1041,8 +1033,8 @@
   "gender": "f",
   "level": "B2",
   "category": "economy",
-  "ex_lb": "Dat ass eng gutt Investitioun.",
-  "ex_en": "That is a good investment.",
+  "ex_lb": "Duerch dës Investitioun hues de e steierlechen Avantage.",
+  "ex_en": "This investment gives you a tax advantage.",
   "lodId": "INVESTITIOUN1"
  },
  {
@@ -1054,8 +1046,8 @@
   "gender": "f",
   "level": "B2",
   "category": "economy",
-  "ex_lb": "D'Aktien si gefall.",
-  "ex_en": "The shares have fallen.",
+  "ex_lb": "Meng Grousselteren investéieren hir Suen an Aktien an Obligatiounen.",
+  "ex_en": "My grandparents invest their money in shares and bonds.",
   "lodId": "AKTIE1"
  },
  {
@@ -1067,8 +1059,8 @@
   "gender": "f",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "D'Krise dauert nach un.",
-  "ex_en": "The crisis is still ongoing."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'Inflatioun",
@@ -1079,8 +1071,8 @@
   "gender": "f",
   "level": "B2",
   "category": "economy",
-  "ex_lb": "D'Inflatioun ass héich.",
-  "ex_en": "Inflation is high.",
+  "ex_lb": "D'Zënse sollen en Deel vun der Inflatioun ausgläichen.",
+  "ex_en": "Interest is supposed to offset part of the inflation.",
   "lodId": "INFLATIOUN1"
  },
  {
@@ -1092,8 +1084,8 @@
   "gender": "f",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "D'Verwaltung ass komplizéiert.",
-  "ex_en": "The administration is complicated.",
+  "ex_lb": "D'Universitéit huet eng autonom Verwaltung.",
+  "ex_en": "The university has an autonomous administration.",
   "lodId": "VERWALTUNG1"
  },
  {
@@ -1105,8 +1097,8 @@
   "gender": "f",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Ech ginn op d'Gemeng.",
-  "ex_en": "I'm going to the municipality.",
+  "ex_lb": "Mäin Neveu schafft op der Gemeng.",
+  "ex_en": "My nephew works at the town hall.",
   "lodId": "GEMENG1"
  },
  {
@@ -1118,8 +1110,8 @@
   "gender": "m",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Fëllt de Formulaire aus.",
-  "ex_en": "Fill out the form.",
+  "ex_lb": "Fir e Pass ze kréien, muss een eng Rei vu Formulairen ausfëllen.",
+  "ex_en": "To get a passport you have to fill in a number of forms.",
   "lodId": "FORMULAIRE1"
  },
  {
@@ -1131,8 +1123,8 @@
   "gender": "",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Ech fëllen den Antrag aus.",
-  "ex_en": "I'm filling out the application.",
+  "ex_lb": "Wann de Stëmmziedel ausgefëllt ass, kënnt en an d'Urn.",
+  "ex_en": "Once the ballot paper is filled in, it goes into the ballot box.",
   "lodId": "AUSFELLEN1"
  },
  {
@@ -1144,8 +1136,8 @@
   "gender": "m",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Den Antrag muss ënnerschriwwe ginn.",
-  "ex_en": "The application must be signed.",
+  "ex_lb": "Den Aarbechter huet en Antrag op eng Invaliderent gemaach.",
+  "ex_en": "The worker applied for a disability pension.",
   "lodId": "ANTRAG1"
  },
  {
@@ -1157,8 +1149,8 @@
   "gender": "",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Ënnerschreift hei ënnen.",
-  "ex_en": "Sign here at the bottom.",
+  "ex_lb": "Ënnerschreif dat op kee Fall!",
+  "ex_en": "Whatever you do, don't sign that!",
   "lodId": "ENNERSCHREIWEN1"
  },
  {
@@ -1170,8 +1162,8 @@
   "gender": "f",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Et feelt nach Är Ënnerschrëft.",
-  "ex_en": "Your signature is still missing.",
+  "ex_lb": "De Schüler huet senger Mamm hir Ënnerschrëft nogemaach.",
+  "ex_en": "The pupil forged his mother's signature.",
   "lodId": "ENNERSCHREFT1"
  },
  {
@@ -1183,8 +1175,8 @@
   "gender": "m",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Et brauch e Stempel vun der Gemeng.",
-  "ex_en": "It needs a stamp from the municipality.",
+  "ex_lb": "An dengem Pass si Stempelen aus ville Länner.",
+  "ex_en": "Your passport has stamps from many countries.",
   "lodId": "STEMPEL1"
  },
  {
@@ -1196,8 +1188,8 @@
   "gender": "m",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Weist mer Ären Ausweis, w.e.gl.",
-  "ex_en": "Show me your ID, please."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "de Pass",
@@ -1208,8 +1200,8 @@
   "gender": "m",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Mäi Pass ass ofgelaf.",
-  "ex_en": "My passport has expired.",
+  "ex_lb": "Fir anzechecke muss de däi Pass weisen.",
+  "ex_en": "To check in you have to show your passport.",
   "lodId": "PASS1"
  },
  {
@@ -1221,8 +1213,8 @@
   "gender": "f",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Ech brauch eng nei Carte d'identité.",
-  "ex_en": "I need a new identity card.",
+  "ex_lb": "Ech hunn op der Gemeng eng nei Carte d'identité ugefrot.",
+  "ex_en": "I applied for a new identity card at the town hall.",
   "lodId": "CARTEDIDENTITE1"
  },
  {
@@ -1234,8 +1226,8 @@
   "gender": "f",
   "level": "A1",
   "category": "admin",
-  "ex_lb": "Wat ass Är Adress?",
-  "ex_en": "What is your address?",
+  "ex_lb": "Hues de d'Adress op d'Enveloppe geschriwwen?",
+  "ex_en": "Did you write the address on the envelope?",
   "lodId": "ADRESS1"
  },
  {
@@ -1273,8 +1265,8 @@
   "gender": "m",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Ech hunn e Rendez-vous um zwou.",
-  "ex_en": "I have an appointment at two.",
+  "ex_lb": "Has de eise Rendez-vous vergiess?",
+  "ex_en": "Did you forget our appointment?",
   "lodId": "RENDEZVOUS1"
  },
  {
@@ -1286,8 +1278,8 @@
   "gender": "m",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Gitt bei de Guichet véier.",
-  "ex_en": "Go to counter four.",
+  "ex_lb": "Ëm siwen Auer maachen d'Guicheten zou.",
+  "ex_en": "The counters close at seven o'clock.",
   "lodId": "GUICHET1"
  },
  {
@@ -1299,8 +1291,8 @@
   "gender": "m",
   "level": "B1",
   "category": "money",
-  "ex_lb": "Mäi Budget ass knapp.",
-  "ex_en": "My budget is tight.",
+  "ex_lb": "De Budget ass eestëmmeg ugeholl ginn.",
+  "ex_en": "The budget was adopted unanimously.",
   "lodId": "BUDGET1"
  },
  {
@@ -1312,8 +1304,8 @@
   "gender": "f",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Meng Assurance bezuelt dat.",
-  "ex_en": "My insurance pays for that.",
+  "ex_lb": "Du muss d'Assurance ënnerschreiwen, fir datt se gülteg ass!",
+  "ex_en": "You have to sign the insurance for it to be valid!",
   "lodId": "ASSURANCE1"
  },
  {
@@ -1325,8 +1317,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Hie geet bal an d'Pensioun.",
-  "ex_en": "He's almost retiring.",
+  "ex_lb": "Eis Direktesch geet geschwënn a Pensioun.",
+  "ex_en": "Our director is retiring soon.",
   "lodId": "PENSIOUN1"
  },
  {
@@ -1338,8 +1330,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Ech sinn nächst Woch am Congé.",
-  "ex_en": "I'm on leave next week.",
+  "ex_lb": "Mäin Dokter ass den Ament am Congé.",
+  "ex_en": "My doctor is on leave at the moment.",
   "lodId": "CONGE1"
  },
  {
@@ -1351,8 +1343,8 @@
   "gender": "m",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Hien ass um Chômage.",
-  "ex_en": "He is unemployed.",
+  "ex_lb": "Ech sinn zënter engem Mount am Chômage.",
+  "ex_en": "I've been unemployed for a month.",
   "lodId": "CHOMAGE1"
  },
  {
@@ -1364,8 +1356,8 @@
   "gender": "f",
   "level": "B2",
   "category": "work",
-  "ex_lb": "D'Aarbechtslosegkeet ass geklomm.",
-  "ex_en": "Unemployment has risen.",
+  "ex_lb": "Vill jonk Leit hunn Angscht virun der Aarbechtslosegkeet.",
+  "ex_en": "Many young people are afraid of unemployment.",
   "lodId": "AARBECHTSLOSEGKEET1"
  },
  {
@@ -1377,12 +1369,12 @@
   "gender": "m",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Mäin Aarbechtsplaz ass no beim Bus.",
-  "ex_en": "My workplace is near the bus.",
+  "ex_lb": "Hie sicht nach ëmmer eng Aarbechtsplaz.",
+  "ex_en": "He is still looking for a job.",
   "lodId": "AARBECHTSPLAZ1"
  },
  {
-  "lb": "de Contrat",
+  "lb": "de Kontrakt",
   "en": "contract",
   "de": "der Vertrag",
   "fr": "le contrat",
@@ -1390,8 +1382,9 @@
   "gender": "m",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Ech ënnerschreiwen de Contrat.",
-  "ex_en": "I'm signing the contract."
+  "ex_lb": "Mir hunn de Kontrakt haut ënnerschriwwen a fortgeschéckt.",
+  "ex_en": "We signed the contract today and sent it off.",
+  "lodId": "KONTRAKT1"
  },
  {
   "lb": "d'Aufgab",
@@ -1402,8 +1395,8 @@
   "gender": "f",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Dat ass eng schwéier Aufgab.",
-  "ex_en": "That is a difficult task.",
+  "ex_lb": "Hien huet sech et zur Aufgab gemaach, de Weesekanner ze hëllefen.",
+  "ex_en": "He made it his task to help orphans.",
   "lodId": "AUFGAB1"
  },
  {
@@ -1415,8 +1408,8 @@
   "gender": "n",
   "level": "A2",
   "category": "work",
-  "ex_lb": "De Projet ass fäerdeg.",
-  "ex_en": "The project is finished.",
+  "ex_lb": "Wat sinn Är Projete fir déi nächst Vakanz?",
+  "ex_en": "What are your plans for the next holiday?",
   "lodId": "PROJET1"
  },
  {
@@ -1440,8 +1433,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Ech hu vill Stress op der Aarbecht.",
-  "ex_en": "I have a lot of stress at work.",
+  "ex_lb": "Vun deem dauernde Stress op der Aarbecht gouf hie krank.",
+  "ex_en": "He fell ill from the constant stress at work.",
   "lodId": "STRESS1"
  },
  {
@@ -1453,8 +1446,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Ech maachen haut Iwwerstonnen.",
-  "ex_en": "I'm working overtime today.",
+  "ex_lb": "Kriss du deng Iwwerstonne bezuelt?",
+  "ex_en": "Do you get paid for your overtime?",
   "lodId": "IWWERSTONN1"
  },
  {
@@ -1471,7 +1464,7 @@
   "lodId": "EQUIPE1"
  },
  {
-  "lb": "de Secrétaire",
+  "lb": "de Sekretär",
   "en": "secretary",
   "de": "der Sekretär",
   "fr": "le secrétaire",
@@ -1479,8 +1472,9 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Secrétaire schreift de Bréif.",
-  "ex_en": "The secretary writes the letter."
+  "ex_lb": "D'Directrice diktéiert grad hirem Sekretär e Bréif.",
+  "ex_en": "The director is dictating a letter to her secretary.",
+  "lodId": "SEKRETAR1"
  },
  {
   "lb": "de Comptabel",
@@ -1491,8 +1485,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Comptabel kontrolléiert d'Zuelen.",
-  "ex_en": "The accountant checks the numbers.",
+  "ex_lb": "Mäi Mann schafft als Comptabel bei engem Entreprener.",
+  "ex_en": "My husband works as an accountant for a businessman.",
   "lodId": "COMPTABEL1"
  },
  {
@@ -1504,8 +1498,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "Den Affekot beréit säi Client.",
-  "ex_en": "The lawyer advises his client.",
+  "ex_lb": "Den Affekot verteidegt säi Client viru Geriicht.",
+  "ex_en": "The lawyer defends his client in court.",
   "lodId": "AFFEKOT1"
  },
  {
@@ -1517,8 +1511,8 @@
   "gender": "m",
   "level": "A1",
   "category": "profession",
-  "ex_lb": "Den Dokter ass ganz beschäftegt.",
-  "ex_en": "The doctor is very busy.",
+  "ex_lb": "An esou Fäll soll een direkt den Dokter ruffen.",
+  "ex_en": "In such cases you should call the doctor straight away.",
   "lodId": "DOKTER1"
  },
  {
@@ -1530,8 +1524,8 @@
   "gender": "f",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "D'Infirmière hëlleft de Patienten.",
-  "ex_en": "The nurse helps the patients.",
+  "ex_lb": "All Moie kënnt eng Infirmière mir de Verband frëschmaachen.",
+  "ex_en": "Every morning a nurse comes to change my dressing.",
   "lodId": "INFIRMIERE1"
  },
  {
@@ -1543,8 +1537,8 @@
   "gender": "m",
   "level": "A1",
   "category": "profession",
-  "ex_lb": "De Bäcker mécht frësch Brout.",
-  "ex_en": "The baker makes fresh bread.",
+  "ex_lb": "Bei dësem Bäcker kritt een och sonndes frëscht Brout.",
+  "ex_en": "At this baker's you get fresh bread even on Sundays.",
   "lodId": "BACKER1"
  },
  {
@@ -1556,8 +1550,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Metzler verkeeft Fleesch.",
-  "ex_en": "The butcher sells meat.",
+  "ex_lb": "Eise Metzler verkeeft wonnerbare Groen Drot.",
+  "ex_en": "Our butcher sells wonderful Groen Drot.",
   "lodId": "METZLER1"
  },
  {
@@ -1569,8 +1563,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Kach kacht e gutt Iessen.",
-  "ex_en": "The cook makes a good meal.",
+  "ex_lb": "Dem Kach seng Spezialitéit ass Fierkelshämmche mat gebootschte Gromperen.",
+  "ex_en": "The cook's speciality is pork knuckle with roast potatoes.",
   "lodId": "KACH1"
  },
  {
@@ -1582,8 +1576,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Chauffer féiert de Bus.",
-  "ex_en": "The driver drives the bus.",
+  "ex_lb": "Hie schafft als Chauffer beim Parlament.",
+  "ex_en": "He works as a driver at parliament.",
   "lodId": "CHAUFFER1"
  },
  {
@@ -1595,8 +1589,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Polizist regelt de Verkéier.",
-  "ex_en": "The police officer directs the traffic.",
+  "ex_lb": "An der Mëtt vun der Kräizung stoung e Polizist, de Verkéier ze reegelen.",
+  "ex_en": "A policeman stood in the middle of the crossroads directing the traffic.",
   "lodId": "POLIZIST1"
  },
  {
@@ -1608,8 +1602,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Vendeur ass ganz frëndlech.",
-  "ex_en": "The salesperson is very friendly.",
+  "ex_lb": "De Vendeur ass d'Wueren hannenaus an den Depot siche gaangen.",
+  "ex_en": "The salesman went to the stockroom at the back to fetch the goods.",
   "lodId": "VENDEUR1"
  },
  {
@@ -1621,8 +1615,8 @@
   "gender": "f",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "D'Verkeeferin hëlleft de Clienten.",
-  "ex_en": "The saleswoman helps the customers.",
+  "ex_lb": "D'Verkeeferin ass d'Wueren hannenaus an den Depot siche gaangen.",
+  "ex_en": "The saleswoman went to fetch the goods from the stockroom at the back.",
   "lodId": "VERKEEFERIN1"
  },
  {
@@ -1647,8 +1641,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "Den Ingenieur plangt d'Bréck.",
-  "ex_en": "The engineer plans the bridge.",
+  "ex_lb": "Den Ingenieur kontrolléiert den Drock an de Maschinnen.",
+  "ex_en": "The engineer checks the pressure in the machines.",
   "lodId": "INGENIEUR1"
  },
  {
@@ -1660,8 +1654,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "Den Architekt designt d'Haus.",
-  "ex_en": "The architect designs the house.",
+  "ex_lb": "Et sinn zwee Architekten um Bauprojet bedeelegt.",
+  "ex_en": "Two architects are involved in the building project.",
   "lodId": "ARCHITEKT1"
  },
  {
@@ -1673,8 +1667,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Journalist schreift en Artikel.",
-  "ex_en": "The journalist writes an article.",
+  "ex_lb": "Hien ass Journalist bei enger grousser auslännescher Zeitung.",
+  "ex_en": "He is a journalist at a big foreign newspaper.",
   "lodId": "JOURNALIST1"
  },
  {
@@ -1686,8 +1680,8 @@
   "gender": "m",
   "level": "B2",
   "category": "profession",
-  "ex_lb": "De Riichter spréngt d'Urteel.",
-  "ex_en": "The judge pronounces the verdict.",
+  "ex_lb": "De Riichter huet den Ugekloten an där Affär schëlleg gesprach.",
+  "ex_en": "The judge found the defendant guilty in that case.",
   "lodId": "RIICHTER1"
  },
  {
@@ -1699,8 +1693,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Minister hält eng Ried.",
-  "ex_en": "The minister gives a speech.",
+  "ex_lb": "D'Ministere gesi sech meeschtens eemol d'Woch am Regierungsrot.",
+  "ex_en": "The ministers usually meet once a week in the cabinet.",
   "lodId": "MINISTER1"
  },
  {
@@ -1712,8 +1706,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Buergermeeschter wunnt am Duerf.",
-  "ex_en": "The mayor lives in the village.",
+  "ex_lb": "D'Buergermeeschtere vum ganze Land kommen eemol am Joer zesummen.",
+  "ex_en": "The mayors from all over the country meet once a year.",
   "lodId": "BUERGERMEESCHTER1"
  },
  {
@@ -1725,8 +1719,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Si mécht séier Karriär.",
-  "ex_en": "She is making a fast career.",
+  "ex_lb": "Vun esou Karriäre kënne mir nëmmen dreemen!",
+  "ex_en": "We can only dream of careers like that!",
   "lodId": "KARRIAR1"
  },
  {
@@ -1738,8 +1732,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Hien huet vill Erfarung.",
-  "ex_en": "He has a lot of experience.",
+  "ex_lb": "Meng Studienzäit war eng flott Erfarung.",
+  "ex_en": "My time as a student was a great experience.",
   "lodId": "ERFARUNG1"
  },
  {
@@ -1751,8 +1745,8 @@
   "gender": "f",
   "level": "B2",
   "category": "work",
-  "ex_lb": "Dat ass net meng Kompetenz.",
-  "ex_en": "That is not my area of competence.",
+  "ex_lb": "Mir feelt déi fachlech Kompetenz, fir dat kënnen anzeschätzen.",
+  "ex_en": "I lack the expertise to be able to judge that.",
   "lodId": "KOMPETENZ1"
  },
  {
@@ -1777,8 +1771,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Meng Ausbildung dauert dräi Joer.",
-  "ex_en": "My apprenticeship lasts three years.",
+  "ex_lb": "Wéi eng Fächer gehéieren zu der Ausbildung vun den Educateuren?",
+  "ex_en": "Which subjects are part of the training for educators?",
   "lodId": "AUSBILDUNG1"
  },
  {
@@ -1790,8 +1784,8 @@
   "gender": "m",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Ech maachen e Stage am Summer.",
-  "ex_en": "I'm doing an internship in summer.",
+  "ex_lb": "De Stage ass fir d'Kandidaten eng stresseg Zäit.",
+  "ex_en": "The traineeship is a stressful time for the candidates.",
   "lodId": "STAGE1"
  },
  {
@@ -1803,12 +1797,12 @@
   "gender": "f",
   "level": "B2",
   "category": "work",
-  "ex_lb": "Ech hunn eng Entrevue muer.",
-  "ex_en": "I have an interview tomorrow.",
+  "ex_lb": "De Journalist huet eng Entrevue bei der Ministesch ugefrot.",
+  "ex_en": "The journalist requested an interview with the minister.",
   "lodId": "ENTREVUE1"
  },
  {
-  "lb": "d'Candidature",
+  "lb": "d'Kandidatur",
   "en": "application",
   "de": "die Bewerbung",
   "fr": "la candidature",
@@ -1816,8 +1810,9 @@
   "gender": "f",
   "level": "B2",
   "category": "work",
-  "ex_lb": "Meng Candidature ass ofgeschéckt.",
-  "ex_en": "My application has been sent."
+  "ex_lb": "D'Kandidature musse virum 1. Mee ageschéckt ginn.",
+  "ex_en": "Applications must be sent in before 1 May.",
+  "lodId": "KANDIDATUR1"
  },
  {
   "lb": "de Lieweslaf",
@@ -1828,8 +1823,8 @@
   "gender": "m",
   "level": "B2",
   "category": "work",
-  "ex_lb": "Schéckt mer Ären Lieweslaf.",
-  "ex_en": "Send me your CV.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "LIEWESLAF1"
  },
  {
@@ -1841,8 +1836,8 @@
   "gender": "",
   "level": "B1",
   "category": "work",
-  "ex_lb": "D'Firma stellt zéng Leit an.",
-  "ex_en": "The company hires ten people.",
+  "ex_lb": "D'Firma stellt 20 nei Aarbechter an.",
+  "ex_en": "The company is hiring 20 new workers.",
   "lodId": "ASTELLEN1"
  },
  {
@@ -1854,8 +1849,8 @@
   "gender": "",
   "level": "B2",
   "category": "work",
-  "ex_lb": "Si gouf entlooss.",
-  "ex_en": "She was dismissed.",
+  "ex_lb": "De Patron huet en Aarbechter entlooss.",
+  "ex_en": "The boss dismissed a worker.",
   "lodId": "ENTLOOSSEN1"
  },
  {
@@ -1867,8 +1862,8 @@
   "gender": "",
   "level": "B2",
   "category": "work",
-  "ex_lb": "Hien huet säi Job opgesot.",
-  "ex_en": "He quit his job.",
+  "ex_lb": "Si hunn dem Léierbouf gekënnegt.",
+  "ex_en": "They dismissed the apprentice.",
   "lodId": "KENNEGEN1"
  },
  {
@@ -1880,8 +1875,8 @@
   "gender": "",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Ech organiséieren d'Reunioun.",
-  "ex_en": "I'm organizing the meeting.",
+  "ex_lb": "Dir musst Äre Betrib besser organiséieren!",
+  "ex_en": "You have to organise your business better!",
   "lodId": "ORGANISEIEREN1"
  },
  {
@@ -1893,8 +1888,8 @@
   "gender": "",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Mir plangen d'Projet zesummen.",
-  "ex_en": "We plan the project together.",
+  "ex_lb": "Mir hu fir dëse Sonndeg en Ausfluch an d'Éislek geplangt.",
+  "ex_en": "We've planned a trip to the Éislek for this Sunday.",
   "lodId": "PLANGEN1"
  },
  {
@@ -1906,8 +1901,8 @@
   "gender": "",
   "level": "B1",
   "category": "office",
-  "ex_lb": "Mir diskutéieren d'Iddi.",
-  "ex_en": "We're discussing the idea.",
+  "ex_lb": "Ech diskutéiere gär mat him iwwer Theologie.",
+  "ex_en": "I like discussing theology with him.",
   "lodId": "DISKUTEIEREN1"
  },
  {
@@ -1919,8 +1914,8 @@
   "gender": "",
   "level": "B1",
   "category": "office",
-  "ex_lb": "Si presentéiert d'Resultater.",
-  "ex_en": "She presents the results.",
+  "ex_lb": "Hien huet dem Publikum seng neisten Erfindung presentéiert.",
+  "ex_en": "He presented his latest invention to the audience.",
   "lodId": "PRESENTEIEREN1"
  },
  {
@@ -1932,8 +1927,8 @@
   "gender": "f",
   "level": "B1",
   "category": "office",
-  "ex_lb": "D'Präsentatioun war kuerz.",
-  "ex_en": "The presentation was short.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "PRASENTATIOUN1"
  },
  {
@@ -1945,8 +1940,8 @@
   "gender": "m",
   "level": "B1",
   "category": "office",
-  "ex_lb": "Ech schreiwen de Rapport.",
-  "ex_en": "I'm writing the report.",
+  "ex_lb": "Ech tippe mäi Rapport nach an da maachen ech Feierowend.",
+  "ex_en": "I'll just type up my report and then call it a day.",
   "lodId": "RAPPORT1"
  },
  {
@@ -1958,8 +1953,8 @@
   "gender": "m",
   "level": "B1",
   "category": "office",
-  "ex_lb": "De Bericht ass fäerdeg.",
-  "ex_en": "The report is finished.",
+  "ex_lb": "Hien huet e Bericht iwwer d'Betribsfinanze geschriwwen.",
+  "ex_en": "He wrote a report on the company's finances.",
   "lodId": "BERICHT1"
  },
  {
@@ -1971,8 +1966,8 @@
   "gender": "f",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Dat ass eng gutt Iddi.",
-  "ex_en": "That is a good idea.",
+  "ex_lb": "Hien huet ëmmer gutt Iddien.",
+  "ex_en": "He always has good ideas.",
   "lodId": "IDDI1"
  },
  {
@@ -1984,8 +1979,8 @@
   "gender": "m",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Wat ass de Plang fir muer?",
-  "ex_en": "What's the plan for tomorrow?",
+  "ex_lb": "De Bauhär entwërft de Plang fir seng Villa gär selwer.",
+  "ex_en": "The client likes to draw up the plan for his villa himself.",
   "lodId": "PLANG1"
  },
  {
@@ -1997,8 +1992,8 @@
   "gender": "f",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Ech schreiwen eng Lëscht.",
-  "ex_en": "I'm writing a list.",
+  "ex_lb": "Maach emol eng Lëscht mat deene Saachen, déi mer fir d'Vakanz brauchen!",
+  "ex_en": "Make a list of the things we need for the holiday!",
   "lodId": "LESCHT1"
  },
  {
@@ -2010,8 +2005,8 @@
   "gender": "n",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Mäin Dossier ass komplett.",
-  "ex_en": "My file is complete.",
+  "ex_lb": "Ech hu mer e puer schéin Dossiere kaaft.",
+  "ex_en": "I bought myself a few nice folders.",
   "lodId": "DOSSIER1"
  },
  {
@@ -2023,8 +2018,8 @@
   "gender": "",
   "level": "B1",
   "category": "office",
-  "ex_lb": "D'Donnéeë sinn gespäichert.",
-  "ex_en": "The data is saved."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "späicheren",
@@ -2035,8 +2030,8 @@
   "gender": "",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Späichert d'Dokument w.e.gl.",
-  "ex_en": "Save the document please.",
+  "ex_lb": "Dat Gëft gëtt laang am Organismus gespäichert.",
+  "ex_en": "That poison is stored in the body for a long time.",
   "lodId": "SPAICHEREN1"
  },
  {
@@ -2050,7 +2045,7 @@
   "category": "office",
   "ex_lb": "Ech drécken de Bréif.",
   "ex_en": "I'm printing the letter.",
-  "lodId": "DRECKEN1"
+  "lodId": "DRECKEN2"
  },
  {
   "lb": "schécken",
@@ -2061,8 +2056,8 @@
   "gender": "",
   "level": "A1",
   "category": "office",
-  "ex_lb": "Ech schécken dir d'Mail.",
-  "ex_en": "I'm sending you the email.",
+  "ex_lb": "Ech schécken der déi Dokumenter mat E-Mail.",
+  "ex_en": "I'll send you those documents by email.",
   "lodId": "SCHECKEN1"
  },
  {
@@ -2074,9 +2069,9 @@
   "gender": "",
   "level": "A1",
   "category": "office",
-  "ex_lb": "Ech kréien all Dag vill Mailen.",
-  "ex_en": "I get many emails every day.",
-  "lodId": "KREIEN1"
+  "ex_lb": "Hutt Dir d'Rechnung scho kritt?",
+  "ex_en": "Have you received the bill yet?",
+  "lodId": "KREIEN2"
  },
  {
   "lb": "beäntwerten",
@@ -2099,8 +2094,8 @@
   "gender": "",
   "level": "B1",
   "category": "office",
-  "ex_lb": "Kontrolléiert d'Zuelen nach eng Kéier.",
-  "ex_en": "Check the numbers again.",
+  "ex_lb": "All Muere ginn am Zuch d'Billjeeë kontrolléiert.",
+  "ex_en": "Tickets are checked on the train every morning.",
   "lodId": "KONTROLLEIEREN1"
  },
  {
@@ -2112,8 +2107,8 @@
   "gender": "",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Mir wëlle de Service verbesseren.",
-  "ex_en": "We want to improve the service.",
+  "ex_lb": "Déi maschinell Produktioun muss nach verbessert ginn.",
+  "ex_en": "Machine production still needs to be improved.",
   "lodId": "VERBESSEREN1"
  },
  {
@@ -2125,8 +2120,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "De Service ass séier a gutt.",
-  "ex_en": "The service is fast and good.",
+  "ex_lb": "An eisem Geschäft gëtt de Service nach groussgeschriwwen.",
+  "ex_en": "In our shop service is still our top priority.",
   "lodId": "SERVICE1"
  },
  {
@@ -2138,8 +2133,8 @@
   "gender": "",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Wéi sinn d'Ëffnungszäiten?",
-  "ex_en": "What are the opening hours?",
+  "ex_lb": "D'Ëffnungszäite vum Service si vun aacht bis zwielef a vun dräizéng bis siwwenzéng Auer.",
+  "ex_en": "The office is open from eight to twelve and from one to five.",
   "lodId": "EFFNUNGSZAITEN1"
  },
  {
@@ -2151,8 +2146,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Meng Aarbechtszäit ass flexibel.",
-  "ex_en": "My working hours are flexible.",
+  "ex_lb": "D'Aarbechtszäite si vun 8 bis 12 a vu 14 bis 18 Auer.",
+  "ex_en": "Working hours are 8 to 12 and 2 to 6.",
   "lodId": "AARBECHTSZAIT1"
  },
  {
@@ -2164,8 +2159,8 @@
   "gender": "m",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Mir kréien zéng Prozent Rabatt.",
-  "ex_en": "We get a ten percent discount.",
+  "ex_lb": "Well mer esou vill kaaft hunn, krute mer Rabatt.",
+  "ex_en": "Because we bought so much, we got a discount.",
   "lodId": "RABATT1"
  },
  {
@@ -2177,8 +2172,8 @@
   "gender": "",
   "level": "A1",
   "category": "money",
-  "ex_lb": "Dee Pull ass ganz bëlleg.",
-  "ex_en": "That sweater is very cheap.",
+  "ex_lb": "D'Iesse war gutt a bëlleg!",
+  "ex_en": "The food was good and cheap!",
   "lodId": "BELLEG1"
  },
  {
@@ -2190,8 +2185,8 @@
   "gender": "",
   "level": "A1",
   "category": "money",
-  "ex_lb": "D'Wunneng ass ze deier.",
-  "ex_en": "The apartment is too expensive.",
+  "ex_lb": "Ech hu mer en deiere Bijou geleescht.",
+  "ex_en": "I treated myself to an expensive piece of jewellery.",
   "lodId": "DEIER2"
  },
  {
@@ -2203,8 +2198,8 @@
   "gender": "",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Si ass eng räich Fra.",
-  "ex_en": "She is a rich woman.",
+  "ex_lb": "Hie kënnt aus enger räicher Famill.",
+  "ex_en": "He comes from a rich family.",
   "lodId": "RAICH1"
  },
  {
@@ -2216,8 +2211,8 @@
   "gender": "",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Vill Leit sinn aarm.",
-  "ex_en": "Many people are poor.",
+  "ex_lb": "Deem aarme Meedche geschéien nëmmen Onglécker.",
+  "ex_en": "Nothing but misfortune happens to that poor girl.",
   "lodId": "AARM1"
  },
  {
@@ -2229,8 +2224,8 @@
   "gender": "",
   "level": "A1",
   "category": "money",
-  "ex_lb": "Den Entrée ass gratis.",
-  "ex_en": "The entry is free.",
+  "ex_lb": "Haut kanns de gratis an d'Muséeë goen.",
+  "ex_en": "Today you can go to the museums for free.",
   "lodId": "GRATIS1"
  },
  {
@@ -2242,8 +2237,8 @@
   "gender": "",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Si verdéngt gutt Suen.",
-  "ex_en": "She earns good money.",
+  "ex_lb": "No deem ville Stress hunn ech (mer) eng Vakanz verdéngt!",
+  "ex_en": "After all that stress I've earned a holiday!",
   "lodId": "VERDENGEN1"
  },
  {
@@ -2255,8 +2250,8 @@
   "gender": "",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Ech ginn ze vill Suen aus.",
-  "ex_en": "I spend too much money.",
+  "ex_lb": "Ech ginn am Stot déi mannst Suen aus.",
+  "ex_en": "I spend the least money on the household.",
   "lodId": "AUSGINN1"
  },
  {
@@ -2268,8 +2263,8 @@
   "gender": "",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Ech wiessele Suen op der Bank.",
-  "ex_en": "I exchange money at the bank.",
+  "ex_lb": "Looss mer emol d'Theema wiesselen.",
+  "ex_en": "Let's change the subject.",
   "lodId": "WIESSELEN1"
  },
  {
@@ -2281,8 +2276,8 @@
   "gender": "f",
   "level": "B1",
   "category": "money",
-  "ex_lb": "D'Iwwerweisung ass ukomm.",
-  "ex_en": "The transfer has arrived.",
+  "ex_lb": "Mir hunn d'Iwwerweisung fir d'Memberskaart scho gemaach.",
+  "ex_en": "We've already made the transfer for the membership card.",
   "lodId": "IWWERWEISUNG1"
  },
  {
@@ -2307,8 +2302,8 @@
   "gender": "f",
   "level": "B2",
   "category": "work",
-  "ex_lb": "D'Gewerkschaft schützt d'Aarbechter.",
-  "ex_en": "The union protects the workers.",
+  "ex_lb": "D'Direktioun ass mat de Fuerderunge vun der Gewerkschaft net averstanen.",
+  "ex_en": "The management does not agree with the union's demands.",
   "lodId": "GEWERKSCHAFT1"
  },
  {
@@ -2320,8 +2315,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Den Aarbechter ass midd.",
-  "ex_en": "The worker is tired.",
+  "ex_lb": "De Kran, deen ëmgefall ass, huet zwee Aarbechter blesséiert.",
+  "ex_en": "The crane that fell over injured two workers.",
   "lodId": "AARBECHTER1"
  },
  {
@@ -2333,8 +2328,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Den Employé schafft am Büro.",
-  "ex_en": "The employee works in the office.",
+  "ex_lb": "Mäi Cousin schafft als Employé op enger Bank.",
+  "ex_en": "My cousin works as a clerk at a bank.",
   "lodId": "EMPLOYE1"
  },
  {
@@ -2346,8 +2341,8 @@
   "gender": "m",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Mäin Employeur bezuelt gutt.",
-  "ex_en": "My employer pays well.",
+  "ex_lb": "Mäin Employeur iwwerhëlt sämtlech Käschte vu menger Formatioun.",
+  "ex_en": "My employer covers all the costs of my training.",
   "lodId": "EMPLOYEUR1"
  },
  {
@@ -2359,8 +2354,8 @@
   "gender": "m",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Vill Frontalieren schaffen zu Lëtzebuerg.",
-  "ex_en": "Many cross-border workers work in Luxembourg.",
+  "ex_lb": "All Dag kommen Dausende vu Frontalieren op Lëtzebuerg schaffen.",
+  "ex_en": "Every day thousands of cross-border workers come to work in Luxembourg.",
   "lodId": "FRONTALIER1"
  },
  {
@@ -2372,8 +2367,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Méindeg ass e Feierdag.",
-  "ex_en": "Monday is a public holiday.",
+  "ex_lb": "Schéi Feierdeeg!",
+  "ex_en": "Happy holidays!",
   "lodId": "FEIERDAG1"
  },
  {
@@ -2385,8 +2380,8 @@
   "gender": "m",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Mäi Schreifdësch ass voll.",
-  "ex_en": "My desk is full.",
+  "ex_lb": "Ech versuerge meng Bréiwer an engem Tirang vu mengem Schreifdësch.",
+  "ex_en": "I keep my letters in a drawer of my desk.",
   "lodId": "SCHREIFDESCH1"
  },
  {
@@ -2398,8 +2393,8 @@
   "gender": "m",
   "level": "A1",
   "category": "office",
-  "ex_lb": "De Stull ass net bequem.",
-  "ex_en": "The chair is not comfortable.",
+  "ex_lb": "Huel der e Stull a setz dech bei eis!",
+  "ex_en": "Take a chair and sit with us!",
   "lodId": "STULL1"
  },
  {
@@ -2411,8 +2406,8 @@
   "gender": "f",
   "level": "A2",
   "category": "office",
-  "ex_lb": "Ech maachen eng kuerz Notiz.",
-  "ex_en": "I'm making a quick note.",
+  "ex_lb": "Si schreift hir Notizen ëmmer mat engem Bläistëft.",
+  "ex_en": "She always writes her notes in pencil.",
   "lodId": "NOTIZ1"
  },
  {
@@ -2424,8 +2419,8 @@
   "gender": "f",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Dat ass géint d'Reegelen.",
-  "ex_en": "That is against the rules.",
+  "ex_lb": "An dësem Haus leeën ech d'Reegele fest!",
+  "ex_en": "In this house I set the rules!",
   "lodId": "REEGEL1"
  },
  {
@@ -2437,8 +2432,8 @@
   "gender": "n",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Dat neit Gesetz gëlt elo.",
-  "ex_en": "The new law applies now.",
+  "ex_lb": "Dat ass en ongeschriwwent Gesetz!",
+  "ex_en": "That's an unwritten law!",
   "lodId": "GESETZ1"
  },
  {
@@ -2450,12 +2445,12 @@
   "gender": "n",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Dat ass mäi Recht.",
-  "ex_en": "That is my right.",
+  "ex_lb": "Dat Gesetz ass am Aklang mam europäesche Recht.",
+  "ex_en": "That law is in line with European law.",
   "lodId": "RECHT1"
  },
  {
-  "lb": "d'Plicht",
+  "lb": "d'Flicht",
   "en": "duty",
   "de": "die Pflicht",
   "fr": "le devoir",
@@ -2463,8 +2458,9 @@
   "gender": "f",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Dat ass meng Plicht.",
-  "ex_en": "That is my duty."
+  "ex_lb": "All Bierger huet Rechter a Flichten.",
+  "ex_en": "Every citizen has rights and duties.",
+  "lodId": "FLICHT1"
  },
  {
   "lb": "erlaabt",
@@ -2499,8 +2495,8 @@
   "gender": "",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Dat ass net néideg.",
-  "ex_en": "That is not necessary.",
+  "ex_lb": "Mir hu just dat Néidegst matenee geschwat.",
+  "ex_en": "We only said the bare minimum to each other.",
   "lodId": "NEIDEG1"
  },
  {
@@ -2512,8 +2508,8 @@
   "gender": "",
   "level": "A2",
   "category": "admin",
-  "ex_lb": "Den Dossier ass elo komplett.",
-  "ex_en": "The file is now complete.",
+  "ex_lb": "Däin Dossier gëtt nëmmen ugeholl, wann e komplett ass.",
+  "ex_en": "Your file will only be accepted if it's complete.",
   "lodId": "KOMPLETT1"
  },
  {
@@ -2525,8 +2521,8 @@
   "gender": "",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Dat ass en offiziellt Dokument.",
-  "ex_en": "That is an official document.",
+  "ex_lb": "Ech zitéieren Ausschnëtter aus den offiziellen Texter.",
+  "ex_en": "I'm quoting extracts from the official texts.",
   "lodId": "OFFIZIELL1"
  },
  {
@@ -2538,8 +2534,8 @@
   "gender": "f",
   "level": "A1",
   "category": "admin",
-  "ex_lb": "Wat ass Är Nummer?",
-  "ex_en": "What is your number?",
+  "ex_lb": "Mir wunnen an der Haaptstrooss op Nummer 100.",
+  "ex_en": "We live on the main street at number 100.",
   "lodId": "NUMMER1"
  },
  {
@@ -2551,8 +2547,8 @@
   "gender": "m",
   "level": "B2",
   "category": "admin",
-  "ex_lb": "Gitt mer Äre Matricule, w.e.gl.",
-  "ex_en": "Give me your social security number, please.",
+  "ex_lb": "Der Doktesch hir Sekretärin huet meng Matricule gefrot.",
+  "ex_en": "The doctor's secretary asked for my social security number.",
   "lodId": "MATRICULE1"
  },
  {
@@ -2564,8 +2560,8 @@
   "gender": "f",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "D'Regierung mécht nei Gesetzer.",
-  "ex_en": "The government makes new laws.",
+  "ex_lb": "Déi nei Regierung gouf gëschter vereedegt.",
+  "ex_en": "The new government was sworn in yesterday.",
   "lodId": "REGIERUNG1"
  },
  {
@@ -2577,8 +2573,8 @@
   "gender": "m",
   "level": "A2",
   "category": "school",
-  "ex_lb": "D'Kanner spille um Schoulhaff.",
-  "ex_en": "The children play in the schoolyard.",
+  "ex_lb": "Wann et schellt, stiermen d'Kanner an de Schoulhaff.",
+  "ex_en": "When the bell rings, the children rush into the schoolyard.",
   "lodId": "SCHOULHAFF1"
  },
  {
@@ -2590,8 +2586,8 @@
   "gender": "m",
   "level": "B1",
   "category": "university",
-  "ex_lb": "De Professer hält eng Virliesung.",
-  "ex_en": "The professor gives a lecture.",
+  "ex_lb": "Dee jonke Professer ass bei all senge Studente beléift.",
+  "ex_en": "That young professor is popular with all his students.",
   "lodId": "PROFESSER1"
  },
  {
@@ -2603,12 +2599,12 @@
   "gender": "f",
   "level": "B2",
   "category": "university",
-  "ex_lb": "D'Virliesung war ganz laang.",
-  "ex_en": "The lecture was very long.",
+  "ex_lb": "De Professer ass a senge Virliesungen op déi aktuell Theorien agaangen.",
+  "ex_en": "In his lectures the professor discussed current theories.",
   "lodId": "VIRLIESUNG1"
  },
  {
-  "lb": "d'These",
+  "lb": "d'Thees",
   "en": "thesis",
   "de": "die These",
   "fr": "la thèse",
@@ -2616,8 +2612,9 @@
   "gender": "f",
   "level": "B2",
   "category": "university",
-  "ex_lb": "Ech schreiwen meng These.",
-  "ex_en": "I'm writing my thesis."
+  "ex_lb": "A sengem neie Buch vertrëtt den Auteur nationalistesch Theesen.",
+  "ex_en": "In his new book the author argues nationalist theses.",
+  "lodId": "THEES1"
  },
  {
   "lb": "d'Recherche",
@@ -2628,8 +2625,8 @@
   "gender": "f",
   "level": "B2",
   "category": "university",
-  "ex_lb": "Si mécht Recherche an der Chimie.",
-  "ex_en": "She does research in chemistry.",
+  "ex_lb": "Ech hunn zu deem Theema eng Recherche am Internet gemaach.",
+  "ex_en": "I did some research on the internet on that topic.",
   "lodId": "RECHERCHE1"
  },
  {
@@ -2641,8 +2638,8 @@
   "gender": "f",
   "level": "B1",
   "category": "university",
-  "ex_lb": "Wëssenschaft interesséiert mech.",
-  "ex_en": "Science interests me.",
+  "ex_lb": "D'Astronomie ass d'Wëssenschaft vum Universum.",
+  "ex_en": "Astronomy is the science of the universe.",
   "lodId": "WESSENSCHAFT1"
  },
  {
@@ -2654,8 +2651,8 @@
   "gender": "f",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Ech hu Geschicht gär.",
-  "ex_en": "I like history.",
+  "ex_lb": "Eist Land huet eng turbulent Geschicht.",
+  "ex_en": "Our country has a turbulent history.",
   "lodId": "GESCHICHT1"
  },
  {
@@ -2667,8 +2664,8 @@
   "gender": "m",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Mir hu Sport um Mëtteg.",
-  "ex_en": "We have sport in the afternoon.",
+  "ex_lb": "Ech maache reegelméisseg Sport, fir a Form ze bleiwen.",
+  "ex_en": "I do sport regularly to stay fit.",
   "lodId": "SPORT1"
  },
  {
@@ -2680,8 +2677,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech hu Musek gär.",
-  "ex_en": "I like music.",
+  "ex_lb": "Am Hannergrond leeft eng agreabel Musek.",
+  "ex_en": "Pleasant music is playing in the background.",
   "lodId": "MUSEK1"
  },
  {
@@ -2693,12 +2690,12 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech verstinn d'Aufgab net.",
-  "ex_en": "I don't understand the task.",
+  "ex_lb": "Ech versti keen Englesch.",
+  "ex_en": "I don't understand English.",
   "lodId": "VERSTOEN1"
  },
  {
-  "lb": "erkläeren",
+  "lb": "erklären",
   "en": "to explain",
   "de": "erklären",
   "fr": "expliquer",
@@ -2706,8 +2703,9 @@
   "gender": "",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Kanns du mer dat erkläeren?",
-  "ex_en": "Can you explain that to me?"
+  "ex_lb": "Erklär eis dat emol an aller Rou!",
+  "ex_en": "Explain it to us calmly!",
+  "lodId": "ERKLAREN1"
  },
  {
   "lb": "froen",
@@ -2718,8 +2716,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech froen de Léierer.",
-  "ex_en": "I ask the teacher.",
+  "ex_lb": "Eis freet jo keen!",
+  "ex_en": "Nobody asks us anyway!",
   "lodId": "FROEN1"
  },
  {
@@ -2731,8 +2729,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Hien äntwert op meng Fro.",
-  "ex_en": "He answers my question.",
+  "ex_lb": "Äntwer iergendeppes, hien ass souwisou hallef daf!",
+  "ex_en": "Answer anything, he's half deaf anyway!",
   "lodId": "ANTWEREN1"
  },
  {
@@ -2744,8 +2742,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech hunn eng Fro.",
-  "ex_en": "I have a question.",
+  "ex_lb": "Dat ass eng gutt Fro!",
+  "ex_en": "That's a good question!",
   "lodId": "FRO1"
  },
  {
@@ -2757,8 +2755,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "D'Äntwert ass falsch.",
-  "ex_en": "The answer is wrong.",
+  "ex_lb": "Meng Frëndin huet op alles eng Äntwert.",
+  "ex_en": "My girlfriend has an answer for everything.",
   "lodId": "ANTWERT1"
  },
  {
@@ -2770,8 +2768,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Deng Äntwert ass richteg.",
-  "ex_en": "Your answer is correct.",
+  "ex_lb": "Ass dat hei iwwerhaapt dee richtege Wee?",
+  "ex_en": "Is this even the right way?",
   "lodId": "RICHTEG1"
  },
  {
@@ -2783,8 +2781,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Dat ass falsch geschriwwen.",
-  "ex_en": "That is written wrong.",
+  "ex_lb": "Déi Rechnung ass falsch.",
+  "ex_en": "That bill is wrong.",
   "lodId": "FALSCH1"
  },
  {
@@ -2796,8 +2794,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Den Test war einfach.",
-  "ex_en": "The test was easy.",
+  "ex_lb": "De leschten Exame war zimmlech einfach.",
+  "ex_en": "The last exam was fairly easy.",
   "lodId": "EINFACH1"
  },
  {
@@ -2809,8 +2807,8 @@
   "gender": "",
   "level": "A1",
   "category": "school",
-  "ex_lb": "D'Prüfung war schwéier.",
-  "ex_en": "The exam was difficult.",
+  "ex_lb": "Ech hunn déi schwéier Laascht bal net gepackt.",
+  "ex_en": "I could barely manage the heavy load.",
   "lodId": "SCHWEIER1"
  },
  {
@@ -2822,8 +2820,8 @@
   "gender": "",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Si ass eng fläisseg Schülerin.",
-  "ex_en": "She is a diligent pupil.",
+  "ex_lb": "Ech hu fläisseg notéiert, wat ech héieren hunn.",
+  "ex_en": "I diligently wrote down what I heard.",
   "lodId": "FLAISSEG1"
  },
  {
@@ -2835,8 +2833,8 @@
   "gender": "m",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Mäi Stonneplang ass voll.",
-  "ex_en": "My timetable is full.",
+  "ex_lb": "Ech hu mäi Stonneplang missen änneren.",
+  "ex_en": "I had to change my timetable.",
   "lodId": "STONNEPLANG1"
  },
  {
@@ -2848,8 +2846,8 @@
   "gender": "f",
   "level": "A1",
   "category": "school",
-  "ex_lb": "D'Vakanz fänkt muer un.",
-  "ex_en": "The holidays start tomorrow.",
+  "ex_lb": "An zwou Wochen ass endlech Vakanz!",
+  "ex_en": "In two weeks it's finally the holidays!",
   "lodId": "VAKANZ1"
  },
  {
@@ -2861,8 +2859,8 @@
   "gender": "",
   "level": "B1",
   "category": "university",
-  "ex_lb": "Ech schreiwe mech am Cours an.",
-  "ex_en": "I enrol in the course.",
+  "ex_lb": "De Personalchef schreift all Dag d'Absencen an.",
+  "ex_en": "The head of personnel records the absences every day.",
   "lodId": "ASCHREIWEN1"
  },
  {
@@ -2874,8 +2872,8 @@
   "gender": "",
   "level": "B1",
   "category": "school",
-  "ex_lb": "Ech hunn den Examen bestanen.",
-  "ex_en": "I passed the exam.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "BESTOEN1"
  },
  {
@@ -2887,8 +2885,8 @@
   "gender": "",
   "level": "B1",
   "category": "school",
-  "ex_lb": "Hien ass bei der Prüfung duerchgefall.",
-  "ex_en": "He failed the exam.",
+  "ex_lb": "Gëschter sinn ech gewuer ginn, datt ech duerchgefall sinn.",
+  "ex_en": "Yesterday I found out that I had failed.",
   "lodId": "DUERCHFALEN1"
  },
  {
@@ -2900,12 +2898,12 @@
   "gender": "",
   "level": "B1",
   "category": "school",
-  "ex_lb": "Widderhuel d'Wuert w.e.gl.",
-  "ex_en": "Repeat the word please.",
+  "ex_lb": "De Cheemiker huet d'Experiment misse widderhuelen.",
+  "ex_en": "The chemist had to repeat the experiment.",
   "lodId": "WIDDERHUELEN1"
  },
  {
-  "lb": "iwwen",
+  "lb": "üben",
   "en": "to practise",
   "de": "üben",
   "fr": "s'exercer",
@@ -2913,11 +2911,12 @@
   "gender": "",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Ech iwwen all Dag.",
-  "ex_en": "I practise every day."
+  "ex_lb": "Ech hu jorelaang um Piano misse Gammen üben.",
+  "ex_en": "For years I had to practise scales on the piano.",
+  "lodId": "UBEN1"
  },
  {
-  "lb": "d'Iwwung",
+  "lb": "d'Übung",
   "en": "exercise",
   "de": "die Übung",
   "fr": "l'exercice",
@@ -2925,8 +2924,9 @@
   "gender": "f",
   "level": "A2",
   "category": "school",
-  "ex_lb": "Maach d'Iwwung op der Säit zéng.",
-  "ex_en": "Do the exercise on page ten."
+  "ex_lb": "An deem Beräich hunn ech keng Übung.",
+  "ex_en": "I have no experience in that area.",
+  "lodId": "UBUNG1"
  },
  {
   "lb": "d'Wuert",
@@ -2937,8 +2937,8 @@
   "gender": "n",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Ech kennen dat Wuert net.",
-  "ex_en": "I don't know that word.",
+  "ex_lb": "An dësem Wuert gëtt déi virlescht Silb betount.",
+  "ex_en": "In this word the stress is on the penultimate syllable.",
   "lodId": "WUERT2"
  },
  {
@@ -2950,8 +2950,8 @@
   "gender": "",
   "level": "B1",
   "category": "school",
-  "ex_lb": "Iwwersetz dëse Saz w.e.gl.",
-  "ex_en": "Translate this sentence please.",
+  "ex_lb": "Ech hat nach keng Zäit, fir däin Text op Lëtzebuergesch ze iwwersetzen.",
+  "ex_en": "I haven't had time to translate your text into Luxembourgish yet.",
   "lodId": "IWWERSETZEN1"
  },
  {
@@ -2963,8 +2963,8 @@
   "gender": "m",
   "level": "A2",
   "category": "school",
-  "ex_lb": "De Schwamm ass nass.",
-  "ex_en": "The sponge is wet.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "SCHWAMM2"
  },
  {
@@ -2976,8 +2976,8 @@
   "gender": "m",
   "level": "A1",
   "category": "school",
-  "ex_lb": "Mäi Rucksak ass schwéier.",
-  "ex_en": "My backpack is heavy.",
+  "ex_lb": "Mat mengem schwéiere Rucksak kommen ech dee Bierg nimools erop!",
+  "ex_en": "With my heavy rucksack I'll never get up that mountain!",
   "lodId": "RUCKSAK1"
  },
  {
@@ -2989,8 +2989,8 @@
   "gender": "f",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "D'Industrie wiisst rëm.",
-  "ex_en": "Industry is growing again.",
+  "ex_lb": "Déi cheemesch Industrie lancéiert eng nei Sensibilisatiounscampagne.",
+  "ex_en": "The chemical industry is launching a new awareness campaign.",
   "lodId": "INDUSTRIE1"
  },
  {
@@ -3002,8 +3002,8 @@
   "gender": "m",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "De Commerce leeft gutt.",
-  "ex_en": "Trade is going well.",
+  "ex_lb": "Den elektronesche Commerce huet dëst Joer vill zougeholl.",
+  "ex_en": "E-commerce grew a lot this year.",
   "lodId": "COMMERCE1"
  },
  {
@@ -3015,8 +3015,8 @@
   "gender": "",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "D'Fabrik produzéiert Autoen.",
-  "ex_en": "The factory produces cars.",
+  "ex_lb": "Dës Molkerei produzéiert verschidden Zorte Kéis.",
+  "ex_en": "This dairy produces different kinds of cheese.",
   "lodId": "PRODUZEIEREN1"
  },
  {
@@ -3041,8 +3041,8 @@
   "gender": "f",
   "level": "A2",
   "category": "economy",
-  "ex_lb": "D'Qualitéit ass ganz gutt.",
-  "ex_en": "The quality is very good.",
+  "ex_lb": "D'Qualitéit vun deem Stoft ass mëttelméisseg.",
+  "ex_en": "The quality of that fabric is mediocre.",
   "lodId": "QUALITEIT1"
  },
  {
@@ -3054,21 +3054,9 @@
   "gender": "",
   "level": "A2",
   "category": "economy",
-  "ex_lb": "Mir liwweren d'Wuere muer.",
-  "ex_en": "We deliver the goods tomorrow.",
+  "ex_lb": "Är Commande gëtt muer geliwwert.",
+  "ex_en": "Your order will be delivered tomorrow.",
   "lodId": "LIWWEREN1"
- },
- {
-  "lb": "de Contrat ënnerschreiwen",
-  "en": "to sign a contract",
-  "de": "einen Vertrag unterschreiben",
-  "fr": "signer un contrat",
-  "pos": "phrase",
-  "gender": "",
-  "level": "B1",
-  "category": "work",
-  "ex_lb": "Mir ënnerschreiwen de Contrat haut.",
-  "ex_en": "We sign the contract today."
  },
  {
   "lb": "d'Verhandlung",
@@ -3079,8 +3067,8 @@
   "gender": "f",
   "level": "B2",
   "category": "business",
-  "ex_lb": "D'Verhandlung war schwéier.",
-  "ex_en": "The negotiation was difficult.",
+  "ex_lb": "No laange Verhandlunge konnt en Accord fonnt ginn.",
+  "ex_en": "After long negotiations an agreement was reached.",
   "lodId": "VERHANDLUNG1"
  },
  {
@@ -3092,8 +3080,8 @@
   "gender": "",
   "level": "B2",
   "category": "business",
-  "ex_lb": "Mir verhandele iwwer de Präis.",
-  "ex_en": "We negotiate about the price.",
+  "ex_lb": "Mir hu probéiert, mam Proprietär iwwer de Loyer ze verhandelen.",
+  "ex_en": "We tried to negotiate the rent with the landlord.",
   "lodId": "VERHANDELEN1"
  },
  {
@@ -3105,8 +3093,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "D'Decisioun ass geholl.",
-  "ex_en": "The decision has been made.",
+  "ex_lb": "Ech kann dir deng Decisiounen net ofhuelen.",
+  "ex_en": "I can't make your decisions for you.",
   "lodId": "DECISIOUN1"
  },
  {
@@ -3118,8 +3106,8 @@
   "gender": "",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Mir mussen elo decidéieren.",
-  "ex_en": "We have to decide now.",
+  "ex_lb": "Den Owend decidéiere mer, wuer mer an d'Vakanz ginn.",
+  "ex_en": "Tonight we'll decide where to go on holiday.",
   "lodId": "DECIDEIEREN1"
  },
  {
@@ -3131,8 +3119,8 @@
   "gender": "n",
   "level": "A2",
   "category": "work",
-  "ex_lb": "D'Resultat ass gutt.",
-  "ex_en": "The result is good.",
+  "ex_lb": "De Schüler huet d'Resultat am Kapp ausgerechent.",
+  "ex_en": "The pupil worked out the result in his head.",
   "lodId": "RESULTAT1"
  },
  {
@@ -3144,8 +3132,8 @@
   "gender": "n",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Mir erreeche eist Zil.",
-  "ex_en": "We reach our goal.",
+  "ex_lb": "Mir hunn alleguer ee gemeinsaamt Zil.",
+  "ex_en": "We all have a common goal.",
   "lodId": "ZIL1"
  },
  {
@@ -3157,8 +3145,8 @@
   "gender": "f",
   "level": "A2",
   "category": "work",
-  "ex_lb": "Ech sichen eng Léisung.",
-  "ex_en": "I'm looking for a solution.",
+  "ex_lb": "Kommt, mir sichen zesummen no enger Léisung!",
+  "ex_en": "Come on, let's look for a solution together!",
   "lodId": "LEISUNG1"
  },
  {
@@ -3170,8 +3158,8 @@
   "gender": "m",
   "level": "A1",
   "category": "work",
-  "ex_lb": "Mir hunn e klenge Problem.",
-  "ex_en": "We have a small problem.",
+  "ex_lb": "Den Techniker konnt de Problem un der Elektronik séier behiewen.",
+  "ex_en": "The technician quickly fixed the problem with the electronics.",
   "lodId": "PROBLEM1"
  },
  {
@@ -3183,8 +3171,8 @@
   "gender": "",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Ech léisen de Problem séier.",
-  "ex_en": "I solve the problem quickly.",
+  "ex_lb": "Probéier, deng Problemer mat dengen Elteren ze léisen!",
+  "ex_en": "Try to sort out your problems with your parents!",
   "lodId": "LEISEN1"
  },
  {
@@ -3196,8 +3184,8 @@
   "gender": "f",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Si huet vill Verantwortung.",
-  "ex_en": "She has a lot of responsibility.",
+  "ex_lb": "Als Erzéier huet een eng grouss Verantwortung.",
+  "ex_en": "As an educator you have a great responsibility.",
   "lodId": "VERANTWORTUNG1"
  },
  {
@@ -3209,8 +3197,8 @@
   "gender": "",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Ech sinn dofir verantwortlech.",
-  "ex_en": "I am responsible for that.",
+  "ex_lb": "Wien ass verantwortlech fir den interne Courrier?",
+  "ex_en": "Who is responsible for the internal mail?",
   "lodId": "VERANTWORTLECH1"
  },
  {
@@ -3222,8 +3210,8 @@
   "gender": "",
   "level": "B2",
   "category": "admin",
-  "ex_lb": "Ech versécheren mäin Auto.",
-  "ex_en": "I insure my car.",
+  "ex_lb": "Ech recommandéieren der, däin Haus géint Feier ze versécheren.",
+  "ex_en": "I recommend you insure your house against fire.",
   "lodId": "VERSECHEREN1"
  },
  {
@@ -3235,8 +3223,8 @@
   "gender": "f",
   "level": "B2",
   "category": "admin",
-  "ex_lb": "Ech maachen meng Steiererklärung.",
-  "ex_en": "I'm doing my tax return.",
+  "ex_lb": "Hues de deng Steiererklärung scho gemaach?",
+  "ex_en": "Have you done your tax return yet?",
   "lodId": "STEIERERKLARUNG1"
  },
  {
@@ -3252,7 +3240,7 @@
   "ex_en": "I'm sending the invoice tomorrow."
  },
  {
-  "lb": "de Piloot",
+  "lb": "de Pilot",
   "en": "pilot",
   "de": "der Pilot",
   "fr": "le pilote",
@@ -3260,8 +3248,9 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Piloot fléit no Paräis.",
-  "ex_en": "The pilot flies to Paris."
+  "ex_lb": "Virum Start iwwerpréift de Pilot d'Instrumenter am Cockpit.",
+  "ex_en": "Before take-off the pilot checks the instruments in the cockpit.",
+  "lodId": "PILOT1"
  },
  {
   "lb": "den Informatiker",
@@ -3272,8 +3261,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "Den Informatiker reparéiert de Server.",
-  "ex_en": "The IT specialist repairs the server.",
+  "ex_lb": "Eisen Informatiker schafft nëmmen nuets.",
+  "ex_en": "Our IT specialist only works at night.",
   "lodId": "INFORMATIKER1"
  },
  {
@@ -3297,8 +3286,8 @@
   "gender": "",
   "level": "A1",
   "category": "work",
-  "ex_lb": "Ech sinn no der Aarbecht midd.",
-  "ex_en": "I'm tired after work.",
+  "ex_lb": "Du gesäis midd aus.",
+  "ex_en": "You look tired.",
   "lodId": "MIDD1"
  },
  {
@@ -3334,8 +3323,8 @@
   "gender": "",
   "level": "B1",
   "category": "business",
-  "ex_lb": "D'Firma ass erfollegräich.",
-  "ex_en": "The company is successful.",
+  "ex_lb": "Meng fréier Léierin ass haut eng erfollegräich Schrëftstellerin.",
+  "ex_en": "My former teacher is now a successful writer.",
   "lodId": "ERFOLLEGRAICH1"
  },
  {
@@ -3347,8 +3336,8 @@
   "gender": "m",
   "level": "A2",
   "category": "work",
-  "ex_lb": "De Projet war e Succès.",
-  "ex_en": "The project was a success.",
+  "ex_lb": "Deem Kënschtler seng Ausstellung hat vill Succès.",
+  "ex_en": "That artist's exhibition was a great success.",
   "lodId": "SUCCES1"
  },
  {
@@ -3360,8 +3349,8 @@
   "gender": "m",
   "level": "B1",
   "category": "office",
-  "ex_lb": "Ech hunn den Iwwerbléck verluer.",
-  "ex_en": "I lost the overview.",
+  "ex_lb": "Ech hunn den Iwwerbléck iwwer meng Finanze verluer.",
+  "ex_en": "I've lost track of my finances.",
   "lodId": "IWWERBLECK1"
  },
  {
@@ -3386,8 +3375,8 @@
   "gender": "",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "D'Wirtschaft wiisst rëm.",
-  "ex_en": "The economy is growing again.",
+  "ex_lb": "De Bouf ass erëm aus de Kleeder gewuess.",
+  "ex_en": "The boy has outgrown his clothes again.",
   "lodId": "WUESSEN1"
  },
  {
@@ -3412,8 +3401,8 @@
   "gender": "",
   "level": "B1",
   "category": "economy",
-  "ex_lb": "D'Mietten klammen all Joer.",
-  "ex_en": "The rents rise every year.",
+  "ex_lb": "Hie klëmmt op d'Leeder, fir eng nei Bier anzedréien.",
+  "ex_en": "He climbs the ladder to screw in a new bulb.",
   "lodId": "KLAMMEN1"
  },
  {
@@ -3425,8 +3414,8 @@
   "gender": "m",
   "level": "A2",
   "category": "money",
-  "ex_lb": "De Geldautomat ass do hannen.",
-  "ex_en": "The ATM is over there.",
+  "ex_lb": "De Geldautomat huet meng Kaart geschléckt.",
+  "ex_en": "The cash machine swallowed my card.",
   "lodId": "GELDAUTOMAT1"
  },
  {
@@ -3438,12 +3427,12 @@
   "gender": "m",
   "level": "A2",
   "category": "money",
-  "ex_lb": "Ech hu mäi Code vergiess.",
-  "ex_en": "I forgot my code.",
+  "ex_lb": "De Code vu menger Kreditkaart huet geännert.",
+  "ex_en": "The PIN of my credit card has changed.",
   "lodId": "CODE1"
  },
  {
-  "lb": "de Concurrence",
+  "lb": "d'Konkurrenz",
   "en": "competition",
   "de": "die Konkurrenz",
   "fr": "la concurrence",
@@ -3451,8 +3440,9 @@
   "gender": "f",
   "level": "B2",
   "category": "economy",
-  "ex_lb": "D'Concurrence ass grouss.",
-  "ex_en": "The competition is big."
+  "ex_lb": "D'Konkurrenz ass gutt fir d'Geschäft.",
+  "ex_en": "Competition is good for business.",
+  "lodId": "KONKURRENZ1"
  },
  {
   "lb": "d'Publicitéit",
@@ -3463,8 +3453,8 @@
   "gender": "f",
   "level": "B1",
   "category": "business",
-  "ex_lb": "D'Publicitéit ass deier.",
-  "ex_en": "The advertising is expensive.",
+  "ex_lb": "Fir deen neien Autosmodell gëtt masseg Publicitéit gemaach.",
+  "ex_en": "The new car model is being advertised heavily.",
   "lodId": "PUBLICITEIT1"
  },
  {
@@ -3476,8 +3466,8 @@
   "gender": "m",
   "level": "A2",
   "category": "economy",
-  "ex_lb": "Dëse Produit ass nei.",
-  "ex_en": "This product is new.",
+  "ex_lb": "Eise Produit hält, wat e versprécht!",
+  "ex_en": "Our product does what it promises!",
   "lodId": "PRODUIT1"
  },
  {
@@ -3489,8 +3479,8 @@
   "gender": "m",
   "level": "B2",
   "category": "admin",
-  "ex_lb": "De Gemengerot diskutéiert de Budget.",
-  "ex_en": "The municipal council discusses the budget.",
+  "ex_lb": "Den nächste Gemengerot ass e Méindeg de Moien.",
+  "ex_en": "The next municipal council meeting is on Monday morning.",
   "lodId": "GEMENGEROT1"
  },
  {
@@ -3502,8 +3492,8 @@
   "gender": "",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "D'Walen sinn am Oktober.",
-  "ex_en": "The elections are in October."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "wielen",
@@ -3514,8 +3504,8 @@
   "gender": "",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Ech wiele muer.",
-  "ex_en": "I'm voting tomorrow.",
+  "ex_lb": "Bei der Reservatioun kann ee seng Plaz online wielen.",
+  "ex_en": "When booking you can choose your seat online.",
   "lodId": "WIELEN1"
  },
  {
@@ -3539,8 +3529,8 @@
   "gender": "f",
   "level": "B2",
   "category": "admin",
-  "ex_lb": "D'Prozedur ass komplizéiert.",
-  "ex_en": "The procedure is complicated.",
+  "ex_lb": "An der Verwaltung muss een sech un d'Prozeduren halen.",
+  "ex_en": "In the administration you have to stick to the procedures.",
   "lodId": "PROZEDUR1"
  },
  {
@@ -3552,8 +3542,8 @@
   "gender": "f",
   "level": "B1",
   "category": "admin",
-  "ex_lb": "Et gëtt eng Kontroll um Grenz.",
-  "ex_en": "There is a check at the border.",
+  "ex_lb": "D'Police huet de Weekend vill Kontrollen op de Stroosse gemaach.",
+  "ex_en": "The police carried out a lot of checks on the roads at the weekend.",
   "lodId": "KONTROLL1"
  },
  {
@@ -3577,8 +3567,8 @@
   "gender": "m",
   "level": "B2",
   "category": "admin",
-  "ex_lb": "Ech schécken e Recommandé.",
-  "ex_en": "I'm sending a registered letter.",
+  "ex_lb": "Mir kruten e Recommandé vun der Bank.",
+  "ex_en": "We received a registered letter from the bank.",
   "lodId": "RECOMMANDE1"
  },
  {
@@ -3590,8 +3580,8 @@
   "gender": "f",
   "level": "A1",
   "category": "admin",
-  "ex_lb": "Ech ginn op d'Post.",
-  "ex_en": "I'm going to the post office.",
+  "ex_lb": "Hie schafft bei der Post.",
+  "ex_en": "He works at the post office.",
   "lodId": "POST1"
  },
  {
@@ -3603,8 +3593,8 @@
   "gender": "n",
   "level": "A1",
   "category": "admin",
-  "ex_lb": "Wat ass d'Datum vun haut?",
-  "ex_en": "What is today's date?",
+  "ex_lb": "Fir eis Feier zécke mer tëschent zwee Datumen.",
+  "ex_en": "We're hesitating between two dates for our party.",
   "lodId": "DATUM1"
  },
  {
@@ -3616,8 +3606,8 @@
   "gender": "n",
   "level": "A1",
   "category": "business",
-  "ex_lb": "D'Geschäft ass um zéng op.",
-  "ex_en": "The shop opens at ten.",
+  "ex_lb": "D'Geschäfter maachen haut schonn ëm fënnef Auer zou.",
+  "ex_en": "Today the shops already close at five o'clock.",
   "lodId": "GESCHAFT1"
  },
  {
@@ -3641,8 +3631,8 @@
   "gender": "m",
   "level": "B2",
   "category": "university",
-  "ex_lb": "Si mécht hire Bachelor.",
-  "ex_en": "She's doing her bachelor's degree.",
+  "ex_lb": "Am Bachelor hunn ech Germanistik studéiert an am Master Luxemburgistik.",
+  "ex_en": "For my bachelor's I studied German and for my master's Luxembourgish studies.",
   "lodId": "BACHELOR1"
  },
  {
@@ -3654,21 +3644,9 @@
   "gender": "m",
   "level": "B2",
   "category": "university",
-  "ex_lb": "Hie studéiert fir säi Master.",
-  "ex_en": "He's studying for his master's.",
+  "ex_lb": "D'Universitéit bitt e puer Masteren am Beräich vun der Ekonomie un.",
+  "ex_en": "The university offers several master's programmes in economics.",
   "lodId": "MASTER1"
- },
- {
-  "lb": "de Stipendium",
-  "en": "scholarship",
-  "de": "das Stipendium",
-  "fr": "la bourse",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B2",
-  "category": "university",
-  "ex_lb": "Ech kréien e Stipendium.",
-  "ex_en": "I receive a scholarship."
  },
  {
   "lb": "opmaachen",
@@ -3679,8 +3657,8 @@
   "gender": "",
   "level": "A1",
   "category": "admin",
-  "ex_lb": "D'Gemeng mécht um aacht op.",
-  "ex_en": "The municipality opens at eight.",
+  "ex_lb": "D'Kanner hu voller Freed hir Päck opgemaach.",
+  "ex_en": "The children opened their parcels full of joy.",
   "lodId": "OPMAACHEN1"
  },
  {
@@ -3692,8 +3670,8 @@
   "gender": "",
   "level": "A1",
   "category": "admin",
-  "ex_lb": "D'Bank mécht um sechs zou.",
-  "ex_en": "The bank closes at six.",
+  "ex_lb": "Hëllefs de mer, d'Lueden zouzemaachen?",
+  "ex_en": "Will you help me close the shutters?",
   "lodId": "ZOUMAACHEN1"
  },
  {
@@ -3705,8 +3683,8 @@
   "gender": "",
   "level": "A1",
   "category": "admin",
-  "ex_lb": "Ech waarden um Guichet.",
-  "ex_en": "I'm waiting at the counter.",
+  "ex_lb": "Waart, bis de geruff gëss!",
+  "ex_en": "Wait until you're called!",
   "lodId": "WAARDEN1"
  },
  {
@@ -3731,8 +3709,8 @@
   "gender": "",
   "level": "A1",
   "category": "work",
-  "ex_lb": "Kanns du mer hëllefen?",
-  "ex_en": "Can you help me?",
+  "ex_lb": "Hie steet do, näischt ze maachen, amplaz ze hëllefen.",
+  "ex_en": "He just stands there doing nothing instead of helping.",
   "lodId": "HELLEFEN1"
  },
  {
@@ -3744,8 +3722,8 @@
   "gender": "",
   "level": "B1",
   "category": "work",
-  "ex_lb": "Mir schaffe gutt zesummen.",
-  "ex_en": "We cooperate well together.",
+  "ex_lb": "An der Schoul léieren d'Kanner, am Grupp zesummenzeschaffen.",
+  "ex_en": "At school children learn to work together in groups.",
   "lodId": "ZESUMMESCHAFFEN1"
  }
 ]

@@ -8,8 +8,8 @@
   "gender": "f",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "Ech sinn gär an der Natur.",
-  "ex_en": "I like being in nature.",
+  "ex_lb": "Si hunn an der fräier Natur campéiert.",
+  "ex_en": "They camped out in the open.",
   "lodId": "NATUR1"
  },
  {
@@ -21,8 +21,8 @@
   "gender": "f",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "D'Sonn schéngt haut.",
-  "ex_en": "The sun is shining today.",
+  "ex_lb": "Wéi vill Sonne gëtt et an eisem Universum?",
+  "ex_en": "How many suns are there in our universe?",
   "lodId": "SONN1"
  },
  {
@@ -34,8 +34,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "De Mound ass hell haut Owend.",
-  "ex_en": "The moon is bright tonight.",
+  "ex_lb": "Um Mound ass nach kee Liewe fonnt ginn.",
+  "ex_en": "No life has been found on the moon yet.",
   "lodId": "MOUND1"
  },
  {
@@ -47,8 +47,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "Vill Stäre stinn um Himmel.",
-  "ex_en": "Many stars are in the sky.",
+  "ex_lb": "Et ass eng kloer Nuecht, d'Stäre fénkelen um Himmel.",
+  "ex_en": "It's a clear night, the stars are twinkling in the sky.",
   "lodId": "STAR1"
  },
  {
@@ -60,8 +60,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "Den Himmel ass blo.",
-  "ex_en": "The sky is blue.",
+  "ex_lb": "Den Himmel zitt sech zou.",
+  "ex_en": "The sky is clouding over.",
   "lodId": "HIMMEL1"
  },
  {
@@ -73,8 +73,8 @@
   "gender": "f",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "D'Äerd dréit sech ëm d'Sonn.",
-  "ex_en": "The earth turns around the sun.",
+  "ex_lb": "Eis Äerd huet keng onbegrenzt Ressourcen.",
+  "ex_en": "Our Earth does not have unlimited resources.",
   "lodId": "AERD1"
  },
  {
@@ -86,8 +86,8 @@
   "gender": "n",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "Mir wunnen um Land.",
-  "ex_en": "We live in the countryside.",
+  "ex_lb": "Eist Land huet Grenze mat dräi anere Länner.",
+  "ex_en": "Our country borders three other countries.",
   "lodId": "LAND1"
  },
  {
@@ -99,8 +99,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "Mir ginn am Bësch spadséieren.",
-  "ex_en": "We go walking in the forest.",
+  "ex_lb": "Mir ginn all Sonndeg an de Bësch spadséieren.",
+  "ex_en": "Every Sunday we go for a walk in the woods.",
   "lodId": "BESCH1"
  },
  {
@@ -112,8 +112,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "De Bierg ass ganz héich.",
-  "ex_en": "The mountain is very high.",
+  "ex_lb": "D'Sonn schéngt iwwer Bierg an Dall.",
+  "ex_en": "The sun shines over hill and dale.",
   "lodId": "BIERG1"
  },
  {
@@ -125,8 +125,8 @@
   "gender": "n",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "D'Duerf läit am Dall.",
-  "ex_en": "The village lies in the valley.",
+  "ex_lb": "D'Sonn schéngt iwwer Bierg an Dall.",
+  "ex_en": "The sun shines over hill and dale.",
   "lodId": "DALL1"
  },
  {
@@ -138,8 +138,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "De Floss fléisst duerch d'Stad.",
-  "ex_en": "The river flows through the city.",
+  "ex_lb": "Eis Flëss ginn ëmmer méi propper.",
+  "ex_en": "Our rivers are getting cleaner and cleaner.",
   "lodId": "FLOSS1"
  },
  {
@@ -151,8 +151,8 @@
   "gender": "m",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "Mir schwamme gär am Séi.",
-  "ex_en": "We like swimming in the lake.",
+  "ex_lb": "No där äiseger Wanternuecht war de Séi zougefruer.",
+  "ex_en": "After that icy winter night the lake was frozen over.",
   "lodId": "SEI1"
  },
  {
@@ -164,8 +164,8 @@
   "gender": "n",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "D'Mier ass ganz grouss.",
-  "ex_en": "The sea is very big.",
+  "ex_lb": "Mir maachen dëst Joer Vakanz um Mier.",
+  "ex_en": "This year we're going on holiday by the sea.",
   "lodId": "MIER1"
  },
  {
@@ -177,8 +177,8 @@
   "gender": "m",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "Mir leien um Strand.",
-  "ex_en": "We are lying on the beach.",
+  "ex_lb": "D'Kanner sammele Muschelen um Strand.",
+  "ex_en": "The children are collecting shells on the beach.",
   "lodId": "STRAND1"
  },
  {
@@ -190,8 +190,8 @@
   "gender": "f",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "Mir fueren op eng Insel.",
-  "ex_en": "We are travelling to an island.",
+  "ex_lb": "An der Vakanz si mir vun Insel zu Insel geseegelt.",
+  "ex_en": "On holiday we sailed from island to island.",
   "lodId": "INSEL1"
  },
  {
@@ -203,8 +203,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "Hie wërft e Steen an d'Waasser.",
-  "ex_en": "He throws a stone into the water.",
+  "ex_lb": "D'Déif haten d'Fënster mat engem Steen ageschloen.",
+  "ex_en": "The thieves had smashed the window with a stone.",
   "lodId": "STEEN1"
  },
  {
@@ -216,8 +216,8 @@
   "gender": "m",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "D'Kanner spillen am Sand.",
-  "ex_en": "The children play in the sand.",
+  "ex_lb": "D'Waasser verwëscht all Spueren am Sand.",
+  "ex_en": "The water washes away all traces in the sand.",
   "lodId": "SAND1"
  },
  {
@@ -229,8 +229,8 @@
   "gender": "n",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "D'Waasser ass kal.",
-  "ex_en": "The water is cold.",
+  "ex_lb": "Dëse Stoft léisst kee Waasser duerch.",
+  "ex_en": "This fabric doesn't let water through.",
   "lodId": "WAASSER2"
  },
  {
@@ -242,8 +242,8 @@
   "gender": "n",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "D'Feier brennt hell.",
-  "ex_en": "The fire burns brightly.",
+  "ex_lb": "Nom Accident huet eisen Auto Feier gefaangen an ass komplett ausgebrannt.",
+  "ex_en": "After the accident our car caught fire and burned out completely.",
   "lodId": "FEIER1"
  },
  {
@@ -255,8 +255,8 @@
   "gender": "f",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "D'Loft ass frësch haut.",
-  "ex_en": "The air is fresh today.",
+  "ex_lb": "Ech muss an d'frësch Loft, ech hunn de Kapp wéi!",
+  "ex_en": "I need some fresh air, I've got a headache!",
   "lodId": "LOFT1"
  },
  {
@@ -268,8 +268,8 @@
   "gender": "f",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "D'Kéi sinn op der Wiss.",
-  "ex_en": "The cows are in the meadow.",
+  "ex_lb": "An deene Wise fënnt ee masseweis Champignonen.",
+  "ex_en": "You find masses of mushrooms in those meadows.",
   "lodId": "WISS1"
  },
  {
@@ -281,8 +281,8 @@
   "gender": "n",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "De Bauer schafft um Feld.",
-  "ex_en": "The farmer works in the field.",
+  "ex_lb": "D'Felder leie brooch.",
+  "ex_en": "The fields are lying fallow.",
   "lodId": "FELD1"
  },
  {
@@ -294,8 +294,8 @@
   "gender": "m",
   "level": "A1",
   "category": "nature",
-  "ex_lb": "De Wee geet duerch de Bësch.",
-  "ex_en": "The path goes through the forest.",
+  "ex_lb": "D'Bänke laanscht dem Wee ginn nei ugestrach.",
+  "ex_en": "The benches along the path are being repainted.",
   "lodId": "WEE1"
  },
  {
@@ -307,8 +307,8 @@
   "gender": "n",
   "level": "A1",
   "category": "animals",
-  "ex_lb": "Mäin Liblingsdéier ass d'Kaz.",
-  "ex_en": "My favourite animal is the cat.",
+  "ex_lb": "Den Iesel ass en nëtzlecht Déier.",
+  "ex_en": "The donkey is a useful animal.",
   "lodId": "DEIER1"
  },
  {
@@ -320,8 +320,8 @@
   "gender": "m",
   "level": "A1",
   "category": "animals",
-  "ex_lb": "Den Hond billt am Gaart.",
-  "ex_en": "The dog barks in the garden.",
+  "ex_lb": "D'Hënn hunn déi ganz Nuecht gebillt.",
+  "ex_en": "The dogs barked all night.",
   "lodId": "HOND1"
  },
  {
@@ -333,8 +333,8 @@
   "gender": "f",
   "level": "A1",
   "category": "animals",
-  "ex_lb": "D'Kaz schléift um Sofa.",
-  "ex_en": "The cat sleeps on the sofa.",
+  "ex_lb": "D'Kaz sëtzt virun der Fënster ze miauen.",
+  "ex_en": "The cat sits at the window meowing.",
   "lodId": "KAZ1"
  },
  {
@@ -346,8 +346,8 @@
   "gender": "n",
   "level": "A1",
   "category": "animals",
-  "ex_lb": "D'Päerd leeft op der Wiss.",
-  "ex_en": "The horse runs in the meadow.",
+  "ex_lb": "D'Päerd sinn iwwer d'Weed galoppéiert.",
+  "ex_en": "The horses galloped across the pasture.",
   "lodId": "PAERD1"
  },
  {
@@ -359,8 +359,8 @@
   "gender": "f",
   "level": "A1",
   "category": "animals",
-  "ex_lb": "D'Kou gëtt Mëllech.",
-  "ex_en": "The cow gives milk.",
+  "ex_lb": "D'Kéi ginn all Dag gestrach.",
+  "ex_en": "The cows are groomed every day.",
   "lodId": "KOU1"
  },
  {
@@ -372,8 +372,8 @@
   "gender": "n",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "D'Schwäin ass am Stall.",
-  "ex_en": "The pig is in the barn.",
+  "ex_lb": "Vill Leit iesse kee Schwäin.",
+  "ex_en": "Many people don't eat pork.",
   "lodId": "SCHWAIN1"
  },
  {
@@ -385,8 +385,8 @@
   "gender": "n",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "D'Schof huet wäiss Woll.",
-  "ex_en": "The sheep has white wool.",
+  "ex_lb": "Ech hunn de Goût vum Schof net gär.",
+  "ex_en": "I don't like the taste of mutton.",
   "lodId": "SCHOF1"
  },
  {
@@ -398,8 +398,8 @@
   "gender": "f",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "D'Geess frësst Gras.",
-  "ex_en": "The goat eats grass.",
+  "ex_lb": "Den Hiert geet mat senge Geessen op eng aner Weed.",
+  "ex_en": "The shepherd takes his goats to another pasture.",
   "lodId": "GEESS1"
  },
  {
@@ -411,8 +411,8 @@
   "gender": "n",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "D'Hong leet en Ee.",
-  "ex_en": "The hen lays an egg.",
+  "ex_lb": "De Fuuss huet hënt en Hong geholl.",
+  "ex_en": "Last night the fox took a hen.",
   "lodId": "HONG1"
  },
  {
@@ -424,8 +424,8 @@
   "gender": "m",
   "level": "B1",
   "category": "animals",
-  "ex_lb": "Den Hunn kréint moies fréi.",
-  "ex_en": "The rooster crows early in the morning.",
+  "ex_lb": "Den Hunn kréint mueres fréi.",
+  "ex_en": "The cock crows early in the morning.",
   "lodId": "HUNN2"
  },
  {
@@ -437,8 +437,8 @@
   "gender": "f",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "D'Int schwëmmt um Séi.",
-  "ex_en": "The duck swims on the lake.",
+  "ex_lb": "De Fuuss huet dës Nuecht erëm zwou Inte geholl.",
+  "ex_en": "Last night the fox took two ducks again.",
   "lodId": "INT1"
  },
  {
@@ -463,8 +463,8 @@
   "gender": "m",
   "level": "A1",
   "category": "animals",
-  "ex_lb": "De Fësch schwëmmt am Waasser.",
-  "ex_en": "The fish swims in the water.",
+  "ex_lb": "Dee Fësch ass voller Sprenzen!",
+  "ex_en": "That fish is full of bones!",
   "lodId": "FESCH1"
  },
  {
@@ -476,8 +476,8 @@
   "gender": "m",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "De Bier schléift de Wanter.",
-  "ex_en": "The bear sleeps through the winter.",
+  "ex_lb": "Et däerf een d'Bieren am Zoo net fidderen.",
+  "ex_en": "You're not allowed to feed the bears at the zoo.",
   "lodId": "BIER1"
  },
  {
@@ -489,8 +489,8 @@
   "gender": "m",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "De Fuuss lieft am Bësch.",
-  "ex_en": "The fox lives in the forest.",
+  "ex_lb": "De Fuuss ass e ganz nëtzlecht Déier, dat an der Natur vill As frësst an esou potenziell Krankheete verhënnert.",
+  "ex_en": "The fox is a very useful animal: it eats a lot of carrion in nature and so prevents disease.",
   "lodId": "FUUSS2"
  },
  {
@@ -502,9 +502,9 @@
   "gender": "m",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "Den Hues leeft séier.",
-  "ex_en": "The hare runs fast.",
-  "lodId": "HUES2"
+  "ex_lb": "Feelt der eppes, mäin Hues?",
+  "ex_en": "Is something wrong, my little rabbit?",
+  "lodId": "HUES3"
  },
  {
   "lb": "d'Mais",
@@ -515,8 +515,8 @@
   "gender": "f",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "D'Mais verstoppt sech.",
-  "ex_en": "The mouse hides itself.",
+  "ex_lb": "D'Hénger picke sech de Mais aus dem Fudder eraus.",
+  "ex_en": "The hens pick the maize out of the feed.",
   "lodId": "MAIS1"
  },
  {
@@ -528,12 +528,12 @@
   "gender": "m",
   "level": "B1",
   "category": "animals",
-  "ex_lb": "De Wollef jaut an der Nuecht.",
-  "ex_en": "The wolf howls at night.",
+  "ex_lb": "De Wollef ass e scheit Déier an evitéiert an der Reegel den direkte Kontakt mam Mënsch.",
+  "ex_en": "The wolf is a shy animal and usually avoids direct contact with humans.",
   "lodId": "WOLLEF2"
  },
  {
-  "lb": "den Hiesch",
+  "lb": "den Hirsch",
   "en": "deer/stag",
   "de": "der Hirsch",
   "fr": "le cerf",
@@ -541,8 +541,9 @@
   "gender": "m",
   "level": "B1",
   "category": "animals",
-  "ex_lb": "Den Hiesch lieft am Bësch.",
-  "ex_en": "The stag lives in the forest."
+  "ex_lb": "Vill Leit verwiesselen den Hirsch mam Réibock.",
+  "ex_en": "Many people confuse the red deer with the roebuck.",
+  "lodId": "HIRSCH2"
  },
  {
   "lb": "d'Bei",
@@ -553,8 +554,8 @@
   "gender": "f",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "D'Bei mécht Hunneg.",
-  "ex_en": "The bee makes honey.",
+  "ex_lb": "Héier emol, wéi d'Beie summen!",
+  "ex_en": "Listen to the bees buzzing!",
   "lodId": "BEI1"
  },
  {
@@ -566,8 +567,8 @@
   "gender": "f",
   "level": "B1",
   "category": "animals",
-  "ex_lb": "D'Méck sëtzt um Dësch.",
-  "ex_en": "The fly sits on the table.",
+  "ex_lb": "D'Frell fänks de am beschte mat der Méck.",
+  "ex_en": "Trout are best caught with a fly.",
   "lodId": "MECK1"
  },
  {
@@ -579,8 +580,8 @@
   "gender": "m",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "De Päiperlek flitt iwwer d'Blummen.",
-  "ex_en": "The butterfly flies over the flowers.",
+  "ex_lb": "Am Summer hu mer de Gaart voller Päiperleken.",
+  "ex_en": "In summer our garden is full of butterflies.",
   "lodId": "PAIPERLEK1"
  },
  {
@@ -592,8 +593,8 @@
   "gender": "f",
   "level": "B1",
   "category": "animals",
-  "ex_lb": "D'Spann mécht en Netz.",
-  "ex_en": "The spider makes a web.",
+  "ex_lb": "Ech hu vu Klengem un eng panesch Angscht viru Spannen.",
+  "ex_en": "Since I was little I've been terrified of spiders.",
   "lodId": "SPANN1"
  },
  {
@@ -618,8 +619,8 @@
   "gender": "m",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "De Léiw ass de Kinnek vun den Déieren.",
-  "ex_en": "The lion is the king of the animals.",
+  "ex_lb": "Op eiser Safari hu mir vill Léiwe gesinn.",
+  "ex_en": "On our safari we saw lots of lions.",
   "lodId": "LEIW1"
  },
  {
@@ -631,8 +632,8 @@
   "gender": "m",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "Den Elefant ass ganz grouss.",
-  "ex_en": "The elephant is very big.",
+  "ex_lb": "D'Kanner ware mat hirer Joffer d'Elefanten an den Zoo kucken.",
+  "ex_en": "The children went with their teacher to see the elephants at the zoo.",
   "lodId": "ELEFANT1"
  },
  {
@@ -644,12 +645,12 @@
   "gender": "f",
   "level": "B1",
   "category": "animals",
-  "ex_lb": "D'Schildkröt ass ganz lues.",
-  "ex_en": "The turtle is very slow.",
+  "ex_lb": "Wéi d'Kanner se wollten upaken, huet d'Schildkröt sech an hire Panzer zeréckgezunn.",
+  "ex_en": "When the children tried to pick it up, the tortoise withdrew into its shell.",
   "lodId": "SCHILDKROT1"
  },
  {
-  "lb": "de Frosch",
+  "lb": "de Fräsch",
   "en": "frog",
   "de": "der Frosch",
   "fr": "la grenouille",
@@ -657,20 +658,22 @@
   "gender": "m",
   "level": "A2",
   "category": "animals",
-  "ex_lb": "De Frosch sprangt an de Séi.",
-  "ex_en": "The frog jumps into the lake."
+  "ex_lb": "An eisem Weier sinn dëst Joer vill Fräschen.",
+  "ex_en": "There are lots of frogs in our pond this year.",
+  "lodId": "FRASCH1"
  },
  {
-  "lb": "den Eekuerf",
+  "lb": "d'Kaweechelchen",
   "en": "squirrel",
   "de": "das Eichhörnchen",
   "fr": "l'écureuil",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "B2",
   "category": "animals",
-  "ex_lb": "Den Eekuerf klëmmt um Bam.",
-  "ex_en": "The squirrel climbs the tree."
+  "ex_lb": "Hien ass flénk ewéi e Kaweechelchen.",
+  "ex_en": "He is as quick as a squirrel.",
+  "lodId": "KAWEECHELCHEN2"
  },
  {
   "lb": "d'Planz",
@@ -681,8 +684,8 @@
   "gender": "f",
   "level": "A2",
   "category": "plants",
-  "ex_lb": "D'Planz brauch Waasser.",
-  "ex_en": "The plant needs water.",
+  "ex_lb": "Deng Planz huet net genuch Buedem.",
+  "ex_en": "Your plant doesn't have enough soil.",
   "lodId": "PLANZ1"
  },
  {
@@ -694,8 +697,8 @@
   "gender": "m",
   "level": "A1",
   "category": "plants",
-  "ex_lb": "De Bam ass ganz al.",
-  "ex_en": "The tree is very old.",
+  "ex_lb": "Dëse Bam ass méi ewéi honnert Joer al.",
+  "ex_en": "This tree is more than a hundred years old.",
   "lodId": "BAM1"
  },
  {
@@ -707,8 +710,8 @@
   "gender": "f",
   "level": "A1",
   "category": "plants",
-  "ex_lb": "D'Blumm bléit am Gaart.",
-  "ex_en": "The flower blooms in the garden.",
+  "ex_lb": "D'Kanner hunn eng wonnerschéi Blumm am Park gesinn.",
+  "ex_en": "The children saw a wonderful flower in the park.",
   "lodId": "BLUMM1"
  },
  {
@@ -720,8 +723,8 @@
   "gender": "n",
   "level": "A2",
   "category": "plants",
-  "ex_lb": "D'Gras ass gréng.",
-  "ex_en": "The grass is green.",
+  "ex_lb": "E Samschdeg musse mer d'Gras méien.",
+  "ex_en": "On Saturday we have to mow the grass.",
   "lodId": "GRAS1"
  },
  {
@@ -733,8 +736,8 @@
   "gender": "n",
   "level": "A2",
   "category": "plants",
-  "ex_lb": "D'Blat fält vum Bam.",
-  "ex_en": "The leaf falls from the tree.",
+  "ex_lb": "Am Fréijoer kréien d'Beem nei Blieder.",
+  "ex_en": "In spring the trees get new leaves.",
   "lodId": "BLAT1"
  },
  {
@@ -746,8 +749,8 @@
   "gender": "f",
   "level": "B1",
   "category": "plants",
-  "ex_lb": "D'Wuerzel ass am Buedem.",
-  "ex_en": "The root is in the ground.",
+  "ex_lb": "D'Wuerzel vum Bakzant ass entzünt.",
+  "ex_en": "The root of the molar is inflamed.",
   "lodId": "WUERZEL1"
  },
  {
@@ -759,8 +762,8 @@
   "gender": "m",
   "level": "B1",
   "category": "plants",
-  "ex_lb": "De Stamm ass déck.",
-  "ex_en": "The trunk is thick.",
+  "ex_lb": "Déi schwéier Stämm gi mam Kran op de Camion gelueden.",
+  "ex_en": "The heavy trunks are loaded onto the lorry with a crane.",
   "lodId": "STAMM1"
  },
  {
@@ -772,8 +775,8 @@
   "gender": "f",
   "level": "B1",
   "category": "plants",
-  "ex_lb": "De Vugel sëtzt op der Branche.",
-  "ex_en": "The bird sits on the branch.",
+  "ex_lb": "Hien ass ee vun deene gréisste Spezialisten a senger Branche.",
+  "ex_en": "He is one of the top specialists in his field.",
   "lodId": "BRANCHE1"
  },
  {
@@ -797,8 +800,8 @@
   "gender": "f",
   "level": "A2",
   "category": "plants",
-  "ex_lb": "Ech kafen eng rout Rous.",
-  "ex_en": "I buy a red rose.",
+  "ex_lb": "Och e Gäertner pickt sech alt un enger Rous.",
+  "ex_en": "Even a gardener sometimes pricks himself on a rose.",
   "lodId": "ROUS1"
  },
  {
@@ -822,8 +825,8 @@
   "gender": "f",
   "level": "B2",
   "category": "plants",
-  "ex_lb": "D'Eech ass e staarke Bam.",
-  "ex_en": "The oak is a strong tree.",
+  "ex_lb": "De Fierschter huet 100 jonk Eeche geplanzt.",
+  "ex_en": "The forester planted 100 young oaks.",
   "lodId": "EECH1"
  },
  {
@@ -835,9 +838,9 @@
   "gender": "f",
   "level": "B1",
   "category": "plants",
-  "ex_lb": "D'Dann bléift de Wanter gréng.",
-  "ex_en": "The fir stays green in winter.",
-  "lodId": "DANN2"
+  "ex_lb": "Op den Dänne wuessen d'Zapen d'Luucht aus.",
+  "ex_en": "On fir trees the cones grow upwards.",
+  "lodId": "DANN1"
  },
  {
   "lb": "de Som",
@@ -848,8 +851,8 @@
   "gender": "m",
   "level": "B1",
   "category": "plants",
-  "ex_lb": "De Som wiisst zu enger Planz.",
-  "ex_en": "The seed grows into a plant.",
+  "ex_lb": "Mengs de, de Som vum leschte Joer géif nach keimen?",
+  "ex_en": "Do you think last year's seeds will still sprout?",
   "lodId": "SOM1"
  },
  {
@@ -861,8 +864,8 @@
   "gender": "",
   "level": "A2",
   "category": "plants",
-  "ex_lb": "D'Blummen wuessen am Fréijoer.",
-  "ex_en": "The flowers grow in spring.",
+  "ex_lb": "De Bouf ass erëm aus de Kleeder gewuess.",
+  "ex_en": "The boy has outgrown his clothes again.",
   "lodId": "WUESSEN1"
  },
  {
@@ -874,8 +877,8 @@
   "gender": "",
   "level": "B1",
   "category": "plants",
-  "ex_lb": "D'Beem bléien am Mee.",
-  "ex_en": "The trees bloom in May.",
+  "ex_lb": "Dës Blumm blitt nëmmen eng Woch.",
+  "ex_en": "This flower only blooms for a week.",
   "lodId": "BLEIEN1"
  },
  {
@@ -887,8 +890,8 @@
   "gender": "",
   "level": "A2",
   "category": "plants",
-  "ex_lb": "Mir planze Beem am Gaart.",
-  "ex_en": "We plant trees in the garden.",
+  "ex_lb": "De Fierschter huet 100 jonk Eeche geplanzt.",
+  "ex_en": "The forester planted 100 young oaks.",
   "lodId": "PLANZEN1"
  },
  {
@@ -900,8 +903,8 @@
   "gender": "n",
   "level": "A1",
   "category": "weather",
-  "ex_lb": "D'Wieder ass schéin haut.",
-  "ex_en": "The weather is nice today.",
+  "ex_lb": "Wa schéint Wieder ass, si vill Cyclisten op der Strooss.",
+  "ex_en": "When the weather is nice there are lots of cyclists on the road.",
   "lodId": "WIEDER1"
  },
  {
@@ -913,8 +916,8 @@
   "gender": "m",
   "level": "A1",
   "category": "weather",
-  "ex_lb": "De Reen hält net op.",
-  "ex_en": "The rain doesn't stop.",
+  "ex_lb": "Huel e Prabbeli mat, et gëtt Reen!",
+  "ex_en": "Take an umbrella, it's going to rain!",
   "lodId": "REEN1"
  },
  {
@@ -926,8 +929,8 @@
   "gender": "m",
   "level": "A1",
   "category": "weather",
-  "ex_lb": "De Schnéi läit um Buedem.",
-  "ex_en": "The snow lies on the ground.",
+  "ex_lb": "Ech fäerten, et gëtt hënt Schnéi.",
+  "ex_en": "I'm afraid it will snow tonight.",
   "lodId": "SCHNEI1"
  },
  {
@@ -939,8 +942,8 @@
   "gender": "m",
   "level": "A1",
   "category": "weather",
-  "ex_lb": "De Wand bléist staark.",
-  "ex_en": "The wind blows strongly.",
+  "ex_lb": "Säit de Moie bléist en äiskale Wand.",
+  "ex_en": "An icy wind has been blowing since this morning.",
   "lodId": "WAND1"
  },
  {
@@ -952,8 +955,8 @@
   "gender": "f",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "Eng grouss Wollek kënnt.",
-  "ex_en": "A big cloud is coming.",
+  "ex_lb": "Et war keng eenzeg Wollek um Himmel.",
+  "ex_en": "There wasn't a single cloud in the sky.",
   "lodId": "WOLLEK1"
  },
  {
@@ -965,8 +968,8 @@
   "gender": "m",
   "level": "B1",
   "category": "weather",
-  "ex_lb": "Den Niwwel ass déck moies.",
-  "ex_en": "The fog is thick in the morning.",
+  "ex_lb": "Den Niwwel ass amgaang ze falen.",
+  "ex_en": "The fog is lifting.",
   "lodId": "NIWWEL1"
  },
  {
@@ -978,8 +981,8 @@
   "gender": "m",
   "level": "B1",
   "category": "weather",
-  "ex_lb": "Den Donner ass haart.",
-  "ex_en": "The thunder is loud.",
+  "ex_lb": "Ech hat als Kand Angscht virum Blëtz a virum Donner.",
+  "ex_en": "As a child I was afraid of lightning and thunder.",
   "lodId": "DONNER1"
  },
  {
@@ -991,12 +994,12 @@
   "gender": "m",
   "level": "B1",
   "category": "weather",
-  "ex_lb": "De Blëtz beliicht den Himmel.",
-  "ex_en": "The lightning lights up the sky.",
+  "ex_lb": "De Blëtz huet an d'Antenn geschloen.",
+  "ex_en": "Lightning struck the aerial.",
   "lodId": "BLETZ1"
  },
  {
-  "lb": "d'Gewidder",
+  "lb": "d'Donnerwieder",
   "en": "thunderstorm",
   "de": "das Gewitter",
   "fr": "l'orage",
@@ -1004,8 +1007,9 @@
   "gender": "n",
   "level": "B1",
   "category": "weather",
-  "ex_lb": "E Gewidder kënnt haut Owend.",
-  "ex_en": "A thunderstorm is coming tonight."
+  "ex_lb": "Hënt war e schwéiert Donnerwieder, et huet un engem Stéck gedonnert a geblëtzt.",
+  "ex_en": "There was a heavy thunderstorm last night, it thundered and lightninged non-stop.",
+  "lodId": "DONNERWIEDER1"
  },
  {
   "lb": "d'Temperatur",
@@ -1016,8 +1020,8 @@
   "gender": "f",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "D'Temperatur fält haut.",
-  "ex_en": "The temperature drops today.",
+  "ex_lb": "D'Planzen hu staark ënner deenen nidderegen Temperature gelidden.",
+  "ex_en": "The plants suffered badly from the low temperatures.",
   "lodId": "TEMPERATUR1"
  },
  {
@@ -1029,8 +1033,8 @@
   "gender": "m",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "Et sinn zwanzeg Grad.",
-  "ex_en": "It is twenty degrees.",
+  "ex_lb": "Muer gëtt et bis zwee Grad ënner null.",
+  "ex_en": "Tomorrow it will be down to two degrees below zero.",
   "lodId": "GRAD1"
  },
  {
@@ -1042,8 +1046,8 @@
   "gender": "",
   "level": "A1",
   "category": "weather",
-  "ex_lb": "Et ass waarm haut.",
-  "ex_en": "It is warm today.",
+  "ex_lb": "Fir ze spullen, brauch ee waarmt Waasser.",
+  "ex_en": "You need hot water to do the washing-up.",
   "lodId": "WAARM1"
  },
  {
@@ -1055,8 +1059,8 @@
   "gender": "",
   "level": "A1",
   "category": "weather",
-  "ex_lb": "Et ass kal am Wanter.",
-  "ex_en": "It is cold in winter.",
+  "ex_lb": "Haut bléist eng kal Loft.",
+  "ex_en": "A cold wind is blowing today.",
   "lodId": "KAL1"
  },
  {
@@ -1068,8 +1072,8 @@
   "gender": "",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "D'Strooss ass naass.",
-  "ex_en": "The street is wet.",
+  "ex_lb": "Op deenen naasse Plättercher rëtscht ee gären aus.",
+  "ex_en": "You can easily slip on those wet tiles.",
   "lodId": "NAASS1"
  },
  {
@@ -1081,8 +1085,8 @@
   "gender": "",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "De Buedem ass dréchen.",
-  "ex_en": "The ground is dry.",
+  "ex_lb": "Pass op, d'Faarf ass nach net dréchen!",
+  "ex_en": "Careful, the paint isn't dry yet!",
   "lodId": "DRECHEN1"
  },
  {
@@ -1094,12 +1098,12 @@
   "gender": "",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "Et ass sonneg haut.",
-  "ex_en": "It is sunny today.",
+  "ex_lb": "Muer gëtt et e schéine sonnegen Dag.",
+  "ex_en": "Tomorrow will be a lovely sunny day.",
   "lodId": "SONNEG1"
  },
  {
-  "lb": "wollekeg",
+  "lb": "bedeckt",
   "en": "cloudy",
   "de": "bewölkt",
   "fr": "nuageux",
@@ -1107,8 +1111,9 @@
   "gender": "",
   "level": "B1",
   "category": "weather",
-  "ex_lb": "Den Himmel ass wollekeg.",
-  "ex_en": "The sky is cloudy."
+  "ex_lb": "Et ass bedeckt, géi net ouni Prabbeli eraus!",
+  "ex_en": "It's overcast, don't go out without an umbrella!",
+  "lodId": "BEDECKT1"
  },
  {
   "lb": "reenen",
@@ -1119,8 +1124,8 @@
   "gender": "",
   "level": "A1",
   "category": "weather",
-  "ex_lb": "Et reent de ganzen Dag.",
-  "ex_en": "It rains all day.",
+  "ex_lb": "Et huet esou vill gereent, datt mir bannent e puer Minutte plätschnaass waren.",
+  "ex_en": "It rained so much that we were soaked within a few minutes.",
   "lodId": "REENEN1"
  },
  {
@@ -1132,8 +1137,8 @@
   "gender": "",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "Et schneit am Dezember.",
-  "ex_en": "It snows in December.",
+  "ex_lb": "Et huet esou vill geschneit, datt bannent enger Stonn de Verkéier komplett blockéiert war.",
+  "ex_en": "It snowed so much that within an hour the traffic was completely blocked.",
   "lodId": "SCHNEIEN1"
  },
  {
@@ -1145,8 +1150,8 @@
   "gender": "",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "D'Sonn schéngt moies.",
-  "ex_en": "The sun shines in the morning.",
+  "ex_lb": "D'Sonn schéngt iwwer Bierg an Dall.",
+  "ex_en": "The sun shines over hill and dale.",
   "lodId": "SCHENGEN1"
  },
  {
@@ -1158,8 +1163,8 @@
   "gender": "f",
   "level": "A2",
   "category": "seasons",
-  "ex_lb": "De Fréijoer ass meng Liblingsjoreszäit.",
-  "ex_en": "Spring is my favourite season.",
+  "ex_lb": "Ëm dës Joreszäit gëtt et fréi däischter.",
+  "ex_en": "At this time of year it gets dark early.",
   "lodId": "JORESZAIT1"
  },
  {
@@ -1171,8 +1176,8 @@
   "gender": "m",
   "level": "A1",
   "category": "seasons",
-  "ex_lb": "Am Fréijoer gëtt et waarm.",
-  "ex_en": "In spring it gets warm.",
+  "ex_lb": "Dëst Fréijoer stinn d'Beem fréi an der Bléi.",
+  "ex_en": "This spring the trees blossomed early.",
   "lodId": "FREIJOER1"
  },
  {
@@ -1184,8 +1189,8 @@
   "gender": "m",
   "level": "A1",
   "category": "seasons",
-  "ex_lb": "Am Summer ass et waarm.",
-  "ex_en": "In summer it is warm.",
+  "ex_lb": "Dëst Joer hate mer en dréchene Summer.",
+  "ex_en": "This year we had a dry summer.",
   "lodId": "SUMMER1"
  },
  {
@@ -1197,8 +1202,8 @@
   "gender": "m",
   "level": "A1",
   "category": "seasons",
-  "ex_lb": "Am Hierscht falen d'Blieder.",
-  "ex_en": "In autumn the leaves fall.",
+  "ex_lb": "Am Hierscht falen d'Blieder vun de Beem.",
+  "ex_en": "In autumn the leaves fall from the trees.",
   "lodId": "HIERSCHT1"
  },
  {
@@ -1210,8 +1215,8 @@
   "gender": "m",
   "level": "A1",
   "category": "seasons",
-  "ex_lb": "Am Wanter schneit et.",
-  "ex_en": "In winter it snows.",
+  "ex_lb": "Am Wanter gëtt et fréi däischter.",
+  "ex_en": "In winter it gets dark early.",
   "lodId": "WANTER1"
  },
  {
@@ -1223,8 +1228,8 @@
   "gender": "f",
   "level": "B1",
   "category": "environment",
-  "ex_lb": "Mir musse d'Ëmwelt schützen.",
-  "ex_en": "We must protect the environment.",
+  "ex_lb": "Eng propper Ëmwelt ass eis éischt Prioritéit!",
+  "ex_en": "A clean environment is our top priority!",
   "lodId": "EMWELT1"
  },
  {
@@ -1236,8 +1241,8 @@
   "gender": "m",
   "level": "B1",
   "category": "environment",
-  "ex_lb": "De Klima ännert sech.",
-  "ex_en": "The climate is changing.",
+  "ex_lb": "Nordafrika huet en dréchent Klima.",
+  "ex_en": "North Africa has a dry climate.",
   "lodId": "KLIMA1"
  },
  {
@@ -1249,8 +1254,8 @@
   "gender": "m",
   "level": "B1",
   "category": "environment",
-  "ex_lb": "Geheit de Knascht an d'Poubelle.",
-  "ex_en": "Throw the rubbish in the bin.",
+  "ex_lb": "Wéi vill Suen hues de fir dee Knascht bezuelt?",
+  "ex_en": "How much did you pay for that junk?",
   "lodId": "KNASCHT1"
  },
  {
@@ -1262,8 +1267,8 @@
   "gender": "f",
   "level": "B2",
   "category": "environment",
-  "ex_lb": "D'Verschmotzung ass e Problem.",
-  "ex_en": "Pollution is a problem.",
+  "ex_lb": "Och d'Salz, dat de Wanter op d'Stroosse gestreet gëtt, dréit zur Verschmotzung vum Grondwaasser bäi.",
+  "ex_en": "The salt spread on the roads in winter also contributes to groundwater pollution.",
   "lodId": "VERSCHMOTZUNG1"
  },
  {
@@ -1275,8 +1280,8 @@
   "gender": "f",
   "level": "B1",
   "category": "environment",
-  "ex_lb": "Mir spueren Energie.",
-  "ex_en": "We save energy.",
+  "ex_lb": "Iess e Stéck Schockela, dat gëtt der erëm Energie!",
+  "ex_en": "Eat a piece of chocolate, it'll give you energy again!",
   "lodId": "ENERGIE1"
  },
  {
@@ -1288,8 +1293,8 @@
   "gender": "",
   "level": "B1",
   "category": "environment",
-  "ex_lb": "Mir recycléieren de Plastik.",
-  "ex_en": "We recycle the plastic.",
+  "ex_lb": "Glas a Pabeier ginn agesammelt, fir recycléiert ze ginn.",
+  "ex_en": "Glass and paper are collected to be recycled.",
   "lodId": "RECYCLEIEREN1"
  },
  {
@@ -1301,8 +1306,8 @@
   "gender": "",
   "level": "B1",
   "category": "environment",
-  "ex_lb": "Mir schützen d'Natur.",
-  "ex_en": "We protect nature.",
+  "ex_lb": "Dat neit Gesetz schützt de Konsument besser.",
+  "ex_en": "The new law protects consumers better.",
   "lodId": "SCHUTZEN1"
  },
  {
@@ -1314,8 +1319,8 @@
   "gender": "",
   "level": "A2",
   "category": "environment",
-  "ex_lb": "D'Loft ass hei propper.",
-  "ex_en": "The air is clean here.",
+  "ex_lb": "Proppert Drénkwaasser ass fir de Mënsch liewensnoutwendeg.",
+  "ex_en": "Clean drinking water is vital for humans.",
   "lodId": "PROPPER1"
  },
  {
@@ -1327,8 +1332,8 @@
   "gender": "",
   "level": "A2",
   "category": "environment",
-  "ex_lb": "D'Waasser ass dreckeg.",
-  "ex_en": "The water is dirty.",
+  "ex_lb": "Gehei deng dreckeg Wäsch an d'Maandel!",
+  "ex_en": "Throw your dirty washing into the basket!",
   "lodId": "DRECKEG1"
  },
  {
@@ -1340,8 +1345,8 @@
   "gender": "f",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Ech hunn haut keng Zäit.",
-  "ex_en": "I have no time today.",
+  "ex_lb": "D'Zäit bleift net stoen.",
+  "ex_en": "Time doesn't stand still.",
   "lodId": "ZAIT1"
  },
  {
@@ -1353,8 +1358,8 @@
   "gender": "f",
   "level": "A1",
   "category": "time",
-  "ex_lb": "D'Reesen dauert eng Stonn.",
-  "ex_en": "The trip takes one hour.",
+  "ex_lb": "De Film dauert annerhallef Stonn.",
+  "ex_en": "The film lasts an hour and a half.",
   "lodId": "STONN1"
  },
  {
@@ -1366,8 +1371,8 @@
   "gender": "f",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Waart eng Minutt, w.e.gl.",
-  "ex_en": "Wait a minute, please.",
+  "ex_lb": "Den Zuch fiert a fënnef Minutten.",
+  "ex_en": "The train leaves in five minutes.",
   "lodId": "MINUTT1"
  },
  {
@@ -1379,8 +1384,8 @@
   "gender": "f",
   "level": "A2",
   "category": "time",
-  "ex_lb": "Et dauert nëmmen eng Sekonn.",
-  "ex_en": "It takes only one second.",
+  "ex_lb": "Meng Auer geet op d'Sekonn.",
+  "ex_en": "My watch is accurate to the second.",
   "lodId": "SEKONN1"
  },
  {
@@ -1392,8 +1397,8 @@
   "gender": "m",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Den Dag ass laang.",
-  "ex_en": "The day is long.",
+  "ex_lb": "Ech fueren all Dag an d'Stad schaffen.",
+  "ex_en": "I drive into town to work every day.",
   "lodId": "DAG1"
  },
  {
@@ -1405,8 +1410,8 @@
   "gender": "f",
   "level": "A1",
   "category": "time",
-  "ex_lb": "D'Woch huet siwen Deeg.",
-  "ex_en": "The week has seven days.",
+  "ex_lb": "Et ka Wochen daueren, bis de eng Äntwert kriss.",
+  "ex_en": "It can take weeks before you get an answer.",
   "lodId": "WOCH1"
  },
  {
@@ -1418,8 +1423,8 @@
   "gender": "m",
   "level": "A1",
   "category": "time",
-  "ex_lb": "De Mount huet drësseg Deeg.",
-  "ex_en": "The month has thirty days.",
+  "ex_lb": "D'Joer huet zwielef Méint.",
+  "ex_en": "The year has twelve months.",
   "lodId": "MOUNT1"
  },
  {
@@ -1431,8 +1436,8 @@
   "gender": "n",
   "level": "A1",
   "category": "time",
-  "ex_lb": "D'Joer huet zwielef Méint.",
-  "ex_en": "The year has twelve months.",
+  "ex_lb": "Vu Joer zu Joer komme méi Leit op d'Grillfest.",
+  "ex_en": "From year to year more people come to the barbecue.",
   "lodId": "JOER1"
  },
  {
@@ -1444,8 +1449,8 @@
   "gender": "m",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Ech sti fréi de Moien op.",
-  "ex_en": "I get up early in the morning.",
+  "ex_lb": "Mäi Papp mécht all Moien de Baart.",
+  "ex_en": "My dad shaves every morning.",
   "lodId": "MOIEN1"
  },
  {
@@ -1457,8 +1462,8 @@
   "gender": "m",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Mir iessen um Mëtteg.",
-  "ex_en": "We eat at midday.",
+  "ex_lb": "Et ass Mëtteg.",
+  "ex_en": "It's noon.",
   "lodId": "METTEG1"
  },
  {
@@ -1470,8 +1475,8 @@
   "gender": "m",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Den Nomëtteg schaffen ech.",
-  "ex_en": "In the afternoon I work.",
+  "ex_lb": "Ech kommen am fréien Nomëtteg bei der laanscht.",
+  "ex_en": "I'll drop by early in the afternoon.",
   "lodId": "NOMETTEG1"
  },
  {
@@ -1483,8 +1488,8 @@
   "gender": "m",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Den Owend kucke mir Fernseh.",
-  "ex_en": "In the evening we watch TV.",
+  "ex_lb": "Gees de muer den Owend mat an de Kino?",
+  "ex_en": "Are you coming to the cinema with us tomorrow evening?",
   "lodId": "OWEND1"
  },
  {
@@ -1496,8 +1501,8 @@
   "gender": "f",
   "level": "A1",
   "category": "time",
-  "ex_lb": "An der Nuecht schlofen ech.",
-  "ex_en": "At night I sleep.",
+  "ex_lb": "Ech konnt déi ganz Nuecht net schlofen.",
+  "ex_en": "I couldn't sleep all night.",
   "lodId": "NUECHT1"
  },
  {
@@ -1509,8 +1514,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Haut ass e schéinen Dag.",
-  "ex_en": "Today is a nice day.",
+  "ex_lb": "Ech hunn haut Gebuertsdag.",
+  "ex_en": "It's my birthday today.",
   "lodId": "HAUT1"
  },
  {
@@ -1522,8 +1527,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Muer ginn ech op d'Aarbecht.",
-  "ex_en": "Tomorrow I go to work.",
+  "ex_lb": "Muer soll d'Wieder méi schlecht ginn.",
+  "ex_en": "The weather is supposed to get worse tomorrow.",
   "lodId": "MUER1"
  },
  {
@@ -1535,8 +1540,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Gëschter war ech doheem.",
-  "ex_en": "Yesterday I was at home.",
+  "ex_lb": "Hues de d'Zeitung vu gëschter nach?",
+  "ex_en": "Do you still have yesterday's newspaper?",
   "lodId": "GESCHTER1"
  },
  {
@@ -1548,8 +1553,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Ech kommen elo.",
-  "ex_en": "I am coming now.",
+  "ex_lb": "Bis elo ass nach näischt beschloss.",
+  "ex_en": "Nothing has been decided so far.",
   "lodId": "ELO1"
  },
  {
@@ -1561,8 +1566,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Et ass scho spéit.",
-  "ex_en": "It is already late.",
+  "ex_lb": "Komm, mir ginn heem, et ass scho spéit!",
+  "ex_en": "Come on, let's go home, it's late already!",
   "lodId": "SPEIT1"
  },
  {
@@ -1574,8 +1579,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Ech sti fréi op.",
-  "ex_en": "I get up early.",
+  "ex_lb": "Muer musse mer fréi opstoen!",
+  "ex_en": "We have to get up early tomorrow!",
   "lodId": "FREI1"
  },
  {
@@ -1600,8 +1605,8 @@
   "gender": "f",
   "level": "A2",
   "category": "time",
-  "ex_lb": "Et ass hallwer véier.",
-  "ex_en": "It is half past three.",
+  "ex_lb": "Mir hunn d'Hallschent vum Kuch scho giess!",
+  "ex_en": "We've already eaten half the cake!",
   "lodId": "HALLSCHENT1"
  },
  {
@@ -1613,8 +1618,8 @@
   "gender": "m",
   "level": "A2",
   "category": "time",
-  "ex_lb": "Et ass e Véierel op zwee.",
-  "ex_en": "It is a quarter past two.",
+  "ex_lb": "Wéi gedeelt ginn ass, krut ech e Véierel vun der Ierfschaft.",
+  "ex_en": "When the estate was divided, I got a quarter of the inheritance.",
   "lodId": "VEIEREL1"
  },
  {
@@ -1626,8 +1631,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Méindeg fänkt d'Woch un.",
-  "ex_en": "The week starts on Monday.",
+  "ex_lb": "Mir gesinn eis e Méindeg.",
+  "ex_en": "See you on Monday.",
   "lodId": "MEINDEG1"
  },
  {
@@ -1639,8 +1644,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Dënschdeg hunn ech e Rendez-vous.",
-  "ex_en": "On Tuesday I have an appointment.",
+  "ex_lb": "De Laboratoire huet mech leschten Dënschdeg ugeruff.",
+  "ex_en": "The laboratory called me last Tuesday.",
   "lodId": "DENSCHDEG1"
  },
  {
@@ -1652,8 +1657,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Mëttwoch ass d'Mëtt vun der Woch.",
-  "ex_en": "Wednesday is the middle of the week.",
+  "ex_lb": "Mir gesinn eis e Mëttwoch.",
+  "ex_en": "See you on Wednesday.",
   "lodId": "METTWOCH1"
  },
  {
@@ -1665,8 +1670,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Donneschdeg ginn ech akafen.",
-  "ex_en": "On Thursday I go shopping.",
+  "ex_lb": "D'Strooss ass bis nächsten Donneschdeg gespaart.",
+  "ex_en": "The road is closed until next Thursday.",
   "lodId": "DONNESCHDEG1"
  },
  {
@@ -1678,8 +1683,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Freideg ass de leschten Aarbechtsdag.",
-  "ex_en": "Friday is the last working day.",
+  "ex_lb": "Mir gesinn eis e Freideg.",
+  "ex_en": "See you on Friday.",
   "lodId": "FREIDEG1"
  },
  {
@@ -1691,8 +1696,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Samschdeg schlofen ech laang.",
-  "ex_en": "On Saturday I sleep in.",
+  "ex_lb": "Den iwwernächste Samschdeg sinn ech nees zu Land.",
+  "ex_en": "The Saturday after next I'll be back in the country.",
   "lodId": "SAMSCHDEG1"
  },
  {
@@ -1704,8 +1709,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Sonndeg ass Rouhdag.",
-  "ex_en": "Sunday is a day of rest.",
+  "ex_lb": "Du kanns dach um Sonndeg net de Wues méien!",
+  "ex_en": "Surely you can't mow the lawn on a Sunday!",
   "lodId": "SONNDEG1"
  },
  {
@@ -1717,8 +1722,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Januar ass et kal.",
-  "ex_en": "In January it is cold.",
+  "ex_lb": "De 6. Januar ass Dräikinneksdag.",
+  "ex_en": "6 January is Epiphany.",
   "lodId": "JANUAR1"
  },
  {
@@ -1730,8 +1735,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "De Februar ass kuerz.",
-  "ex_en": "February is short.",
+  "ex_lb": "De Februar ass dee kierzte Mount am Joer.",
+  "ex_en": "February is the shortest month of the year.",
   "lodId": "FEBRUAR1"
  },
  {
@@ -1743,8 +1748,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Mäerz fänkt de Fréijoer un.",
-  "ex_en": "Spring begins in March.",
+  "ex_lb": "Ech sinn am Mäerz op d'Welt komm.",
+  "ex_en": "I was born in March.",
   "lodId": "MAERZ1"
  },
  {
@@ -1756,8 +1761,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Abrëll reent et vill.",
-  "ex_en": "In April it rains a lot.",
+  "ex_lb": "D'Äispist ass vun Oktober bis Abrëll op.",
+  "ex_en": "The ice rink is open from October to April.",
   "lodId": "ABRELL1"
  },
  {
@@ -1769,8 +1774,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Mee bléien d'Beem.",
-  "ex_en": "In May the trees bloom.",
+  "ex_lb": "Am Mee feiere mer mengem Papp seng 60 Joer.",
+  "ex_en": "In May we're celebrating my dad's 60th birthday.",
   "lodId": "MEE1"
  },
  {
@@ -1782,8 +1787,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Juni fänkt de Summer un.",
-  "ex_en": "Summer begins in June.",
+  "ex_lb": "De Summer fänkt Enn Juni un.",
+  "ex_en": "Summer begins at the end of June.",
   "lodId": "JUNI1"
  },
  {
@@ -1795,8 +1800,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Juli si Vakanzen.",
-  "ex_en": "In July there are holidays.",
+  "ex_lb": "Mir fuere meeschtens am Juli an d'Vakanz.",
+  "ex_en": "We usually go on holiday in July.",
   "lodId": "JULI1"
  },
  {
@@ -1808,8 +1813,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am August ass et waarm.",
-  "ex_en": "In August it is warm.",
+  "ex_lb": "Den August war dee wäermste Mount vum leschte Joer.",
+  "ex_en": "August was the warmest month of last year.",
   "lodId": "AUGUST1"
  },
  {
@@ -1821,8 +1826,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am September fänkt d'Schoul un.",
-  "ex_en": "School begins in September.",
+  "ex_lb": "Ech schaffen zënter dem September an enger neier Boîte.",
+  "ex_en": "Since September I've been working at a new company.",
   "lodId": "SEPTEMBER1"
  },
  {
@@ -1834,8 +1839,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Oktober falen d'Blieder.",
-  "ex_en": "In October the leaves fall.",
+  "ex_lb": "Mir haten dëst Joer e kalen a verreenten Oktober.",
+  "ex_en": "This year we had a cold and rainy October.",
   "lodId": "OKTOBER1"
  },
  {
@@ -1847,8 +1852,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am November gëtt et fréi däischter.",
-  "ex_en": "In November it gets dark early.",
+  "ex_lb": "Am November falen d'Temperaturen dacks ënner de Gefréierpunkt.",
+  "ex_en": "In November temperatures often drop below freezing.",
   "lodId": "NOVEMBER1"
  },
  {
@@ -1860,8 +1865,8 @@
   "gender": "m",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Am Dezember ass Chrëschtdag.",
-  "ex_en": "Christmas is in December.",
+  "ex_lb": "D'Nopere fueren am Dezember an de Wantersport.",
+  "ex_en": "The neighbours go skiing in December.",
   "lodId": "DEZEMBER1"
  },
  {
@@ -1873,8 +1878,8 @@
   "gender": "n",
   "level": "A2",
   "category": "calendar",
-  "ex_lb": "Wat ass d'Datum vun haut?",
-  "ex_en": "What is today's date?",
+  "ex_lb": "Fir eis Feier zécke mer tëschent zwee Datumen.",
+  "ex_en": "We're hesitating between two dates for our party.",
   "lodId": "DATUM1"
  },
  {
@@ -1886,8 +1891,8 @@
   "gender": "m",
   "level": "A2",
   "category": "calendar",
-  "ex_lb": "Ech kucken an de Kalenner.",
-  "ex_en": "I look at the calendar.",
+  "ex_lb": "Ufangs September ginn déi nei Kalennere gedréckt.",
+  "ex_en": "At the beginning of September the new calendars are printed.",
   "lodId": "KALENNER1"
  },
  {
@@ -1899,8 +1904,8 @@
   "gender": "n",
   "level": "A1",
   "category": "calendar",
-  "ex_lb": "Um Weekend si mir doheem.",
-  "ex_en": "At the weekend we are at home.",
+  "ex_lb": "Ech fuere fir de verlängerte Weekend op d'belsch Plage.",
+  "ex_en": "For the long weekend I'm going to the Belgian seaside.",
   "lodId": "WEEKEND1"
  },
  {
@@ -1912,8 +1917,8 @@
   "gender": "f",
   "level": "A1",
   "category": "holidays",
-  "ex_lb": "Mir ginn an d'Vakanz.",
-  "ex_en": "We are going on holiday.",
+  "ex_lb": "An zwou Wochen ass endlech Vakanz!",
+  "ex_en": "In two weeks it's finally the holidays!",
   "lodId": "VAKANZ1"
  },
  {
@@ -1925,8 +1930,8 @@
   "gender": "m",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Muer ass e Feierdag.",
-  "ex_en": "Tomorrow is a public holiday.",
+  "ex_lb": "Schéi Feierdeeg!",
+  "ex_en": "Happy holidays!",
   "lodId": "FEIERDAG1"
  },
  {
@@ -1938,8 +1943,8 @@
   "gender": "n",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Mir feieren e grousst Fest.",
-  "ex_en": "We are celebrating a big festival.",
+  "ex_lb": "Chrëschtdag an Ouschtere si grouss Fester.",
+  "ex_en": "Christmas and Easter are big holidays.",
   "lodId": "FEST1"
  },
  {
@@ -1951,8 +1956,8 @@
   "gender": "m",
   "level": "A1",
   "category": "holidays",
-  "ex_lb": "Mir feieren de Chrëschtdag doheem.",
-  "ex_en": "We celebrate Christmas at home.",
+  "ex_lb": "Mir si meeschtens iwwer Chrëschtdag an der Vakanz.",
+  "ex_en": "We're usually on holiday over Christmas.",
   "lodId": "CHRESCHTDAG1"
  },
  {
@@ -1964,8 +1969,8 @@
   "gender": "f",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Op Ouschteren siche mir Eeër.",
-  "ex_en": "At Easter we hunt for eggs.",
+  "ex_lb": "Iwwer d'Ouschtere fueren ech dacks an d'Vakanz.",
+  "ex_en": "I often go on holiday over Easter.",
   "lodId": "OUSCHTEREN2"
  },
  {
@@ -1977,21 +1982,9 @@
   "gender": "m",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Op Silvester gëtt et e Feier.",
-  "ex_en": "On New Year's Eve there are fireworks.",
+  "ex_lb": "Mir feieren dëst Joer Silvester mat eise Frënn.",
+  "ex_en": "This year we're celebrating New Year's Eve with our friends.",
   "lodId": "SILVESTER1"
- },
- {
-  "lb": "d'Neijoer",
-  "en": "New Year",
-  "de": "Neujahr",
-  "fr": "le nouvel an",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A2",
-  "category": "holidays",
-  "ex_lb": "Ech wënschen dir e schéint Neijoer.",
-  "ex_en": "I wish you a happy New Year."
  },
  {
   "lb": "den Nationalfeierdag",
@@ -2002,8 +1995,8 @@
   "gender": "m",
   "level": "B1",
   "category": "holidays",
-  "ex_lb": "Den Nationalfeierdag ass den 23. Juni.",
-  "ex_en": "National Day is on the 23rd of June.",
+  "ex_lb": "De Lëtzebuerger Nationalfeierdag gëtt den 23. Juni gefeiert.",
+  "ex_en": "Luxembourg's National Day is celebrated on 23 June.",
   "lodId": "NATIONALFEIERDAG1"
  },
  {
@@ -2015,8 +2008,8 @@
   "gender": "f",
   "level": "B1",
   "category": "holidays",
-  "ex_lb": "Mir ginn op d'Schueberfouer.",
-  "ex_en": "We are going to the Schueberfouer.",
+  "ex_lb": "Mir loossen eis et kee Joer entgoen, en Tour iwwer d'Schueberfouer ze maachen.",
+  "ex_en": "We never miss a year without doing a round of the Schueberfouer.",
   "lodId": "SCHUEBERFOUER1"
  },
  {
@@ -2028,21 +2021,22 @@
   "gender": "m",
   "level": "B1",
   "category": "holidays",
-  "ex_lb": "De Kleeschen bréngt de Kanner Geschenker.",
-  "ex_en": "Saint Nicholas brings children presents.",
+  "ex_lb": "D'Kanner freeë sech schonn, an dräi Deeg kënnt de Kleeschen.",
+  "ex_en": "The children are already excited: in three days Saint Nicholas comes.",
   "lodId": "KLEESCHEN2"
  },
  {
-  "lb": "de Karneval",
+  "lb": "d'Fuesent",
   "en": "carnival",
   "de": "der Karneval",
   "fr": "le carnaval",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Op de Karneval verkleede mir eis.",
-  "ex_en": "At carnival we dress up in costumes."
+  "ex_lb": "Mir hu fir d'Fuesent eng Woch Vakanz.",
+  "ex_en": "We have a week's holiday for carnival.",
+  "lodId": "FUESENT1"
  },
  {
   "lb": "de Cadeau",
@@ -2066,8 +2060,8 @@
   "gender": "",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Mir feieren de Gebuertsdag.",
-  "ex_en": "We celebrate the birthday.",
+  "ex_lb": "Hie léisst sech gär feieren.",
+  "ex_en": "He likes being celebrated.",
   "lodId": "FEIEREN1"
  },
  {
@@ -2079,8 +2073,8 @@
   "gender": "m",
   "level": "A1",
   "category": "holidays",
-  "ex_lb": "Haut ass mäi Gebuertsdag.",
-  "ex_en": "Today is my birthday.",
+  "ex_lb": "Ech sinn dëse Weekend op zwee Gebuertsdeeg invitéiert.",
+  "ex_en": "I'm invited to two birthday parties this weekend.",
   "lodId": "GEBUERTSDAG1"
  },
  {
@@ -2092,8 +2086,8 @@
   "gender": "f",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Mir ginn op eng Hochzäit.",
-  "ex_en": "We are going to a wedding.",
+  "ex_lb": "Haut waren dräi Hochzäiten op der Gemeng.",
+  "ex_en": "There were three weddings at the town hall today.",
   "lodId": "HOCHZAIT1"
  },
  {
@@ -2105,8 +2099,8 @@
   "gender": "m",
   "level": "A1",
   "category": "sport",
-  "ex_lb": "Ech maache gär Sport.",
-  "ex_en": "I like doing sport.",
+  "ex_lb": "Ech maache reegelméisseg Sport, fir a Form ze bleiwen.",
+  "ex_en": "I do sport regularly to stay fit.",
   "lodId": "SPORT1"
  },
  {
@@ -2131,8 +2125,8 @@
   "gender": "m",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Hie spillt gär Basketball.",
-  "ex_en": "He likes playing basketball.",
+  "ex_lb": "Hire Basketball huet e Lach.",
+  "ex_en": "Their basketball has a hole in it.",
   "lodId": "BASKETBALL1"
  },
  {
@@ -2144,12 +2138,12 @@
   "gender": "m",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Mir spillen Tennis um Weekend.",
-  "ex_en": "We play tennis at the weekend.",
+  "ex_lb": "Wann ee seriö Tennis spillt, brauch een e puer Racketten d'Joer.",
+  "ex_en": "If you play tennis seriously, you need several rackets a year.",
   "lodId": "TENNIS1"
  },
  {
-  "lb": "de Velo",
+  "lb": "de Vëlo",
   "en": "bicycle",
   "de": "das Fahrrad",
   "fr": "le vélo",
@@ -2157,8 +2151,9 @@
   "gender": "m",
   "level": "A1",
   "category": "sport",
-  "ex_lb": "Ech fueren mam Velo.",
-  "ex_en": "I ride my bicycle."
+  "ex_lb": "D'viischt Rad vu mengem Vëlo huet eng Aachtchen.",
+  "ex_en": "The front wheel of my bike is buckled.",
+  "lodId": "VELO1"
  },
  {
   "lb": "d'Schwammen",
@@ -2169,8 +2164,8 @@
   "gender": "n",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "D'Schwammen ass gesond.",
-  "ex_en": "Swimming is healthy.",
+  "ex_lb": "Déi iewescht Klasse ginn de Mëtteg schwammen.",
+  "ex_en": "The upper classes go swimming this afternoon.",
   "lodId": "SCHWAMMEN1"
  },
  {
@@ -2182,8 +2177,8 @@
   "gender": "",
   "level": "A1",
   "category": "sport",
-  "ex_lb": "Ech schwamme gär am Séi.",
-  "ex_en": "I like swimming in the lake.",
+  "ex_lb": "Déi iewescht Klasse ginn de Mëtteg schwammen.",
+  "ex_en": "The upper classes go swimming this afternoon.",
   "lodId": "SCHWAMMEN1"
  },
  {
@@ -2195,8 +2190,8 @@
   "gender": "",
   "level": "A1",
   "category": "sport",
-  "ex_lb": "Ech lafe moies am Park.",
-  "ex_en": "I run in the park in the morning.",
+  "ex_lb": "Du kanns méi séier lafen ewéi ech.",
+  "ex_en": "You can run faster than me.",
   "lodId": "LAFEN1"
  },
  {
@@ -2208,8 +2203,8 @@
   "gender": "",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "D'Kanner sprangen héich.",
-  "ex_en": "The children jump high.",
+  "ex_lb": "Ech ka méi héich sprangen ewéi mäi Brudder.",
+  "ex_en": "I can jump higher than my brother.",
   "lodId": "SPRANGEN1"
  },
  {
@@ -2221,8 +2216,8 @@
   "gender": "",
   "level": "A1",
   "category": "sport",
-  "ex_lb": "Mir spillen am Gaart.",
-  "ex_en": "We play in the garden.",
+  "ex_lb": "Am Zuch hunn e puer Leit Kaart gespillt.",
+  "ex_en": "On the train a few people were playing cards.",
   "lodId": "SPILLEN1"
  },
  {
@@ -2234,8 +2229,8 @@
   "gender": "",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Eis Equipe huet gewonnen.",
-  "ex_en": "Our team has won.",
+  "ex_lb": "Eis Basketsekipp huet dës Saison all Match gewonnen.",
+  "ex_en": "Our basketball team won every match this season.",
   "lodId": "GEWANNEN1"
  },
  {
@@ -2247,8 +2242,8 @@
   "gender": "",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Mir hunn d'Spill verluer.",
-  "ex_en": "We lost the game.",
+  "ex_lb": "Ech fäerten, ech hu mäin Ouerrank am Bësch verluer.",
+  "ex_en": "I'm afraid I lost my earring in the woods.",
   "lodId": "VERLEIEREN1"
  },
  {
@@ -2273,8 +2268,8 @@
   "gender": "m",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "De Match fänkt um aacht un.",
-  "ex_en": "The match starts at eight.",
+  "ex_lb": "Eis Ekipp huet de leschte Match gewonnen.",
+  "ex_en": "Our team won the last match.",
   "lodId": "MATCH1"
  },
  {
@@ -2286,21 +2281,22 @@
   "gender": "m",
   "level": "A1",
   "category": "sport",
-  "ex_lb": "De Ball ass ronn.",
-  "ex_en": "The ball is round.",
+  "ex_lb": "Meng Schwëster ka mat dräi Bäll jongléieren.",
+  "ex_en": "My sister can juggle three balls.",
   "lodId": "BALL1"
  },
  {
-  "lb": "de Schwammbad",
+  "lb": "d'Schwämm",
   "en": "swimming pool",
   "de": "das Schwimmbad",
   "fr": "la piscine",
   "pos": "noun",
-  "gender": "n",
+  "gender": "f",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Mir ginn an d'Schwammbad.",
-  "ex_en": "We go to the swimming pool."
+  "ex_lb": "D'Fassad vun der Schwämm muss frëschgemaach ginn.",
+  "ex_en": "The façade of the swimming pool needs to be redone.",
+  "lodId": "SCHWAMM1"
  },
  {
   "lb": "de Stadion",
@@ -2311,8 +2307,8 @@
   "gender": "m",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "De Stadion ass voll Leit.",
-  "ex_en": "The stadium is full of people.",
+  "ex_lb": "Den nächste Match gëtt am neie Stadion gespillt.",
+  "ex_en": "The next match will be played in the new stadium.",
   "lodId": "STADION1"
  },
  {
@@ -2324,8 +2320,8 @@
   "gender": "m",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Mir fueren am Wanter Schi.",
-  "ex_en": "We go skiing in winter.",
+  "ex_lb": "D'Kanner léieren ouni Bengele Schi fueren.",
+  "ex_en": "The children learn to ski without poles.",
   "lodId": "SCHI1"
  },
  {
@@ -2337,8 +2333,8 @@
   "gender": "",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Ech trainéieren all Dag.",
-  "ex_en": "I train every day.",
+  "ex_lb": "Wien trainéiert déi Jonk an Ärem Club?",
+  "ex_en": "Who trains the young players in your club?",
   "lodId": "TRAINEIEREN1"
  },
  {
@@ -2350,8 +2346,8 @@
   "gender": "f",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "An der Fräizäit liesen ech.",
-  "ex_en": "In my free time I read.",
+  "ex_lb": "An hirer Fräizäit restauréiert eis Joffer al Miwwelen.",
+  "ex_en": "In her free time our teacher restores old furniture.",
   "lodId": "FRAIZAIT1"
  },
  {
@@ -2363,8 +2359,8 @@
   "gender": "m",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Mäin Hobby ass Molen.",
-  "ex_en": "My hobby is painting.",
+  "ex_lb": "Hien huet en interessanten Hobby.",
+  "ex_en": "He has an interesting hobby.",
   "lodId": "HOBBY1"
  },
  {
@@ -2376,8 +2372,8 @@
   "gender": "",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Ech liese gär Bicher.",
-  "ex_en": "I like reading books.",
+  "ex_lb": "Ech liese grad e spannend Buch.",
+  "ex_en": "I'm reading an exciting book right now.",
   "lodId": "LIESEN1"
  },
  {
@@ -2389,8 +2385,8 @@
   "gender": "",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "D'Kanner molen e Bild.",
-  "ex_en": "The children paint a picture.",
+  "ex_lb": "Komm, ech probéieren emol, dech ze molen!",
+  "ex_en": "Come on, let me try to draw you!",
   "lodId": "MOLEN1"
  },
  {
@@ -2402,8 +2398,8 @@
   "gender": "",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Mir sange gär zesummen.",
-  "ex_en": "We like singing together.",
+  "ex_lb": "Fir Chrëschtdag huet de Chouer all déi bekannt Lidder gesongen.",
+  "ex_en": "For Christmas the choir sang all the well-known songs.",
   "lodId": "SANGEN1"
  },
  {
@@ -2415,8 +2411,8 @@
   "gender": "",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Si danzen op der Fest.",
-  "ex_en": "They dance at the party.",
+  "ex_lb": "D'Brautpuer huet eng Walz gedanzt.",
+  "ex_en": "The bride and groom danced a waltz.",
   "lodId": "DANZEN1"
  },
  {
@@ -2428,8 +2424,8 @@
   "gender": "",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Ech kache gär Pasta.",
-  "ex_en": "I like cooking pasta.",
+  "ex_lb": "Ech kache Waasser, fir mer en Téi ze maachen.",
+  "ex_en": "I'm boiling water to make myself a tea.",
   "lodId": "KACHEN2"
  },
  {
@@ -2441,8 +2437,8 @@
   "gender": "",
   "level": "B1",
   "category": "hobbies",
-  "ex_lb": "Ech fotograféiere gär d'Natur.",
-  "ex_en": "I like photographing nature.",
+  "ex_lb": "An dësem Musée däerf een net fotograféieren.",
+  "ex_en": "You're not allowed to take photos in this museum.",
   "lodId": "FOTOGRAFEIEREN1"
  },
  {
@@ -2454,8 +2450,8 @@
   "gender": "f",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Ech lauschtere gär Musek.",
-  "ex_en": "I like listening to music.",
+  "ex_lb": "Am Hannergrond leeft eng agreabel Musek.",
+  "ex_en": "Pleasant music is playing in the background.",
   "lodId": "MUSEK1"
  },
  {
@@ -2467,8 +2463,8 @@
   "gender": "m",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Mir kucken e Film.",
-  "ex_en": "We are watching a film.",
+  "ex_lb": "Schafft däi Jong net beim Film?",
+  "ex_en": "Doesn't your son work in film?",
   "lodId": "FILM1"
  },
  {
@@ -2480,8 +2476,8 @@
   "gender": "n",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "D'Buch ass ganz interessant.",
-  "ex_en": "The book is very interesting.",
+  "ex_lb": "Dat Buch huet bal 500 Säiten.",
+  "ex_en": "That book has almost 500 pages.",
   "lodId": "BUCH1"
  },
  {
@@ -2493,8 +2489,8 @@
   "gender": "m",
   "level": "B1",
   "category": "hobbies",
-  "ex_lb": "Mir maachen e Spadséiergang.",
-  "ex_en": "We are going for a walk.",
+  "ex_lb": "Nom Iesse maachen ech gär e klenge Spadséiergang.",
+  "ex_en": "After eating I like to go for a short walk.",
   "lodId": "SPADSEIERGANG1"
  },
  {
@@ -2506,8 +2502,8 @@
   "gender": "",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Mir ginn am Park spadséieren.",
-  "ex_en": "We go for a walk in the park.",
+  "ex_lb": "Mir ginn all Sonndeg an de Bësch spadséieren.",
+  "ex_en": "Every Sunday we go for a walk in the woods.",
   "lodId": "SPADSEIEREN1"
  },
  {
@@ -2519,8 +2515,8 @@
   "gender": "",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Mir reese gär an de Süden.",
-  "ex_en": "We like travelling to the south.",
+  "ex_lb": "Ech si mäi Liewe laang gär gereest.",
+  "ex_en": "All my life I've loved travelling.",
   "lodId": "REESEN1"
  },
  {
@@ -2532,12 +2528,12 @@
   "gender": "f",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "D'Rees war ganz schéin.",
-  "ex_en": "The trip was very nice.",
+  "ex_lb": "Mir hunn eis Rees dräi Méint am Viraus gebucht.",
+  "ex_en": "We booked our trip three months in advance.",
   "lodId": "REES1"
  },
  {
-  "lb": "de Garten",
+  "lb": "de Gaart",
   "en": "garden",
   "de": "der Garten",
   "fr": "le jardin",
@@ -2545,8 +2541,9 @@
   "gender": "m",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Ech schaffe gär am Garten.",
-  "ex_en": "I like working in the garden."
+  "ex_lb": "Mir hunn hannenaus e grousse Gaart.",
+  "ex_en": "We have a big garden at the back.",
+  "lodId": "GAART1"
  },
  {
   "lb": "fëschen",
@@ -2557,8 +2554,8 @@
   "gender": "",
   "level": "B1",
   "category": "hobbies",
-  "ex_lb": "Hie fëscht gär um Floss.",
-  "ex_en": "He likes fishing by the river.",
+  "ex_lb": "Mir ginn haut Frelle fëschen.",
+  "ex_en": "Today we're going trout fishing.",
   "lodId": "FESCHEN1"
  },
  {
@@ -2570,8 +2567,8 @@
   "gender": "n",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Mir spillen e Spill um Dësch.",
-  "ex_en": "We play a game at the table.",
+  "ex_lb": "Fir de Gebuertsdag hätt ech gär e Spill fir op de Computer.",
+  "ex_en": "For my birthday I'd like a computer game.",
   "lodId": "SPILL1"
  },
  {
@@ -2583,8 +2580,8 @@
   "gender": "",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Ech lauschtere Radio.",
-  "ex_en": "I listen to the radio.",
+  "ex_lb": "Hues du de Moien de Radio gelauschtert?",
+  "ex_en": "Did you listen to the radio this morning?",
   "lodId": "LAUSCHTEREN1"
  },
  {
@@ -2596,8 +2593,8 @@
   "gender": "",
   "level": "A1",
   "category": "hobbies",
-  "ex_lb": "Mir kucken den Owend Fernseh.",
-  "ex_en": "We watch TV in the evening.",
+  "ex_lb": "Kuck mech emol an d'Aen!",
+  "ex_en": "Look me in the eyes!",
   "lodId": "KUCKEN1"
  },
  {
@@ -2622,8 +2619,8 @@
   "gender": "m",
   "level": "A1",
   "category": "leisure",
-  "ex_lb": "D'Kanner spillen am Park.",
-  "ex_en": "The children play in the park.",
+  "ex_lb": "Ronderëm de ganze Park ass en héicht Gelänner.",
+  "ex_en": "There is a high fence around the whole park.",
   "lodId": "PARK1"
  },
  {
@@ -2635,8 +2632,8 @@
   "gender": "m",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Mir ginn op e Concert.",
-  "ex_en": "We are going to a concert.",
+  "ex_lb": "Ech war an e Concert vum Symphonieorchester.",
+  "ex_en": "I went to a symphony orchestra concert.",
   "lodId": "CONCERT1"
  },
  {
@@ -2648,8 +2645,8 @@
   "gender": "m",
   "level": "A1",
   "category": "leisure",
-  "ex_lb": "Mir iessen am Restaurant.",
-  "ex_en": "We are eating at the restaurant.",
+  "ex_lb": "An deem klenge Restaurant kritt ee gutt a bëlleg z'iessen.",
+  "ex_en": "In that little restaurant you get good, cheap food.",
   "lodId": "RESTAURANT1"
  },
  {
@@ -2674,12 +2671,12 @@
   "gender": "m",
   "level": "A1",
   "category": "leisure",
-  "ex_lb": "Mir ginn an de Kino.",
-  "ex_en": "We are going to the cinema.",
+  "ex_lb": "Nom Kino si mer een huele gaangen.",
+  "ex_en": "After the cinema we went for a drink.",
   "lodId": "KINO1"
  },
  {
-  "lb": "d'Gitar",
+  "lb": "d'Gittar",
   "en": "guitar",
   "de": "die Gitarre",
   "fr": "la guitare",
@@ -2687,8 +2684,9 @@
   "gender": "f",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Hie spillt Gitar.",
-  "ex_en": "He plays the guitar."
+  "ex_lb": "Eist Meedche spillt stonnelaang op senger Gittar.",
+  "ex_en": "Our daughter plays her guitar for hours.",
+  "lodId": "GITTAR1"
  },
  {
   "lb": "de Piano",
@@ -2699,8 +2697,8 @@
   "gender": "m",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Si léiert Piano spillen.",
-  "ex_en": "She is learning to play the piano.",
+  "ex_lb": "Déi déif Téin vun dengem Piano si verstëmmt.",
+  "ex_en": "The low notes on your piano are out of tune.",
   "lodId": "PIANO1"
  },
  {
@@ -2712,21 +2710,22 @@
   "gender": "",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "D'Kand zeechent en Haus.",
-  "ex_en": "The child draws a house.",
+  "ex_lb": "Am Architektebüro gëtt hautdesdaags mam Computer gezeechent.",
+  "ex_en": "These days architects' offices draw on the computer.",
   "lodId": "ZEECHNEN1"
  },
  {
-  "lb": "de Stréckstoff",
+  "lb": "d'Stréck",
   "en": "knitting",
   "de": "das Stricken",
   "fr": "le tricot",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B2",
   "category": "hobbies",
-  "ex_lb": "Meng Bomi mécht Stréckstoff.",
-  "ex_en": "My grandmother does knitting."
+  "ex_lb": "Géi net u meng Stréck, soss léiss de mer nach Masche falen!",
+  "ex_en": "Don't touch my knitting, or you'll make me drop stitches!",
+  "lodId": "STRECK4"
  },
  {
   "lb": "sammelen",
@@ -2737,8 +2736,8 @@
   "gender": "",
   "level": "B1",
   "category": "hobbies",
-  "ex_lb": "Ech sammele Bréifmarken.",
-  "ex_en": "I collect stamps.",
+  "ex_lb": "Am Hierscht sammelen d'Kaweechelcher äifereg Nëss an Eechelen.",
+  "ex_en": "In autumn squirrels busily gather nuts and acorns.",
   "lodId": "SAMMELEN1"
  },
  {
@@ -2750,8 +2749,8 @@
   "gender": "m",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Mir ginn am Summer campen.",
-  "ex_en": "We go camping in summer.",
+  "ex_lb": "De Camping läit matzen am Bësch.",
+  "ex_en": "The campsite is in the middle of the forest.",
   "lodId": "CAMPING1"
  },
  {
@@ -2763,8 +2762,8 @@
   "gender": "",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Mir wandere gär an de Bierger.",
-  "ex_en": "We like hiking in the mountains.",
+  "ex_lb": "Gees de am Summer mat an d'Bierger wanderen?",
+  "ex_en": "Are you coming hiking in the mountains with us in summer?",
   "lodId": "WANDEREN1"
  },
  {
@@ -2776,8 +2775,8 @@
   "gender": "f",
   "level": "B1",
   "category": "leisure",
-  "ex_lb": "D'Wanderung war ustrengend.",
-  "ex_en": "The hike was exhausting.",
+  "ex_lb": "An der Vakanz hu mer e puer flott Wanderungen duerch d'Bierger gemaach.",
+  "ex_en": "On holiday we went on some great hikes through the mountains.",
   "lodId": "WANDERUNG1"
  },
  {
@@ -2789,8 +2788,8 @@
   "gender": "",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Um Weekend rouen ech.",
-  "ex_en": "At the weekend I rest.",
+  "ex_lb": "Hien huet net gerout, bis en seng Aarbecht fäerdeg hat.",
+  "ex_en": "He didn't rest until he had finished his work.",
   "lodId": "ROUEN1"
  },
  {
@@ -2802,8 +2801,8 @@
   "gender": "m",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Wat sinn deng Pläng fir muer?",
-  "ex_en": "What are your plans for tomorrow?",
+  "ex_lb": "De Bauhär entwërft de Plang fir seng Villa gär selwer.",
+  "ex_en": "The client likes to draw up the plan for his villa himself.",
   "lodId": "PLANG1"
  },
  {
@@ -2815,8 +2814,8 @@
   "gender": "f",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "Iwwer d'Mauer wiisst Iwwerwuess.",
-  "ex_en": "Ivy grows over the wall.",
+  "ex_lb": "Eis Noperen hunn eng Mauer ëm hire Virgäertche gebaut.",
+  "ex_en": "Our neighbours built a wall around their front garden.",
   "lodId": "MAUER1"
  },
  {
@@ -2840,21 +2839,9 @@
   "gender": "m",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "D'Sonn ass en Himmelskierper.",
-  "ex_en": "The sun is a celestial body.",
+  "ex_lb": "Jidder Planéit ass en Himmelskierper.",
+  "ex_en": "Every planet is a celestial body.",
   "lodId": "HIMMELSKIERPER1"
- },
- {
-  "lb": "den Owesstär",
-  "en": "evening star",
-  "de": "der Abendstern",
-  "fr": "l'étoile du soir",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B2",
-  "category": "nature",
-  "ex_lb": "Den Owesstär blénkt um Himmel.",
-  "ex_en": "The evening star sparkles in the sky."
  },
  {
   "lb": "de Reebou",
@@ -2865,8 +2852,8 @@
   "gender": "m",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "No dem Reen koum e Reebou.",
-  "ex_en": "After the rain came a rainbow.",
+  "ex_lb": "D'Kanner hunn d'Faarwe vum Reebou bewonnert.",
+  "ex_en": "The children admired the colours of the rainbow.",
   "lodId": "REEBOU1"
  },
  {
@@ -2878,8 +2865,8 @@
   "gender": "n",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "Op der Strooss läit Äis.",
-  "ex_en": "There is ice on the road.",
+  "ex_lb": "De Séi läit ënner enger dënner Schicht Äis.",
+  "ex_en": "The lake lies under a thin layer of ice.",
   "lodId": "AIS1"
  },
  {
@@ -2891,21 +2878,9 @@
   "gender": "m",
   "level": "B1",
   "category": "weather",
-  "ex_lb": "An der Nuecht war Frascht.",
-  "ex_en": "There was frost during the night.",
+  "ex_lb": "De Frascht ass nach net aus dem Buedem.",
+  "ex_en": "The frost isn't out of the ground yet.",
   "lodId": "FRASCHT1"
- },
- {
-  "lb": "d'Sonnestralen",
-  "en": "sunshine/sun rays",
-  "de": "der Sonnenschein",
-  "fr": "les rayons du soleil",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "weather",
-  "ex_lb": "D'Sonnestralen sinn waarm.",
-  "ex_en": "The sun rays are warm."
  },
  {
   "lb": "de Schauer",
@@ -2916,8 +2891,8 @@
   "gender": "m",
   "level": "B2",
   "category": "weather",
-  "ex_lb": "E kuerze Schauer ass iwwergaang.",
-  "ex_en": "A short shower passed over.",
+  "ex_lb": "Ech hu léiwer eng zerguttst Schauer ewéi dat stännegt Gefisems.",
+  "ex_en": "I prefer a proper downpour to this constant drizzle.",
   "lodId": "SCHAUER1"
  },
  {
@@ -2929,8 +2904,8 @@
   "gender": "",
   "level": "A2",
   "category": "weather",
-  "ex_lb": "Et ass frësch moies.",
-  "ex_en": "It is cool in the morning.",
+  "ex_lb": "Déi Koppel ass frësch bestuet.",
+  "ex_en": "That couple has just got married.",
   "lodId": "FRESCH1"
  },
  {
@@ -2942,8 +2917,8 @@
   "gender": "",
   "level": "B1",
   "category": "weather",
-  "ex_lb": "De Wanter war dëst Joer mëll.",
-  "ex_en": "The winter was mild this year.",
+  "ex_lb": "No dräi Deeg um Camping vermësst ee säi mëllt Bett!",
+  "ex_en": "After three days of camping you miss your soft bed!",
   "lodId": "MELL1"
  },
  {
@@ -2967,12 +2942,12 @@
   "gender": "m",
   "level": "B1",
   "category": "time",
-  "ex_lb": "Et ass scho Mëtternuecht.",
-  "ex_en": "It is already midnight.",
+  "ex_lb": "Kuerz no Mëtternuecht gouf bei eis agebrach.",
+  "ex_en": "Shortly after midnight we were burgled.",
   "lodId": "METTERNUECHT1"
  },
  {
-  "lb": "de Mëttesdag",
+  "lb": "de Mëtteg",
   "en": "lunchtime",
   "de": "die Mittagszeit",
   "fr": "l'heure du déjeuner",
@@ -2980,8 +2955,9 @@
   "gender": "m",
   "level": "B1",
   "category": "time",
-  "ex_lb": "Mir treffen eis um Mëttesdag.",
-  "ex_en": "We meet at lunchtime."
+  "ex_lb": "Et ass Mëtteg.",
+  "ex_en": "It's noon.",
+  "lodId": "METTEG1"
  },
  {
   "lb": "all Dag",
@@ -3004,8 +2980,8 @@
   "gender": "",
   "level": "A2",
   "category": "time",
-  "ex_lb": "Ech ginn dacks an de Bësch.",
-  "ex_en": "I often go to the forest.",
+  "ex_lb": "Wéi dacks muss de bäilafen, ier s de bäiléiers?",
+  "ex_en": "How often must you get burned before you learn?",
   "lodId": "DACKS1"
  },
  {
@@ -3017,8 +2993,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Hien ass ëmmer pénktlech.",
-  "ex_en": "He is always on time.",
+  "ex_lb": "Et kann een ëmmer op dech zielen!",
+  "ex_en": "One can always count on you!",
   "lodId": "EMMER1"
  },
  {
@@ -3030,8 +3006,8 @@
   "gender": "",
   "level": "A1",
   "category": "time",
-  "ex_lb": "Ech kommen ni ze spéit.",
-  "ex_en": "I am never late.",
+  "ex_lb": "Dat ass ni wouer!",
+  "ex_en": "That's never true!",
   "lodId": "NI1"
  },
  {
@@ -3043,8 +3019,8 @@
   "gender": "",
   "level": "A2",
   "category": "time",
-  "ex_lb": "Heiansdo kachen ech selwer.",
-  "ex_en": "Sometimes I cook myself.",
+  "ex_lb": "Ech ginn heiansdo sonndes Vëlo fueren.",
+  "ex_en": "I sometimes go cycling on Sundays.",
   "lodId": "HEIANSDO1"
  },
  {
@@ -3056,8 +3032,8 @@
   "gender": "",
   "level": "A2",
   "category": "time",
-  "ex_lb": "Mir gesinn eis geschwënn.",
-  "ex_en": "We will see each other soon.",
+  "ex_lb": "Ech si midd, ech gi geschwë schlofen.",
+  "ex_en": "I'm tired, I'll go to bed soon.",
   "lodId": "GESCHWENN1"
  },
  {
@@ -3085,18 +3061,6 @@
   "ex_en": "Next week the holidays begin."
  },
  {
-  "lb": "den Auerenzäiger",
-  "en": "clock hand",
-  "de": "der Zeiger",
-  "fr": "l'aiguille",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B2",
-  "category": "time",
-  "ex_lb": "Den Auerenzäiger weist op zéng.",
-  "ex_en": "The clock hand points to ten."
- },
- {
   "lb": "d'Mëllechstrooss",
   "en": "Milky Way",
   "de": "die Milchstraße",
@@ -3105,8 +3069,8 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "An der Nuecht gesäit een d'Mëllechstrooss.",
-  "ex_en": "At night you can see the Milky Way.",
+  "ex_lb": "D'Astronome schätzen, datt et an der Mëllechstrooss 200 bis 400 Milliarde Stäre gëtt.",
+  "ex_en": "Astronomers estimate that there are 200 to 400 billion stars in the Milky Way.",
   "lodId": "MELLECHSTROOSS1"
  },
  {
@@ -3118,8 +3082,8 @@
   "gender": "m",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "D'Äerd ass e Planéit.",
-  "ex_en": "The earth is a planet.",
+  "ex_lb": "D'Planéiten dréie ronderëm d'Sonn.",
+  "ex_en": "The planets revolve around the sun.",
   "lodId": "PLANEIT1"
  },
  {
@@ -3131,8 +3095,8 @@
   "gender": "f",
   "level": "A2",
   "category": "nature",
-  "ex_lb": "D'Welt ass grouss.",
-  "ex_en": "The world is big.",
+  "ex_lb": "Wéinst esou enger Klengegkeet geet d'Welt net ënner.",
+  "ex_en": "The world won't end over such a trifle.",
   "lodId": "WELT1"
  },
  {
@@ -3144,21 +3108,9 @@
   "gender": "m",
   "level": "B1",
   "category": "plants",
-  "ex_lb": "Mir sammele Pilzen am Bësch.",
-  "ex_en": "We pick mushrooms in the forest.",
+  "ex_lb": "D'Kanner si mam Bop Pilze sammelen.",
+  "ex_en": "The children went mushroom picking with grandpa.",
   "lodId": "PILZ1"
- },
- {
-  "lb": "d'Beier",
-  "en": "berry",
-  "de": "die Beere",
-  "fr": "la baie",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "plants",
-  "ex_lb": "D'Beieren si séiss.",
-  "ex_en": "The berries are sweet."
  },
  {
   "lb": "d'Tulpe",
@@ -3194,36 +3146,25 @@
   "gender": "",
   "level": "A2",
   "category": "plants",
-  "ex_lb": "De Stamm ass ganz déck.",
-  "ex_en": "The trunk is very thick.",
+  "ex_lb": "Mäi Monni huet en décke Bauch.",
+  "ex_en": "My uncle has a big belly.",
   "lodId": "DECK1"
  },
  {
-  "lb": "de Spruss",
+  "lb": "d'Kéng",
   "en": "sprout/shoot",
   "de": "der Spross",
   "fr": "la pousse",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B2",
   "category": "plants",
-  "ex_lb": "E grénge Spruss kënnt aus der Äerd.",
-  "ex_en": "A green shoot comes out of the soil."
+  "ex_lb": "Mir mussen d'Gromperen ewechgeheien, well se schonn elauter Kéngen hunn.",
+  "ex_en": "We have to throw the potatoes away because they're all sprouting.",
+  "lodId": "KENG2"
  },
  {
-  "lb": "d'Hochzäitsfeier",
-  "en": "wedding party",
-  "de": "die Hochzeitsfeier",
-  "fr": "la fête de mariage",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "holidays",
-  "ex_lb": "D'Hochzäitsfeier war ganz schéin.",
-  "ex_en": "The wedding party was very nice."
- },
- {
-  "lb": "d'Prozessioun",
+  "lb": "d'Pressessioun",
   "en": "procession",
   "de": "die Prozession",
   "fr": "la procession",
@@ -3231,8 +3172,9 @@
   "gender": "f",
   "level": "B2",
   "category": "holidays",
-  "ex_lb": "D'Sprangprëssioun ass eng Prozessioun zu Iechternach.",
-  "ex_en": "The Dancing Procession is a procession in Echternach."
+  "ex_lb": "Am ganzen Duerf waren d'Kapelle fir d'Pressessioun gerëscht.",
+  "ex_en": "In the whole village the chapels were decorated for the procession.",
+  "lodId": "PRESSESSIOUN1"
  },
  {
   "lb": "de Liichtmëssdag",
@@ -3243,21 +3185,9 @@
   "gender": "m",
   "level": "B2",
   "category": "holidays",
-  "ex_lb": "Um Liichtmëssdag ginn d'Kanner mat Luuchten.",
-  "ex_en": "On Candlemas the children walk with lanterns.",
+  "ex_lb": "Op Liichtmëssdag ginn d'Kanner mat Lampione vun Haus zu Haus sangen.",
+  "ex_en": "On Liichtmëssdag the children go from house to house with lanterns, singing.",
   "lodId": "LIICHTMESSDAG1"
- },
- {
-  "lb": "d'Geschenkpäckelchen",
-  "en": "gift parcel",
-  "de": "das Geschenkpäckchen",
-  "fr": "le petit paquet cadeau",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B2",
-  "category": "holidays",
-  "ex_lb": "Ënnert dem Bam louche vill Geschenkpäckelcher.",
-  "ex_en": "Under the tree lay many gift parcels."
  },
  {
   "lb": "de Cadeau-Pabeier",
@@ -3280,21 +3210,22 @@
   "gender": "f",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Mir zünden d'Käerz un.",
-  "ex_en": "We light the candle.",
+  "ex_lb": "D'Gebuertsdagskand huet d'Käerzen um Kuch all mat engem Coup ausgeblosen.",
+  "ex_en": "The birthday child blew out all the candles on the cake in one go.",
   "lodId": "KAERZ1"
  },
  {
-  "lb": "de Feierwierk",
+  "lb": "d'Freedefeier",
   "en": "fireworks",
   "de": "das Feuerwerk",
   "fr": "le feu d'artifice",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "B1",
   "category": "holidays",
-  "ex_lb": "Op Nationalfeierdag ass e grousse Feierwierk.",
-  "ex_en": "On National Day there is a big fireworks display."
+  "ex_lb": "Mir ginn all Joer um Virowend vum Nationalfeierdag d'Freedefeier kucken.",
+  "ex_en": "Every year on the eve of National Day we go and watch the fireworks.",
+  "lodId": "FREEDEFEIER1"
  },
  {
   "lb": "schenken",
@@ -3305,8 +3236,8 @@
   "gender": "",
   "level": "A2",
   "category": "holidays",
-  "ex_lb": "Ech schenken hir Blummen.",
-  "ex_en": "I give her flowers.",
+  "ex_lb": "Wat kënne mer dem Papp fir säi Gebuertsdag schenken?",
+  "ex_en": "What can we give Dad for his birthday?",
   "lodId": "SCHENKEN1"
  },
  {
@@ -3318,8 +3249,8 @@
   "gender": "",
   "level": "B1",
   "category": "holidays",
-  "ex_lb": "Ech gratuléieren dir zum Gebuertsdag.",
-  "ex_en": "I congratulate you on your birthday.",
+  "ex_lb": "De Jury huet dem Gewënner vum Museksconcours gratuléiert.",
+  "ex_en": "The jury congratulated the winner of the music competition.",
   "lodId": "GRATULEIEREN1"
  },
  {
@@ -3331,8 +3262,8 @@
   "gender": "f",
   "level": "B1",
   "category": "holidays",
-  "ex_lb": "Ech kréien eng Invitatioun fir d'Fest.",
-  "ex_en": "I get an invitation for the party.",
+  "ex_lb": "Du kanns déi Invitatioun net refuséieren.",
+  "ex_en": "You can't turn down that invitation.",
   "lodId": "INVITATIOUN1"
  },
  {
@@ -3344,12 +3275,12 @@
   "gender": "m",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "De Spiller schéisst en Tor.",
-  "ex_en": "The player scores a goal.",
+  "ex_lb": "All Spiller kritt siwe Kaarten.",
+  "ex_en": "Each player gets seven cards.",
   "lodId": "SPILLER1"
  },
  {
-  "lb": "den Tor",
+  "lb": "de Gol",
   "en": "goal",
   "de": "das Tor",
   "fr": "le but",
@@ -3357,8 +3288,9 @@
   "gender": "m",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Eis Equipe huet en Tor geschoss.",
-  "ex_en": "Our team scored a goal."
+  "ex_lb": "Wien ass am Gol?",
+  "ex_en": "Who's in goal?",
+  "lodId": "GOL1"
  },
  {
   "lb": "de Sportsveräin",
@@ -3369,8 +3301,8 @@
   "gender": "m",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Ech sinn an engem Sportsveräin.",
-  "ex_en": "I am in a sports club.",
+  "ex_lb": "Als Member vun engem Sportsveräin kritt een an eisem Geschäft Prozenter.",
+  "ex_en": "As a member of a sports club you get a discount in our shop.",
   "lodId": "SPORTSVERAIN1"
  },
  {
@@ -3382,8 +3314,8 @@
   "gender": "f",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Hien huet d'Course gewonnen.",
-  "ex_en": "He won the race.",
+  "ex_lb": "Ech si bei der Course als Drëtten iwwer d'Arrivée gefuer.",
+  "ex_en": "I crossed the finish line third in the race.",
   "lodId": "COURSE1"
  },
  {
@@ -3395,12 +3327,12 @@
   "gender": "m",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Si ass d'Champion vum Land.",
-  "ex_en": "She is the champion of the country.",
+  "ex_lb": "Eis Fussballsekipp war véiermol hannerenee Champion.",
+  "ex_en": "Our football team were champions four times in a row.",
   "lodId": "CHAMPION1"
  },
  {
-  "lb": "d'Medaille",
+  "lb": "d'Medail",
   "en": "medal",
   "de": "die Medaille",
   "fr": "la médaille",
@@ -3408,8 +3340,9 @@
   "gender": "f",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Hie krut eng gëlle Medaille.",
-  "ex_en": "He got a gold medal."
+  "ex_lb": "Déi fräiwëlleg Mataarbechter krute fir hiren Asaz eng Medail.",
+  "ex_en": "The volunteers got a medal for their commitment.",
+  "lodId": "MEDAIL1"
  },
  {
   "lb": "klammen",
@@ -3420,8 +3353,8 @@
   "gender": "",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Mir klamme gär op Bierger.",
-  "ex_en": "We like climbing mountains.",
+  "ex_lb": "Hie klëmmt op d'Leeder, fir eng nei Bier anzedréien.",
+  "ex_en": "He climbs the ladder to screw in a new bulb.",
   "lodId": "KLAMMEN1"
  },
  {
@@ -3433,8 +3366,8 @@
   "gender": "",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "D'Kanner rennen iwwer d'Wiss.",
-  "ex_en": "The children sprint across the meadow.",
+  "ex_lb": "Beim Äerdbiewe sinn d'Leit aus den Haiser gerannt.",
+  "ex_en": "During the earthquake people ran out of their houses.",
   "lodId": "RENNEN1"
  },
  {
@@ -3459,8 +3392,8 @@
   "gender": "f",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Si mécht all Mueres Gymnastik.",
-  "ex_en": "She does gymnastics every morning.",
+  "ex_lb": "Meng Groussmamm mécht nach all Dag eng hallef Stonn Gymnastik.",
+  "ex_en": "My grandmother still does half an hour of exercises every day.",
   "lodId": "GYMNASTIK1"
  },
  {
@@ -3472,8 +3405,8 @@
   "gender": "m",
   "level": "B2",
   "category": "sport",
-  "ex_lb": "Mir fueren op de Schlittschong.",
-  "ex_en": "We go ice skating.",
+  "ex_lb": "Meng nei Schlittschong drécken.",
+  "ex_en": "My new ice skates pinch.",
   "lodId": "SCHLITTSCHONG1"
  },
  {
@@ -3485,8 +3418,8 @@
   "gender": "m",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "D'Kanner fuere mam Schlitt de Bierg of.",
-  "ex_en": "The children sledge down the hill.",
+  "ex_lb": "D'Päerd gi virun de Schlitt gespaant.",
+  "ex_en": "The horses are harnessed to the sleigh.",
   "lodId": "SCHLITT1"
  },
  {
@@ -3511,8 +3444,8 @@
   "gender": "",
   "level": "B1",
   "category": "leisure",
-  "ex_lb": "Ech entspanen no der Aarbecht.",
-  "ex_en": "I relax after work.",
+  "ex_lb": "Mir hunn alles gemaach, fir d'Situatioun ze entspanen.",
+  "ex_en": "We did everything to defuse the situation.",
   "lodId": "ENTSPANEN1"
  },
  {
@@ -3524,8 +3457,8 @@
   "gender": "f",
   "level": "B2",
   "category": "leisure",
-  "ex_lb": "D'Iwwernuechtung am Hotel war deier.",
-  "ex_en": "The overnight stay at the hotel was expensive.",
+  "ex_lb": "Wat soll eng Iwwernuechtung mat Kaffi an dësem schicken Hotel kaschten?",
+  "ex_en": "What might a night with breakfast cost in this fancy hotel?",
   "lodId": "IWWERNUECHTUNG1"
  },
  {
@@ -3537,8 +3470,8 @@
   "gender": "m",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "D'Kanner spillen um Spillplaz.",
-  "ex_en": "The children play on the playground.",
+  "ex_lb": "Op der Spillplaz ware vill Famille mat klenge Kanner.",
+  "ex_en": "There were many families with small children at the playground.",
   "lodId": "SPILLPLAZ1"
  },
  {
@@ -3550,8 +3483,8 @@
   "gender": "f",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Ech léinen e Buch an der Bibliothéik.",
-  "ex_en": "I borrow a book at the library.",
+  "ex_lb": "Ech hu mir an der Bibliothéik e flott Buch geléint.",
+  "ex_en": "I borrowed a nice book from the library.",
   "lodId": "BIBLIOTHEIK1"
  },
  {
@@ -3563,8 +3496,8 @@
   "gender": "m",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Mir besichen e Musée.",
-  "ex_en": "We visit a museum.",
+  "ex_lb": "An där Stad gëtt et vill Muséeën.",
+  "ex_en": "There are many museums in that town.",
   "lodId": "MUSEE1"
  },
  {
@@ -3576,8 +3509,8 @@
   "gender": "m",
   "level": "A2",
   "category": "leisure",
-  "ex_lb": "Mir ginn an den Theater.",
-  "ex_en": "We are going to the theatre.",
+  "ex_lb": "Dësen Theater spillt nëmme modern Stécker.",
+  "ex_en": "This theatre only puts on modern plays.",
   "lodId": "THEATER1"
  },
  {
@@ -3589,8 +3522,8 @@
   "gender": "f",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Mir spille Kaarten um Owend.",
-  "ex_en": "We play cards in the evening.",
+  "ex_lb": "Mir hunn eise Frënn eng Kaart aus der Vakanz geschéckt.",
+  "ex_en": "We sent our friends a card from our holiday.",
   "lodId": "KAART1"
  },
  {
@@ -3602,8 +3535,8 @@
   "gender": "m",
   "level": "B1",
   "category": "hobbies",
-  "ex_lb": "Mäi Papp spillt gär Schach.",
-  "ex_en": "My dad likes playing chess.",
+  "ex_lb": "Déi zwou Frëndinne spille grad (eng Partie) Schach.",
+  "ex_en": "The two friends are playing a game of chess.",
   "lodId": "SCHACH1"
  },
  {
@@ -3627,8 +3560,8 @@
   "gender": "",
   "level": "A2",
   "category": "hobbies",
-  "ex_lb": "Ech bake gär Kichelcher.",
-  "ex_en": "I like baking cookies.",
+  "ex_lb": "Seng Mamm baakt all Samschdeg e Kuch.",
+  "ex_en": "His mother bakes a cake every Saturday.",
   "lodId": "BAKEN1"
  },
  {
@@ -3640,8 +3573,8 @@
   "gender": "",
   "level": "B1",
   "category": "hobbies",
-  "ex_lb": "Meng Mamm néit e Rack.",
-  "ex_en": "My mum is sewing a skirt.",
+  "ex_lb": "Bei deiere Schong ass d'Suel genéit an net gepecht.",
+  "ex_en": "On expensive shoes the sole is stitched, not glued.",
   "lodId": "NEIEN1"
  },
  {
@@ -3653,8 +3586,8 @@
   "gender": "m",
   "level": "B1",
   "category": "leisure",
-  "ex_lb": "Ech sinn an engem Museksveräin.",
-  "ex_en": "I am in a music club.",
+  "ex_lb": "Eise Veräin huet ëmmer manner Memberen.",
+  "ex_en": "Our club has fewer and fewer members.",
   "lodId": "VERAIN1"
  }
 ]

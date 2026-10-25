@@ -340,7 +340,7 @@ $('yesBtn').onclick = function () { grade(true); };
 $('closeBtn').onclick = function () { if (inTelegram) tg.close(); else history.back(); };
 
 load(function () {
-  fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=4')
+  fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=5')
     .then(function (r) { return r.json(); })
     .then(start)
     .catch(function () { $('front').textContent = 'Не загрузился список слов — попробуйте ещё раз.'; });

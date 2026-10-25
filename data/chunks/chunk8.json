@@ -8,8 +8,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "D'Iesse war ganz gutt.",
-  "ex_en": "The food was very good.",
+  "ex_lb": "Fir hiren Alter ass d'Bom nach bei gudder Gesondheet.",
+  "ex_en": "For her age, grandma is still in good health.",
   "lodId": "GUTT2"
  },
  {
@@ -21,8 +21,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "D'Wieder ass haut schlecht.",
-  "ex_en": "The weather is bad today.",
+  "ex_lb": "Esou schlecht Manéieren däerf een net duerchgoe loossen.",
+  "ex_en": "Such bad manners can't be allowed to pass.",
   "lodId": "SCHLECHT1"
  },
  {
@@ -34,8 +34,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Si wunnen an engem grousse Haus.",
-  "ex_en": "They live in a big house.",
+  "ex_lb": "Eng grouss Famill brauch e grousst Haus.",
+  "ex_en": "A big family needs a big house.",
   "lodId": "GROUSS2"
  },
  {
@@ -47,8 +47,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Den Hond ass nach kleng.",
-  "ex_en": "The dog is still small.",
+  "ex_lb": "De klenge Wee féiert laanscht d'Baach bei d'Millen.",
+  "ex_en": "The little path runs along the stream to the mill.",
   "lodId": "KLENG1"
  },
  {
@@ -60,12 +60,12 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Dat ass e schéint Bild.",
-  "ex_en": "That is a beautiful picture.",
+  "ex_lb": "Wat hues du schéin Zänn!",
+  "ex_en": "What beautiful teeth you have!",
   "lodId": "SCHEIN1"
  },
  {
-  "lb": "héisslech",
+  "lb": "ellen",
   "en": "ugly",
   "de": "hässlich",
   "fr": "laid",
@@ -73,8 +73,9 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Dëse Mantel ass héisslech.",
-  "ex_en": "This coat is ugly."
+  "ex_lb": "„katzen“ ass en ellent Wuert!",
+  "ex_en": "\"Katzen\" is an ugly word!",
+  "lodId": "ELLEN1"
  },
  {
   "lb": "nei",
@@ -85,8 +86,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Ech hunn en neien Auto.",
-  "ex_en": "I have a new car.",
+  "ex_lb": "Ech hu mer an der Vakanz en neie Bikini kaaft.",
+  "ex_en": "I bought myself a new bikini on holiday.",
   "lodId": "NEI1"
  },
  {
@@ -98,8 +99,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "D'Buch ass scho ganz al.",
-  "ex_en": "The book is already very old.",
+  "ex_lb": "An dëser Famill sinn se all al ginn.",
+  "ex_en": "In this family they all lived to an old age.",
   "lodId": "AL1"
  },
  {
@@ -111,8 +112,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Si ass nach ganz jonk.",
-  "ex_en": "She is still very young.",
+  "ex_lb": "Um Bal waren elauter jonk Leit.",
+  "ex_en": "There were only young people at the ball.",
   "lodId": "JONK1"
  },
  {
@@ -124,8 +125,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "De Wee ass ze laang.",
-  "ex_en": "The way is too long.",
+  "ex_lb": "Meng Frëndin huet d'Hoer nees laang.",
+  "ex_en": "My girlfriend has long hair again.",
   "lodId": "LAANG1"
  },
  {
@@ -137,8 +138,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Mir hu just eng kuerz Paus.",
-  "ex_en": "We have just a short break.",
+  "ex_lb": "Déi Box ass mir ze kuerz.",
+  "ex_en": "These trousers are too short for me.",
   "lodId": "KUERZ1"
  },
  {
@@ -150,8 +151,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "De Bierg ass ganz héich.",
-  "ex_en": "The mountain is very high.",
+  "ex_lb": "Wat ass dat en héicht Haus!",
+  "ex_en": "What a tall house!",
   "lodId": "HEICH1"
  },
  {
@@ -176,8 +177,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Strooss ass ganz breet.",
-  "ex_en": "The street is very wide.",
+  "ex_lb": "Eis Hausdier ass ee Meter breet.",
+  "ex_en": "Our front door is one metre wide.",
   "lodId": "BREET2"
  },
  {
@@ -189,8 +190,8 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "De Wee ass ze schmuel.",
-  "ex_en": "The path is too narrow.",
+  "ex_lb": "De Camion kënnt net duerch déi schmuel Afaart an den Haff.",
+  "ex_en": "The lorry can't get through the narrow entrance into the yard.",
   "lodId": "SCHMUEL1"
  },
  {
@@ -202,8 +203,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Dat ass e déckt Buch.",
-  "ex_en": "That is a thick book.",
+  "ex_lb": "Mäi Monni huet en décke Bauch.",
+  "ex_en": "My uncle has a big belly.",
   "lodId": "DECK1"
  },
  {
@@ -215,8 +216,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Bliedchen ass ganz dënn.",
-  "ex_en": "The sheet is very thin.",
+  "ex_lb": "Vill Mannequine sinn ze dënn.",
+  "ex_en": "Many models are too thin.",
   "lodId": "DENN1"
  },
  {
@@ -228,8 +229,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "De Sak ass ze schwéier.",
-  "ex_en": "The bag is too heavy.",
+  "ex_lb": "Ech hunn déi schwéier Laascht bal net gepackt.",
+  "ex_en": "I could barely manage the heavy load.",
   "lodId": "SCHWEIER1"
  },
  {
@@ -241,8 +242,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Dës Tut ass ganz liicht.",
-  "ex_en": "This bag is very light.",
+  "ex_lb": "Ech hu liichte Kappwéi.",
+  "ex_en": "I have a slight headache.",
   "lodId": "LIICHT1"
  },
  {
@@ -254,8 +255,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Den Zuch ass séier.",
-  "ex_en": "The train is fast.",
+  "ex_lb": "Ech hat nach ëmmer e Faibel fir séier Autoen.",
+  "ex_en": "I've always had a soft spot for fast cars.",
   "lodId": "SEIER1"
  },
  {
@@ -267,8 +268,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Den Trafic ass haut lues.",
-  "ex_en": "The traffic is slow today.",
+  "ex_lb": "Am Wartesall ass eng lues Musek gelaf.",
+  "ex_en": "Slow music was playing in the waiting room.",
   "lodId": "LUES1"
  },
  {
@@ -280,8 +281,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "De Kaffi ass nach waarm.",
-  "ex_en": "The coffee is still warm.",
+  "ex_lb": "Fir ze spullen, brauch ee waarmt Waasser.",
+  "ex_en": "You need hot water to do the washing-up.",
   "lodId": "WAARM1"
  },
  {
@@ -293,8 +294,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "D'Waasser ass ze kal.",
-  "ex_en": "The water is too cold.",
+  "ex_lb": "Haut bléist eng kal Loft.",
+  "ex_en": "A cold wind is blowing today.",
   "lodId": "KAL1"
  },
  {
@@ -306,8 +307,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Meng Schong sinn naass.",
-  "ex_en": "My shoes are wet.",
+  "ex_lb": "Op deenen naasse Plättercher rëtscht ee gären aus.",
+  "ex_en": "You can easily slip on those wet tiles.",
   "lodId": "NAASS1"
  },
  {
@@ -319,8 +320,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Wäsch ass schonn dréchen.",
-  "ex_en": "The laundry is already dry.",
+  "ex_lb": "Pass op, d'Faarf ass nach net dréchen!",
+  "ex_en": "Careful, the paint isn't dry yet!",
   "lodId": "DRECHEN1"
  },
  {
@@ -332,8 +333,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Kichen ass elo propper.",
-  "ex_en": "The kitchen is clean now.",
+  "ex_lb": "Proppert Drénkwaasser ass fir de Mënsch liewensnoutwendeg.",
+  "ex_en": "Clean drinking water is vital for humans.",
   "lodId": "PROPPER1"
  },
  {
@@ -345,8 +346,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Dem Kand seng Hänn sinn knaschteg.",
-  "ex_en": "The child's hands are dirty.",
+  "ex_lb": "Géi wäsch deng knaschteg Fangeren!",
+  "ex_en": "Go and wash your dirty fingers!",
   "lodId": "KNASCHTEG1"
  },
  {
@@ -358,8 +359,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "De Bus ass schonn voll.",
-  "ex_en": "The bus is already full.",
+  "ex_lb": "Déi Këschten, déi um Späicher stinn, si voll (mat) Bicher.",
+  "ex_en": "The boxes in the attic are full of books.",
   "lodId": "VOLL1"
  },
  {
@@ -371,8 +372,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Fläsch ass eidel.",
-  "ex_en": "The bottle is empty.",
+  "ex_lb": "Mat engem eidele Mo schafft et sech net gutt.",
+  "ex_en": "It's hard to work on an empty stomach.",
   "lodId": "EIDEL1"
  },
  {
@@ -384,8 +385,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Dës Auer ass ze deier.",
-  "ex_en": "This watch is too expensive.",
+  "ex_lb": "Ech hu mer en deiere Bijou geleescht.",
+  "ex_en": "I treated myself to an expensive piece of jewellery.",
   "lodId": "DEIER2"
  },
  {
@@ -397,8 +398,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Geméis war bëlleg.",
-  "ex_en": "The vegetables were cheap.",
+  "ex_lb": "D'Iesse war gutt a bëlleg!",
+  "ex_en": "The food was good and cheap!",
   "lodId": "BELLEG1"
  },
  {
@@ -410,8 +411,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Si ass eng räich Fra.",
-  "ex_en": "She is a rich woman.",
+  "ex_lb": "Hie kënnt aus enger räicher Famill.",
+  "ex_en": "He comes from a rich family.",
   "lodId": "RAICH1"
  },
  {
@@ -423,8 +424,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Vill Leit sinn aarm.",
-  "ex_en": "Many people are poor.",
+  "ex_lb": "Deem aarme Meedche geschéien nëmmen Onglécker.",
+  "ex_en": "Nothing but misfortune happens to that poor girl.",
   "lodId": "AARM1"
  },
  {
@@ -436,8 +437,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "D'Aufgab war einfach.",
-  "ex_en": "The task was easy.",
+  "ex_lb": "De leschten Exame war zimmlech einfach.",
+  "ex_en": "The last exam was fairly easy.",
   "lodId": "EINFACH1"
  },
  {
@@ -449,8 +450,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Dës Fro ass schwiereg.",
-  "ex_en": "This question is difficult.",
+  "ex_lb": "An deem Parcours sinn e puer schwiereg Passagen.",
+  "ex_en": "There are a few difficult stretches on that course.",
   "lodId": "SCHWIEREG1"
  },
  {
@@ -462,8 +463,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Dat ass eng wichteg Decisioun.",
-  "ex_en": "That is an important decision.",
+  "ex_lb": "Ech hu keng Zäit, ziel mer just dat Wichtegst!",
+  "ex_en": "I don't have time, just tell me the most important part!",
   "lodId": "WICHTEG1"
  },
  {
@@ -475,8 +476,8 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Dat ass net néideg.",
-  "ex_en": "That is not necessary.",
+  "ex_lb": "Mir hu just dat Néidegst matenee geschwat.",
+  "ex_en": "We only said the bare minimum to each other.",
   "lodId": "NEIDEG1"
  },
  {
@@ -488,8 +489,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Däin Äntwert ass richteg.",
-  "ex_en": "Your answer is correct.",
+  "ex_lb": "Ass dat hei iwwerhaapt dee richtege Wee?",
+  "ex_en": "Is this even the right way?",
   "lodId": "RICHTEG1"
  },
  {
@@ -501,8 +502,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Dat ass déi falsch Adress.",
-  "ex_en": "That is the wrong address.",
+  "ex_lb": "Déi Rechnung ass falsch.",
+  "ex_en": "That bill is wrong.",
   "lodId": "FALSCH1"
  },
  {
@@ -514,8 +515,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "De Film war interessant.",
-  "ex_en": "The film was interesting.",
+  "ex_lb": "Ech hunn e ganz interessante Beruff.",
+  "ex_en": "I have a very interesting job.",
   "lodId": "INTERESSANT1"
  },
  {
@@ -527,8 +528,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "De Cours war langweileg.",
-  "ex_en": "The class was boring.",
+  "ex_lb": "De Film war mat Momenter langweileg.",
+  "ex_en": "At times the film was boring.",
   "lodId": "LANGWEILEG1"
  },
  {
@@ -540,8 +541,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Hien ass e lëschtege Kärel.",
-  "ex_en": "He is a funny guy.",
+  "ex_lb": "Mäi Brudder ass e lëschtege Kärel.",
+  "ex_en": "My brother is a cheerful guy.",
   "lodId": "LESCHTEG1"
  },
  {
@@ -553,8 +554,8 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Mir haten eng wonnerbar Zäit.",
-  "ex_en": "We had a wonderful time.",
+  "ex_lb": "Menger Boma hiert Gebeess ass wonnerbar.",
+  "ex_en": "My grandma has wonderful teeth.",
   "lodId": "WONNERBAR1"
  },
  {
@@ -566,12 +567,12 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Dat war schrecklech.",
-  "ex_en": "That was terrible.",
+  "ex_lb": "Dat schrecklecht Erliefnes huet hie staark belaascht.",
+  "ex_en": "The terrible experience weighed heavily on him.",
   "lodId": "SCHRECKLECH1"
  },
  {
-  "lb": "gefährlech",
+  "lb": "geféierlech",
   "en": "dangerous",
   "de": "gefährlich",
   "fr": "dangereux",
@@ -579,8 +580,9 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Déi Strooss ass gefährlech.",
-  "ex_en": "That road is dangerous."
+  "ex_lb": "Wann een an e Krisegebitt schaffe geet, lieft ee geféierlech.",
+  "ex_en": "If you go to work in a crisis zone, you live dangerously.",
+  "lodId": "GEFEIERLECH1"
  },
  {
   "lb": "sécher",
@@ -591,8 +593,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Hei sinn d'Kanner sécher.",
-  "ex_en": "Here the children are safe.",
+  "ex_lb": "Mir wunnen an enger sécherer Strooss.",
+  "ex_en": "We live on a safe street.",
   "lodId": "SECHER1"
  },
  {
@@ -604,8 +606,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Hien ass ganz staark.",
-  "ex_en": "He is very strong.",
+  "ex_lb": "Iess deng Zopp, da gëss de grouss a staark!",
+  "ex_en": "Eat your soup, and you'll grow big and strong!",
   "lodId": "STAARK1"
  },
  {
@@ -617,8 +619,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "No der Krankheet war hie schwaach.",
-  "ex_en": "After the illness he was weak.",
+  "ex_lb": "Bei där schwaacher Luucht kréien ech näischt gelies.",
+  "ex_en": "In such weak light I can't read anything.",
   "lodId": "SCHWAACH1"
  },
  {
@@ -630,8 +632,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Brout ass nach frësch.",
-  "ex_en": "The bread is still fresh.",
+  "ex_lb": "Déi Koppel ass frësch bestuet.",
+  "ex_en": "That couple has just got married.",
   "lodId": "FRESCH1"
  },
  {
@@ -656,8 +658,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "De Steen ass haart.",
-  "ex_en": "The stone is hard.",
+  "ex_lb": "D'Brout ass haart ewéi Steen!",
+  "ex_en": "The bread is as hard as stone!",
   "lodId": "HAART1"
  },
  {
@@ -669,8 +671,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Zëmmer ass hell.",
-  "ex_en": "The room is bright.",
+  "ex_lb": "Am Summer gëtt et scho fréi hell dobaussen.",
+  "ex_en": "In summer it gets light outside early.",
   "lodId": "HELL1"
  },
  {
@@ -682,8 +684,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Et ass schonn donkel baussen.",
-  "ex_en": "It is already dark outside.",
+  "ex_lb": "Firwat dees de dech ëmmer donkel un?",
+  "ex_en": "Why do you always wear dark clothes?",
   "lodId": "DONKEL1"
  },
  {
@@ -695,8 +697,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "D'Duerf ass ganz roueg.",
-  "ex_en": "The village is very quiet.",
+  "ex_lb": "Mäin Neveu ass e ganz rouege Bouf.",
+  "ex_en": "My nephew is a very quiet boy.",
   "lodId": "ROUEG1"
  },
  {
@@ -720,8 +722,8 @@
   "gender": "",
   "level": "A2",
   "category": "character",
-  "ex_lb": "D'Verkeeferin war frëndlech.",
-  "ex_en": "The saleswoman was friendly.",
+  "ex_lb": "Deng Eltere si frëndlech Leit.",
+  "ex_en": "Your parents are friendly people.",
   "lodId": "FRENDLECH1"
  },
  {
@@ -733,8 +735,8 @@
   "gender": "",
   "level": "A1",
   "category": "character",
-  "ex_lb": "Si ass eng léif Persoun.",
-  "ex_en": "She is a kind person.",
+  "ex_lb": "Seng nei Frëndin ass emol eng léif Fra!",
+  "ex_en": "His new girlfriend is a really sweet woman!",
   "lodId": "LEIF2"
  },
  {
@@ -746,8 +748,8 @@
   "gender": "",
   "level": "A2",
   "category": "character",
-  "ex_lb": "Sief net béis mat mir.",
-  "ex_en": "Don't be mean to me.",
+  "ex_lb": "Gëff dech mat deene béisen Ënnerstellungen!",
+  "ex_en": "Stop those nasty insinuations!",
   "lodId": "BEIS1"
  },
  {
@@ -759,8 +761,8 @@
   "gender": "",
   "level": "B1",
   "category": "character",
-  "ex_lb": "Hie war ganz héiflech.",
-  "ex_en": "He was very polite.",
+  "ex_lb": "Ech krut eng héiflech Äntwert.",
+  "ex_en": "I got a polite answer.",
   "lodId": "HEIFLECH1"
  },
  {
@@ -772,8 +774,8 @@
   "gender": "",
   "level": "B1",
   "category": "character",
-  "ex_lb": "Si ass eng intelligent Studentin.",
-  "ex_en": "She is an intelligent student.",
+  "ex_lb": "Si menge sech mat hiren intelligente Kanner.",
+  "ex_en": "They're very proud of their clever children.",
   "lodId": "INTELLIGENT1"
  },
  {
@@ -785,8 +787,8 @@
   "gender": "",
   "level": "A2",
   "category": "character",
-  "ex_lb": "Dat war eng domm Iddi.",
-  "ex_en": "That was a stupid idea.",
+  "ex_lb": "A senger Ried huet de President e puer domm Bemierkunge gemaach.",
+  "ex_en": "In his speech the president made a few stupid remarks.",
   "lodId": "DOMM1"
  },
  {
@@ -798,8 +800,8 @@
   "gender": "",
   "level": "B1",
   "category": "character",
-  "ex_lb": "Hien ass e fläissege Schüler.",
-  "ex_en": "He is a hard-working pupil.",
+  "ex_lb": "Ech hu fläisseg notéiert, wat ech héieren hunn.",
+  "ex_en": "I diligently wrote down what I heard.",
   "lodId": "FLAISSEG1"
  },
  {
@@ -824,8 +826,8 @@
   "gender": "",
   "level": "B1",
   "category": "character",
-  "ex_lb": "Sief éierlech mat mir.",
-  "ex_en": "Be honest with me.",
+  "ex_lb": "D'Kand huet op all Fro eng éierlech Äntwert ginn.",
+  "ex_en": "The child gave an honest answer to every question.",
   "lodId": "EIERLECH1"
  },
  {
@@ -837,8 +839,8 @@
   "gender": "",
   "level": "B1",
   "category": "character",
-  "ex_lb": "De Léierer ass ganz gedëlleg.",
-  "ex_en": "The teacher is very patient.",
+  "ex_lb": "Sief gedëlleg, du kënns schonn un d'Rei!",
+  "ex_en": "Be patient, your turn will come!",
   "lodId": "GEDELLEG1"
  },
  {
@@ -850,8 +852,8 @@
   "gender": "",
   "level": "B1",
   "category": "character",
-  "ex_lb": "D'Meedchen ass e bësse schei.",
-  "ex_en": "The girl is a bit shy.",
+  "ex_lb": "Mäi Brudder ass ze schei, fir virun engem Publikum ze schwätzen.",
+  "ex_en": "My brother is too shy to speak in front of an audience.",
   "lodId": "SCHEI1"
  },
  {
@@ -876,8 +878,8 @@
   "gender": "",
   "level": "A1",
   "category": "feelings",
-  "ex_lb": "Ech si frou, dech ze gesinn.",
-  "ex_en": "I am happy to see you.",
+  "ex_lb": "D'Gebuertsdagskand war frou iwwer de Kaddo.",
+  "ex_en": "The birthday child was happy with the present.",
   "lodId": "FROU1"
  },
  {
@@ -889,8 +891,8 @@
   "gender": "",
   "level": "A2",
   "category": "feelings",
-  "ex_lb": "Si ass glécklech mat hirem Liewen.",
-  "ex_en": "She is happy with her life.",
+  "ex_lb": "D'Koppel huet glécklech dragekuckt.",
+  "ex_en": "The couple looked happy.",
   "lodId": "GLECKLECH1"
  },
  {
@@ -915,8 +917,8 @@
   "gender": "",
   "level": "A2",
   "category": "feelings",
-  "ex_lb": "Hie war rosen op mech.",
-  "ex_en": "He was angry at me.",
+  "ex_lb": "Engem rosenen Hond geet ee besser aus de Féiss!",
+  "ex_en": "Better keep out of the way of an angry dog!",
   "lodId": "ROSEN2"
  },
  {
@@ -928,8 +930,8 @@
   "gender": "",
   "level": "A1",
   "category": "feelings",
-  "ex_lb": "Ech si ganz midd haut owes.",
-  "ex_en": "I am very tired tonight.",
+  "ex_lb": "Du gesäis midd aus.",
+  "ex_en": "You look tired.",
   "lodId": "MIDD1"
  },
  {
@@ -941,8 +943,8 @@
   "gender": "",
   "level": "B1",
   "category": "feelings",
-  "ex_lb": "Virum Examen ass si nervös.",
-  "ex_en": "Before the exam she is nervous.",
+  "ex_lb": "Mäi Kolleeg ass e ganz nervöse Mënsch.",
+  "ex_en": "My colleague is a very nervous person.",
   "lodId": "NERVOS1"
  },
  {
@@ -954,8 +956,8 @@
   "gender": "",
   "level": "A2",
   "category": "character",
-  "ex_lb": "Dee klenge Bouf ass frech.",
-  "ex_en": "That little boy is cheeky.",
+  "ex_lb": "Hal op mat deene freche Bemierkungen!",
+  "ex_en": "Stop those cheeky remarks!",
   "lodId": "FRECH1"
  },
  {
@@ -991,8 +993,8 @@
   "gender": "",
   "level": "B2",
   "category": "feelings",
-  "ex_lb": "Ech sinn dovun frustréiert.",
-  "ex_en": "I am frustrated by that."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "begeeschtert",
@@ -1003,12 +1005,12 @@
   "gender": "",
   "level": "B2",
   "category": "feelings",
-  "ex_lb": "Si ass begeeschtert vun der Iddi.",
-  "ex_en": "She is enthusiastic about the idea.",
+  "ex_lb": "De Publikum huet begeeschtert geklappt.",
+  "ex_en": "The audience applauded enthusiastically.",
   "lodId": "BEGEESCHTERT1"
  },
  {
-  "lb": "houngereg",
+  "lb": "hongereg",
   "en": "hungry",
   "de": "hungrig",
   "fr": "affamé",
@@ -1016,8 +1018,9 @@
   "gender": "",
   "level": "A2",
   "category": "states",
-  "ex_lb": "D'Kanner sinn houngereg.",
-  "ex_en": "The children are hungry."
+  "ex_lb": "Nom Schwamme sinn d'Kanner ëmmer hongereg.",
+  "ex_en": "After swimming the children are always hungry.",
+  "lodId": "HONGEREG1"
  },
  {
   "lb": "duuschtereg",
@@ -1028,8 +1031,8 @@
   "gender": "",
   "level": "A2",
   "category": "states",
-  "ex_lb": "No der Aarbecht si mir duuschtereg.",
-  "ex_en": "After work we are thirsty.",
+  "ex_lb": "De Garçon huet deenen duuschterege Kanner eng Limonad zerwéiert.",
+  "ex_en": "The waiter served the thirsty children a lemonade.",
   "lodId": "DUUSCHTEREG1"
  },
  {
@@ -1041,8 +1044,8 @@
   "gender": "",
   "level": "A1",
   "category": "states",
-  "ex_lb": "Hie ka net kommen, hien ass krank.",
-  "ex_en": "He can't come, he is sick.",
+  "ex_lb": "Hie kënnt tatsächlech krank schaffen!",
+  "ex_en": "He actually comes to work sick!",
   "lodId": "KRANK1"
  },
  {
@@ -1054,8 +1057,8 @@
   "gender": "",
   "level": "A2",
   "category": "states",
-  "ex_lb": "Iesst gesond a bleift fit.",
-  "ex_en": "Eat healthy and stay fit.",
+  "ex_lb": "De Patient ass erëm gesond.",
+  "ex_en": "The patient is healthy again.",
   "lodId": "GESOND1"
  },
  {
@@ -1067,8 +1070,8 @@
   "gender": "",
   "level": "B1",
   "category": "states",
-  "ex_lb": "Moies sinn ech direkt wakereg.",
-  "ex_en": "In the morning I am right away awake.",
+  "ex_lb": "No där Opreegung louch ech déi ganz Nuecht wakereg.",
+  "ex_en": "After all that excitement I lay awake all night.",
   "lodId": "WAKEREG1"
  },
  {
@@ -1080,8 +1083,8 @@
   "gender": "",
   "level": "B2",
   "category": "feelings",
-  "ex_lb": "Ech sinn dovun iwwerzeegt.",
-  "ex_en": "I am convinced of that.",
+  "ex_lb": "Mäi Frënd ass en iwwerzeegte Vegetarier.",
+  "ex_en": "My friend is a committed vegetarian.",
   "lodId": "IWWERZEEGT1"
  },
  {
@@ -1093,8 +1096,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Et ass ganz waarm haut.",
-  "ex_en": "It is very warm today.",
+  "ex_lb": "De Papp ass ganz opgereegt vum Stull opgesprongen.",
+  "ex_en": "Dad jumped up from his chair, very agitated.",
   "lodId": "GANZ2"
  },
  {
@@ -1106,8 +1109,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "De Kaffi ass ze haass.",
-  "ex_en": "The coffee is too hot.",
+  "ex_lb": "Ech kann elo kee Congé huelen, ech hunn ze vill Aarbecht um Büro.",
+  "ex_en": "I can't take leave now, I have too much work at the office.",
   "lodId": "ZE1"
  },
  {
@@ -1131,8 +1134,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Ech hu vill ze dinn.",
-  "ex_en": "I have a lot to do.",
+  "ex_lb": "An deem Buttek ass d'Uebst vill ze deier.",
+  "ex_en": "In that shop the fruit is much too expensive.",
   "lodId": "VILL1"
  },
  {
@@ -1144,9 +1147,9 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Hien iesst ganz wéineg.",
-  "ex_en": "He eats very little.",
-  "lodId": "WEINEG1"
+  "ex_lb": "De leschte Mount ass wéineg Ree gefall.",
+  "ex_en": "Little rain fell last month.",
+  "lodId": "WEINEG2"
  },
  {
   "lb": "genuch",
@@ -1157,12 +1160,12 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Mir hu genuch Zäit.",
-  "ex_en": "We have enough time.",
+  "ex_lb": "Et sinn nach genuch fräi Plazen do.",
+  "ex_en": "There are still enough free seats.",
   "lodId": "GENUCH1"
  },
  {
-  "lb": "fast",
+  "lb": "quasi",
   "en": "almost",
   "de": "fast",
   "fr": "presque",
@@ -1170,8 +1173,9 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Ech si fast fäerdeg.",
-  "ex_en": "I am almost finished."
+  "ex_lb": "Hautdesdaags huet quasi jiddereen en Handy.",
+  "ex_en": "Nowadays almost everyone has a mobile phone.",
+  "lodId": "QUASI1"
  },
  {
   "lb": "esou",
@@ -1182,8 +1186,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Wéi kann dat esou deier sinn?",
-  "ex_en": "How can that be so expensive?",
+  "ex_lb": "Sief dach net esou bornéiert!",
+  "ex_en": "Don't be so narrow-minded!",
   "lodId": "ESOU1"
  },
  {
@@ -1195,12 +1199,12 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Dat ass wierklech flott.",
-  "ex_en": "That is really nice.",
+  "ex_lb": "Hien huet sech wierklech kräizdomm ugeluecht.",
+  "ex_en": "He really behaved incredibly stupidly.",
   "lodId": "WIERKLECH1"
  },
  {
-  "lb": "absolutt",
+  "lb": "absolut",
   "en": "absolutely",
   "de": "absolut",
   "fr": "absolument",
@@ -1208,8 +1212,9 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Du hues absolutt Recht.",
-  "ex_en": "You are absolutely right."
+  "ex_lb": "Du hues absolut Recht!",
+  "ex_en": "You're absolutely right!",
+  "lodId": "ABSOLUT2"
  },
  {
   "lb": "komplett",
@@ -1220,8 +1225,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Ech hunn et komplett vergiess.",
-  "ex_en": "I completely forgot it.",
+  "ex_lb": "Däin Dossier gëtt nëmmen ugeholl, wann e komplett ass.",
+  "ex_en": "Your file will only be accepted if it's complete.",
   "lodId": "KOMPLETT1"
  },
  {
@@ -1233,8 +1238,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Besonnesch elo ass et wichteg.",
-  "ex_en": "Especially now it is important.",
+  "ex_lb": "Meng Jugend war eng besonnesch glécklech Zäit.",
+  "ex_en": "My youth was a particularly happy time.",
   "lodId": "BESONNESCH2"
  },
  {
@@ -1246,8 +1251,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Si ass ëmmer prett.",
-  "ex_en": "She is always ready.",
+  "ex_lb": "Et kann een ëmmer op dech zielen!",
+  "ex_en": "One can always count on you!",
   "lodId": "EMMER1"
  },
  {
@@ -1259,8 +1264,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Mir ginn dacks an d'Kino.",
-  "ex_en": "We often go to the cinema.",
+  "ex_lb": "Wéi dacks muss de bäilafen, ier s de bäiléiers?",
+  "ex_en": "How often must you get burned before you learn?",
   "lodId": "DACKS1"
  },
  {
@@ -1272,8 +1277,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Heiansdo kachen ech doheem.",
-  "ex_en": "Sometimes I cook at home.",
+  "ex_lb": "Ech ginn heiansdo sonndes Vëlo fueren.",
+  "ex_en": "I sometimes go cycling on Sundays.",
   "lodId": "HEIANSDO1"
  },
  {
@@ -1285,8 +1290,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Mir gesinn eis seelen.",
-  "ex_en": "We rarely see each other.",
+  "ex_lb": "Eng Sonnenfinsternis ass e seelent Ereegnes.",
+  "ex_en": "A solar eclipse is a rare event.",
   "lodId": "SEELEN1"
  },
  {
@@ -1298,8 +1303,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Ech rauchen ni.",
-  "ex_en": "I never smoke.",
+  "ex_lb": "Dat ass ni wouer!",
+  "ex_en": "That's never true!",
   "lodId": "NI1"
  },
  {
@@ -1311,8 +1316,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Meeschtens iessen ech doheem.",
-  "ex_en": "Mostly I eat at home.",
+  "ex_lb": "D'Bioproduite si meeschtens méi deier ewéi déi aner.",
+  "ex_en": "Organic products are usually more expensive than the others.",
   "lodId": "MEESCHTENS1"
  },
  {
@@ -1324,8 +1329,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Normalerweis stinn ech um siwen op.",
-  "ex_en": "Usually I get up at seven.",
+  "ex_lb": "Normalerweis ginn ech mat menger Fra schwammen, haut ginn ech eleng.",
+  "ex_en": "Normally I go swimming with my wife, today I'm going alone.",
   "lodId": "NORMALERWEIS1"
  },
  {
@@ -1337,8 +1342,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Si sinn scho fort.",
-  "ex_en": "They are already gone."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "nach",
@@ -1349,8 +1354,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Ech sinn nach hei.",
-  "ex_en": "I am still here.",
+  "ex_lb": "Däerf ech Iech nach eppes zerwéieren?",
+  "ex_en": "May I serve you anything else?",
   "lodId": "NACH1"
  },
  {
@@ -1362,8 +1367,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Ech kommen och mat.",
-  "ex_en": "I am coming along too.",
+  "ex_lb": "Gees du och mat an de Kino?",
+  "ex_en": "Are you coming to the cinema too?",
   "lodId": "OCH1"
  },
  {
@@ -1375,8 +1380,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Ech sinn just ukomm.",
-  "ex_en": "I have just arrived.",
+  "ex_lb": "Hie kuckt just no sech!",
+  "ex_en": "He only looks out for himself!",
   "lodId": "JUST2"
  },
  {
@@ -1401,8 +1406,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Hie kënnt bestëmmt.",
-  "ex_en": "He will surely come.",
+  "ex_lb": "Du hues bestëmmt Recht mat denger Iwwerleeung.",
+  "ex_en": "You're surely right in your thinking.",
   "lodId": "BESTEMMT2"
  },
  {
@@ -1414,8 +1419,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "D'Gesellschaft ännert sech séier.",
-  "ex_en": "Society is changing fast.",
+  "ex_lb": "Bei deene Leit bass de a gudder Gesellschaft.",
+  "ex_en": "You're in good company with those people.",
   "lodId": "GESELLSCHAFT1"
  },
  {
@@ -1427,8 +1432,8 @@
   "gender": "",
   "level": "A1",
   "category": "society",
-  "ex_lb": "Vill Leit waren do.",
-  "ex_en": "Many people were there.",
+  "ex_lb": "Et hate sech nëmmen zéng Leit fir eisen Trëppeltour ugemellt.",
+  "ex_en": "Only ten people signed up for our walking tour.",
   "lodId": "LEIT1"
  },
  {
@@ -1440,8 +1445,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Mir liewen an enger klenger Gemeinschaft.",
-  "ex_en": "We live in a small community.",
+  "ex_lb": "An eisem Land gëtt et eng kleng Gemeinschaft vun indoneeseschen Immigranten.",
+  "ex_en": "In our country there's a small community of Indonesian immigrants.",
   "lodId": "GEMEINSCHAFT1"
  },
  {
@@ -1453,8 +1458,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "D'lëtzebuergesch Kultur ass räich.",
-  "ex_en": "Luxembourgish culture is rich.",
+  "ex_lb": "Vill Immigrante wëllen hir Kultur net opginn.",
+  "ex_en": "Many immigrants don't want to give up their culture.",
   "lodId": "KULTUR1"
  },
  {
@@ -1466,8 +1471,8 @@
   "gender": "f",
   "level": "A2",
   "category": "society",
-  "ex_lb": "Lëtzebuergesch ass eng schéin Sprooch.",
-  "ex_en": "Luxembourgish is a beautiful language.",
+  "ex_lb": "Dësen Dolmetscher schwätzt siwe Sproochen.",
+  "ex_en": "This interpreter speaks seven languages.",
   "lodId": "SPROOCH1"
  },
  {
@@ -1479,12 +1484,12 @@
   "gender": "f",
   "level": "A1",
   "category": "society",
-  "ex_lb": "Meng Famill wunnt zu Lëtzebuerg.",
-  "ex_en": "My family lives in Luxembourg.",
+  "ex_lb": "Op der Spillplaz ware vill Famille mat klenge Kanner.",
+  "ex_en": "There were many families with small children at the playground.",
   "lodId": "FAMILL1"
  },
  {
-  "lb": "d'Tradition",
+  "lb": "d'Traditioun",
   "en": "tradition",
   "de": "die Tradition",
   "fr": "la tradition",
@@ -1492,11 +1497,12 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Dat ass eng al Tradition.",
-  "ex_en": "That is an old tradition."
+  "ex_lb": "Allerhellege gi vill Leit just aus Traditioun op d'Griewer.",
+  "ex_en": "On All Saints' Day many people visit the graves just out of tradition.",
+  "lodId": "TRADITIOUN1"
  },
  {
-  "lb": "d'Reliéioun",
+  "lb": "d'Relioun",
   "en": "religion",
   "de": "die Religion",
   "fr": "la religion",
@@ -1504,8 +1510,9 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Hie schwätzt net iwwer Reliéioun.",
-  "ex_en": "He doesn't talk about religion."
+  "ex_lb": "Verschidde Relioune schreiwen eng Faaschtenzäit vir.",
+  "ex_en": "Some religions prescribe a period of fasting.",
+  "lodId": "RELIOUN1"
  },
  {
   "lb": "d'Migratioun",
@@ -1516,8 +1523,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "D'Migratioun ass en aktuellt Thema.",
-  "ex_en": "Migration is a current topic.",
+  "ex_lb": "Migratioun, Ëmwelt a Sécherheet waren d'Haapttheeme vun der Walcampagne.",
+  "ex_en": "Migration, the environment and security were the main themes of the election campaign.",
   "lodId": "MIGRATIOUN1"
  },
  {
@@ -1529,8 +1536,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "D'Integratioun brauch Zäit.",
-  "ex_en": "Integration takes time.",
+  "ex_lb": "D'Integratioun vun den Auslänner ass eng politesch Prioritéit.",
+  "ex_en": "The integration of foreigners is a political priority.",
   "lodId": "INTEGRATIOUN1"
  },
  {
@@ -1542,8 +1549,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "Mir kämpfen fir d'Gläichheet.",
-  "ex_en": "We fight for equality.",
+  "ex_lb": "D'Gläichheet vun alle Bierger ass e Grondprinzip vun der Demokratie.",
+  "ex_en": "Equality of all citizens is a basic principle of democracy.",
   "lodId": "GLAICHHEET1"
  },
  {
@@ -1555,8 +1562,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "D'Fräiheet ass wichteg.",
-  "ex_en": "Freedom is important.",
+  "ex_lb": "Deen Tyrann hëlt dem Vollek all Fräiheeten.",
+  "ex_en": "That tyrant takes away all the people's freedoms.",
   "lodId": "FRAIHEET1"
  },
  {
@@ -1568,8 +1575,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "Si verlaangen Gerechtegkeet.",
-  "ex_en": "They demand justice.",
+  "ex_lb": "Et gëtt keng Gerechtegkeet méi op dëser Welt!",
+  "ex_en": "There's no justice left in this world!",
   "lodId": "GERECHTEGKEET1"
  },
  {
@@ -1593,8 +1600,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "Si kämpfen géint d'Aarmut.",
-  "ex_en": "They fight against poverty.",
+  "ex_lb": "Si liewen a batterer Aarmut.",
+  "ex_en": "They live in bitter poverty.",
   "lodId": "AARMUT1"
  },
  {
@@ -1606,8 +1613,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Bildung ass de Schlëssel zum Succès.",
-  "ex_en": "Education is the key to success.",
+  "ex_lb": "Eng gutt Bildung ass wichteg fir d'Zukunft vun de Kanner.",
+  "ex_en": "A good education is important for children's future.",
   "lodId": "BILDUNG1"
  },
  {
@@ -1619,8 +1626,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Déi jonk Generatioun denkt anescht.",
-  "ex_en": "The young generation thinks differently.",
+  "ex_lb": "Fréier hunn alt dräi Generatiounen an engem Haus gewunnt.",
+  "ex_en": "In the old days three generations often lived in one house.",
   "lodId": "GENERATIOUN1"
  },
  {
@@ -1632,8 +1639,8 @@
   "gender": "f",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "Hie interesséiert sech fir Politik.",
-  "ex_en": "He is interested in politics.",
+  "ex_lb": "Déi haiteg Regierung mécht eng liberal Politik.",
+  "ex_en": "The current government pursues a liberal policy.",
   "lodId": "POLITIK1"
  },
  {
@@ -1645,8 +1652,8 @@
   "gender": "f",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "D'Regierung huet eng nei Léi gestëmmt.",
-  "ex_en": "The government passed a new law.",
+  "ex_lb": "Déi nei Regierung gouf gëschter vereedegt.",
+  "ex_en": "The new government was sworn in yesterday.",
   "lodId": "REGIERUNG1"
  },
  {
@@ -1658,8 +1665,8 @@
   "gender": "m",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "De Staat bezilt d'Schoulen.",
-  "ex_en": "The state pays for the schools.",
+  "ex_lb": "Déi meescht Staaten hunn dës Konventioun ratifizéiert.",
+  "ex_en": "Most states have ratified this convention.",
   "lodId": "STAAT1"
  },
  {
@@ -1671,8 +1678,8 @@
   "gender": "m",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "De Minister huet eng Ried gehalen.",
-  "ex_en": "The minister gave a speech.",
+  "ex_lb": "D'Ministere gesi sech meeschtens eemol d'Woch am Regierungsrot.",
+  "ex_en": "The ministers usually meet once a week in the cabinet.",
   "lodId": "MINISTER1"
  },
  {
@@ -1684,21 +1691,22 @@
   "gender": "m",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "De Premier huet d'Land vertrueden.",
-  "ex_en": "The prime minister represented the country.",
+  "ex_lb": "De Premier huet an der Chamber eng wichteg Erklärung ofginn.",
+  "ex_en": "The prime minister made an important statement in parliament.",
   "lodId": "PREMIER1"
  },
  {
-  "lb": "d'Wahlen",
+  "lb": "d'Wal",
   "en": "elections",
   "de": "die Wahlen",
   "fr": "les élections",
   "pos": "noun",
-  "gender": "",
+  "gender": "f",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "D'Wahlen sinn am Hierscht.",
-  "ex_en": "The elections are in autumn."
+  "ex_lb": "Déi nei Partei huet bei de Walen eelef Prozent vun de Stëmme kritt.",
+  "ex_en": "The new party got eleven percent of the vote in the elections.",
+  "lodId": "WAL1"
  },
  {
   "lb": "wielen",
@@ -1709,8 +1717,8 @@
   "gender": "",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "Du muss um Sonndeg wielen.",
-  "ex_en": "You have to vote on Sunday.",
+  "ex_lb": "Bei der Reservatioun kann ee seng Plaz online wielen.",
+  "ex_en": "When booking you can choose your seat online.",
   "lodId": "WIELEN1"
  },
  {
@@ -1722,8 +1730,8 @@
   "gender": "f",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "Wéi eng Partei hues du gewielt?",
-  "ex_en": "Which party did you vote for?",
+  "ex_lb": "Eis Partei huet aacht Sëtz an der Chamber.",
+  "ex_en": "Our party has eight seats in parliament.",
   "lodId": "PARTEI1"
  },
  {
@@ -1735,8 +1743,8 @@
   "gender": "f",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "Lëtzebuerg ass eng Demokratie.",
-  "ex_en": "Luxembourg is a democracy.",
+  "ex_lb": "D'Demokratie garantéiert alle Bierger déi selwecht Grondrechter.",
+  "ex_en": "Democracy guarantees all citizens the same fundamental rights.",
   "lodId": "DEMOKRATIE1"
  },
  {
@@ -1748,8 +1756,8 @@
   "gender": "n",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "Dat neit Gesetz trëtt muer a Kraaft.",
-  "ex_en": "The new law comes into force tomorrow.",
+  "ex_lb": "Dat ass en ongeschriwwent Gesetz!",
+  "ex_en": "That's an unwritten law!",
   "lodId": "GESETZ1"
  },
  {
@@ -1761,8 +1769,8 @@
   "gender": "f",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "Mir musse Steiere bezuelen.",
-  "ex_en": "We have to pay taxes.",
+  "ex_lb": "Dëst Joer hunn ech nach Steieren nozebezuelen.",
+  "ex_en": "This year I still have to pay back taxes.",
   "lodId": "STEIER1"
  },
  {
@@ -1774,8 +1782,8 @@
   "gender": "n",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "D'Chamber ass d'Parlament.",
-  "ex_en": "The Chamber is the parliament.",
+  "ex_lb": "D'Fassad vum Parlament gëtt restauréiert.",
+  "ex_en": "The façade of the parliament is being restored.",
   "lodId": "PARLAMENT1"
  },
  {
@@ -1787,8 +1795,8 @@
   "gender": "m",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "De President hält haut eng Ried.",
-  "ex_en": "The president gives a speech today.",
+  "ex_lb": "De President huet säi Veeto géint d'Gesetz ageluecht.",
+  "ex_en": "The president vetoed the law.",
   "lodId": "PRESIDENT1"
  },
  {
@@ -1800,8 +1808,8 @@
   "gender": "m",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "De Buergermeeschter huet d'Fest opgemaach.",
-  "ex_en": "The mayor opened the festival.",
+  "ex_lb": "D'Buergermeeschtere vum ganze Land kommen eemol am Joer zesummen.",
+  "ex_en": "The mayors from all over the country meet once a year.",
   "lodId": "BUERGERMEESCHTER1"
  },
  {
@@ -1813,8 +1821,8 @@
   "gender": "f",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "D'Gemeng organiséiert de Maart.",
-  "ex_en": "The municipality organises the market.",
+  "ex_lb": "Mäin Neveu schafft op der Gemeng.",
+  "ex_en": "My nephew works at the town hall.",
   "lodId": "GEMENG1"
  },
  {
@@ -1826,8 +1834,8 @@
   "gender": "f",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "Lëtzebuerg ass an der Europäescher Unioun.",
-  "ex_en": "Luxembourg is in the European Union.",
+  "ex_lb": "Wéi vill Länner sinn eigentlech Member vun der Europäescher Unioun?",
+  "ex_en": "How many countries are actually members of the European Union?",
   "lodId": "EUROPAESCHUNIOUN1"
  },
  {
@@ -1839,8 +1847,8 @@
   "gender": "f",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "D'Grenz ass net wäit ewech.",
-  "ex_en": "The border is not far away.",
+  "ex_lb": "D'Grenzen an Europa ginn ëmmer méi ofgeschaaft.",
+  "ex_en": "Borders in Europe are being abolished more and more.",
   "lodId": "GRENZ1"
  },
  {
@@ -1852,8 +1860,8 @@
   "gender": "m",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "Kee Mënsch wëllt e Krich.",
-  "ex_en": "Nobody wants a war.",
+  "ex_lb": "Am Krich gouf e groussen Deel vum Duerf zerstéiert.",
+  "ex_en": "In the war a large part of the village was destroyed.",
   "lodId": "KRICH1"
  },
  {
@@ -1865,8 +1873,8 @@
   "gender": "m",
   "level": "B1",
   "category": "politics",
-  "ex_lb": "Mir wënsche Fridden op der Welt.",
-  "ex_en": "We wish for peace in the world.",
+  "ex_lb": "Hie lieft am Fridde mat alle Leit.",
+  "ex_en": "He lives at peace with everyone.",
   "lodId": "FRIDDEN1"
  },
  {
@@ -1878,8 +1886,8 @@
   "gender": "m",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "Mäi Computer ass kabott.",
-  "ex_en": "My computer is broken.",
+  "ex_lb": "D'Computere ginn ëmmer méi bëlleg.",
+  "ex_en": "Computers keep getting cheaper.",
   "lodId": "COMPUTER1"
  },
  {
@@ -1891,8 +1899,8 @@
   "gender": "m",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "Den Internet ass haut lues.",
-  "ex_en": "The internet is slow today.",
+  "ex_lb": "Wéi, hues du keen Internet?",
+  "ex_en": "What, you don't have internet?",
   "lodId": "INTERNET1"
  },
  {
@@ -1904,8 +1912,8 @@
   "gender": "m",
   "level": "A1",
   "category": "tech",
-  "ex_lb": "Mäin Handy ass eidel.",
-  "ex_en": "My phone is dead.",
+  "ex_lb": "An der Schoul mussen d'Schüler den Handy ausmaachen.",
+  "ex_en": "At school the pupils have to switch off their mobiles.",
   "lodId": "HANDY1"
  },
  {
@@ -1917,8 +1925,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "De Bildschierm ass ze hell.",
-  "ex_en": "The screen is too bright.",
+  "ex_lb": "Wann ech ze laang op de Bildschierm kucken, kréien ech de Kapp wéi.",
+  "ex_en": "When I look at the screen for too long, I get a headache.",
   "lodId": "BILDSCHIERM1"
  },
  {
@@ -1930,8 +1938,8 @@
   "gender": "f",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "D'Tastatur funktionéiert net.",
-  "ex_en": "The keyboard doesn't work.",
+  "ex_lb": "Deng Tastatur war net un de Computer ugeschloss.",
+  "ex_en": "Your keyboard wasn't connected to the computer.",
   "lodId": "TASTATUR1"
  },
  {
@@ -1943,8 +1951,8 @@
   "gender": "f",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "Lued dës App erof.",
-  "ex_en": "Download this app.",
+  "ex_lb": "Vun dësem flotten Dictionnaire gëtt et och elo eng App!",
+  "ex_en": "This great dictionary now has an app too!",
   "lodId": "APP1"
  },
  {
@@ -1956,8 +1964,8 @@
   "gender": "f",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "D'Websäit ass net erreechbar.",
-  "ex_en": "The website is not reachable.",
+  "ex_lb": "Eis Informatikerin setzt eis eng Websäit mat engem Kontaktformulaire bäi.",
+  "ex_en": "Our IT specialist is setting up a website for us with a contact form.",
   "lodId": "WEBSAIT1"
  },
  {
@@ -1969,8 +1977,8 @@
   "gender": "f",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "Ech schécken dir eng E-Mail.",
-  "ex_en": "I'll send you an email.",
+  "ex_lb": "Ech souz de ganzen Owend um Computer, E-Mailen ze schreiwen!",
+  "ex_en": "I sat at the computer all evening writing emails!",
   "lodId": "EMAIL3"
  },
  {
@@ -1982,8 +1990,8 @@
   "gender": "n",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Ech hu mäi Passwuert vergiess.",
-  "ex_en": "I forgot my password.",
+  "ex_lb": "Du muss däi Passwuert aginn, fir dech anzeloggen.",
+  "ex_en": "You have to enter your password to log in.",
   "lodId": "PASSWUERT1"
  },
  {
@@ -1995,12 +2003,12 @@
   "gender": "",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Du kanns d'Datei eroflueden.",
-  "ex_en": "You can download the file.",
+  "ex_lb": "Dir kënnt Iech déi néideg Formulairë vun eiser Internetsäit eroflueden.",
+  "ex_en": "You can download the necessary forms from our website.",
   "lodId": "EROFLUEDEN1"
  },
  {
-  "lb": "eropueden",
+  "lb": "eroplueden",
   "en": "to upload",
   "de": "hochladen",
   "fr": "téléverser",
@@ -2008,8 +2016,9 @@
   "gender": "",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Ech lueden d'Foto erop.",
-  "ex_en": "I am uploading the photo."
+  "ex_lb": "Ass nach genuch Plaz op eisem Server, fir deen décke Fichier eropzelueden?",
+  "ex_en": "Is there still enough space on our server to upload that big file?",
+  "lodId": "EROPLUEDEN1"
  },
  {
   "lb": "klicken",
@@ -2020,8 +2029,8 @@
   "gender": "",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "Klick op de Knäppchen.",
-  "ex_en": "Click on the button.",
+  "ex_lb": "Et huet eppes am Motor geklickt, dunn ass en ausgaangen.",
+  "ex_en": "Something clicked in the engine, then it stalled.",
   "lodId": "KLICKEN1"
  },
  {
@@ -2033,8 +2042,8 @@
   "gender": "",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Vergiess net ze späicheren.",
-  "ex_en": "Don't forget to save.",
+  "ex_lb": "Dat Gëft gëtt laang am Organismus gespäichert.",
+  "ex_en": "That poison is stored in the body for a long time.",
   "lodId": "SPAICHEREN1"
  },
  {
@@ -2046,8 +2055,8 @@
   "gender": "f",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Déi Datei ass ze grouss.",
-  "ex_en": "That file is too big.",
+  "ex_lb": "An där Datei ginn d'Fichen dem Alphabet no klasséiert.",
+  "ex_en": "In that card index the cards are filed alphabetically.",
   "lodId": "DATEI1"
  },
  {
@@ -2071,8 +2080,8 @@
   "gender": "m",
   "level": "B2",
   "category": "tech",
-  "ex_lb": "De Server ass net erreechbar.",
-  "ex_en": "The server is not reachable.",
+  "ex_lb": "E gewëtzten Hacker hat et schonn e puermol op eise Server ofgesinn.",
+  "ex_en": "A cunning hacker has had his eye on our server several times.",
   "lodId": "SERVER1"
  },
  {
@@ -2084,8 +2093,8 @@
   "gender": "m",
   "level": "B2",
   "category": "tech",
-  "ex_lb": "De Reseau ass schlecht.",
-  "ex_en": "The network is bad.",
+  "ex_lb": "Dat aalt Kraaftwierk gouf vum Reseau geholl.",
+  "ex_en": "The old power station was taken off the grid.",
   "lodId": "RESEAU1"
  },
  {
@@ -2097,8 +2106,8 @@
   "gender": "f",
   "level": "B2",
   "category": "tech",
-  "ex_lb": "Kënschtlech Intelligenz ännert d'Aarbecht.",
-  "ex_en": "Artificial intelligence changes work.",
+  "ex_lb": "Den Asaz vu Kënschtlecher Intelligenz bréngt dacks eethesch a sozial Erausfuerderunge mat sech.",
+  "ex_en": "The use of artificial intelligence often brings ethical and social challenges.",
   "lodId": "KENSCHTLECHINTELLIGENZ1"
  },
  {
@@ -2110,8 +2119,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Dëse Programm ass ganz nëtzlech.",
-  "ex_en": "This program is very useful.",
+  "ex_lb": "Wat hues du haut um Programm?",
+  "ex_en": "What's on your schedule today?",
   "lodId": "PROGRAMM1"
  },
  {
@@ -2123,8 +2132,8 @@
   "gender": "",
   "level": "B2",
   "category": "tech",
-  "ex_lb": "Hie léiert programméieren.",
-  "ex_en": "He is learning to program.",
+  "ex_lb": "Dës Saison huet den Theater zwou Uropféierunge programméiert.",
+  "ex_en": "This season the theatre has scheduled two world premieres.",
   "lodId": "PROGRAMMEIEREN1"
  },
  {
@@ -2136,8 +2145,8 @@
   "gender": "",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "Ech kafe gär online an.",
-  "ex_en": "I like to shop online.",
+  "ex_lb": "Mir bestellen eis Bicher online.",
+  "ex_en": "We order our books online.",
   "lodId": "ONLINE1"
  },
  {
@@ -2149,8 +2158,8 @@
   "gender": "",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Alles gëtt méi digital.",
-  "ex_en": "Everything is becoming more digital.",
+  "ex_lb": "Déi digital Fotografie huet déi analog verdrängt.",
+  "ex_en": "Digital photography has replaced analogue.",
   "lodId": "DIGITAL1"
  },
  {
@@ -2162,8 +2171,8 @@
   "gender": "f",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "D'Sécherheet vun den Daten ass wichteg.",
-  "ex_en": "The security of the data is important.",
+  "ex_lb": "Eng extra Kommissioun bekëmmert sech ëm d'Sécherheet vun de Gebaier.",
+  "ex_en": "A special committee looks after the safety of the buildings.",
   "lodId": "SECHERHEET1"
  },
  {
@@ -2175,8 +2184,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Mäi Computer huet e Virus.",
-  "ex_en": "My computer has a virus.",
+  "ex_lb": "Géint e Virus hëlleft keen Antibiotique.",
+  "ex_en": "Antibiotics don't help against a virus.",
   "lodId": "VIRUS1"
  },
  {
@@ -2200,8 +2209,8 @@
   "gender": "f",
   "level": "A2",
   "category": "media",
-  "ex_lb": "Ech hunn eng Noriicht kritt.",
-  "ex_en": "I received a message.",
+  "ex_lb": "Ech kucken all Owend d'Noriichten op der Tëlee.",
+  "ex_en": "I watch the news on TV every evening.",
   "lodId": "NORIICHT1"
  },
  {
@@ -2225,8 +2234,8 @@
   "gender": "f",
   "level": "A2",
   "category": "media",
-  "ex_lb": "Ech liesen all Dag d'Zeitung.",
-  "ex_en": "I read the newspaper every day.",
+  "ex_lb": "Mir sinn op zwou Zeitungen abonéiert.",
+  "ex_en": "We subscribe to two newspapers.",
   "lodId": "ZEITUNG2"
  },
  {
@@ -2238,8 +2247,8 @@
   "gender": "m",
   "level": "A2",
   "category": "media",
-  "ex_lb": "Am Auto lauschteren ech Radio.",
-  "ex_en": "In the car I listen to the radio.",
+  "ex_lb": "D'Journalistin huet eng eege Sendung um Radio.",
+  "ex_en": "The journalist has her own programme on the radio.",
   "lodId": "RADIO1"
  },
  {
@@ -2264,8 +2273,8 @@
   "gender": "f",
   "level": "B1",
   "category": "media",
-  "ex_lb": "Déi Annonce ass iwwerall.",
-  "ex_en": "That advertisement is everywhere.",
+  "ex_lb": "Ech hu bis elo nach ni op eng Annonce geäntwert.",
+  "ex_en": "I've never answered an advert before.",
   "lodId": "ANNONCE1"
  },
  {
@@ -2277,8 +2286,8 @@
   "gender": "m",
   "level": "B1",
   "category": "media",
-  "ex_lb": "De Journalist huet e gudden Artikel geschriwwen.",
-  "ex_en": "The journalist wrote a good article.",
+  "ex_lb": "Hien ass Journalist bei enger grousser auslännescher Zeitung.",
+  "ex_en": "He is a journalist at a big foreign newspaper.",
   "lodId": "JOURNALIST1"
  },
  {
@@ -2290,8 +2299,8 @@
   "gender": "m",
   "level": "B1",
   "category": "media",
-  "ex_lb": "Ech hunn den Artikel gelies.",
-  "ex_en": "I read the article.",
+  "ex_lb": "Kanns de wannechgelift am Wierderbuch den Artikel „Zuch“ nosichen?",
+  "ex_en": "Could you please look up the entry \"Zuch\" in the dictionary?",
   "lodId": "ARTIKEL1"
  },
  {
@@ -2303,8 +2312,8 @@
   "gender": "f",
   "level": "A2",
   "category": "media",
-  "ex_lb": "Ech brauch méi Informatiounen.",
-  "ex_en": "I need more information.",
+  "ex_lb": "Ech brauch nach eng Rei Informatiounen, ier ech mech decidéieren.",
+  "ex_en": "I still need some information before I decide.",
   "lodId": "INFORMATIOUN1"
  },
  {
@@ -2316,8 +2325,8 @@
   "gender": "",
   "level": "B1",
   "category": "communication",
-  "ex_lb": "Mir kommunizéieren iwwer Mail.",
-  "ex_en": "We communicate by mail.",
+  "ex_lb": "Et ass wichteg, datt déi verschidde Servicer uerdentlech matenee kommunizéieren.",
+  "ex_en": "It's important that the different departments communicate properly with each other.",
   "lodId": "KOMMUNIZEIEREN1"
  },
  {
@@ -2329,8 +2338,8 @@
   "gender": "f",
   "level": "B1",
   "category": "communication",
-  "ex_lb": "Gutt Kommunikatioun ass wichteg.",
-  "ex_en": "Good communication is important.",
+  "ex_lb": "Ech hu meng Kommunikatiounen all op mäin Handy ëmgeleet.",
+  "ex_en": "I've diverted all my calls to my mobile.",
   "lodId": "KOMMUNIKATIOUN1"
  },
  {
@@ -2342,8 +2351,8 @@
   "gender": "",
   "level": "A2",
   "category": "communication",
-  "ex_lb": "Ech ruffen dech haut owes un.",
-  "ex_en": "I'll call you tonight.",
+  "ex_lb": "Riffs de vun doheem aus un oder bass de ënnerwee?",
+  "ex_en": "Are you calling from home or are you out?",
   "lodId": "URUFFEN1"
  },
  {
@@ -2355,8 +2364,8 @@
   "gender": "",
   "level": "A1",
   "category": "communication",
-  "ex_lb": "Schreif mir eng Noriicht.",
-  "ex_en": "Write me a message.",
+  "ex_lb": "Schreift ären Numm op d'Prüfungsblat!",
+  "ex_en": "Write your name on the exam paper!",
   "lodId": "SCHREIWEN1"
  },
  {
@@ -2368,8 +2377,8 @@
   "gender": "f",
   "level": "A2",
   "category": "abstract",
-  "ex_lb": "Dat ass eng gutt Iddi.",
-  "ex_en": "That is a good idea.",
+  "ex_lb": "Hien huet ëmmer gutt Iddien.",
+  "ex_en": "He always has good ideas.",
   "lodId": "IDDI1"
  },
  {
@@ -2386,7 +2395,7 @@
   "lodId": "WOURECHT1"
  },
  {
-  "lb": "d'Liige",
+  "lb": "d'Ligen",
   "en": "lie",
   "de": "die Lüge",
   "fr": "le mensonge",
@@ -2394,8 +2403,9 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Dat war eng Liige.",
-  "ex_en": "That was a lie."
+  "ex_lb": "Mat Lige kënnt een net wäit.",
+  "ex_en": "Lies won't get you far.",
+  "lodId": "LIGEN1"
  },
  {
   "lb": "d'Hoffnung",
@@ -2406,8 +2416,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Mir verléieren d'Hoffnung net.",
-  "ex_en": "We don't lose hope.",
+  "ex_lb": "Si haten d'Hoffnung schonn opginn, datt aus hirem Fils nach eppes géif.",
+  "ex_en": "They had already given up hope that their son would amount to anything.",
   "lodId": "HOFFNUNG1"
  },
  {
@@ -2419,8 +2429,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Ech hunn Angscht virum Donner.",
-  "ex_en": "I am afraid of thunder.",
+  "ex_lb": "Ech hu keng Angscht viru Spannen.",
+  "ex_en": "I'm not afraid of spiders.",
   "lodId": "ANGSCHT1"
  },
  {
@@ -2432,12 +2442,12 @@
   "gender": "f",
   "level": "A2",
   "category": "abstract",
-  "ex_lb": "Léift ass méi staark wéi Haass.",
-  "ex_en": "Love is stronger than hate.",
+  "ex_lb": "Hatt huet him seng Léift ni gewisen.",
+  "ex_en": "She never showed him her love.",
   "lodId": "LEIFT1"
  },
  {
-  "lb": "d'Glécks",
+  "lb": "d'Gléck",
   "en": "luck",
   "de": "das Glück",
   "fr": "la chance",
@@ -2445,8 +2455,9 @@
   "gender": "n",
   "level": "A2",
   "category": "abstract",
-  "ex_lb": "Vill Gléck fir de Examen!",
-  "ex_en": "Good luck for the exam!"
+  "ex_lb": "Et kann ee keen zu sengem Gléck zwéngen!",
+  "ex_en": "You can't force anyone to be happy!",
+  "lodId": "GLECK1"
  },
  {
   "lb": "d'Zäit",
@@ -2457,8 +2468,8 @@
   "gender": "f",
   "level": "A1",
   "category": "abstract",
-  "ex_lb": "Ech hu keng Zäit haut.",
-  "ex_en": "I have no time today.",
+  "ex_lb": "D'Zäit bleift net stoen.",
+  "ex_en": "Time doesn't stand still.",
   "lodId": "ZAIT1"
  },
  {
@@ -2470,8 +2481,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Et gëtt eng aner Méiglechkeet.",
-  "ex_en": "There is another possibility.",
+  "ex_lb": "Well mäin Auto futti war, hat ech keng aner Méiglechkeet, wéi mam Zuch ze fueren.",
+  "ex_en": "Because my car was broken, I had no option but to take the train.",
   "lodId": "MEIGLECHKEET1"
  },
  {
@@ -2496,8 +2507,8 @@
   "gender": "n",
   "level": "A2",
   "category": "abstract",
-  "ex_lb": "Dat ass kee Problem.",
-  "ex_en": "That is no problem.",
+  "ex_lb": "Den Techniker konnt de Problem un der Elektronik séier behiewen.",
+  "ex_en": "The technician quickly fixed the problem with the electronics.",
   "lodId": "PROBLEM1"
  },
  {
@@ -2509,8 +2520,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Mir fanne sécher eng Léisung.",
-  "ex_en": "We'll surely find a solution.",
+  "ex_lb": "Kommt, mir sichen zesummen no enger Léisung!",
+  "ex_en": "Come on, let's look for a solution together!",
   "lodId": "LEISUNG1"
  },
  {
@@ -2522,8 +2533,8 @@
   "gender": "n",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Wëssen ass Muecht.",
-  "ex_en": "Knowledge is power.",
+  "ex_lb": "Kéints de eis hëllefen, hei ass däi Wësse gefrot!",
+  "ex_en": "Could you help us, your knowledge is needed here!",
   "lodId": "WESSEN1"
  },
  {
@@ -2535,12 +2546,12 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Si huet vill Erfarung.",
-  "ex_en": "She has a lot of experience.",
+  "ex_lb": "Meng Studienzäit war eng flott Erfarung.",
+  "ex_en": "My time as a student was a great experience.",
   "lodId": "ERFARUNG1"
  },
  {
-  "lb": "d'Mengung",
+  "lb": "d'Meenung",
   "en": "opinion",
   "de": "die Meinung",
   "fr": "l'opinion",
@@ -2548,8 +2559,9 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Wat ass deng Mengung dozou?",
-  "ex_en": "What is your opinion on that?"
+  "ex_lb": "Ech loossen hie bei senger Meenung.",
+  "ex_en": "I'll leave him to his opinion.",
+  "lodId": "MEENUNG1"
  },
  {
   "lb": "d'Decisioun",
@@ -2560,8 +2572,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Dat war eng schwéier Decisioun.",
-  "ex_en": "That was a difficult decision.",
+  "ex_lb": "Ech kann dir deng Decisiounen net ofhuelen.",
+  "ex_en": "I can't make your decisions for you.",
   "lodId": "DECISIOUN1"
  },
  {
@@ -2573,8 +2585,8 @@
   "gender": "m",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Dat mécht kee Sënn.",
-  "ex_en": "That makes no sense.",
+  "ex_lb": "Et gëtt Déieren, déi hunn e spezielle Sënn, deen dem Mënsch feelt.",
+  "ex_en": "There are animals with a special sense that humans lack.",
   "lodId": "SENN1"
  },
  {
@@ -2586,8 +2598,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Ech huelen d'Verantwortung.",
-  "ex_en": "I take the responsibility.",
+  "ex_lb": "Als Erzéier huet een eng grouss Verantwortung.",
+  "ex_en": "As an educator you have a great responsibility.",
   "lodId": "VERANTWORTUNG1"
  },
  {
@@ -2599,8 +2611,8 @@
   "gender": "m",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Respekt ass ganz wichteg.",
-  "ex_en": "Respect is very important.",
+  "ex_lb": "All Respekt fir deng Leeschtung am Concours!",
+  "ex_en": "Hats off to your performance in the competition!",
   "lodId": "RESPEKT1"
  },
  {
@@ -2612,8 +2624,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Eng Verännerung géif gutt din.",
-  "ex_en": "A change would do good.",
+  "ex_lb": "Kleng Verännerunge falen engem net ëmmer op.",
+  "ex_en": "Small changes aren't always noticeable.",
   "lodId": "VERANNERUNG1"
  },
  {
@@ -2625,8 +2637,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Mir denken un d'Zukunft.",
-  "ex_en": "We think about the future.",
+  "ex_lb": "Et ass mir net baang ëm meng Zukunft.",
+  "ex_en": "I'm not worried about my future.",
   "lodId": "ZUKUNFT1"
  },
  {
@@ -2638,8 +2650,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "D'Vergaangenheet kann ee net änneren.",
-  "ex_en": "You can't change the past.",
+  "ex_lb": "Dee Kärel huet eng kriminell Vergaangenheet.",
+  "ex_en": "That guy has a criminal past.",
   "lodId": "VERGAANGENHEET1"
  },
  {
@@ -2651,9 +2663,9 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "Moien, wéi geet et dir?",
-  "ex_en": "Hello, how are you?",
-  "lodId": "MOIEN2"
+  "ex_lb": "Mäi Papp mécht all Moien de Baart.",
+  "ex_en": "My dad shaves every morning.",
+  "lodId": "MOIEN1"
  },
  {
   "lb": "Äddi",
@@ -2664,12 +2676,12 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "Äddi, bis muer!",
-  "ex_en": "Goodbye, see you tomorrow!",
+  "ex_lb": "Äddi a schéine Weekend!",
+  "ex_en": "Goodbye and have a nice weekend!",
   "lodId": "ADDI2"
  },
  {
-  "lb": "Wann ech glift",
+  "lb": "wannechgelift",
   "en": "please",
   "de": "bitte",
   "fr": "s'il vous plaît",
@@ -2677,8 +2689,9 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "E Kaffi, wann ech glift.",
-  "ex_en": "A coffee, please."
+  "ex_lb": "Wéi vill Auer ass et, wannechgelift?",
+  "ex_en": "What time is it, please?",
+  "lodId": "WANNECHGELIFT1"
  },
  {
   "lb": "Merci",
@@ -2689,9 +2702,9 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "Merci villmools fir d'Hëllef.",
-  "ex_en": "Thank you very much for the help.",
-  "lodId": "MERCI2"
+  "ex_lb": "Als Merci krut ech e Fräibilljee.",
+  "ex_en": "As a thank-you I got a free ticket.",
+  "lodId": "MERCI1"
  },
  {
   "lb": "Pardon",
@@ -2702,8 +2715,8 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "Pardon, wou ass de Bahnhof?",
-  "ex_en": "Excuse me, where is the station?",
+  "ex_lb": "Pardon, ass dee Stull nach fräi?",
+  "ex_en": "Excuse me, is this chair free?",
   "lodId": "PARDON2"
  },
  {
@@ -2835,8 +2848,8 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "Hallo, wéi heescht du?",
-  "ex_en": "Hello, what's your name?"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "Ech verstinn net",
@@ -2955,8 +2968,8 @@
   "gender": "",
   "level": "A1",
   "category": "society",
-  "ex_lb": "Ech schaffe vu Méindeg bis Freideg.",
-  "ex_en": "I work from Monday to Friday.",
+  "ex_lb": "Ech hunn de ganzen Dag am Gaart geschafft.",
+  "ex_en": "I worked in the garden all day.",
   "lodId": "SCHAFFEN3"
  },
  {
@@ -2968,8 +2981,8 @@
   "gender": "",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Mir diskutéieren iwwer d'Zukunft.",
-  "ex_en": "We discuss the future.",
+  "ex_lb": "Ech diskutéiere gär mat him iwwer Theologie.",
+  "ex_en": "I like discussing theology with him.",
   "lodId": "DISKUTEIEREN1"
  },
  {
@@ -2981,8 +2994,8 @@
   "gender": "",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "D'Leit protestéieren géint d'Gesetz.",
-  "ex_en": "People protest against the law.",
+  "ex_lb": "Et huet kee Wäert ze protestéieren, et ass eeben esou!",
+  "ex_en": "There's no point protesting, that's just how it is!",
   "lodId": "PROTESTEIEREN1"
  },
  {
@@ -2994,8 +3007,8 @@
   "gender": "",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Mir ënnerstëtze dëse Projet.",
-  "ex_en": "We support this project.",
+  "ex_lb": "De Gemengerot ënnerstëtzt eis Initiativ.",
+  "ex_en": "The municipal council supports our initiative.",
   "lodId": "ENNERSTETZEN1"
  },
  {
@@ -3007,8 +3020,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "D'Wirtschaft wiisst dëst Joer.",
-  "ex_en": "The economy is growing this year.",
+  "ex_lb": "Wéi soll de Stot bei esou enger Wirtschaft senger Scholde lassginn?",
+  "ex_en": "How is the state supposed to get rid of its debts with an economy like this?",
   "lodId": "WIRTSCHAFT1"
  },
  {
@@ -3020,8 +3033,8 @@
   "gender": "f",
   "level": "A1",
   "category": "society",
-  "ex_lb": "Ech ginn op d'Aarbecht.",
-  "ex_en": "I am going to work.",
+  "ex_lb": "Hien huet vill Freed u senger Aarbecht.",
+  "ex_en": "He takes great pleasure in his work.",
   "lodId": "AARBECHT1"
  },
  {
@@ -3033,8 +3046,8 @@
   "gender": "n",
   "level": "B1",
   "category": "society",
-  "ex_lb": "D'Geschäft leeft gutt.",
-  "ex_en": "Business is going well.",
+  "ex_lb": "D'Geschäfter maachen haut schonn ëm fënnef Auer zou.",
+  "ex_en": "Today the shops already close at five o'clock.",
   "lodId": "GESCHAFT1"
  },
  {
@@ -3046,8 +3059,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Mir musse d'Ëmwelt schützen.",
-  "ex_en": "We must protect the environment.",
+  "ex_lb": "Eng propper Ëmwelt ass eis éischt Prioritéit!",
+  "ex_en": "A clean environment is our top priority!",
   "lodId": "EMWELT1"
  },
  {
@@ -3059,8 +3072,8 @@
   "gender": "m",
   "level": "B2",
   "category": "society",
-  "ex_lb": "De Klimawandel betrëfft eis all.",
-  "ex_en": "Climate change affects us all.",
+  "ex_lb": "Verschidden Naturkatastrophe sinn Zeeche vum Klimawandel.",
+  "ex_en": "Some natural disasters are signs of climate change.",
   "lodId": "KLIMAWANDEL1"
  },
  {
@@ -3072,8 +3085,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "D'Gesondheet ass dat Wichtegst.",
-  "ex_en": "Health is the most important thing.",
+  "ex_lb": "Du muss eppes fir deng Gesondheet maachen!",
+  "ex_en": "You have to do something for your health!",
   "lodId": "GESONDHEET1"
  },
  {
@@ -3085,8 +3098,8 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "D'Landschaft ass wonnerschéin.",
-  "ex_en": "The landscape is gorgeous.",
+  "ex_lb": "D'Braut koum an engem wonnerschéine wäisse Rack.",
+  "ex_en": "The bride arrived in a gorgeous white dress.",
   "lodId": "WONNERSCHEIN1"
  },
  {
@@ -3098,8 +3111,8 @@
   "gender": "",
   "level": "A1",
   "category": "adjective",
-  "ex_lb": "Dat war e flotten Owend.",
-  "ex_en": "That was a nice evening.",
+  "ex_lb": "Haut hues du awer e flotte Paltong un!",
+  "ex_en": "What a nice coat you're wearing today!",
   "lodId": "FLOTT2"
  },
  {
@@ -3112,7 +3125,7 @@
   "level": "A1",
   "category": "adjective",
   "ex_lb": "Dat ass eng super Iddi.",
-  "ex_en": "That is a great idea.",
+  "ex_en": "That's a great idea.",
   "lodId": "SUPER1"
  },
  {
@@ -3124,12 +3137,12 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Dës App ass ganz nëtzlech.",
-  "ex_en": "This app is very useful.",
+  "ex_lb": "Meng Mamm huet mer e puer nëtzlech Rotschléi mat op de Wee ginn.",
+  "ex_en": "My mum gave me some useful advice for the road.",
   "lodId": "NETZLECH1"
  },
  {
-  "lb": "nëtzlos",
+  "lb": "onnëtz",
   "en": "useless",
   "de": "nutzlos",
   "fr": "inutile",
@@ -3137,8 +3150,9 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Dat ass komplett nëtzlos.",
-  "ex_en": "That is completely useless."
+  "ex_lb": "Dat war en onnëtzen Effort!",
+  "ex_en": "That was a useless effort!",
+  "lodId": "ONNETZ1"
  },
  {
   "lb": "méiglech",
@@ -3149,8 +3163,8 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Ass dat iwwerhaapt méiglech?",
-  "ex_en": "Is that even possible?",
+  "ex_lb": "Komm wa méiglech direkt heem!",
+  "ex_en": "Come straight home if you can!",
   "lodId": "MEIGLECH1"
  },
  {
@@ -3162,8 +3176,8 @@
   "gender": "",
   "level": "B1",
   "category": "adjective",
-  "ex_lb": "Dat ass net onméiglech.",
-  "ex_en": "That is not impossible.",
+  "ex_lb": "Déi Aarbecht kann een onméiglech eleng maachen!",
+  "ex_en": "You can't possibly do that job on your own!",
   "lodId": "ONMEIGLECH1"
  },
  {
@@ -3175,8 +3189,8 @@
   "gender": "",
   "level": "A2",
   "category": "adjective",
-  "ex_lb": "Ass dëse Plaz fräi?",
-  "ex_en": "Is this seat free?",
+  "ex_lb": "D'Hénger lafe fräi ronderëm.",
+  "ex_en": "The hens run around freely.",
   "lodId": "FRAI1"
  },
  {
@@ -3200,8 +3214,8 @@
   "gender": "",
   "level": "B1",
   "category": "feelings",
-  "ex_lb": "Ech si mat der Aarbecht zefridden.",
-  "ex_en": "I am satisfied with the work.",
+  "ex_lb": "Mat deem Kompromëss war jiddereen zefridden.",
+  "ex_en": "Everyone was happy with that compromise.",
   "lodId": "ZEFRIDDEN1"
  },
  {
@@ -3213,12 +3227,12 @@
   "gender": "",
   "level": "B2",
   "category": "feelings",
-  "ex_lb": "De Client war onzefridden.",
-  "ex_en": "The customer was dissatisfied.",
+  "ex_lb": "Hien ass en onzefriddene Mënsch.",
+  "ex_en": "He is a perpetually dissatisfied person.",
   "lodId": "ONZEFRIDDEN1"
  },
  {
-  "lb": "rëlaxt",
+  "lb": "relax",
   "en": "relaxed",
   "de": "entspannt",
   "fr": "détendu",
@@ -3226,8 +3240,9 @@
   "gender": "",
   "level": "B1",
   "category": "feelings",
-  "ex_lb": "No de Vakanze sinn ech rëlaxt.",
-  "ex_en": "After the holidays I am relaxed."
+  "ex_lb": "Mir haten e richteg relaxe Weekend.",
+  "ex_en": "We had a really relaxed weekend.",
+  "lodId": "RELAX1"
  },
  {
   "lb": "gestresst",
@@ -3238,8 +3253,8 @@
   "gender": "",
   "level": "B1",
   "category": "feelings",
-  "ex_lb": "Virum Examen si mir gestresst.",
-  "ex_en": "Before the exam we are stressed.",
+  "ex_lb": "Firwat bass de an der Lescht ëmmer esou gestresst?",
+  "ex_en": "Why are you always so stressed lately?",
   "lodId": "GESTRESST1"
  },
  {
@@ -3251,8 +3266,8 @@
   "gender": "",
   "level": "B1",
   "category": "feelings",
-  "ex_lb": "Si ass verléift an hien.",
-  "ex_en": "She is in love with him.",
+  "ex_lb": "Déi zwee hunn sech ganz verléift an d'Ae gekuckt.",
+  "ex_en": "The two of them gazed lovingly into each other's eyes.",
   "lodId": "VERLEIFT1"
  },
  {
@@ -3264,8 +3279,8 @@
   "gender": "",
   "level": "A2",
   "category": "states",
-  "ex_lb": "Ech wunnen eleng.",
-  "ex_en": "I live alone.",
+  "ex_lb": "Mir dräi ware ganz eleng am Restaurant.",
+  "ex_en": "The three of us were all alone in the restaurant.",
   "lodId": "ELENG1"
  },
  {
@@ -3277,8 +3292,8 @@
   "gender": "",
   "level": "A1",
   "category": "adverb",
-  "ex_lb": "Mir schaffe gär zesummen.",
-  "ex_en": "We like to work together.",
+  "ex_lb": "Wann ech mäi Schnapp lass sinn, da gi mer zesumme schwammen.",
+  "ex_en": "When I've got rid of my cold, we'll go swimming together.",
   "lodId": "ZESUMMEN1"
  },
  {
@@ -3302,8 +3317,8 @@
   "gender": "",
   "level": "A2",
   "category": "phrase",
-  "ex_lb": "Natierlech hëllefen ech dir.",
-  "ex_en": "Of course I'll help you.",
+  "ex_lb": "Natierlech kachen ech der eppes, wann s de mech den Owend besiche kënns!",
+  "ex_en": "Of course I'll cook you something if you come to see me tonight!",
   "lodId": "NATIERLECH2"
  },
  {
@@ -3315,8 +3330,8 @@
   "gender": "",
   "level": "B2",
   "category": "phrase",
-  "ex_lb": "Selbstverständlech komme mir.",
-  "ex_en": "Naturally we will come.",
+  "ex_lb": "Et ass fir mech selbstverständlech, fir menge Frënn e Gefalen ze maachen.",
+  "ex_en": "For me it goes without saying that I do my friends a favour.",
   "lodId": "SELBSTVERSTANDLECH1"
  },
  {
@@ -3328,8 +3343,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Leider hunn ech keng Zäit.",
-  "ex_en": "Unfortunately I have no time.",
+  "ex_lb": "An der Vakanz hate mer leider keng Chance mam Wieder.",
+  "ex_en": "On holiday we unfortunately had no luck with the weather.",
   "lodId": "LEIDER1"
  },
  {
@@ -3353,8 +3368,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Dat gefält mir iwwerhaapt net.",
-  "ex_en": "I don't like that at all.",
+  "ex_lb": "D'Meenung vun de Leit gouf iwwerhaapt net berücksichtegt.",
+  "ex_en": "People's opinion wasn't taken into account at all.",
   "lodId": "IWWERHAAPT1"
  },
  {
@@ -3366,8 +3381,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Du bass endlech do!",
-  "ex_en": "You are finally here!",
+  "ex_lb": "So dach endlech eppes!",
+  "ex_en": "Say something, for goodness' sake!",
   "lodId": "ENDLECH1"
  },
  {
@@ -3379,9 +3394,9 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Ech kommen direkt.",
-  "ex_en": "I'm coming right away.",
-  "lodId": "DIREKT2"
+  "ex_lb": "Ech hätt am léifsten en direkte Fluch.",
+  "ex_en": "I'd prefer a direct flight.",
+  "lodId": "DIREKT1"
  },
  {
   "lb": "ongeféier",
@@ -3392,8 +3407,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Et dauert ongeféier eng Stonn.",
-  "ex_en": "It takes approximately one hour.",
+  "ex_lb": "So mer den ongeféiere Präis vun denger Stereosanlag.",
+  "ex_en": "Tell me roughly what your stereo cost.",
   "lodId": "ONGEFEIER1"
  },
  {
@@ -3405,8 +3420,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Hien huet esouguer gehollef.",
-  "ex_en": "He even helped.",
+  "ex_lb": "Esouguer mäi lidderege Kolleeg war prett fir matzegoen!",
+  "ex_en": "Even my lazy colleague was ready to come along!",
   "lodId": "ESOUGUER1"
  },
  {
@@ -3418,8 +3433,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Ech hu se iwwerall gesicht.",
-  "ex_en": "I looked for it everywhere.",
+  "ex_lb": "D'Souvenirsbutteker si bal iwwerall d'selwecht.",
+  "ex_en": "The souvenir shops are almost the same everywhere.",
   "lodId": "IWWERALL1"
  },
  {
@@ -3431,12 +3446,12 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Ech fannen et néierens.",
-  "ex_en": "I can't find it anywhere.",
+  "ex_lb": "Ech hu meng Schlësselen néierens fonnt.",
+  "ex_en": "I couldn't find my keys anywhere.",
   "lodId": "NEIERENS1"
  },
  {
-  "lb": "zimlech",
+  "lb": "zimmlech",
   "en": "quite",
   "de": "ziemlich",
   "fr": "assez",
@@ -3444,8 +3459,9 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Et ass zimlech kal haut.",
-  "ex_en": "It is quite cold today."
+  "ex_lb": "Haut ass zimmlech vill Loft dobaussen.",
+  "ex_en": "It's quite windy outside today.",
+  "lodId": "ZIMMLECH1"
  },
  {
   "lb": "kaum",
@@ -3456,8 +3472,8 @@
   "gender": "",
   "level": "B1",
   "category": "adverb",
-  "ex_lb": "Ech kann en kaum verstoen.",
-  "ex_en": "I can hardly understand him.",
+  "ex_lb": "Et huet een de Riedner kaum héieren.",
+  "ex_en": "You could hardly hear the speaker.",
   "lodId": "KAUM1"
  },
  {
@@ -3469,8 +3485,8 @@
   "gender": "f",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "D'Verbindung ass ofgebrach.",
-  "ex_en": "The connection dropped.",
+  "ex_lb": "Der Police no gëtt et keng Verbindung tëschent deenen zwee Verbriechen.",
+  "ex_en": "According to the police there's no link between the two crimes.",
   "lodId": "VERBINDUNG1"
  },
  {
@@ -3482,8 +3498,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Klick op dëse Lien.",
-  "ex_en": "Click on this link.",
+  "ex_lb": "D'Police gesäit kee Lien tëschent deenen zwee Verbriechen.",
+  "ex_en": "The police see no link between the two crimes.",
   "lodId": "LIEN1"
  },
  {
@@ -3495,8 +3511,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Erstell e neie Kont.",
-  "ex_en": "Create a new account.",
+  "ex_lb": "Hien huet säi Kont kräfteg iwwerzunn.",
+  "ex_en": "He has seriously overdrawn his account.",
   "lodId": "KONT1"
  },
  {
@@ -3508,8 +3524,8 @@
   "gender": "f",
   "level": "A2",
   "category": "media",
-  "ex_lb": "Maach eng Foto vun eis.",
-  "ex_en": "Take a photo of us.",
+  "ex_lb": "Wie mécht d'Fotoen op Ärer Hochzäit?",
+  "ex_en": "Who's taking the photos at your wedding?",
   "lodId": "FOTO1"
  },
  {
@@ -3521,8 +3537,8 @@
   "gender": "f",
   "level": "A2",
   "category": "media",
-  "ex_lb": "Dës Video ass ganz lëschteg.",
-  "ex_en": "This video is very funny.",
+  "ex_lb": "Vill ëffentlech Plaze gi mat Video iwwerwaacht.",
+  "ex_en": "Many public places are under video surveillance.",
   "lodId": "VIDEO1"
  },
  {
@@ -3534,8 +3550,8 @@
   "gender": "",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Ech deelen den Artikel mat dir.",
-  "ex_en": "I'll share the article with you.",
+  "ex_lb": "An hirer Famill gouf nach net gedeelt.",
+  "ex_en": "In their family the estate hasn't been divided yet.",
   "lodId": "DEELEN1"
  },
  {
@@ -3547,8 +3563,8 @@
   "gender": "",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Si postet all Dag eppes.",
-  "ex_en": "She posts something every day.",
+  "ex_lb": "Mir hunn eis schéinst Vakanzefotoe gepost.",
+  "ex_en": "We posted our best holiday photos.",
   "lodId": "POSTEN2"
  },
  {
@@ -3560,8 +3576,8 @@
   "gender": "m",
   "level": "B1",
   "category": "society",
-  "ex_lb": "De Marché ass haut onroueg.",
-  "ex_en": "The market is restless today.",
+  "ex_lb": "D'Offer an d'Demande reegelen de Marché.",
+  "ex_en": "Supply and demand regulate the market.",
   "lodId": "MARCHE1"
  },
  {
@@ -3573,8 +3589,8 @@
   "gender": "f",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "D'Verfassung gouf geännert.",
-  "ex_en": "The constitution was changed.",
+  "ex_lb": "Dem Minister seng Pouvoire ginn duerch d'Verfassung gereegelt.",
+  "ex_en": "The minister's powers are governed by the constitution.",
   "lodId": "VERFASSUNG1"
  },
  {
@@ -3586,8 +3602,8 @@
   "gender": "f",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "D'Manifestatioun war friddlech.",
-  "ex_en": "The demonstration was peaceful.",
+  "ex_lb": "Muer de Mëtteg ass an der Stad eng Manifestatioun géint de Krich.",
+  "ex_en": "Tomorrow afternoon there's a demonstration against the war in town.",
   "lodId": "MANIFESTATIOUN1"
  },
  {
@@ -3599,8 +3615,8 @@
   "gender": "m",
   "level": "B2",
   "category": "society",
-  "ex_lb": "De Konflikt gouf geléist.",
-  "ex_en": "The conflict was resolved.",
+  "ex_lb": "Hien ass schonn e puermol mam Gesetz a Konflikt komm.",
+  "ex_en": "He has come into conflict with the law several times.",
   "lodId": "KONFLIKT1"
  },
  {
@@ -3708,8 +3724,8 @@
   "gender": "",
   "level": "B1",
   "category": "phrase",
-  "ex_lb": "Ginn s du mat? Et kënnt drop un.",
-  "ex_en": "Are you coming along? It depends."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "Maach et gutt",
@@ -3736,18 +3752,6 @@
   "ex_en": "Thanks and until next time!"
  },
  {
-  "lb": "Wat gëtt et Neies?",
-  "en": "What's new?",
-  "de": "Was gibt es Neues?",
-  "fr": "Quoi de neuf?",
-  "pos": "phrase",
-  "gender": "",
-  "level": "B1",
-  "category": "phrase",
-  "ex_lb": "Salut! Wat gëtt et Neies?",
-  "ex_en": "Hi! What's new?"
- },
- {
   "lb": "Et freet mech",
   "en": "I'm glad",
   "de": "es freut mich",
@@ -3756,8 +3760,8 @@
   "gender": "",
   "level": "B1",
   "category": "phrase",
-  "ex_lb": "Et freet mech, dech kennenzeléieren.",
-  "ex_en": "I'm glad to meet you."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'Meenungsfräiheet",
@@ -3768,8 +3772,8 @@
   "gender": "f",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "D'Meenungsfräiheet ass e Grondrecht.",
-  "ex_en": "Freedom of speech is a basic right.",
+  "ex_lb": "An enger Demokratie gehéiert d'Meenungsfräiheet zu de Grondrechter.",
+  "ex_en": "In a democracy freedom of opinion is one of the fundamental rights.",
   "lodId": "MEENUNGSFRAIHEET1"
  },
  {
@@ -3781,8 +3785,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tech",
-  "ex_lb": "Dee Roboter botzt de Buedem.",
-  "ex_en": "That robot cleans the floor.",
+  "ex_lb": "Ëmmer méi Aarbechte kënne vu Roboteren iwwerholl ginn.",
+  "ex_en": "More and more jobs can be taken over by robots.",
   "lodId": "ROBOTER1"
  },
  {
@@ -3794,8 +3798,8 @@
   "gender": "m",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "Bal jiddereen huet e Smartphone.",
-  "ex_en": "Almost everyone has a smartphone.",
+  "ex_lb": "Mäin neie Smartphone mécht immens gutt Fotoen.",
+  "ex_en": "My new smartphone takes really good photos.",
   "lodId": "SMARTPHONE1"
  },
  {
@@ -3807,8 +3811,8 @@
   "gender": "f",
   "level": "A2",
   "category": "tech",
-  "ex_lb": "D'Batterie ass bal eidel.",
-  "ex_en": "The battery is almost empty.",
+  "ex_lb": "D'Batterie vu mengem Auto ass platt.",
+  "ex_en": "My car battery is flat.",
   "lodId": "BATTERIE1"
  },
  {
@@ -3825,7 +3829,7 @@
   "lodId": "WIFI1"
  },
  {
-  "lb": "d'Suchmaschinn",
+  "lb": "d'Sichmaschinn",
   "en": "search engine",
   "de": "die Suchmaschine",
   "fr": "le moteur de recherche",
@@ -3833,8 +3837,9 @@
   "gender": "f",
   "level": "B2",
   "category": "tech",
-  "ex_lb": "Ech notze dës Suchmaschinn.",
-  "ex_en": "I use this search engine."
+  "ex_lb": "Wéi eng Sichmaschinn benotz du, wann s de Recherchen am Internet méchs?",
+  "ex_en": "Which search engine do you use when you do research on the internet?",
+  "lodId": "SICHMASCHINN1"
  },
  {
   "lb": "sichen",
@@ -3845,8 +3850,8 @@
   "gender": "",
   "level": "A1",
   "category": "tech",
-  "ex_lb": "Ech sichen no enger Adress.",
-  "ex_en": "I am searching for an address.",
+  "ex_lb": "D'Police sicht de Mäerder.",
+  "ex_en": "The police are looking for the murderer.",
   "lodId": "SICHEN1"
  },
  {
@@ -3858,8 +3863,8 @@
   "gender": "",
   "level": "A1",
   "category": "abstract",
-  "ex_lb": "Ech fannen de Schlëssel net.",
-  "ex_en": "I can't find the key.",
+  "ex_lb": "Ech hunn am Bësch eng Auer fonnt.",
+  "ex_en": "I found a watch in the woods.",
   "lodId": "FANNEN1"
  },
  {
@@ -3871,8 +3876,8 @@
   "gender": "m",
   "level": "B1",
   "category": "media",
-  "ex_lb": "Abonnéier de Newsletter.",
-  "ex_en": "Subscribe to the newsletter.",
+  "ex_lb": "Ech hu mech op d'Newsletter vum Dictionnaire abonéiert.",
+  "ex_en": "I subscribed to the dictionary's newsletter.",
   "lodId": "NEWSLETTER1"
  },
  {
@@ -3884,8 +3889,8 @@
   "gender": "m",
   "level": "B1",
   "category": "media",
-  "ex_lb": "Ech lauschtere gär dëse Podcast.",
-  "ex_en": "I like listening to this podcast.",
+  "ex_lb": "Am Bus liesen ech fir gewéinlech d'Zeitung oder lauschteren e Podcast.",
+  "ex_en": "On the bus I usually read the paper or listen to a podcast.",
   "lodId": "PODCAST1"
  },
  {
@@ -3897,8 +3902,8 @@
   "gender": "f",
   "level": "B1",
   "category": "media",
-  "ex_lb": "Dës Emissioun ass ganz beléift.",
-  "ex_en": "This broadcast is very popular.",
+  "ex_lb": "Muer den Owend kënnt op der Tëlee eng interessant Emissioun.",
+  "ex_en": "There's an interesting programme on TV tomorrow night.",
   "lodId": "EMISSIOUN1"
  },
  {
@@ -3910,8 +3915,8 @@
   "gender": "f",
   "level": "B2",
   "category": "media",
-  "ex_lb": "Ech hunn d'Reportage gekuckt.",
-  "ex_en": "I watched the report.",
+  "ex_lb": "Op der Televisioun kënnt den Owend e Reportage iwwer de Wäibau.",
+  "ex_en": "There's a documentary on winegrowing on TV tonight.",
   "lodId": "REPORTAGE1"
  },
  {
@@ -3923,8 +3928,8 @@
   "gender": "n",
   "level": "B1",
   "category": "media",
-  "ex_lb": "D'Interview war ganz interessant.",
-  "ex_en": "The interview was very interesting.",
+  "ex_lb": "Den Trainer wollt nom Match keen Interview ginn.",
+  "ex_en": "The coach didn't want to give an interview after the match.",
   "lodId": "INTERVIEW1"
  },
  {
@@ -3936,8 +3941,8 @@
   "gender": "",
   "level": "B2",
   "category": "media",
-  "ex_lb": "Si verëffentlechen de Bericht muer.",
-  "ex_en": "They will publish the report tomorrow.",
+  "ex_lb": "Haut ginn d'Resultater vum Premièresexame verëffentlecht.",
+  "ex_en": "Today the results of the final secondary-school exam are published.",
   "lodId": "VEREFFENTLECHEN1"
  },
  {
@@ -3949,8 +3954,8 @@
   "gender": "",
   "level": "B1",
   "category": "media",
-  "ex_lb": "Mir informéieren iech geschwënn.",
-  "ex_en": "We will inform you soon.",
+  "ex_lb": "Et huet keen eis informéiert, datt d'Strooss gespaart ass.",
+  "ex_en": "Nobody told us the road was closed.",
   "lodId": "INFORMEIEREN1"
  },
  {
@@ -3962,8 +3967,8 @@
   "gender": "",
   "level": "A2",
   "category": "communication",
-  "ex_lb": "Kanns du mir dat erklären?",
-  "ex_en": "Can you explain that to me?",
+  "ex_lb": "Erklär eis dat emol an aller Rou!",
+  "ex_en": "Explain it to us calmly!",
   "lodId": "ERKLAREN1"
  },
  {
@@ -3987,8 +3992,8 @@
   "gender": "",
   "level": "A1",
   "category": "communication",
-  "ex_lb": "Ech wëll dech eppes froen.",
-  "ex_en": "I want to ask you something.",
+  "ex_lb": "Eis freet jo keen!",
+  "ex_en": "Nobody asks us anyway!",
   "lodId": "FROEN1"
  },
  {
@@ -4000,8 +4005,8 @@
   "gender": "f",
   "level": "A1",
   "category": "communication",
-  "ex_lb": "Ech hunn eng Fro.",
-  "ex_en": "I have a question.",
+  "ex_lb": "Dat ass eng gutt Fro!",
+  "ex_en": "That's a good question!",
   "lodId": "FRO1"
  },
  {
@@ -4013,8 +4018,8 @@
   "gender": "f",
   "level": "A1",
   "category": "communication",
-  "ex_lb": "Dat war déi richteg Äntwert.",
-  "ex_en": "That was the right answer.",
+  "ex_lb": "Meng Frëndin huet op alles eng Äntwert.",
+  "ex_en": "My girlfriend has an answer for everything.",
   "lodId": "ANTWERT1"
  },
  {
@@ -4026,8 +4031,8 @@
   "gender": "n",
   "level": "B1",
   "category": "communication",
-  "ex_lb": "Mir haten e laangt Gespréich.",
-  "ex_en": "We had a long conversation.",
+  "ex_lb": "Mir haten haut de Mëtteg en interessant Gespréich.",
+  "ex_en": "We had an interesting conversation this afternoon.",
   "lodId": "GESPREICH1"
  },
  {
@@ -4039,8 +4044,8 @@
   "gender": "f",
   "level": "B1",
   "category": "communication",
-  "ex_lb": "D'Diskussioun war ganz lieweg.",
-  "ex_en": "The discussion was very lively.",
+  "ex_lb": "Dat steet elo net zur Diskussioun!",
+  "ex_en": "That's not up for discussion right now!",
   "lodId": "DISKUSSIOUN1"
  },
  {
@@ -4052,8 +4057,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "Mir weisen Solidaritéit.",
-  "ex_en": "We show solidarity.",
+  "ex_lb": "D'Solidaritéit kann sech op verschidde Manéieren ausdrécken.",
+  "ex_en": "Solidarity can be expressed in different ways.",
   "lodId": "SOLIDARITEIT1"
  },
  {
@@ -4078,8 +4083,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "Lëtzebuerg ass voller Diversitéit.",
-  "ex_en": "Luxembourg is full of diversity.",
+  "ex_lb": "De Klimawandel bréngt d'Diversitéit vun der Fauna a vun der Flora a Gefor.",
+  "ex_en": "Climate change endangers the diversity of fauna and flora.",
   "lodId": "DIVERSITEIT1"
  },
  {
@@ -4091,8 +4096,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "Diskriminatioun ass verbueden.",
-  "ex_en": "Discrimination is forbidden.",
+  "ex_lb": "D'Diskriminatioun vu Minoritéite féiert zu soziale Spannungen.",
+  "ex_en": "Discrimination against minorities leads to social tension.",
   "lodId": "DISKRIMINATIOUN1"
  },
  {
@@ -4104,8 +4109,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "De Fruuchstéck ass abegraff.",
-  "ex_en": "Breakfast is included."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "verfügbar",
@@ -4116,8 +4121,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Dat Produkt ass net verfügbar.",
-  "ex_en": "That product is not available.",
+  "ex_lb": "Méindes sinn ech net verfügbar.",
+  "ex_en": "I'm not available on Mondays.",
   "lodId": "VERFUGBAR1"
  },
  {
@@ -4129,8 +4134,8 @@
   "gender": "",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Dat ass eng noutwendeg Bedingung.",
-  "ex_en": "That is an essential condition.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "NOUTWENDEG1"
  },
  {
@@ -4154,8 +4159,8 @@
   "gender": "m",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "De Projet war e grousse Succès.",
-  "ex_en": "The project was a great success.",
+  "ex_lb": "Deem Kënschtler seng Ausstellung hat vill Succès.",
+  "ex_en": "That artist's exhibition was a great success.",
   "lodId": "SUCCES1"
  },
  {
@@ -4167,8 +4172,8 @@
   "gender": "m",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "En Echec ass och eng Chance.",
-  "ex_en": "A failure is also an opportunity.",
+  "ex_lb": "Eis Entreprise war en Echec op der ganzer Linn.",
+  "ex_en": "Our venture was a complete failure.",
   "lodId": "ECHEC1"
  },
  {
@@ -4180,8 +4185,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Gëff mir nach eng Chance.",
-  "ex_en": "Give me another chance.",
+  "ex_lb": "Elo hate mer alt erëm eng Kéier Chance!",
+  "ex_en": "Well, we got lucky once again!",
   "lodId": "CHANCE1"
  },
  {
@@ -4193,8 +4198,8 @@
   "gender": "m",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Dat ass e groussen Risiko.",
-  "ex_en": "That is a big risk.",
+  "ex_lb": "De Spekulant ass e grousse finanzielle Risiko agaangen.",
+  "ex_en": "The speculator took a big financial risk.",
   "lodId": "RISIKO1"
  },
  {
@@ -4206,8 +4211,8 @@
   "gender": "m",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Dat huet e grousse Virdeel.",
-  "ex_en": "That has a big advantage.",
+  "ex_lb": "Déi Method huet Virdeeler an Nodeeler.",
+  "ex_en": "That method has advantages and disadvantages.",
   "lodId": "VIRDEEL1"
  },
  {
@@ -4219,8 +4224,8 @@
   "gender": "m",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "De Präis ass den eenzegen Nodeel.",
-  "ex_en": "The price is the only disadvantage.",
+  "ex_lb": "Déi Method huet Virdeeler an Nodeeler.",
+  "ex_en": "That method has advantages and disadvantages.",
   "lodId": "NODEEL1"
  },
  {
@@ -4232,8 +4237,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "D'Ursaach ass nach onbekannt.",
-  "ex_en": "The cause is still unknown.",
+  "ex_lb": "Keng Ursaach!",
+  "ex_en": "You're welcome!",
   "lodId": "URSAACH1"
  },
  {
@@ -4245,8 +4250,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Dat huet schlëmm Konsequenzen.",
-  "ex_en": "That has bad consequences.",
+  "ex_lb": "Dat ass d'Konsequenz vu senger Dommheet.",
+  "ex_en": "That's the consequence of his stupidity.",
   "lodId": "KONSEQUENZ1"
  },
  {
@@ -4258,8 +4263,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Dat ass meng déifst Iwwerzeegung.",
-  "ex_en": "That is my deepest conviction.",
+  "ex_lb": "Et gëtt Leit, déi géife fir hir Iwwerzeegung stierwen.",
+  "ex_en": "There are people who would die for their convictions.",
   "lodId": "IWWERZEEGUNG1"
  },
  {
@@ -4283,8 +4288,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "D'Stad wiisst ganz séier.",
-  "ex_en": "The city is growing very fast.",
+  "ex_lb": "De Bouf ass erëm aus de Kleeder gewuess.",
+  "ex_en": "The boy has outgrown his clothes again.",
   "lodId": "WUESSEN1"
  },
  {
@@ -4296,8 +4301,8 @@
   "gender": "",
   "level": "A2",
   "category": "abstract",
-  "ex_lb": "Mir mussen eppes änneren.",
-  "ex_en": "We have to change something.",
+  "ex_lb": "Deen Text ass schonn zweemol geännert ginn.",
+  "ex_en": "That text has already been changed twice.",
   "lodId": "ANNEREN1"
  },
  {
@@ -4309,8 +4314,8 @@
   "gender": "",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Si entwéckelen eng nei App.",
-  "ex_en": "They are developing a new app.",
+  "ex_lb": "Hire Service huet eng nei Verkafsstrategie entwéckelt.",
+  "ex_en": "Their department developed a new sales strategy.",
   "lodId": "ENTWECKELEN1"
  },
  {
@@ -4322,8 +4327,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Du muss elo decidéieren.",
-  "ex_en": "You have to decide now.",
+  "ex_lb": "Den Owend decidéiere mer, wuer mer an d'Vakanz ginn.",
+  "ex_en": "Tonight we'll decide where to go on holiday.",
   "lodId": "DECIDEIEREN1"
  },
  {
@@ -4335,8 +4340,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Mir wëllen de Service verbesseren.",
-  "ex_en": "We want to improve the service.",
+  "ex_lb": "Déi maschinell Produktioun muss nach verbessert ginn.",
+  "ex_en": "Machine production still needs to be improved.",
   "lodId": "VERBESSEREN1"
  },
  {
@@ -4348,8 +4353,8 @@
   "gender": "f",
   "level": "B1",
   "category": "society",
-  "ex_lb": "Hien ass an enger Vereenegung.",
-  "ex_en": "He is in an association.",
+  "ex_lb": "D'Vereenegung vun de Sportfëscher huet e Samschdeg hir Generalversammlung.",
+  "ex_en": "The angling association holds its general meeting on Saturday.",
   "lodId": "VEREENEGUNG1"
  },
  {
@@ -4361,8 +4366,8 @@
   "gender": "m",
   "level": "B2",
   "category": "society",
-  "ex_lb": "All Bierger huet eng Stëmm.",
-  "ex_en": "Every citizen has a voice.",
+  "ex_lb": "An engem Staat huet all Bierger Rechter a Flichten.",
+  "ex_en": "In a state every citizen has rights and duties.",
   "lodId": "BIERGER1"
  },
  {
@@ -4374,8 +4379,8 @@
   "gender": "f",
   "level": "B2",
   "category": "politics",
-  "ex_lb": "D'Natioun feiert haut.",
-  "ex_en": "The nation is celebrating today.",
+  "ex_lb": "Hie gouf vun der ganzer Natioun ewéi en Held gefeiert.",
+  "ex_en": "He was celebrated as a hero by the whole nation.",
   "lodId": "NATIOUN1"
  },
  {
@@ -4387,8 +4392,8 @@
   "gender": "f",
   "level": "B2",
   "category": "society",
-  "ex_lb": "D'Sprooch ass Deel vun eiser Identitéit.",
-  "ex_en": "Language is part of our identity.",
+  "ex_lb": "Ier ech an d'Gebai eragelooss gouf, ass meng Identitéit iwwerpréift ginn.",
+  "ex_en": "Before I was let into the building, my identity was checked.",
   "lodId": "IDENTITEIT1"
  }
 ]

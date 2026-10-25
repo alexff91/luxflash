@@ -8,12 +8,12 @@
   "gender": "m",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Ech brauch den Hummer fir den Nagel.",
-  "ex_en": "I need the hammer for the nail.",
+  "ex_lb": "Schlo dech net mam Hummer op den Daum!",
+  "ex_en": "Don't hit your thumb with the hammer!",
   "lodId": "HUMMER1"
  },
  {
-  "lb": "de Schraubenzéier",
+  "lb": "de Schrauwenzéier",
   "en": "screwdriver",
   "de": "der Schraubenzieher",
   "fr": "le tournevis",
@@ -21,8 +21,9 @@
   "gender": "m",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Hues du e Schraubenzéier doheem?",
-  "ex_en": "Do you have a screwdriver at home?"
+  "ex_lb": "Mat deem falsche Schrauwenzéier vermurks de de Kapp vun de Schrauwen.",
+  "ex_en": "With the wrong screwdriver you'll ruin the screw heads.",
+  "lodId": "SCHRAUWENZEIER1"
  },
  {
   "lb": "d'Zaang",
@@ -33,8 +34,8 @@
   "gender": "f",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Mat der Zaang zéien ech den Nagel eraus.",
-  "ex_en": "With the pliers I pull out the nail.",
+  "ex_lb": "D'Doktesch huet d'Kand mat der Zaang geholl.",
+  "ex_en": "The doctor delivered the child with forceps.",
   "lodId": "ZAANG1"
  },
  {
@@ -46,12 +47,12 @@
   "gender": "m",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "De Bësch mécht e Lach an d'Mauer.",
-  "ex_en": "The drill makes a hole in the wall.",
+  "ex_lb": "Mir ginn all Sonndeg an de Bësch spadséieren.",
+  "ex_en": "Every Sunday we go for a walk in the woods.",
   "lodId": "BESCH1"
  },
  {
-  "lb": "d'Sé",
+  "lb": "d'See",
   "en": "saw",
   "de": "die Säge",
   "fr": "la scie",
@@ -59,11 +60,12 @@
   "gender": "f",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Mat der Sé schneiden ech d'Holz.",
-  "ex_en": "With the saw I cut the wood."
+  "ex_lb": "D'Blat vun denger See ass stompeg.",
+  "ex_en": "The blade of your saw is blunt.",
+  "lodId": "SEE1"
  },
  {
-  "lb": "den Nagel",
+  "lb": "den Nol",
   "en": "nail",
   "de": "der Nagel",
   "fr": "le clou",
@@ -71,8 +73,9 @@
   "gender": "m",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Den Nagel ass am Brett.",
-  "ex_en": "The nail is in the board."
+  "ex_lb": "Schlo den Nol mam Hummer an d'Briet!",
+  "ex_en": "Hammer the nail into the board!",
+  "lodId": "NOL1"
  },
  {
   "lb": "d'Schrauf",
@@ -83,8 +86,8 @@
   "gender": "f",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "D'Schrauf ass ze locker.",
-  "ex_en": "The screw is too loose.",
+  "ex_lb": "Zéi d'Schrauf mat engem Tournevis un!",
+  "ex_en": "Tighten the screw with a screwdriver!",
   "lodId": "SCHRAUF1"
  },
  {
@@ -96,8 +99,8 @@
   "gender": "f",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "Dréi d'Mutter méi fest un.",
-  "ex_en": "Tighten the nut more.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "MUTTER1"
  },
  {
@@ -109,8 +112,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "Gëff mer de Schlëssel, w.e.g.",
-  "ex_en": "Pass me the wrench, please.",
+  "ex_lb": "Du brauchs en anere Schlëssel, fir dës Schrauwen unzezéien.",
+  "ex_en": "You need a different spanner to tighten these bolts.",
   "lodId": "SCHLESSEL1"
  },
  {
@@ -122,8 +125,8 @@
   "gender": "m",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Mat dem Meter moossen ech d'Bréckt.",
-  "ex_en": "With the tape measure I measure the board.",
+  "ex_lb": "Déi Mauer ass véier Meter héich.",
+  "ex_en": "That wall is four metres high.",
   "lodId": "METER1"
  },
  {
@@ -148,8 +151,8 @@
   "gender": "m",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Ech molen d'Mauer mam Pinsel.",
-  "ex_en": "I paint the wall with the brush.",
+  "ex_lb": "Den Usträicher wäscht seng Pinselen am Terpetäin aus.",
+  "ex_en": "The painter washes his brushes in turpentine.",
   "lodId": "PINSEL1"
  },
  {
@@ -161,12 +164,12 @@
   "gender": "f",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "D'Faarf ass nach naass.",
-  "ex_en": "The paint is still wet.",
+  "ex_lb": "Dës Faarf deckt gutt.",
+  "ex_en": "This paint covers well.",
   "lodId": "FAARF1"
  },
  {
-  "lb": "d'Leder",
+  "lb": "d'Leeder",
   "en": "ladder",
   "de": "die Leiter",
   "fr": "l'échelle",
@@ -174,11 +177,12 @@
   "gender": "f",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Klëmm net ze héich op d'Leder.",
-  "ex_en": "Don't climb too high on the ladder."
+  "ex_lb": "Mäi Brudder ass vun der Leeder gefall, wéi en op de Bam wollt klammen.",
+  "ex_en": "My brother fell off the ladder when he tried to climb up the tree.",
+  "lodId": "LEEDER1"
  },
  {
-  "lb": "d'Werkzeegkëscht",
+  "lb": "d'Geschierkëscht",
   "en": "toolbox",
   "de": "der Werkzeugkasten",
   "fr": "la boîte à outils",
@@ -186,32 +190,22 @@
   "gender": "f",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "All Tools sinn an der Werkzeegkëscht.",
-  "ex_en": "All tools are in the toolbox."
+  "ex_lb": "Eng Ratsch däerf a kenger Geschierkëscht feelen.",
+  "ex_en": "A ratchet should be in every toolbox.",
+  "lodId": "GESCHIERKESCHT1"
  },
  {
-  "lb": "d'Schmiergelpabeier",
+  "lb": "de Glaspabeier",
   "en": "sandpaper",
   "de": "das Schmirgelpapier",
   "fr": "le papier de verre",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "Mat Schmiergelpabeier gëtt d'Holz glat.",
-  "ex_en": "With sandpaper the wood becomes smooth."
- },
- {
-  "lb": "de Klebband",
-  "en": "adhesive tape",
-  "de": "das Klebeband",
-  "fr": "le ruban adhésif",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "tools",
-  "ex_lb": "Klief d'Këscht mam Klebband zou.",
-  "ex_en": "Seal the box with the tape."
+  "ex_lb": "De Schräiner huet déi rau Kante mat Glaspabeier ofgeschlaff.",
+  "ex_en": "The carpenter sanded the rough edges with sandpaper.",
+  "lodId": "GLASPABEIER1"
  },
  {
   "lb": "de Bësch (Akku)",
@@ -234,8 +228,8 @@
   "gender": "f",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "D'Schéier ass net schaarf genuch.",
-  "ex_en": "The scissors aren't sharp enough.",
+  "ex_lb": "Dës Schéier ass gutt, fir graffe Stoft ze schneiden.",
+  "ex_en": "These scissors are good for cutting coarse fabric.",
   "lodId": "SCHEIER2"
  },
  {
@@ -247,8 +241,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "Mam Hiewel gëtt et méi liicht.",
-  "ex_en": "With the lever it gets easier.",
+  "ex_lb": "Fir d'Terrassendier opzemaachen, muss de den Hiewel no ënnen drécken.",
+  "ex_en": "To open the patio door, you have to push the handle down.",
   "lodId": "HIEWEL1"
  },
  {
@@ -260,8 +254,8 @@
   "gender": "m",
   "level": "A2",
   "category": "car",
-  "ex_lb": "De Reef ass platt.",
-  "ex_en": "The tyre is flat.",
+  "ex_lb": "De Léiw ass duerch de Reef gesprongen.",
+  "ex_en": "The lion jumped through the hoop.",
   "lodId": "REEF1"
  },
  {
@@ -273,8 +267,8 @@
   "gender": "n",
   "level": "A2",
   "category": "car",
-  "ex_lb": "Ee Rad muss gewiesselt ginn.",
-  "ex_en": "One wheel must be changed.",
+  "ex_lb": "De Coureur huet eng Aachtchen am viischte Rad vu sengem Vëlo.",
+  "ex_en": "The cyclist's front wheel is buckled.",
   "lodId": "RAD1"
  },
  {
@@ -286,8 +280,8 @@
   "gender": "m",
   "level": "A2",
   "category": "car",
-  "ex_lb": "De Motor mécht e komeschen Toun.",
-  "ex_en": "The engine makes a strange noise.",
+  "ex_lb": "De Motor vu mengem Auto spréngt net méi un.",
+  "ex_en": "My car engine won't start any more.",
   "lodId": "MOTOR1"
  },
  {
@@ -299,12 +293,12 @@
   "gender": "f",
   "level": "A2",
   "category": "car",
-  "ex_lb": "D'Bremsen funktionéieren gutt.",
-  "ex_en": "The brakes work well.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "BREMSEN1"
  },
  {
-  "lb": "d'Lenkrad",
+  "lb": "d'Steierrad",
   "en": "steering wheel",
   "de": "das Lenkrad",
   "fr": "le volant",
@@ -312,44 +306,48 @@
   "gender": "n",
   "level": "A2",
   "category": "car",
-  "ex_lb": "Hal d'Lenkrad mat zwou Hänn.",
-  "ex_en": "Hold the steering wheel with two hands."
+  "ex_lb": "Looss deng zwou Hänn um Steierrad!",
+  "ex_en": "Keep both hands on the steering wheel!",
+  "lodId": "STEIERRAD1"
  },
  {
-  "lb": "de Kofferraum",
+  "lb": "d'Mall",
   "en": "boot/trunk",
   "de": "der Kofferraum",
   "fr": "le coffre",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "car",
-  "ex_lb": "D'Walisen sinn am Kofferraum.",
-  "ex_en": "The suitcases are in the boot."
+  "ex_lb": "Mir hunn nach eng al Mall um Späicher stoen.",
+  "ex_en": "We still have an old trunk in the attic.",
+  "lodId": "MALL1"
  },
  {
-  "lb": "d'Motorhaube",
+  "lb": "de Capot",
   "en": "bonnet/hood",
   "de": "die Motorhaube",
   "fr": "le capot",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "car",
-  "ex_lb": "Maach d'Motorhaube op.",
-  "ex_en": "Open the bonnet."
+  "ex_lb": "De Mecanicien huet de Capot opgemaach, fir den Ueleg ze kontrolléieren.",
+  "ex_en": "The mechanic opened the bonnet to check the oil.",
+  "lodId": "CAPOT1"
  },
  {
-  "lb": "d'Lut",
+  "lb": "de Scheinwerfer",
   "en": "headlight",
   "de": "der Scheinwerfer",
   "fr": "le phare",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "car",
-  "ex_lb": "D'Lut vir lénks ass futti.",
-  "ex_en": "The front left headlight is broken."
+  "ex_lb": "D'Scheinwerfer vum Auto, dee mer entgéintkoum, hu mech verblent.",
+  "ex_en": "The headlights of the oncoming car dazzled me.",
+  "lodId": "SCHEINWERFER1"
  },
  {
   "lb": "de Sprit",
@@ -360,8 +358,8 @@
   "gender": "m",
   "level": "A2",
   "category": "car",
-  "ex_lb": "Mir hu kee Sprit méi.",
-  "ex_en": "We have no more fuel.",
+  "ex_lb": "Mir hunn nach genuch Sprit am Tank fir heemzefueren.",
+  "ex_en": "We still have enough fuel in the tank to drive home.",
   "lodId": "SPRIT1"
  },
  {
@@ -373,12 +371,12 @@
   "gender": "f",
   "level": "A2",
   "category": "car",
-  "ex_lb": "D'Batterie ass eidel.",
-  "ex_en": "The battery is empty.",
+  "ex_lb": "D'Batterie vu mengem Auto ass platt.",
+  "ex_en": "My car battery is flat.",
   "lodId": "BATTERIE1"
  },
  {
-  "lb": "de Scheibewëscher",
+  "lb": "de Wischer",
   "en": "windscreen wiper",
   "de": "der Scheibenwischer",
   "fr": "l'essuie-glace",
@@ -386,8 +384,9 @@
   "gender": "m",
   "level": "B1",
   "category": "car",
-  "ex_lb": "De Scheibewëscher leeft am Reen.",
-  "ex_en": "The wiper runs in the rain."
+  "ex_lb": "Maach deng Wischeren un, et fänkt u mat reenen!",
+  "ex_en": "Turn your wipers on, it's starting to rain!",
+  "lodId": "WISCHER1"
  },
  {
   "lb": "d'Schaltung",
@@ -398,8 +397,8 @@
   "gender": "f",
   "level": "B1",
   "category": "car",
-  "ex_lb": "D'Schaltung ass automatesch.",
-  "ex_en": "The gear shift is automatic.",
+  "ex_lb": "Mäin neien Auto huet eng Schaltung mat siwe Gäng.",
+  "ex_en": "My new car has a seven-speed gearbox.",
   "lodId": "SCHALTUNG1"
  },
  {
@@ -411,8 +410,8 @@
   "gender": "m",
   "level": "A2",
   "category": "car",
-  "ex_lb": "Stell de Sëtz no vir.",
-  "ex_en": "Move the seat forward.",
+  "ex_lb": "D'Sëtzer am Bus sinn all mat Ceinturen ekipéiert.",
+  "ex_en": "The seats on the bus are all fitted with seat belts.",
   "lodId": "SETZ1"
  },
  {
@@ -424,21 +423,9 @@
   "gender": "m",
   "level": "A2",
   "category": "car",
-  "ex_lb": "Maach de Sécherheetsgurt un.",
-  "ex_en": "Fasten the seatbelt.",
+  "ex_lb": "Do däi Sécherheetsgurt un, soss fueren ech net!",
+  "ex_en": "Put your seat belt on, or I'm not driving!",
   "lodId": "SECHERHEETSGURT1"
- },
- {
-  "lb": "de Lenker",
-  "en": "handlebar",
-  "de": "der Lenker",
-  "fr": "le guidon",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "bicycle",
-  "ex_lb": "Hal de Lenker fest beim Fueren.",
-  "ex_en": "Hold the handlebar tight while riding."
  },
  {
   "lb": "d'Pedall",
@@ -449,8 +436,8 @@
   "gender": "f",
   "level": "A2",
   "category": "bicycle",
-  "ex_lb": "Eng Pedall ass lass.",
-  "ex_en": "One pedal is loose.",
+  "ex_lb": "Du muss d'Pedall mam Fouss bis hannenhin drécken.",
+  "ex_en": "You have to push the pedal all the way down with your foot.",
   "lodId": "PEDALL1"
  },
  {
@@ -466,7 +453,7 @@
   "ex_en": "The bike chain has come off."
  },
  {
-  "lb": "d'Klinquel",
+  "lb": "d'Schell",
   "en": "bell (bike)",
   "de": "die Klingel",
   "fr": "la sonnette",
@@ -474,11 +461,12 @@
   "gender": "f",
   "level": "A2",
   "category": "bicycle",
-  "ex_lb": "Lëft d'Klinquel beim Iwwerhuelen.",
-  "ex_en": "Ring the bell when overtaking."
+  "ex_lb": "D'Schell u mengem Vëlo geet net méi.",
+  "ex_en": "The bell on my bike doesn't work any more.",
+  "lodId": "SCHELL1"
  },
  {
-  "lb": "de Sattel",
+  "lb": "de Suedel",
   "en": "saddle",
   "de": "der Sattel",
   "fr": "la selle",
@@ -486,11 +474,12 @@
   "gender": "m",
   "level": "B1",
   "category": "bicycle",
-  "ex_lb": "De Sattel ass ze héich agestallt.",
-  "ex_en": "The saddle is set too high."
+  "ex_lb": "Den Jockey huet sengem Päerd de Suedel opgeluecht.",
+  "ex_en": "The jockey saddled his horse.",
+  "lodId": "SUEDEL1"
  },
  {
-  "lb": "d'Speech",
+  "lb": "d'Speechel",
   "en": "spoke",
   "de": "die Speiche",
   "fr": "le rayon",
@@ -498,8 +487,9 @@
   "gender": "f",
   "level": "B1",
   "category": "bicycle",
-  "ex_lb": "Eng Speech ass gebrach.",
-  "ex_en": "One spoke is broken."
+  "ex_lb": "Am viischte Rad vu mengem Vëlo sinn e puer Speechele verdiebelt.",
+  "ex_en": "A few spokes in the front wheel of my bike are bent.",
+  "lodId": "SPEECHEL2"
  },
  {
   "lb": "d'Pompel",
@@ -510,8 +500,8 @@
   "gender": "f",
   "level": "B1",
   "category": "bicycle",
-  "ex_lb": "Hol d'Pompel fir de Reef.",
-  "ex_en": "Get the pump for the tyre.",
+  "ex_lb": "D'Pompel vun eiser Heizung ass futti.",
+  "ex_en": "The pump of our heating system is broken.",
   "lodId": "POMPEL1"
  },
  {
@@ -523,8 +513,8 @@
   "gender": "m",
   "level": "A2",
   "category": "garden",
-  "ex_lb": "Ech grueft mam Spuet e Lach.",
-  "ex_en": "I dig a hole with the spade.",
+  "ex_lb": "Ech hu mer en neie Still fir a mäi Spuet kaaft.",
+  "ex_en": "I bought a new handle for my spade.",
   "lodId": "SPUET1"
  },
  {
@@ -541,19 +531,20 @@
   "lodId": "RIECH1"
  },
  {
-  "lb": "d'Garteschéier",
+  "lb": "de Secateur",
   "en": "secateurs",
   "de": "die Gartenschere",
   "fr": "le sécateur",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "Mat der Garteschéier schneiden ech d'Rousen.",
-  "ex_en": "With the secateurs I cut the roses."
+  "ex_lb": "Huel de Secateur, fir déi kleng Äscht ofzepëtzen!",
+  "ex_en": "Use the secateurs to trim the small branches!",
+  "lodId": "SECATEUR1"
  },
  {
-  "lb": "d'Géisskanne",
+  "lb": "d'Géisskan",
   "en": "watering can",
   "de": "die Gießkanne",
   "fr": "l'arrosoir",
@@ -561,23 +552,12 @@
   "gender": "f",
   "level": "A2",
   "category": "garden",
-  "ex_lb": "D'Géisskanne ass voll Waasser.",
-  "ex_en": "The watering can is full of water."
+  "ex_lb": "Nätz d'Blumme léiwer mat der Géisskan ewéi mam Schlauch!",
+  "ex_en": "Water the flowers with the watering can rather than the hose!",
+  "lodId": "GEISSKAN1"
  },
  {
-  "lb": "de Rasenméier",
-  "en": "lawn mower",
-  "de": "der Rasenmäher",
-  "fr": "la tondeuse",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "garden",
-  "ex_lb": "De Rasenméier ass kaputt.",
-  "ex_en": "The lawn mower is broken."
- },
- {
-  "lb": "d'Schubkar",
+  "lb": "d'Schubbkar",
   "en": "wheelbarrow",
   "de": "die Schubkarre",
   "fr": "la brouette",
@@ -585,8 +565,9 @@
   "gender": "f",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "D'Schubkar ass voll Äerd.",
-  "ex_en": "The wheelbarrow is full of soil."
+  "ex_lb": "Nom Wanter am Schapp hat d'Schubbkar e Platten.",
+  "ex_en": "After the winter in the shed the wheelbarrow had a flat tyre.",
+  "lodId": "SCHUBBKAR1"
  },
  {
   "lb": "d'Äerd",
@@ -597,8 +578,8 @@
   "gender": "f",
   "level": "A2",
   "category": "garden",
-  "ex_lb": "D'Äerd ass dréchen.",
-  "ex_en": "The soil is dry.",
+  "ex_lb": "Eis Äerd huet keng onbegrenzt Ressourcen.",
+  "ex_en": "Our Earth does not have unlimited resources.",
   "lodId": "AERD1"
  },
  {
@@ -610,8 +591,8 @@
   "gender": "m",
   "level": "A2",
   "category": "garden",
-  "ex_lb": "Ech séien de Som am Fréijoer.",
-  "ex_en": "I sow the seeds in spring.",
+  "ex_lb": "Mengs de, de Som vum leschte Joer géif nach keimen?",
+  "ex_en": "Do you think last year's seeds will still sprout?",
   "lodId": "SOM1"
  },
  {
@@ -623,60 +604,38 @@
   "gender": "m",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "Den Dünger hëlleft de Planzen.",
-  "ex_en": "The fertiliser helps the plants.",
+  "ex_lb": "Den Asaz vu cheemeschem Dünger soll reduzéiert ginn.",
+  "ex_en": "The use of chemical fertiliser is to be reduced.",
   "lodId": "DUNGER1"
  },
  {
-  "lb": "de Bujee",
+  "lb": "d'Heck",
   "en": "hedge",
   "de": "die Hecke",
   "fr": "la haie",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "De Bujee muss geschnidden ginn.",
-  "ex_en": "The hedge must be trimmed."
+  "ex_lb": "De Papp ass amgaang, hannenaus am Gaart d'Hecken ze schneiden.",
+  "ex_en": "Dad is cutting the hedges at the back of the garden.",
+  "lodId": "HECK1"
  },
  {
-  "lb": "de Komposthaufen",
-  "en": "compost heap",
-  "de": "der Komposthaufen",
-  "fr": "le compost",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "garden",
-  "ex_lb": "D'Schuelen kommen op de Komposthaufen.",
-  "ex_en": "The peels go on the compost heap."
- },
- {
-  "lb": "de Gaardeschlauch",
-  "en": "garden hose",
-  "de": "der Gartenschlauch",
-  "fr": "le tuyau d'arrosage",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "garden",
-  "ex_lb": "De Gaardeschlauch ass ze kuerz.",
-  "ex_en": "The garden hose is too short."
- },
- {
-  "lb": "d'Blummebar",
+  "lb": "d'Blummendëppen",
   "en": "flowerpot",
   "de": "der Blumentopf",
   "fr": "le pot de fleurs",
   "pos": "noun",
-  "gender": "f",
+  "gender": "n",
   "level": "A2",
   "category": "garden",
-  "ex_lb": "D'Blumm steet an enger Blummebar.",
-  "ex_en": "The flower is in a flowerpot."
+  "ex_lb": "Hu mir kee passende Cache-pot fir dat grousst Blummendëppen?",
+  "ex_en": "Don't we have a suitable pot holder for that big flowerpot?",
+  "lodId": "BLUMMENDEPPEN1"
  },
  {
-  "lb": "d'Schäffel",
+  "lb": "d'Traufel",
   "en": "trowel",
   "de": "die Pflanzkelle",
   "fr": "le déplantoir",
@@ -684,8 +643,9 @@
   "gender": "f",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "Mat der Schäffel planzen ech d'Tulpen.",
-  "ex_en": "With the trowel I plant the tulips."
+  "ex_lb": "De Steemetzer huet d'Mauer mat der Traufel beworf.",
+  "ex_en": "The bricklayer plastered the wall with the trowel.",
+  "lodId": "TRAUFEL1"
  },
  {
   "lb": "d'Gittar",
@@ -696,8 +656,8 @@
   "gender": "f",
   "level": "A2",
   "category": "music",
-  "ex_lb": "Ech léieren d'Gittar ze spillen.",
-  "ex_en": "I'm learning to play the guitar.",
+  "ex_lb": "Eist Meedche spillt stonnelaang op senger Gittar.",
+  "ex_en": "Our daughter plays her guitar for hours.",
   "lodId": "GITTAR1"
  },
  {
@@ -709,8 +669,8 @@
   "gender": "m",
   "level": "A2",
   "category": "music",
-  "ex_lb": "Si spillt schéin um Piano.",
-  "ex_en": "She plays beautifully on the piano.",
+  "ex_lb": "Déi déif Téin vun dengem Piano si verstëmmt.",
+  "ex_en": "The low notes on your piano are out of tune.",
   "lodId": "PIANO1"
  },
  {
@@ -722,8 +682,8 @@
   "gender": "f",
   "level": "B1",
   "category": "music",
-  "ex_lb": "D'Gei kléngt ganz héich.",
-  "ex_en": "The violin sounds very high.",
+  "ex_lb": "Ech spille Gei an engem klengen Ensembel.",
+  "ex_en": "I play the violin in a small ensemble.",
   "lodId": "GEI2"
  },
  {
@@ -735,8 +695,8 @@
   "gender": "f",
   "level": "A2",
   "category": "music",
-  "ex_lb": "Hie spillt op der Tromm.",
-  "ex_en": "He plays on the drum.",
+  "ex_lb": "Wie spillt beim Hämmelsmarsch déi Déck Tromm?",
+  "ex_en": "Who plays the big drum in the Hämmelsmarsch?",
   "lodId": "TROMM1"
  },
  {
@@ -748,8 +708,8 @@
   "gender": "f",
   "level": "A2",
   "category": "music",
-  "ex_lb": "D'Kand léiert d'Flütt an der Schoul.",
-  "ex_en": "The child learns the flute at school.",
+  "ex_lb": "Ech hunn am Conservatoire Flütt geléiert.",
+  "ex_en": "I learned the flute at the conservatory.",
   "lodId": "FLUTT1"
  },
  {
@@ -761,21 +721,9 @@
   "gender": "f",
   "level": "B1",
   "category": "music",
-  "ex_lb": "D'Trompett ass ganz haart.",
-  "ex_en": "The trumpet is very loud.",
+  "ex_lb": "Meng Schwëster spillt Trompett an ech Trombonn.",
+  "ex_en": "My sister plays the trumpet and I play the trombone.",
   "lodId": "TROMPETT1"
- },
- {
-  "lb": "d'Saiten",
-  "en": "strings",
-  "de": "die Saiten",
-  "fr": "les cordes",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "music",
-  "ex_lb": "Eng Sait vun der Gittar ass gerass.",
-  "ex_en": "One string of the guitar has torn."
  },
  {
   "lb": "den Akkordeon",
@@ -786,8 +734,8 @@
   "gender": "m",
   "level": "B1",
   "category": "music",
-  "ex_lb": "Den Akkordeon héiert een op der Kiermes.",
-  "ex_en": "The accordion is heard at the fair.",
+  "ex_lb": "Hie wollt vu Klengem un Akkordeon spille léieren.",
+  "ex_en": "Since he was little he wanted to learn to play the accordion.",
   "lodId": "AKKORDEON1"
  },
  {
@@ -812,8 +760,8 @@
   "gender": "f",
   "level": "B1",
   "category": "music",
-  "ex_lb": "Ech kann d'Noten net liesen.",
-  "ex_en": "I can't read the notes.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "NOTE1"
  },
  {
@@ -838,12 +786,12 @@
   "gender": "m",
   "level": "B1",
   "category": "music",
-  "ex_lb": "Den Dirigent féiert d'Orchester.",
-  "ex_en": "The conductor leads the orchestra.",
+  "ex_lb": "Dës Chorale huet ee vun deene beschten Dirigenten aus dem Land.",
+  "ex_en": "This choir has one of the best conductors in the country.",
   "lodId": "DIRIGENT1"
  },
  {
-  "lb": "d'Léinwand",
+  "lb": "d'Leinwand",
   "en": "canvas",
   "de": "die Leinwand",
   "fr": "la toile",
@@ -851,8 +799,9 @@
   "gender": "f",
   "level": "B1",
   "category": "art",
-  "ex_lb": "De Moler molt op d'Léinwand.",
-  "ex_en": "The painter paints on the canvas."
+  "ex_lb": "De Kënschtler huet d'Motiv fir d'éischt mam Bläistëft op d'Leinwand virgezeechent.",
+  "ex_en": "The artist first sketched the motif on the canvas in pencil.",
+  "lodId": "LEINWAND1"
  },
  {
   "lb": "de Bläistëft",
@@ -863,8 +812,8 @@
   "gender": "m",
   "level": "A2",
   "category": "art",
-  "ex_lb": "Ech zeechnen mam Bläistëft.",
-  "ex_en": "I draw with the pencil.",
+  "ex_lb": "Mëll Bläistëfter muss een dacks spëtzen.",
+  "ex_en": "Soft pencils need sharpening often.",
   "lodId": "BLAISTEFT1"
  },
  {
@@ -876,12 +825,12 @@
   "gender": "f",
   "level": "A2",
   "category": "art",
-  "ex_lb": "D'Kand molt mat Kräid op der Strooss.",
-  "ex_en": "The child draws with chalk on the street.",
+  "ex_lb": "D'Joffer huet de Kanner faarweg Kräid ginn, fir op d'Tafel ze molen.",
+  "ex_en": "The teacher gave the children coloured chalk to draw on the board.",
   "lodId": "KRAID1"
  },
  {
-  "lb": "de Léim",
+  "lb": "de Läim",
   "en": "glue",
   "de": "der Leim",
   "fr": "la colle",
@@ -889,8 +838,9 @@
   "gender": "m",
   "level": "A2",
   "category": "art",
-  "ex_lb": "Klief d'Pabeier mat Léim zesummen.",
-  "ex_en": "Stick the paper together with glue."
+  "ex_lb": "Maach d'Dëppe mam Läim zou, soss verdréchent en!",
+  "ex_en": "Close the pot of glue, or it will dry out!",
+  "lodId": "LAIM1"
  },
  {
   "lb": "d'Schiele",
@@ -901,11 +851,11 @@
   "gender": "f",
   "level": "B1",
   "category": "art",
-  "ex_lb": "D'Léinwand steet op der Schiele.",
-  "ex_en": "The canvas stands on the easel."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
-  "lb": "d'Faarfpalett",
+  "lb": "d'Pallett",
   "en": "palette",
   "de": "die Palette",
   "fr": "la palette",
@@ -913,20 +863,9 @@
   "gender": "f",
   "level": "B1",
   "category": "art",
-  "ex_lb": "Hien mëscht d'Faarwen op der Palett.",
-  "ex_en": "He mixes the colours on the palette."
- },
- {
-  "lb": "de Léim (Modeling)",
-  "en": "modelling clay",
-  "de": "die Knete",
-  "fr": "la pâte à modeler",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "art",
-  "ex_lb": "D'Kanner spillen mat Knet.",
-  "ex_en": "The children play with modelling clay."
+  "ex_lb": "Mir kruten dräi Pallette Plättercher geliwwert.",
+  "ex_en": "We had three pallets of tiles delivered.",
+  "lodId": "PALLETT1"
  },
  {
   "lb": "d'Schabloun",
@@ -937,8 +876,8 @@
   "gender": "f",
   "level": "B1",
   "category": "art",
-  "ex_lb": "Mat der Schabloun gëtt et méi einfach.",
-  "ex_en": "With the stencil it gets easier.",
+  "ex_lb": "D'Kanner hu mat enger Schabloun eng Kanéngche gezeechent.",
+  "ex_en": "The children drew a rabbit with a stencil.",
   "lodId": "SCHABLOUN1"
  },
  {
@@ -950,8 +889,8 @@
   "gender": "f",
   "level": "A2",
   "category": "crafts",
-  "ex_lb": "Si strickt mat rouder Wull.",
-  "ex_en": "She knits with red wool.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "WULL1"
  },
  {
@@ -963,8 +902,8 @@
   "gender": "f",
   "level": "B1",
   "category": "crafts",
-  "ex_lb": "D'Strécknolen sinn aus Holz.",
-  "ex_en": "The knitting needles are made of wood."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "den Fuedem",
@@ -975,8 +914,8 @@
   "gender": "m",
   "level": "A2",
   "category": "crafts",
-  "ex_lb": "Den Fuedem ass ze kuerz fir d'Nol.",
-  "ex_en": "The thread is too short for the needle.",
+  "ex_lb": "Ouni Brëll kréien ech kee Fuedem méi an d'Nol.",
+  "ex_en": "Without glasses I can no longer thread a needle.",
   "lodId": "FUEDEM1"
  },
  {
@@ -988,9 +927,9 @@
   "gender": "f",
   "level": "A2",
   "category": "crafts",
-  "ex_lb": "D'Nol ass ganz spëtz.",
-  "ex_en": "The needle is very sharp.",
-  "lodId": "NOL1"
+  "ex_lb": "Ouni Brëll kréien ech kee Fuedem méi an d'Nol!",
+  "ex_en": "Without glasses I can no longer thread a needle!",
+  "lodId": "NOL2"
  },
  {
   "lb": "de Knäppchen",
@@ -1001,12 +940,12 @@
   "gender": "m",
   "level": "A2",
   "category": "crafts",
-  "ex_lb": "E Knäppchen ass vun der Joss gefall.",
-  "ex_en": "A button has fallen off the jacket.",
+  "ex_lb": "Fir den Apparat auszemaachen, muss de op dëse Knäppchen drécken.",
+  "ex_en": "To switch the device off, press this button.",
   "lodId": "KNAPPCHEN1"
  },
  {
-  "lb": "d'Nähmaschinn",
+  "lb": "d'Bitzmaschinn",
   "en": "sewing machine",
   "de": "die Nähmaschine",
   "fr": "la machine à coudre",
@@ -1014,8 +953,9 @@
   "gender": "f",
   "level": "B1",
   "category": "crafts",
-  "ex_lb": "D'Mamm néit mat der Nähmaschinn.",
-  "ex_en": "Mum sews with the sewing machine."
+  "ex_lb": "Mir mussen eis Bitzmaschinn flécke loossen.",
+  "ex_en": "We have to get our sewing machine mended.",
+  "lodId": "BITZMASCHINN1"
  },
  {
   "lb": "de Ball",
@@ -1026,8 +966,8 @@
   "gender": "m",
   "level": "A1",
   "category": "sport",
-  "ex_lb": "De Ball läit am Gros.",
-  "ex_en": "The ball lies in the grass.",
+  "ex_lb": "Meng Schwëster ka mat dräi Bäll jongléieren.",
+  "ex_en": "My sister can juggle three balls.",
   "lodId": "BALL1"
  },
  {
@@ -1039,8 +979,8 @@
   "gender": "m",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Hien huet en neie Tennisschléier.",
-  "ex_en": "He has a new tennis racket.",
+  "ex_lb": "En erfuerene Golfspiller weess genee, wat fir e Schléier e fir wat fir e Schlag muss huelen.",
+  "ex_en": "An experienced golfer knows exactly which club to take for which shot.",
   "lodId": "SCHLEIER2"
  },
  {
@@ -1052,33 +992,9 @@
   "gender": "f",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Si hieft d'Hantel an der Sportshal.",
-  "ex_en": "She lifts the dumbbell in the gym.",
+  "ex_lb": "Beim Trainéieren ass mer eng Hantel op de Fouss gefall.",
+  "ex_en": "While training, a dumbbell fell on my foot.",
   "lodId": "HANTEL1"
- },
- {
-  "lb": "d'Schwammbrëll",
-  "en": "swimming goggles",
-  "de": "die Schwimmbrille",
-  "fr": "les lunettes de natation",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "sport",
-  "ex_lb": "Ech brauch d'Schwammbrëll am Bad.",
-  "ex_en": "I need the swimming goggles in the pool."
- },
- {
-  "lb": "d'Skien",
-  "en": "skis",
-  "de": "die Skier",
-  "fr": "les skis",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "sport",
-  "ex_lb": "D'Skien sinn an der Garage.",
-  "ex_en": "The skis are in the garage."
  },
  {
   "lb": "den Helm",
@@ -1089,33 +1005,22 @@
   "gender": "m",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Sëtz den Helm op beim Vëlofueren.",
-  "ex_en": "Put on the helmet when cycling.",
+  "ex_lb": "Et ass verbueden, ouni Helm mam Moto ze fueren.",
+  "ex_en": "It's forbidden to ride a motorbike without a helmet.",
   "lodId": "HELM1"
  },
  {
-  "lb": "d'Sportsschong",
-  "en": "trainers",
-  "de": "die Sportschuhe",
-  "fr": "les baskets",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "sport",
-  "ex_lb": "Meng Sportsschong sinn dreckeg.",
-  "ex_en": "My trainers are dirty."
- },
- {
-  "lb": "d'Tor",
+  "lb": "de Gol",
   "en": "goal (net)",
   "de": "das Tor",
   "fr": "le but",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "De Ball ass am Tor.",
-  "ex_en": "The ball is in the goal."
+  "ex_lb": "Wien ass am Gol?",
+  "ex_en": "Who's in goal?",
+  "lodId": "GOL1"
  },
  {
   "lb": "d'Schnouer (Spréng)",
@@ -1126,8 +1031,8 @@
   "gender": "f",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "D'Kanner sprangen mat der Schnouer.",
-  "ex_en": "The children jump with the skipping rope."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'Matt",
@@ -1138,9 +1043,9 @@
   "gender": "f",
   "level": "B1",
   "category": "sport",
-  "ex_lb": "Lee dech op d'Matt fir Yoga.",
-  "ex_en": "Lie down on the mat for yoga.",
-  "lodId": "MATT1"
+  "ex_lb": "Ech hu mer eng nei Matt fir de Yogascours kaaft.",
+  "ex_en": "I bought myself a new mat for the yoga class.",
+  "lodId": "MATT2"
  },
  {
   "lb": "de Schräiner",
@@ -1151,12 +1056,12 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Schräiner baut e Schaf.",
-  "ex_en": "The carpenter builds a cupboard.",
+  "ex_lb": "E Schräiner huet d'Brieder op d'Mooss geschnidden.",
+  "ex_en": "A carpenter cut the boards to size.",
   "lodId": "SCHRAINER1"
  },
  {
-  "lb": "de Maurer",
+  "lb": "de Steemetzer",
   "en": "bricklayer",
   "de": "der Maurer",
   "fr": "le maçon",
@@ -1164,8 +1069,9 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Maurer baut d'Mauer.",
-  "ex_en": "The bricklayer builds the wall."
+  "ex_lb": "An där Karriär hunn d'Steemetzer en eegenen Atelier.",
+  "ex_en": "In that quarry the stonemasons have their own workshop.",
+  "lodId": "STEEMETZER1"
  },
  {
   "lb": "den Elektriker",
@@ -1176,12 +1082,12 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "Den Elektriker reparéiert d'Luucht.",
-  "ex_en": "The electrician repairs the light.",
+  "ex_lb": "Hien huet eng Léier als Elektriker gemaach.",
+  "ex_en": "He trained as an electrician.",
   "lodId": "ELEKTRIKER1"
  },
  {
-  "lb": "de Plombier",
+  "lb": "den Installateur",
   "en": "plumber",
   "de": "der Klempner",
   "fr": "le plombier",
@@ -1189,11 +1095,12 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Plombier kënnt fir den Hunn.",
-  "ex_en": "The plumber comes for the tap."
+  "ex_lb": "Wann s du de Krunn net gefléckt kriss, da musse mer den Installateur ruffen.",
+  "ex_en": "If you can't fix the tap, we'll have to call the plumber.",
+  "lodId": "INSTALLATEUR1"
  },
  {
-  "lb": "de Mechaniker",
+  "lb": "de Mecanicien",
   "en": "mechanic",
   "de": "der Mechaniker",
   "fr": "le mécanicien",
@@ -1201,11 +1108,12 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Mechaniker kuckt de Motor un.",
-  "ex_en": "The mechanic checks the engine."
+  "ex_lb": "De Mecanicien ass amgaang, de Vidange vum Auto ze maachen.",
+  "ex_en": "The mechanic is changing the car's oil.",
+  "lodId": "MECANICIEN1"
  },
  {
-  "lb": "de Frisör",
+  "lb": "de Coiffer",
   "en": "hairdresser",
   "de": "der Friseur",
   "fr": "le coiffeur",
@@ -1213,8 +1121,9 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "Ech ginn de Mëtteg bei de Frisör.",
-  "ex_en": "I'm going to the hairdresser this afternoon."
+  "ex_lb": "De Coiffer huet dem Bouf eng Bross geschnidden.",
+  "ex_en": "The hairdresser gave the boy a crew cut.",
+  "lodId": "COIFFER1"
  },
  {
   "lb": "de Bäcker",
@@ -1225,8 +1134,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Bäcker bäckt frësch Bréitercher.",
-  "ex_en": "The baker bakes fresh rolls.",
+  "ex_lb": "Bei dësem Bäcker kritt een och sonndes frëscht Brout.",
+  "ex_en": "At this baker's you get fresh bread even on Sundays.",
   "lodId": "BACKER1"
  },
  {
@@ -1238,8 +1147,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Metzler verkeeft gutt Fleesch.",
-  "ex_en": "The butcher sells good meat.",
+  "ex_lb": "Eise Metzler verkeeft wonnerbare Groen Drot.",
+  "ex_en": "Our butcher sells wonderful Groen Drot.",
   "lodId": "METZLER1"
  },
  {
@@ -1251,12 +1160,12 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Moler streicht d'Wänn.",
-  "ex_en": "The painter paints the walls.",
+  "ex_lb": "De Moler war d'ganz Nuecht an sengem Atelier.",
+  "ex_en": "The painter spent the whole night in his studio.",
   "lodId": "MOLER1"
  },
  {
-  "lb": "de Geertner",
+  "lb": "de Gäertner",
   "en": "gardener",
   "de": "der Gärtner",
   "fr": "le jardinier",
@@ -1264,23 +1173,12 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Geertner këmmert sech ëm de Park.",
-  "ex_en": "The gardener takes care of the park."
+  "ex_lb": "Ech kafe meng Tomate léiwer beim Gäertner.",
+  "ex_en": "I prefer to buy my tomatoes from the market gardener.",
+  "lodId": "GAERTNER1"
  },
  {
-  "lb": "de Schongmécher",
-  "en": "shoemaker",
-  "de": "der Schuhmacher",
-  "fr": "le cordonnier",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "profession",
-  "ex_lb": "De Schongmécher flickt meng Schong.",
-  "ex_en": "The shoemaker mends my shoes."
- },
- {
-  "lb": "den Dachdecker",
+  "lb": "den Daachdecker",
   "en": "roofer",
   "de": "der Dachdecker",
   "fr": "le couvreur",
@@ -1288,8 +1186,9 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "Den Dachdecker reparéiert d'Daach.",
-  "ex_en": "The roofer repairs the roof."
+  "ex_lb": "Den Daachdecker kënnt d'nächst Woch e puer Leeën ersetzen.",
+  "ex_en": "The roofer is coming next week to replace a few slates.",
+  "lodId": "DAACHDECKER1"
  },
  {
   "lb": "de Schweesser",
@@ -1300,12 +1199,12 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Schweesser schafft mat Metall.",
-  "ex_en": "The welder works with metal.",
+  "ex_lb": "Hien huet als geléierte Schweesser op der Eisebunn geschafft.",
+  "ex_en": "He worked as a trained welder on the railway.",
   "lodId": "SCHWEESSER1"
  },
  {
-  "lb": "de Schmaadt",
+  "lb": "de Schmadd",
   "en": "blacksmith",
   "de": "der Schmied",
   "fr": "le forgeron",
@@ -1313,8 +1212,9 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Schmaadt mécht Hufeisen.",
-  "ex_en": "The blacksmith makes horseshoes."
+  "ex_lb": "De Schmadd leet d'Eisen op den Amboss, fir et ze verschaffen.",
+  "ex_en": "The blacksmith puts the iron on the anvil to work it.",
+  "lodId": "SCHMADD1"
  },
  {
   "lb": "de Pompjee",
@@ -1325,8 +1225,8 @@
   "gender": "m",
   "level": "A2",
   "category": "profession",
-  "ex_lb": "De Pompjee läscht de Feier.",
-  "ex_en": "The firefighter puts out the fire.",
+  "ex_lb": "Esoubal den Alarm geet, fueren d'Pompjeeën eraus.",
+  "ex_en": "As soon as the alarm goes off, the firefighters head out.",
   "lodId": "POMPJEE1"
  },
  {
@@ -1338,8 +1238,8 @@
   "gender": "f",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "D'Eeër bröden an der Pann.",
-  "ex_en": "The eggs fry in the pan.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "PANN1"
  },
  {
@@ -1351,8 +1251,8 @@
   "gender": "m",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "D'Zopp kacht am Dëppen.",
-  "ex_en": "The soup cooks in the pot.",
+  "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
+  "ex_en": "The painter knocked over the paint pots.",
   "lodId": "DEPPEN1"
  },
  {
@@ -1364,21 +1264,22 @@
   "gender": "m",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "Mam Schäffchen verdeelen ech d'Zopp.",
-  "ex_en": "With the ladle I serve the soup.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "SCHAFFCHEN1"
  },
  {
-  "lb": "de Räibeisen",
+  "lb": "d'Rapp",
   "en": "grater",
   "de": "die Reibe",
   "fr": "la râpe",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "Ech reiwen de Kéis mam Räibeisen.",
-  "ex_en": "I grate the cheese with the grater."
+  "ex_lb": "Gëff Uecht op d'Fangeren, wann s de mat der Rapp hantéiers!",
+  "ex_en": "Mind your fingers when you're using the grater!",
+  "lodId": "RAPP1"
  },
  {
   "lb": "d'Schneidbriet",
@@ -1393,7 +1294,7 @@
   "ex_en": "Cut the vegetables on the cutting board."
  },
  {
-  "lb": "de Schwéngsbiischt",
+  "lb": "de Schnéibiesem",
   "en": "whisk",
   "de": "der Schneebesen",
   "fr": "le fouet",
@@ -1401,8 +1302,9 @@
   "gender": "m",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "Mam Schwéngsbiischt schloen ech d'Eeër.",
-  "ex_en": "With the whisk I beat the eggs."
+  "ex_lb": "Huel de Schnéibiesem, fir an der Zooss ze réieren, soss gëtt et Knäpp!",
+  "ex_en": "Use the whisk to stir the sauce, or it will go lumpy!",
+  "lodId": "SCHNEIBIESEM1"
  },
  {
   "lb": "de Mixer",
@@ -1413,12 +1315,12 @@
   "gender": "m",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "De Mixer mécht e Smoothie.",
-  "ex_en": "The blender makes a smoothie.",
+  "ex_lb": "Ech hunn en extrae Mixer, fir Milkshaken ze maachen.",
+  "ex_en": "I have a separate blender for making milkshakes.",
   "lodId": "MIXER1"
  },
  {
-  "lb": "de Backuewen",
+  "lb": "de Bakuewen",
   "en": "oven",
   "de": "der Backofen",
   "fr": "le four",
@@ -1426,8 +1328,9 @@
   "gender": "m",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "De Kuch ass am Backuewen.",
-  "ex_en": "The cake is in the oven."
+  "ex_lb": "D'Pizza kënnt aus dem Bakuewen op den Dësch.",
+  "ex_en": "The pizza comes straight from the oven to the table.",
+  "lodId": "BAKUEWEN1"
  },
  {
   "lb": "d'Schossel",
@@ -1438,24 +1341,12 @@
   "gender": "f",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "D'Salat ass an der Schossel.",
-  "ex_en": "The salad is in the bowl.",
+  "ex_lb": "Ech hunn d'Margarinn zesumme mam Zocker an eng Schossel gedoen.",
+  "ex_en": "I put the margarine together with the sugar in a bowl.",
   "lodId": "SCHOSSEL1"
  },
  {
-  "lb": "de Pëllendrécker",
-  "en": "garlic press",
-  "de": "die Knoblauchpresse",
-  "fr": "le presse-ail",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "kitchen",
-  "ex_lb": "Mam Pëllendrécker drécken ech de Knuewelek.",
-  "ex_en": "With the press I crush the garlic."
- },
- {
-  "lb": "de Kachläffel",
+  "lb": "de Bräiläffel",
   "en": "wooden spoon",
   "de": "der Kochlöffel",
   "fr": "la cuillère en bois",
@@ -1463,11 +1354,12 @@
   "gender": "m",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "Réier d'Zopp mam Kachläffel.",
-  "ex_en": "Stir the soup with the wooden spoon."
+  "ex_lb": "Huel de Bräiläffel, fir an der Pan ze réieren, soss méchs de Schréipsen dran!",
+  "ex_en": "Use the wooden spoon to stir in the pan, or you'll scratch it!",
+  "lodId": "BRAILAFFEL1"
  },
  {
-  "lb": "de Backblech",
+  "lb": "de Blech",
   "en": "baking tray",
   "de": "das Backblech",
   "fr": "la plaque de cuisson",
@@ -1475,11 +1367,12 @@
   "gender": "m",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "D'Kichelcher leien um Backblech.",
-  "ex_en": "The cookies lie on the baking tray."
+  "ex_lb": "Wou ass de Blech, deen ech ëmmer huelen, fir Kichelcher ze baken?",
+  "ex_en": "Where's the baking tray I always use for baking biscuits?",
+  "lodId": "BLECH1"
  },
  {
-  "lb": "de Sif",
+  "lb": "de Sift",
   "en": "sieve",
   "de": "das Sieb",
   "fr": "la passoire",
@@ -1487,11 +1380,12 @@
   "gender": "m",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "Goss d'Nuddelen duerch de Sif.",
-  "ex_en": "Pour the noodles through the sieve."
+  "ex_lb": "Ech hunn de ganze Mëtteg Sand an de Sift geschëppt.",
+  "ex_en": "I spent the whole afternoon shovelling sand into the sieve.",
+  "lodId": "SIFT1"
  },
  {
-  "lb": "de Flëschenëffner",
+  "lb": "de Fläschenëffner",
   "en": "bottle opener",
   "de": "der Flaschenöffner",
   "fr": "le décapsuleur",
@@ -1499,11 +1393,12 @@
   "gender": "m",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "Wou ass de Flëschenëffner?",
-  "ex_en": "Where is the bottle opener?"
+  "ex_lb": "Virun de Wale verdeelt d'Partei Fläschenëffner mat hirem Logo drop.",
+  "ex_en": "Before the elections the party hands out bottle openers with its logo on them.",
+  "lodId": "FLASCHENEFFNER1"
  },
  {
-  "lb": "de Waasserkessel",
+  "lb": "de Kessel",
   "en": "kettle",
   "de": "der Wasserkocher",
   "fr": "la bouilloire",
@@ -1511,8 +1406,9 @@
   "gender": "m",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "De Waasserkessel kacht d'Waasser séier.",
-  "ex_en": "The kettle boils the water quickly."
+  "ex_lb": "D'Quetschekraut brutschelt am Kessel.",
+  "ex_en": "The plum jam is bubbling in the pot.",
+  "lodId": "KESSEL1"
  },
  {
   "lb": "d'Holz",
@@ -1523,8 +1419,8 @@
   "gender": "n",
   "level": "A2",
   "category": "material",
-  "ex_lb": "Den Dësch ass aus Holz.",
-  "ex_en": "The table is made of wood.",
+  "ex_lb": "Ech hunn de ganze Mëtteg Holz gehaen.",
+  "ex_en": "I spent the whole afternoon chopping wood.",
   "lodId": "HOLZ1"
  },
  {
@@ -1536,8 +1432,8 @@
   "gender": "m",
   "level": "A2",
   "category": "material",
-  "ex_lb": "Dës Box ass aus Metall.",
-  "ex_en": "This box is made of metal.",
+  "ex_lb": "Dat Gestell ass aus Metall.",
+  "ex_en": "That frame is made of metal.",
   "lodId": "METALL2"
  },
  {
@@ -1549,8 +1445,8 @@
   "gender": "m",
   "level": "A2",
   "category": "material",
-  "ex_lb": "D'Fläsch ass aus Plastik.",
-  "ex_en": "The bottle is made of plastic.",
+  "ex_lb": "Villes, wat fréier aus Glas war, ass haut aus Plastik.",
+  "ex_en": "Much of what used to be made of glass is made of plastic today.",
   "lodId": "PLASTIK1"
  },
  {
@@ -1562,8 +1458,8 @@
   "gender": "n",
   "level": "A2",
   "category": "material",
-  "ex_lb": "D'Fënster ass aus Glas.",
-  "ex_en": "The window is made of glass.",
+  "ex_lb": "Villes, wat fréier aus Glas war, ass haut aus Plastik.",
+  "ex_en": "Much of what used to be made of glass is made of plastic today.",
   "lodId": "GLAS1"
  },
  {
@@ -1575,12 +1471,12 @@
   "gender": "m",
   "level": "B1",
   "category": "material",
-  "ex_lb": "D'Bréck ass aus Stol.",
-  "ex_en": "The bridge is made of steel.",
+  "ex_lb": "De Stol aus eisem Land ass op der ganzer Welt eng Referenz.",
+  "ex_en": "Steel from our country is a benchmark all over the world.",
   "lodId": "STOL1"
  },
  {
-  "lb": "de Beton",
+  "lb": "de Bëton",
   "en": "concrete",
   "de": "der Beton",
   "fr": "le béton",
@@ -1588,8 +1484,9 @@
   "gender": "m",
   "level": "B1",
   "category": "material",
-  "ex_lb": "De Buedem ass aus Beton.",
-  "ex_en": "The floor is made of concrete."
+  "ex_lb": "Déi nei Eisebunnsbréck ass ganz aus Bëton.",
+  "ex_en": "The new railway bridge is made entirely of concrete.",
+  "lodId": "BETON1"
  },
  {
   "lb": "de Stee",
@@ -1613,8 +1510,8 @@
   "gender": "n",
   "level": "B1",
   "category": "material",
-  "ex_lb": "D'Schong sinn aus Lieder.",
-  "ex_en": "The shoes are made of leather.",
+  "ex_lb": "Menger Mamm hir Posche sinn all aus Lieder.",
+  "ex_en": "My mother's handbags are all made of leather.",
   "lodId": "LIEDER1"
  },
  {
@@ -1639,12 +1536,12 @@
   "gender": "m",
   "level": "B1",
   "category": "material",
-  "ex_lb": "De Reef ass aus Gummi.",
-  "ex_en": "The tyre is made of rubber.",
+  "ex_lb": "Dës Stiwwele sinn aus Gummi.",
+  "ex_en": "These boots are made of rubber.",
   "lodId": "GUMMI1"
  },
  {
-  "lb": "de Kupfer",
+  "lb": "de Koffer",
   "en": "copper",
   "de": "das Kupfer",
   "fr": "le cuivre",
@@ -1652,8 +1549,9 @@
   "gender": "m",
   "level": "B1",
   "category": "material",
-  "ex_lb": "D'Drot ass aus Kupfer.",
-  "ex_en": "The wire is made of copper."
+  "ex_lb": "Mir hunn an eisem Haus Heizungsréier aus Koffer.",
+  "ex_en": "In our house the heating pipes are made of copper.",
+  "lodId": "KOFFER3"
  },
  {
   "lb": "d'Wolle",
@@ -1676,8 +1574,8 @@
   "gender": "f",
   "level": "B1",
   "category": "material",
-  "ex_lb": "D'Bluse ass aus Seid.",
-  "ex_en": "The blouse is made of silk.",
+  "ex_lb": "D'Seid gëtt vu Raupe produzéiert.",
+  "ex_en": "Silk is produced by caterpillars.",
   "lodId": "SEID1"
  },
  {
@@ -1689,8 +1587,8 @@
   "gender": "f",
   "level": "B1",
   "category": "material",
-  "ex_lb": "D'T-Shirt ass aus Kotteng.",
-  "ex_en": "The T-shirt is made of cotton.",
+  "ex_lb": "Meng nei Box ass aus Kotteng.",
+  "ex_en": "My new trousers are made of cotton.",
   "lodId": "KOTTENG1"
  },
  {
@@ -1702,12 +1600,12 @@
   "gender": "m",
   "level": "A2",
   "category": "material",
-  "ex_lb": "D'Kanner spillen am Sand.",
-  "ex_en": "The children play in the sand.",
+  "ex_lb": "D'Waasser verwëscht all Spueren am Sand.",
+  "ex_en": "The water washes away all traces in the sand.",
   "lodId": "SAND1"
  },
  {
-  "lb": "de Lehm",
+  "lb": "de Leem",
   "en": "clay",
   "de": "der Lehm",
   "fr": "l'argile",
@@ -1715,8 +1613,9 @@
   "gender": "m",
   "level": "B1",
   "category": "material",
-  "ex_lb": "D'Schossel ass aus Lehm.",
-  "ex_en": "The bowl is made of clay."
+  "ex_lb": "D'Kanner forme Figuren aus Leem fir bei d'Krëppchen.",
+  "ex_en": "The children shape clay figures for the crib.",
+  "lodId": "LEEM1"
  },
  {
   "lb": "de Schal",
@@ -1727,8 +1626,8 @@
   "gender": "m",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "Am Wanter droen ech e waarme Schal.",
-  "ex_en": "In winter I wear a warm scarf.",
+  "ex_lb": "Am Wanter ginn ech ni ouni Schal baussent d'Dier.",
+  "ex_en": "In winter I never go outside without a scarf.",
   "lodId": "SCHAL1"
  },
  {
@@ -1740,8 +1639,8 @@
   "gender": "f",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "Sëtz d'Mutz op, et ass kal.",
-  "ex_en": "Put on the beanie, it's cold.",
+  "ex_lb": "Do eng Mutz op de Kapp, soss kriss de kal Oueren!",
+  "ex_en": "Put a hat on, or your ears will get cold!",
   "lodId": "MUTZ1"
  },
  {
@@ -1757,7 +1656,7 @@
   "ex_en": "My gloves are in the bag."
  },
  {
-  "lb": "de Gürtel",
+  "lb": "de Rimm",
   "en": "belt",
   "de": "der Gürtel",
   "fr": "la ceinture",
@@ -1765,8 +1664,9 @@
   "gender": "m",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "De Gürtel ass ze enk.",
-  "ex_en": "The belt is too tight."
+  "ex_lb": "D'Block u mengem Rimm ass futti.",
+  "ex_en": "The buckle on my belt is broken.",
+  "lodId": "RIMM1"
  },
  {
   "lb": "d'Krawatt",
@@ -1777,8 +1677,8 @@
   "gender": "f",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "Hien dréit eng blo Krawatt.",
-  "ex_en": "He wears a blue tie.",
+  "ex_lb": "Fir déi Festivitéit muss de eng Krawatt undoen!",
+  "ex_en": "You have to wear a tie for that celebration!",
   "lodId": "KRAWATT1"
  },
  {
@@ -1790,8 +1690,8 @@
   "gender": "f",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "Meng Strëmp hunn e Lach.",
-  "ex_en": "My stockings have a hole.",
+  "ex_lb": "D'Feeschte vu mengen neie Strëmp si schonn zerrass.",
+  "ex_en": "The heels of my new socks are already torn.",
   "lodId": "STREMP1"
  },
  {
@@ -1815,8 +1715,8 @@
   "gender": "m",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "Am Reen droen ech Stiwwelen.",
-  "ex_en": "In the rain I wear boots.",
+  "ex_lb": "Ech brauch e Puer nei Stiwwele fir de Wanter.",
+  "ex_en": "I need a new pair of boots for the winter.",
   "lodId": "STIWWEL1"
  },
  {
@@ -1828,12 +1728,12 @@
   "gender": "m",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "Zéi däi Pyjama un.",
-  "ex_en": "Put on your pyjamas.",
+  "ex_lb": "Ditt äre Pyjama un a gitt schlofen!",
+  "ex_en": "Put your pyjamas on and go to bed!",
   "lodId": "PYJAMA1"
  },
  {
-  "lb": "de Badmantel",
+  "lb": "de Buedmantel",
   "en": "bathrobe",
   "de": "der Bademantel",
   "fr": "le peignoir",
@@ -1841,8 +1741,9 @@
   "gender": "m",
   "level": "B1",
   "category": "clothing",
-  "ex_lb": "No der Dusch droen ech de Badmantel.",
-  "ex_en": "After the shower I wear the bathrobe."
+  "ex_lb": "Vergiess däi Buedmantel net, wann s de an d'Sauna gees.",
+  "ex_en": "Don't forget your bathrobe when you go to the sauna.",
+  "lodId": "BUEDMANTEL1"
  },
  {
   "lb": "d'Wäscht",
@@ -1865,8 +1766,8 @@
   "gender": "m",
   "level": "B1",
   "category": "accessory",
-  "ex_lb": "Seng Manschettenknäpp si gëlle.",
-  "ex_en": "His cufflinks are golden."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "de Rénk",
@@ -1902,8 +1803,8 @@
   "gender": "f",
   "level": "A2",
   "category": "accessory",
-  "ex_lb": "Si huet eng schéi Kette ëm den Hals.",
-  "ex_en": "She has a beautiful necklace around her neck."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'Sonnebrëll",
@@ -1914,8 +1815,8 @@
   "gender": "f",
   "level": "A2",
   "category": "accessory",
-  "ex_lb": "An der Sonn droen ech meng Sonnebrëll.",
-  "ex_en": "In the sun I wear my sunglasses.",
+  "ex_lb": "Ech hu mer beim Optiker eng haart Scheek fir mäi Sonnebrëll gefrot.",
+  "ex_en": "I asked the optician for a hard case for my sunglasses.",
   "lodId": "SONNEBRELL1"
  },
  {
@@ -1927,12 +1828,12 @@
   "gender": "m",
   "level": "A2",
   "category": "accessory",
-  "ex_lb": "Mäi Portmonni ass an der Täsch.",
-  "ex_en": "My wallet is in the bag.",
+  "ex_lb": "Ech hunn e sëllege Gefaacher a mengem neie Portmonni.",
+  "ex_en": "My new wallet has lots of compartments.",
   "lodId": "PORTMONNI1"
  },
  {
-  "lb": "de Reesschirm",
+  "lb": "de Prabbeli",
   "en": "umbrella",
   "de": "der Regenschirm",
   "fr": "le parapluie",
@@ -1940,23 +1841,12 @@
   "gender": "m",
   "level": "A2",
   "category": "accessory",
-  "ex_lb": "Huel de Reesschirm mat, et reent.",
-  "ex_en": "Take the umbrella, it's raining."
+  "ex_lb": "Et gëtt Reen, géi net ouni Prabbeli eraus!",
+  "ex_en": "It's going to rain, don't go out without an umbrella!",
+  "lodId": "PRABBELI1"
  },
  {
-  "lb": "d'Aarmbanduhr",
-  "en": "wristwatch",
-  "de": "die Armbanduhr",
-  "fr": "la montre",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "accessory",
-  "ex_lb": "Meng Aarmbanduhr geet falsch.",
-  "ex_en": "My wristwatch is wrong."
- },
- {
-  "lb": "d'Broschtdaach",
+  "lb": "d'Brosch",
   "en": "brooch",
   "de": "die Brosche",
   "fr": "la broche",
@@ -1964,8 +1854,9 @@
   "gender": "f",
   "level": "B1",
   "category": "accessory",
-  "ex_lb": "D'Broschtdaach ass un hirem Mantel.",
-  "ex_en": "The brooch is on her coat."
+  "ex_lb": "De Bijoutier huet eng schéi gëlle Brosch an der Fënster leien.",
+  "ex_en": "The jeweller has a beautiful gold brooch in the window.",
+  "lodId": "BROSCH1"
  },
  {
   "lb": "d'Béien",
@@ -1979,18 +1870,6 @@
   "ex_lb": "Hie schéisst mam Béien op d'Zil.",
   "ex_en": "He shoots with the bow at the target.",
   "lodId": "BEIEN1"
- },
- {
-  "lb": "de Klotsch",
-  "en": "club (golf)",
-  "de": "der Golfschläger",
-  "fr": "le club de golf",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "sport",
-  "ex_lb": "De Golfklotsch ass aus Metall.",
-  "ex_en": "The golf club is made of metal."
  },
  {
   "lb": "d'Stäip",
@@ -2018,7 +1897,7 @@
   "ex_en": "I put in a bit for wood."
  },
  {
-  "lb": "d'Schmierfett",
+  "lb": "d'Fett",
   "en": "grease",
   "de": "das Schmierfett",
   "fr": "la graisse",
@@ -2026,8 +1905,9 @@
   "gender": "n",
   "level": "B1",
   "category": "material",
-  "ex_lb": "D'Kette brauch Schmierfett.",
-  "ex_en": "The chain needs grease."
+  "ex_lb": "Huel net ze vill Fett, fir d'Fleesch unzebroden!",
+  "ex_en": "Don't use too much fat to brown the meat!",
+  "lodId": "FETT2"
  },
  {
   "lb": "d'Uebst (Bam)",
@@ -2062,8 +1942,8 @@
   "gender": "m",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "D'Wuerzel geet déif an d'Äerd.",
-  "ex_en": "The root goes deep into the soil.",
+  "ex_lb": "D'Wuerzel vum Bakzant ass entzünt.",
+  "ex_en": "The root of the molar is inflamed.",
   "lodId": "WUERZEL1"
  },
  {
@@ -2088,8 +1968,8 @@
   "gender": "m",
   "level": "B1",
   "category": "music",
-  "ex_lb": "D'Musek kënnt aus dem Lautsprecher.",
-  "ex_en": "The music comes from the loudspeaker.",
+  "ex_lb": "Mat deene Lautsprecher kléngt d'Musek glaskloer.",
+  "ex_en": "With those speakers the music sounds crystal clear.",
   "lodId": "LAUTSPRECHER1"
  },
  {
@@ -2101,32 +1981,8 @@
   "gender": "m",
   "level": "B1",
   "category": "art",
-  "ex_lb": "Fir Detailer brauch ech e fenge Pinsel.",
-  "ex_en": "For details I need a fine brush."
- },
- {
-  "lb": "d'Aquarellfaarf",
-  "en": "watercolour paint",
-  "de": "die Wasserfarbe",
-  "fr": "l'aquarelle",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "art",
-  "ex_lb": "D'Kand molt mat Aquarellfaarf.",
-  "ex_en": "The child paints with watercolour."
- },
- {
-  "lb": "de Vëlomechaniker",
-  "en": "bike mechanic",
-  "de": "der Fahrradmechaniker",
-  "fr": "le réparateur de vélo",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "profession",
-  "ex_lb": "De Vëlomechaniker flickt de Reef.",
-  "ex_en": "The bike mechanic fixes the tyre."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "de Fëscher",
@@ -2137,8 +1993,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Fëscher sëtzt um Floss.",
-  "ex_en": "The fisherman sits by the river.",
+  "ex_lb": "E gudde Fëscher huet Gedold a säi Stëppchen ëmmer am A.",
+  "ex_en": "A good angler is patient and always keeps an eye on his float.",
   "lodId": "FESCHER1"
  },
  {
@@ -2163,8 +2019,8 @@
   "gender": "m",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "De Bijoutier verkeeft Réng a Ketten.",
-  "ex_en": "The jeweller sells rings and necklaces.",
+  "ex_lb": "Ech war beim Bijoutier, fir menger Fra eng gëlle Ketten ze kafen.",
+  "ex_en": "I went to the jeweller's to buy my wife a gold chain.",
   "lodId": "BIJOUTIER1"
  },
  {
@@ -2176,8 +2032,8 @@
   "gender": "f",
   "level": "B1",
   "category": "profession",
-  "ex_lb": "D'Optikerin passt meng Brëll un.",
-  "ex_en": "The optician adjusts my glasses.",
+  "ex_lb": "D'Optikerin huet mer e roude Brëll proposéiert.",
+  "ex_en": "The optician suggested red glasses to me.",
   "lodId": "OPTIKERIN1"
  },
  {
@@ -2189,8 +2045,8 @@
   "gender": "m",
   "level": "B1",
   "category": "material",
-  "ex_lb": "De Rénk ass aus Sëlwer.",
-  "ex_en": "The ring is made of silver.",
+  "ex_lb": "Dëse Käerzestänner ass aus puerem Sëlwer.",
+  "ex_en": "This candlestick is made of pure silver.",
   "lodId": "SELWER4"
  },
  {
@@ -2202,48 +2058,51 @@
   "gender": "n",
   "level": "A2",
   "category": "material",
-  "ex_lb": "D'Kette ass aus Gold.",
-  "ex_en": "The necklace is made of gold.",
+  "ex_lb": "Eis Brautréng sinn aus wäissem Gold.",
+  "ex_en": "Our wedding rings are made of white gold.",
   "lodId": "GOLD2"
  },
  {
-  "lb": "de Sock",
+  "lb": "d'Strëmp",
   "en": "sock",
   "de": "die Socke",
   "fr": "la chaussette",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "clothing",
-  "ex_lb": "E Sock feelt no der Wäsch.",
-  "ex_en": "One sock is missing after the wash."
+  "ex_lb": "D'Feeschte vu mengen neie Strëmp si schonn zerrass.",
+  "ex_en": "The heels of my new socks are already torn.",
+  "lodId": "STREMP1"
  },
  {
-  "lb": "de Kapuze",
+  "lb": "d'Kaputz",
   "en": "hood",
   "de": "die Kapuze",
   "fr": "la capuche",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "clothing",
-  "ex_lb": "Sëtz de Kapuze op am Reen.",
-  "ex_en": "Put up the hood in the rain."
+  "ex_lb": "En hat e laange Mantel mat enger Kaputz un.",
+  "ex_en": "He was wearing a long coat with a hood.",
+  "lodId": "KAPUTZ1"
  },
  {
-  "lb": "de Räissverschloss",
+  "lb": "d'Tirett",
   "en": "zip",
   "de": "der Reißverschluss",
   "fr": "la fermeture éclair",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "clothing",
-  "ex_lb": "De Räissverschloss vun der Joss klemmt.",
-  "ex_en": "The zip of the jacket is stuck."
+  "ex_lb": "Déi meescht Boxen hunn haut eng Tirett.",
+  "ex_en": "Most trousers have a zip these days.",
+  "lodId": "TIRETT1"
  },
  {
-  "lb": "d'Pinzett",
+  "lb": "d'Pincette",
   "en": "tweezers",
   "de": "die Pinzette",
   "fr": "la pince à épiler",
@@ -2251,11 +2110,12 @@
   "gender": "f",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "Mat der Pinzett huelen ech de Splitter eraus.",
-  "ex_en": "With the tweezers I remove the splinter."
+  "ex_lb": "D'Mamm huet deem Klengen d'Spläiter mat enger Pincette erausgezunn.",
+  "ex_en": "Mum pulled the splinter out of the little one's finger with tweezers.",
+  "lodId": "PINCETTE1"
  },
  {
-  "lb": "de Schmiergel (Blocks)",
+  "lb": "de Schraufstack",
   "en": "vice",
   "de": "der Schraubstock",
   "fr": "l'étau",
@@ -2263,8 +2123,9 @@
   "gender": "m",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "D'Holz ass am Schraubstock fest.",
-  "ex_en": "The wood is tight in the vice."
+  "ex_lb": "D'Bake vum Schraufstack sinn ofgenotzt.",
+  "ex_en": "The jaws of the vice are worn.",
+  "lodId": "SCHRAUFSTACK1"
  },
  {
   "lb": "de Klappstull",
@@ -2275,12 +2136,12 @@
   "gender": "m",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "Huel e Klappstull mat an de Gaart.",
-  "ex_en": "Take a folding chair into the garden.",
+  "ex_lb": "Mir hunn déi al, rabbeleg Klappstill all op den Tipp gehäit.",
+  "ex_en": "We threw all the old, rickety folding chairs on the tip.",
   "lodId": "KLAPPSTULL1"
  },
  {
-  "lb": "d'Wäschklamer",
+  "lb": "d'Klamer",
   "en": "clothes peg",
   "de": "die Wäscheklammer",
   "fr": "la pince à linge",
@@ -2288,19 +2149,21 @@
   "gender": "f",
   "level": "B1",
   "category": "garden",
-  "ex_lb": "Mat der Wäschklamer hänken ech d'Wäsch op.",
-  "ex_en": "With the clothes peg I hang the laundry."
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "KLAMER1"
  },
  {
-  "lb": "de Schubkar (Rad)",
+  "lb": "d'Rull",
   "en": "castor wheel",
   "de": "die Lenkrolle",
   "fr": "la roulette",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "De Stull huet véier kleng Rieder.",
-  "ex_en": "The chair has four small wheels."
+  "ex_lb": "Ech bräicht e Stull mat Rulle fir bei mäi Schreifdësch.",
+  "ex_en": "I need a chair on castors for my desk.",
+  "lodId": "RULL1"
  }
 ]

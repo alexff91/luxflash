@@ -8,8 +8,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Ech stinn all Moien um siwen op.",
-  "ex_en": "I get up every morning at seven.",
+  "ex_lb": "D'Leit sinn opgestanen, wéi d'Nationalhymn gespillt gouf.",
+  "ex_en": "People stood up when the national anthem was played.",
   "lodId": "OPSTOEN2"
  },
  {
@@ -34,8 +34,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Maach däi Mantel of.",
-  "ex_en": "Take off your coat.",
+  "ex_lb": "Maach den Dësch mat engem Duch of!",
+  "ex_en": "Wipe the table with a cloth!",
   "lodId": "OFMAACHEN1"
  },
  {
@@ -47,8 +47,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Maach d'Luucht aus, w.e.g.",
-  "ex_en": "Turn off the light, please.",
+  "ex_lb": "Maach deng Zigarett wannechgelift aus!",
+  "ex_en": "Put out your cigarette, please!",
   "lodId": "AUSMAACHEN1"
  },
  {
@@ -60,8 +60,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Maach de Computer un.",
-  "ex_en": "Turn on the computer.",
+  "ex_lb": "Dëst Joer hu mir schonn Enn August d'Heizung erëm ugemaach.",
+  "ex_en": "This year we already turned the heating back on at the end of August.",
   "lodId": "UMAACHEN1"
  },
  {
@@ -73,12 +73,12 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Ech doen mir eng Jackett un.",
-  "ex_en": "I put on a jacket.",
+  "ex_lb": "Am Summer dinn ech praktesch nëmme kuerz Boxen un.",
+  "ex_en": "In summer I wear practically nothing but shorts.",
   "lodId": "UNDOEN1"
  },
  {
-  "lb": "auszéien",
+  "lb": "ausdoen",
   "en": "to take off, move out",
   "de": "ausziehen",
   "fr": "déshabiller, déménager",
@@ -86,8 +86,9 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Si zéien d'nächst Woch aus.",
-  "ex_en": "They move out next week."
+  "ex_lb": "Ditt är knaschteg Schong aus, wannechgelift!",
+  "ex_en": "Take off your dirty shoes, please!",
+  "lodId": "AUSDOEN1"
  },
  {
   "lb": "matkommen",
@@ -111,8 +112,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Ech maachen um Concours mat.",
-  "ex_en": "I take part in the competition.",
+  "ex_lb": "Déi Tricken do maachen ech net mat!",
+  "ex_en": "I'm not going along with those tricks!",
   "lodId": "MATMAACHEN1"
  },
  {
@@ -124,8 +125,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Bréng eppes ze drénken mat.",
-  "ex_en": "Bring something to drink.",
+  "ex_lb": "Bréngs de mer eppes aus der Vakanz mat?",
+  "ex_en": "Will you bring me something back from your holiday?",
   "lodId": "MATBRENGEN1"
  },
  {
@@ -137,8 +138,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Huel däin Regeschirm mat.",
-  "ex_en": "Take your umbrella along.",
+  "ex_lb": "An der Hetz hat ech vergiess, e Prabbeli matzehuelen.",
+  "ex_en": "In the rush I forgot to take an umbrella.",
   "lodId": "MATHUELEN1"
  },
  {
@@ -150,8 +151,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "De Film fänkt um aacht un.",
-  "ex_en": "The film begins at eight.",
+  "ex_lb": "Hien huet eng Léier als Drécker ugefaangen.",
+  "ex_en": "He started an apprenticeship as a printer.",
   "lodId": "UFANKEN1"
  },
  {
@@ -163,8 +164,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Ech ruffen dech muer un.",
-  "ex_en": "I'll call you tomorrow.",
+  "ex_lb": "Riffs de vun doheem aus un oder bass de ënnerwee?",
+  "ex_en": "Are you calling from home or are you out?",
   "lodId": "URUFFEN1"
  },
  {
@@ -176,8 +177,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "De Zuch kënnt um néng un.",
-  "ex_en": "The train arrives at nine.",
+  "ex_lb": "Mir sinn nomëttes an eisem Hotel ukomm.",
+  "ex_en": "We arrived at our hotel in the afternoon.",
   "lodId": "UKOMMEN1"
  },
  {
@@ -189,8 +190,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Mir kafen am Supermarché an.",
-  "ex_en": "We shop at the supermarket.",
+  "ex_lb": "De Grosist huet seng Wueren zu engem gënschtege Präis akaaft.",
+  "ex_en": "The wholesaler bought his goods at a good price.",
   "lodId": "AKAFEN1"
  },
  {
@@ -202,8 +203,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Ech luede meng Frënn an.",
-  "ex_en": "I invite my friends.",
+  "ex_lb": "Deen Owend war ech bei Bekannten agelueden.",
+  "ex_en": "That evening I was invited over by friends.",
   "lodId": "ALUEDEN1"
  },
  {
@@ -215,33 +216,9 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Si riichten hir nei Wunneng an.",
-  "ex_en": "They are furnishing their new apartment.",
+  "ex_lb": "Eis Firma riicht grad eng nei Homepage an.",
+  "ex_en": "Our company is setting up a new website.",
   "lodId": "ARIICHTEN1"
- },
- {
-  "lb": "aklammen",
-  "en": "to get in (vehicle)",
-  "de": "einsteigen",
-  "fr": "monter (véhicule)",
-  "pos": "verb",
-  "gender": "",
-  "level": "B1",
-  "category": "separable-verb",
-  "ex_lb": "Mir klamme an de Bus an.",
-  "ex_en": "We get on the bus."
- },
- {
-  "lb": "eraschaffen",
-  "en": "to bring in, work in",
-  "de": "hereinbringen",
-  "fr": "rapporter",
-  "pos": "verb",
-  "gender": "",
-  "level": "B1",
-  "category": "separable-verb",
-  "ex_lb": "Schaff d'Saachen eran.",
-  "ex_en": "Bring the things inside."
  },
  {
   "lb": "erakommen",
@@ -252,8 +229,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Komm eran, d'Dier ass op.",
-  "ex_en": "Come in, the door is open.",
+  "ex_lb": "Kommt séier eran, ier der zoppnaass sidd!",
+  "ex_en": "Come in quickly before you're soaked!",
   "lodId": "ERAKOMMEN1"
  },
  {
@@ -265,8 +242,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Mir ginn de Weekend eraus.",
-  "ex_en": "We go out at the weekend.",
+  "ex_lb": "Wann et der an der Sauna ze waarm gëtt, muss de erausgoen!",
+  "ex_en": "If it gets too hot for you in the sauna, you have to go out!",
   "lodId": "ERAUSGOEN1"
  },
  {
@@ -278,8 +255,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Ech ginn d'Trapen erop.",
-  "ex_en": "I go up the stairs.",
+  "ex_lb": "De Lift ass just eropgaangen.",
+  "ex_en": "The lift has just gone up.",
   "lodId": "EROPGOEN1"
  },
  {
@@ -291,8 +268,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Komm w.e.g. erof, d'Iesse steet um Dësch.",
-  "ex_en": "Please come down, dinner is on the table.",
+  "ex_lb": "Aus dem Norde kënnt eng kal Loft erof.",
+  "ex_en": "Cold air is coming down from the north.",
   "lodId": "EROFKOMMEN1"
  },
  {
@@ -304,8 +281,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Maach d'Fënster zou, et ass kal.",
-  "ex_en": "Close the window, it's cold.",
+  "ex_lb": "Hëllefs de mer, d'Lueden zouzemaachen?",
+  "ex_en": "Will you help me close the shutters?",
   "lodId": "ZOUMAACHEN1"
  },
  {
@@ -317,8 +294,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Maach d'Dier op, w.e.g.",
-  "ex_en": "Open the door, please.",
+  "ex_lb": "D'Kanner hu voller Freed hir Päck opgemaach.",
+  "ex_en": "The children opened their parcels full of joy.",
   "lodId": "OPMAACHEN1"
  },
  {
@@ -330,8 +307,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Mir fuere muer weider.",
-  "ex_en": "We continue our journey tomorrow.",
+  "ex_lb": "De Chauffer huet d'Stoppschëld ignoréiert an ass einfach weidergefuer.",
+  "ex_en": "The driver ignored the stop sign and simply drove on.",
   "lodId": "WEIDERFUEREN1"
  },
  {
@@ -343,12 +320,12 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Maach esou weider, dat ass gutt.",
-  "ex_en": "Carry on like that, it's good.",
+  "ex_lb": "Looss dech net decouragéieren a maach weider!",
+  "ex_en": "Don't let yourself be discouraged, keep going!",
   "lodId": "WEIDERMAACHEN1"
  },
  {
-  "lb": "zréckkommen",
+  "lb": "zeréckkommen",
   "en": "to come back",
   "de": "zurückkommen",
   "fr": "revenir",
@@ -356,11 +333,12 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Ech komme géint Owend zréck.",
-  "ex_en": "I come back towards evening."
+  "ex_lb": "Am Fréijoer kommen d'Schmuebelen zeréck.",
+  "ex_en": "In spring the swallows come back.",
+  "lodId": "ZERECKKOMMEN1"
  },
  {
-  "lb": "zréckginn",
+  "lb": "zeréckginn",
   "en": "to give back",
   "de": "zurückgeben",
   "fr": "rendre",
@@ -368,8 +346,9 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Gëff mir d'Buch zréck.",
-  "ex_en": "Give me the book back."
+  "ex_lb": "Ech muss dir nach deng Bicher zeréckginn.",
+  "ex_en": "I still have to give you your books back.",
+  "lodId": "ZERECKGINN1"
  },
  {
   "lb": "ewechgoen",
@@ -380,8 +359,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Gëff ewech, ech hu keng Zäit.",
-  "ex_en": "Go away, I have no time.",
+  "ex_lb": "Géi do ewech!",
+  "ex_en": "Get away from there!",
   "lodId": "EWECHGOEN1"
  },
  {
@@ -393,8 +372,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Gehei de Knascht ewech.",
-  "ex_en": "Throw away the rubbish.",
+  "ex_lb": "Bei eis doheem gëtt näischt ewechgehäit.",
+  "ex_en": "Nothing gets thrown away in our house.",
   "lodId": "EWECHGEHEIEN1"
  },
  {
@@ -406,8 +385,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Hal dech um Geländer fest.",
-  "ex_en": "Hold on to the railing.",
+  "ex_lb": "D'Touriste goufe méi ewéi sechs Stonnen op der Grenz festgehalen.",
+  "ex_en": "The tourists were held at the border for more than six hours.",
   "lodId": "FESTHALEN1"
  },
  {
@@ -419,8 +398,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "D'Bild stellt eng Landschaft duer.",
-  "ex_en": "The picture depicts a landscape.",
+  "ex_lb": "D'Buergermeeschtesch huet d'Situatioun kloer duergestallt.",
+  "ex_en": "The mayor set out the situation clearly.",
   "lodId": "DUERSTELLEN1"
  },
  {
@@ -432,8 +411,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Ech stelle mech kuerz vir.",
-  "ex_en": "I'll briefly introduce myself.",
+  "ex_lb": "Fir unzefänken huet de Riedner sech kuerz virgestallt.",
+  "ex_en": "To begin with, the speaker briefly introduced himself.",
   "lodId": "VIRSTELLEN1"
  },
  {
@@ -445,8 +424,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Si bereet d'Iessen vir.",
-  "ex_en": "She prepares the meal.",
+  "ex_lb": "De Speaker bereet seng Emissioun am léifste mueres fréi vir.",
+  "ex_en": "The presenter likes best to prepare his programme early in the morning.",
   "lodId": "VIRBEREEDEN1"
  },
  {
@@ -458,8 +437,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Ech schloe vir, datt mir lass goen.",
-  "ex_en": "I suggest that we get going.",
+  "ex_lb": "Mir schloen dech als Keessjee vum Veräi vir.",
+  "ex_en": "We're proposing you as treasurer of the club.",
   "lodId": "VIRSCHLOEN1"
  },
  {
@@ -471,8 +450,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Esou eppes kënnt seelen vir.",
-  "ex_en": "Something like that rarely happens.",
+  "ex_lb": "Dës Planz kënnt nëmmen a waarme Länner vir.",
+  "ex_en": "This plant only grows in warm countries.",
   "lodId": "VIRKOMMEN1"
  },
  {
@@ -484,12 +463,12 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Ech denken nach driwwer no.",
-  "ex_en": "I'm still thinking about it.",
+  "ex_lb": "Du häss sollen nodenken, ier s de déi Dommheet gemaach hues.",
+  "ex_en": "You should have thought before doing that stupid thing.",
   "lodId": "NODENKEN1"
  },
  {
-  "lb": "noschaffen",
+  "lb": "nomaachen",
   "en": "to copy, imitate",
   "de": "nachmachen",
   "fr": "imiter",
@@ -497,8 +476,9 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "De Klengen schafft alles no.",
-  "ex_en": "The little one imitates everything."
+  "ex_lb": "Ech hu mäin Hausschlëssel nomaache gelooss.",
+  "ex_en": "I had a copy of my house key made.",
+  "lodId": "NOMAACHEN1"
  },
  {
   "lb": "nokucken",
@@ -509,8 +489,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Ech kucken d'Wuert am Dictionnaire no.",
-  "ex_en": "I look the word up in the dictionary.",
+  "ex_lb": "Du däerfs nokucken, wa mir Keele spillen.",
+  "ex_en": "You can watch while we play skittles.",
   "lodId": "NOKUCKEN1"
  },
  {
@@ -522,8 +502,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Si fuerdert d'Dokumenter un.",
-  "ex_en": "She requests the documents.",
+  "ex_lb": "De Parquet huet sämtlech Dossieren iwwer déi Enquête ugefuerdert.",
+  "ex_en": "The public prosecutor requested all the files on that investigation.",
   "lodId": "UFUERDEREN1"
  },
  {
@@ -535,8 +515,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Schléiss de Kabel un.",
-  "ex_en": "Connect the cable.",
+  "ex_lb": "D'Pompjeeën hunn de Schlauch un den Hydrant ugeschloss.",
+  "ex_en": "The firefighters connected the hose to the hydrant.",
   "lodId": "USCHLEISSEN1"
  },
  {
@@ -548,12 +528,12 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "D'Auer weist d'Zäit un.",
-  "ex_en": "The clock displays the time.",
+  "ex_lb": "Verschidden Donnéeë goufen um Schierm net richteg ugewisen.",
+  "ex_en": "Some data were not displayed correctly on the screen.",
   "lodId": "UWEISEN1"
  },
  {
-  "lb": "uschauen",
+  "lb": "ukucken",
   "en": "to look at",
   "de": "anschauen",
   "fr": "regarder",
@@ -561,8 +541,9 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Schau dir dëst Bild un.",
-  "ex_en": "Look at this picture."
+  "ex_lb": "Well mer musse plënneren, gi mer eis de Mëtteg eng Wunneng ukucken.",
+  "ex_en": "Because we have to move, we're going to look at a flat this afternoon.",
+  "lodId": "UKUCKEN1"
  },
  {
   "lb": "ubidden",
@@ -573,8 +554,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Si bitt mir en Kaffi un.",
-  "ex_en": "She offers me a coffee.",
+  "ex_lb": "Däerf ech Iech eng Taass Kaffi ubidden?",
+  "ex_en": "May I offer you a cup of coffee?",
   "lodId": "UBIDDEN1"
  },
  {
@@ -586,8 +567,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Ech tausche d'Hiem ëm.",
-  "ex_en": "I exchange the shirt.",
+  "ex_lb": "Ech hu Suen op der Bank ëmgetosch.",
+  "ex_en": "I changed money at the bank.",
   "lodId": "EMTAUSCHEN1"
  },
  {
@@ -599,8 +580,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Hiew de Bic vum Buedem op.",
-  "ex_en": "Pick up the pen from the floor.",
+  "ex_lb": "Hief déi Këscht op a stell se an d'Regal!",
+  "ex_en": "Lift that box and put it on the shelf!",
   "lodId": "OPHIEWEN1"
  },
  {
@@ -612,8 +593,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Raum däin Zëmmer op.",
-  "ex_en": "Tidy up your room.",
+  "ex_lb": "Déi nei Direktesch huet emol richteg opgeraumt am Betrib!",
+  "ex_en": "The new director really cleaned up the company!",
   "lodId": "OPRAUMEN1"
  },
  {
@@ -625,8 +606,8 @@
   "gender": "",
   "level": "A2",
   "category": "separable-verb",
-  "ex_lb": "Pass op d'Kanner op.",
-  "ex_en": "Watch out for the children.",
+  "ex_lb": "Pass op, datt s de net fäls!",
+  "ex_en": "Be careful not to fall!",
   "lodId": "OPPASSEN1"
  },
  {
@@ -651,12 +632,12 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Schalt de Radio aus.",
-  "ex_en": "Switch off the radio.",
+  "ex_lb": "Fir en ze entdeeën, schalten ech de Frigo aus.",
+  "ex_en": "To defrost the fridge, I switch it off.",
   "lodId": "AUSSCHALTEN1"
  },
  {
-  "lb": "uschalten",
+  "lb": "umaachen",
   "en": "to switch on",
   "de": "anschalten",
   "fr": "allumer",
@@ -664,8 +645,9 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Schalt d'Heizung un.",
-  "ex_en": "Switch on the heating."
+  "ex_lb": "Dëst Joer hu mir schonn Enn August d'Heizung erëm ugemaach.",
+  "ex_en": "This year we already turned the heating back on at the end of August.",
+  "lodId": "UMAACHEN1"
  },
  {
   "lb": "ausfëllen",
@@ -676,8 +658,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Fëll de Formulaire aus.",
-  "ex_en": "Fill out the form.",
+  "ex_lb": "Wann de Stëmmziedel ausgefëllt ass, kënnt en an d'Urn.",
+  "ex_en": "Once the ballot paper is filled in, it goes into the ballot box.",
   "lodId": "AUSFELLEN1"
  },
  {
@@ -689,12 +671,12 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Wiel een Numm aus.",
-  "ex_en": "Choose a name.",
+  "ex_lb": "De Minister wielt e Méindeg d'Membere vun der Kommissioun aus.",
+  "ex_en": "On Monday the minister will choose the members of the committee.",
   "lodId": "AUSWIELEN1"
  },
  {
-  "lb": "ausroumen",
+  "lb": "raumen",
   "en": "to clear out",
   "de": "ausräumen",
   "fr": "vider",
@@ -702,8 +684,9 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Mir roume de Schaff aus.",
-  "ex_en": "We clear out the cupboard."
+  "ex_lb": "Raum d'Dossiere wannechgelift an de Schaf!",
+  "ex_en": "Put the files away in the cupboard, please!",
+  "lodId": "RAUMEN1"
  },
  {
   "lb": "ausschaffen",
@@ -714,8 +697,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Si schafft e Plang aus.",
-  "ex_en": "She works out a plan.",
+  "ex_lb": "D'Kommissioun ass amgaang, e Rapport auszeschaffen.",
+  "ex_en": "The committee is drawing up a report.",
   "lodId": "AUSSCHAFFEN1"
  },
  {
@@ -727,21 +710,9 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Schléiss d'Dier of, wann s du fortgees.",
-  "ex_en": "Lock the door when you leave.",
+  "ex_lb": "Hien huet seng Studien net ofgeschloss.",
+  "ex_en": "He didn't finish his studies.",
   "lodId": "OFSCHLEISSEN1"
- },
- {
-  "lb": "ofschécken",
-  "en": "to send off",
-  "de": "abschicken",
-  "fr": "envoyer",
-  "pos": "verb",
-  "gender": "",
-  "level": "B1",
-  "category": "separable-verb",
-  "ex_lb": "Ech hunn d'Mail ofgeschéckt.",
-  "ex_en": "I sent off the email."
  },
  {
   "lb": "ofsoen",
@@ -752,8 +723,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Si sot de Rendez-vous of.",
-  "ex_en": "She cancels the appointment.",
+  "ex_lb": "Mäi Rendez-vous vum nächsten Donneschdeg gouf ofgesot.",
+  "ex_en": "My appointment for next Thursday was cancelled.",
   "lodId": "OFSOEN1"
  },
  {
@@ -778,8 +749,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Gëff d'Aufgab um Sekretariat of.",
-  "ex_en": "Hand in the assignment at the office.",
+  "ex_lb": "A fënnef Minutte mussen d'Schüler (hir Prüfung) ofginn.",
+  "ex_en": "In five minutes the pupils have to hand in their exam.",
   "lodId": "OFGINN1"
  },
  {
@@ -791,8 +762,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Hël w.e.g. den Telefon of.",
-  "ex_en": "Please answer the phone.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "OFHUELEN1"
  },
  {
@@ -804,8 +775,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Waart d'Resultat of.",
-  "ex_en": "Wait for the result.",
+  "ex_lb": "Mir mussen d'Urteel ofwaarden.",
+  "ex_en": "We have to wait for the verdict.",
   "lodId": "OFWAARDEN1"
  },
  {
@@ -817,8 +788,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Si hëlt de Concert op.",
-  "ex_en": "She records the concert.",
+  "ex_lb": "Soll ech der de Film ophuelen?",
+  "ex_en": "Shall I record the film for you?",
   "lodId": "OPHUELEN1"
  },
  {
@@ -830,8 +801,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Si féiere eng Etude duerch.",
-  "ex_en": "They carry out a study.",
+  "ex_lb": "D'Missioun ass vum Geheimdéngscht duerchgeféiert ginn.",
+  "ex_en": "The mission was carried out by the secret service.",
   "lodId": "DUERCHFEIEREN2"
  },
  {
@@ -843,8 +814,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Hei wëll jiddereen matschwätzen.",
-  "ex_en": "Everyone wants a say here.",
+  "ex_lb": "Bei där wichteger Decisioun wëll ech och matschwätzen.",
+  "ex_en": "I want a say in that important decision too.",
   "lodId": "MATSCHWATZEN1"
  },
  {
@@ -856,8 +827,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Si schafft um Projet mat.",
-  "ex_en": "She collaborates on the project.",
+  "ex_lb": "Ech kréie muer Bescheed gesot, ob ech däerf um Projet matschaffen.",
+  "ex_en": "Tomorrow I'll be told whether I can work on the project.",
   "lodId": "MATSCHAFFEN1"
  },
  {
@@ -869,8 +840,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "De Concert fënnt muer statt.",
-  "ex_en": "The concert takes place tomorrow.",
+  "ex_lb": "D'Konferenz fënnt an de Raimlechkeete vun der Universitéit statt.",
+  "ex_en": "The conference takes place on the university's premises.",
   "lodId": "STATTFANNEN1"
  },
  {
@@ -882,8 +853,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Ech huelen un der Reunioun deel.",
-  "ex_en": "I take part in the meeting.",
+  "ex_lb": "Ech si frou, datt ech konnt un där Aarbecht deelhuelen.",
+  "ex_en": "I'm glad I was able to take part in that work.",
   "lodId": "DEELHUELEN1"
  },
  {
@@ -895,21 +866,9 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Mir leeën den Datum fest.",
-  "ex_en": "We set the date.",
+  "ex_lb": "Am neie Gesetz gouf de geneeën Zäitplang fir d'Ëmsetzung festgeluecht.",
+  "ex_en": "The new law sets out the exact timetable for its implementation.",
   "lodId": "FESTLEEEN1"
- },
- {
-  "lb": "festellen",
-  "en": "to determine, notice",
-  "de": "feststellen",
-  "fr": "constater",
-  "pos": "verb",
-  "gender": "",
-  "level": "B2",
-  "category": "separable-verb",
-  "ex_lb": "Ech stellen e Feeler fest.",
-  "ex_en": "I notice a mistake."
  },
  {
   "lb": "zesummeschaffen",
@@ -920,8 +879,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Mir schaffe gutt zesummen.",
-  "ex_en": "We work well together.",
+  "ex_lb": "An der Schoul léieren d'Kanner, am Grupp zesummenzeschaffen.",
+  "ex_en": "At school children learn to work together in groups.",
   "lodId": "ZESUMMESCHAFFEN1"
  },
  {
@@ -933,8 +892,8 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "D'Famill kënnt op Krëschtdag zesummen.",
-  "ex_en": "The family comes together at Christmas.",
+  "ex_lb": "Beim Basar koum eng schéin Zëmmchen zesummen.",
+  "ex_en": "The charity bazaar raised a nice little sum.",
   "lodId": "ZESUMMEKOMMEN1"
  },
  {
@@ -946,8 +905,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Ech setze mech fir si an.",
-  "ex_en": "I stand up for them.",
+  "ex_lb": "Brauchs de Hëllef, fir déi nei Fënster anzesetzen?",
+  "ex_en": "Do you need help putting in the new window?",
   "lodId": "ASETZEN1"
  },
  {
@@ -959,8 +918,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Dréck de Knäppchen an.",
-  "ex_en": "Press the button in.",
+  "ex_lb": "Ech hunn d'Punaise mam Daum agedréckt.",
+  "ex_en": "I pressed the drawing pin in with my thumb.",
   "lodId": "ANDRECKEN1"
  },
  {
@@ -1033,8 +992,8 @@
   "gender": "",
   "level": "B1",
   "category": "reflexive",
-  "ex_lb": "Reeg dech net op!",
-  "ex_en": "Don't get worked up!"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "sech interesséieren",
@@ -1117,8 +1076,8 @@
   "gender": "",
   "level": "B1",
   "category": "reflexive",
-  "ex_lb": "Rou dech e bësse aus.",
-  "ex_en": "Rest a little."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "sech verspéiden",
@@ -1189,8 +1148,8 @@
   "gender": "",
   "level": "B1",
   "category": "reflexive",
-  "ex_lb": "Wien këmmert sech ëm de Jardin?",
-  "ex_en": "Who takes care of the garden?"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "sech gewinnen",
@@ -1213,8 +1172,8 @@
   "gender": "",
   "level": "B1",
   "category": "reflexive",
-  "ex_lb": "Si huet sech an hien verléift.",
-  "ex_en": "She fell in love with him."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "sech ënnerhalen",
@@ -1273,8 +1232,8 @@
   "gender": "",
   "level": "B1",
   "category": "reflexive",
-  "ex_lb": "Ech mellen mech fir de Cours un.",
-  "ex_en": "I sign up for the course."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "organiséieren",
@@ -1285,8 +1244,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir organiséieren e Fest.",
-  "ex_en": "We organize a party.",
+  "ex_lb": "Dir musst Äre Betrib besser organiséieren!",
+  "ex_en": "You have to organise your business better!",
   "lodId": "ORGANISEIEREN1"
  },
  {
@@ -1298,8 +1257,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Probéier Feeler ze vermeiden.",
-  "ex_en": "Try to avoid mistakes.",
+  "ex_lb": "Déi doten Diskussioun war net ze vermeiden.",
+  "ex_en": "That discussion was unavoidable.",
   "lodId": "VERMEIDEN1"
  },
  {
@@ -1311,8 +1270,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Si verbessert hiert Lëtzebuergesch.",
-  "ex_en": "She improves her Luxembourgish.",
+  "ex_lb": "Déi maschinell Produktioun muss nach verbessert ginn.",
+  "ex_en": "Machine production still needs to be improved.",
   "lodId": "VERBESSEREN1"
  },
  {
@@ -1324,12 +1283,12 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Du muss elo entscheeden.",
-  "ex_en": "You have to decide now.",
+  "ex_lb": "Bei Stëmmegläichheet entscheet de President vun der Jury.",
+  "ex_en": "In the event of a tie, the president of the jury decides.",
   "lodId": "ENTSCHEEDEN1"
  },
  {
-  "lb": "erkläeren",
+  "lb": "erklären",
   "en": "to explain",
   "de": "erklären",
   "fr": "expliquer",
@@ -1337,8 +1296,9 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Kanns du mir dat erkläeren?",
-  "ex_en": "Can you explain that to me?"
+  "ex_lb": "Erklär eis dat emol an aller Rou!",
+  "ex_en": "Explain it to us calmly!",
+  "lodId": "ERKLAREN1"
  },
  {
   "lb": "beschreiwen",
@@ -1349,8 +1309,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Beschreif mir d'Bild.",
-  "ex_en": "Describe the picture to me.",
+  "ex_lb": "D'Charaktere sinn an dësem Roman gutt beschriwwen.",
+  "ex_en": "The characters in this novel are well described.",
   "lodId": "BESCHREIWEN1"
  },
  {
@@ -1362,8 +1322,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech bestellen eng Pizza.",
-  "ex_en": "I order a pizza.",
+  "ex_lb": "De Bouf huet sech beim Kleeschen e Vëlo bestallt.",
+  "ex_en": "The boy asked Saint Nicholas for a bike.",
   "lodId": "BESTELLEN1"
  },
  {
@@ -1375,8 +1335,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech bezuelen mat der Kaart.",
-  "ex_en": "I pay by card.",
+  "ex_lb": "De Client huet d'Wuer boer bezuelt.",
+  "ex_en": "The customer paid for the goods in cash.",
   "lodId": "BEZUELEN1"
  },
  {
@@ -1388,8 +1348,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech benotzen den Computer all Dag.",
-  "ex_en": "I use the computer every day.",
+  "ex_lb": "Dat Wuert gëtt bal ni benotzt.",
+  "ex_en": "That word is hardly ever used.",
   "lodId": "BENOTZEN1"
  },
  {
@@ -1401,8 +1361,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Mir besichen eis Grousselteren.",
-  "ex_en": "We visit our grandparents.",
+  "ex_lb": "Kommt eis dach emol besichen!",
+  "ex_en": "Do come and visit us sometime!",
   "lodId": "BESICHEN1"
  },
  {
@@ -1414,8 +1374,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Wien bestëmmt hei?",
-  "ex_en": "Who decides here?",
+  "ex_lb": "Ech bestëmmen, wat hei gemaach gëtt!",
+  "ex_en": "I decide what gets done here!",
   "lodId": "BESTEMMEN1"
  },
  {
@@ -1427,8 +1387,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Wat bedeit dëst Wuert?",
-  "ex_en": "What does this word mean?",
+  "ex_lb": "Wat bedeit dee Gest?",
+  "ex_en": "What does that gesture mean?",
   "lodId": "BEDEITEN1"
  },
  {
@@ -1440,8 +1400,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Si verkeeft hiert Auto.",
-  "ex_en": "She sells her car.",
+  "ex_lb": "Op den Tankstelle verkafen se och Blummen.",
+  "ex_en": "They sell flowers at petrol stations too.",
   "lodId": "VERKAFEN1"
  },
  {
@@ -1453,8 +1413,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech hu mäi Schlëssel verluer.",
-  "ex_en": "I lost my key.",
+  "ex_lb": "Ech fäerten, ech hu mäin Ouerrank am Bësch verluer.",
+  "ex_en": "I'm afraid I lost my earring in the woods.",
   "lodId": "VERLEIEREN1"
  },
  {
@@ -1466,8 +1426,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech verstinn dech net.",
-  "ex_en": "I don't understand you.",
+  "ex_lb": "Ech versti keen Englesch.",
+  "ex_en": "I don't understand English.",
   "lodId": "VERSTOEN1"
  },
  {
@@ -1479,8 +1439,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir verbréngen d'Vakanz um Mier.",
-  "ex_en": "We spend the holidays at the sea.",
+  "ex_lb": "Mir hunn de Weekend bei Frënn verbruecht.",
+  "ex_en": "We spent the weekend with friends.",
   "lodId": "VERBRENGEN1"
  },
  {
@@ -1492,8 +1452,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Mir verréckelen den Dësch.",
-  "ex_en": "We move the table.",
+  "ex_lb": "Ech muss eise Rendez-vous verréckelen, well ech d'nächst Woch am Ausland sinn.",
+  "ex_en": "I have to move our appointment because I'm abroad next week.",
   "lodId": "VERRECKELEN1"
  },
  {
@@ -1505,8 +1465,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Rauchen ass hei verbueden.",
-  "ex_en": "Smoking is forbidden here.",
+  "ex_lb": "Et ass verbueden, ouni Helm mam Moto ze fueren.",
+  "ex_en": "It's forbidden to ride a motorbike without a helmet.",
   "lodId": "VERBIDDEN1"
  },
  {
@@ -1518,8 +1478,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Verrot mir däi Geheimnis net.",
-  "ex_en": "Don't reveal your secret to me.",
+  "ex_lb": "De Code vu senger Bankkaart soll ee kengem verroden.",
+  "ex_en": "You should never reveal your bank card PIN to anyone.",
   "lodId": "VERRODEN1"
  },
  {
@@ -1531,8 +1491,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "D'Sonn verschwënnt hannert de Wolleken.",
-  "ex_en": "The sun disappears behind the clouds.",
+  "ex_lb": "D'Konture vun de Bierger verschwannen am Niwwel.",
+  "ex_en": "The outlines of the mountains disappear into the fog.",
   "lodId": "VERSCHWANNEN1"
  },
  {
@@ -1544,8 +1504,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech verspriechen dir et.",
-  "ex_en": "I promise you.",
+  "ex_lb": "Verspriech näischt, wat s de net kanns halen!",
+  "ex_en": "Don't promise anything you can't deliver!",
   "lodId": "VERSPRIECHEN1"
  },
  {
@@ -1557,8 +1517,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Versich et nach eng Kéier.",
-  "ex_en": "Try it once more.",
+  "ex_lb": "De Chauffer huet versicht, d'Vitesslimitten anzehalen.",
+  "ex_en": "The driver tried to keep to the speed limits.",
   "lodId": "VERSICHEN1"
  },
  {
@@ -1570,8 +1530,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech erreechen dech um Handy.",
-  "ex_en": "I reach you on the mobile.",
+  "ex_lb": "Dee Kärel ass ni ze erreechen!",
+  "ex_en": "That guy can never be reached!",
   "lodId": "ERREECHEN1"
  },
  {
@@ -1583,8 +1543,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Meng Elteren erlaben et net.",
-  "ex_en": "My parents don't allow it.",
+  "ex_lb": "Et gëtt Elteren, déi hire Kanner alles erlaben.",
+  "ex_en": "There are parents who let their children do anything.",
   "lodId": "ERLABEN1"
  },
  {
@@ -1596,8 +1556,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech hunn et gëschter erfuer.",
-  "ex_en": "I found out yesterday.",
+  "ex_lb": "Looss dech an där Affär vun engem erfuerenen Affekot beroden!",
+  "ex_en": "Get advice from an experienced lawyer on that matter!",
   "lodId": "ERFUEREN1"
  },
  {
@@ -1609,8 +1569,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir erwaarden eis Gäscht.",
-  "ex_en": "We're expecting our guests.",
+  "ex_lb": "Mir erwaarde fir den Owend léiwe Besuch.",
+  "ex_en": "We're expecting dear visitors tonight.",
   "lodId": "ERWAARDEN1"
  },
  {
@@ -1622,8 +1582,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Si entwéckelen eng nei App.",
-  "ex_en": "They develop a new app.",
+  "ex_lb": "Hire Service huet eng nei Verkafsstrategie entwéckelt.",
+  "ex_en": "Their department developed a new sales strategy.",
   "lodId": "ENTWECKELEN1"
  },
  {
@@ -1635,8 +1595,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir entdecken eng nei Stad.",
-  "ex_en": "We discover a new city.",
+  "ex_lb": "Et ass eng nei Orchideeënzort entdeckt ginn.",
+  "ex_en": "A new variety of orchid has been discovered.",
   "lodId": "ENTDECKEN1"
  },
  {
@@ -1648,8 +1608,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Si empfänkt d'Gäscht häerzlech.",
-  "ex_en": "She welcomes the guests warmly.",
+  "ex_lb": "D'Gäscht goufe mat oppenen Äerm empfaangen.",
+  "ex_en": "The guests were welcomed with open arms.",
   "lodId": "EMPFANKEN1"
  },
  {
@@ -1674,8 +1634,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Vill Leit bedeelegen sech um Projet.",
-  "ex_en": "Many people take part in the project.",
+  "ex_lb": "D'Personal ass um Benefice bedeelegt.",
+  "ex_en": "The staff share in the profit.",
   "lodId": "BEDEELEGEN1"
  },
  {
@@ -1687,8 +1647,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir begréissen all d'Participanten.",
-  "ex_en": "We welcome all the participants.",
+  "ex_lb": "Si hu sech frëndlech begréisst a sinn zesumme weidergaangen.",
+  "ex_en": "They greeted each other warmly and walked on together.",
   "lodId": "BEGREISSEN1"
  },
  {
@@ -1700,8 +1660,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech begleeden dech heem.",
-  "ex_en": "I accompany you home.",
+  "ex_lb": "Meng Elteren hunn eis Gäscht op d'Viischt Dier begleet.",
+  "ex_en": "My parents saw our guests to the front door.",
   "lodId": "BEGLEEDEN1"
  },
  {
@@ -1713,8 +1673,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Du kanns d'Buch behalen.",
-  "ex_en": "You can keep the book.",
+  "ex_lb": "Eis Stad soll hire Charme behalen.",
+  "ex_en": "Our town should keep its charm.",
   "lodId": "BEHALEN1"
  },
  {
@@ -1726,12 +1686,12 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Den Dokter behandelt de Patient.",
-  "ex_en": "The doctor treats the patient.",
+  "ex_lb": "Eis Cheffin behandelt all Mënsch mat Respekt.",
+  "ex_en": "Our boss treats everyone with respect.",
   "lodId": "BEHANDELEN1"
  },
  {
-  "lb": "benotzeg",
+  "lb": "brauchen",
   "en": "to need",
   "de": "benötigen",
   "fr": "nécessiter",
@@ -1739,11 +1699,12 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Mir benotzege méi Zäit.",
-  "ex_en": "We need more time."
+  "ex_lb": "Hien huet vu Klengem un e Brëll gebraucht fir ze liesen.",
+  "ex_en": "He has needed glasses for reading since he was little.",
+  "lodId": "BRAUCHEN1"
  },
  {
-  "lb": "berücksiichtegen",
+  "lb": "berücksichtegen",
   "en": "to take into account",
   "de": "berücksichtigen",
   "fr": "tenir compte",
@@ -1751,8 +1712,9 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Mir berücksiichtegen all d'Meenungen.",
-  "ex_en": "We take all opinions into account."
+  "ex_lb": "D'Meenung vun de Leit gouf guer net berücksichtegt.",
+  "ex_en": "People's opinion was not taken into account at all.",
+  "lodId": "BERUCKSICHTEGEN1"
  },
  {
   "lb": "berichten",
@@ -1763,8 +1725,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "D'Zeitung beriicht iwwer de Sträik.",
-  "ex_en": "The newspaper reports on the strike.",
+  "ex_lb": "Eise Journalist bericht live aus der Chamber.",
+  "ex_en": "Our journalist is reporting live from parliament.",
   "lodId": "BERICHTEN1"
  },
  {
@@ -1776,8 +1738,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir diskutéieren iwwer d'Politik.",
-  "ex_en": "We discuss politics.",
+  "ex_lb": "Ech diskutéiere gär mat him iwwer Theologie.",
+  "ex_en": "I like discussing theology with him.",
   "lodId": "DISKUTEIEREN1"
  },
  {
@@ -1789,8 +1751,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech reservéieren en Dësch.",
-  "ex_en": "I reserve a table.",
+  "ex_lb": "Mir hu fir eng Woch en Zëmmer mat Hallefpensioun reservéiert.",
+  "ex_en": "We booked a room with half board for a week.",
   "lodId": "RESERVEIEREN1"
  },
  {
@@ -1802,8 +1764,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech telefonéiere mat menger Mamm.",
-  "ex_en": "I'm on the phone with my mum.",
+  "ex_lb": "Déi zwou Frëndinnen telefonéieren heiansdo stonnelaang mateneen.",
+  "ex_en": "The two friends sometimes talk on the phone for hours.",
   "lodId": "TELEFONEIEREN1"
  },
  {
@@ -1828,8 +1790,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Si fotograféiert d'Landschaft.",
-  "ex_en": "She photographs the landscape.",
+  "ex_lb": "An dësem Musée däerf een net fotograféieren.",
+  "ex_en": "You're not allowed to take photos in this museum.",
   "lodId": "FOTOGRAFEIEREN1"
  },
  {
@@ -1841,8 +1803,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech informéiere mech iwwer d'Reesen.",
-  "ex_en": "I inform myself about the trips.",
+  "ex_lb": "Et huet keen eis informéiert, datt d'Strooss gespaart ass.",
+  "ex_en": "Nobody told us the road was closed.",
   "lodId": "INFORMEIEREN1"
  },
  {
@@ -1854,21 +1816,9 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "D'Police kontrolléiert d'Pabeieren.",
-  "ex_en": "The police check the papers.",
+  "ex_lb": "All Muere ginn am Zuch d'Billjeeë kontrolléiert.",
+  "ex_en": "Tickets are checked on the train every morning.",
   "lodId": "KONTROLLEIEREN1"
- },
- {
-  "lb": "diskréieren",
-  "en": "to repair",
-  "de": "reparieren",
-  "fr": "réparer",
-  "pos": "verb",
-  "gender": "",
-  "level": "B1",
-  "category": "verb",
-  "ex_lb": "Hie reparéiert säi Vëlo.",
-  "ex_en": "He repairs his bike."
  },
  {
   "lb": "reparéieren",
@@ -1879,8 +1829,21 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Kanns du d'Auer reparéieren?",
-  "ex_en": "Can you repair the watch?",
+  "ex_lb": "Deen accidentéierten Auto ass net méi ze reparéieren.",
+  "ex_en": "The crashed car can't be repaired any more.",
+  "lodId": "REPAREIEREN1"
+ },
+ {
+  "lb": "reparéieren",
+  "en": "to repair",
+  "de": "reparieren",
+  "fr": "réparer",
+  "pos": "verb",
+  "gender": "",
+  "level": "B1",
+  "category": "verb",
+  "ex_lb": "Deen accidentéierten Auto ass net méi ze reparéieren.",
+  "ex_en": "The crashed car can't be repaired any more.",
   "lodId": "REPAREIEREN1"
  },
  {
@@ -1892,8 +1855,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Si studéiert Medezin.",
-  "ex_en": "She studies medicine.",
+  "ex_lb": "Ech studéiere Chimie op enger auslännescher Universitéit.",
+  "ex_en": "I study chemistry at a foreign university.",
   "lodId": "STUDEIEREN1"
  },
  {
@@ -1905,8 +1868,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech trainéieren zweemol d'Woch.",
-  "ex_en": "I train twice a week.",
+  "ex_lb": "Wien trainéiert déi Jonk an Ärem Club?",
+  "ex_en": "Who trains the young players in your club?",
   "lodId": "TRAINEIEREN1"
  },
  {
@@ -1918,8 +1881,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mäi Grousspapp fëscht gär.",
-  "ex_en": "My grandfather likes to fish.",
+  "ex_lb": "Mir ginn haut Frelle fëschen.",
+  "ex_en": "Today we're going trout fishing.",
   "lodId": "FESCHEN1"
  },
  {
@@ -1931,8 +1894,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech kachen haut Spaghetti.",
-  "ex_en": "I'm cooking spaghetti today.",
+  "ex_lb": "Ech kache Waasser, fir mer en Téi ze maachen.",
+  "ex_en": "I'm boiling water to make myself a tea.",
   "lodId": "KACHEN2"
  },
  {
@@ -1956,8 +1919,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech botzen d'Fënsteren.",
-  "ex_en": "I clean the windows.",
+  "ex_lb": "Meng Mamm huet gëschter dat ganzt Haus gebotzt.",
+  "ex_en": "Yesterday my mum cleaned the whole house.",
   "lodId": "BOTZEN1"
  },
  {
@@ -1969,8 +1932,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Si wäscht d'Wäsch e Samschdes.",
-  "ex_en": "She does the laundry on Saturdays.",
+  "ex_lb": "Géi wäsch deng knaschteg Fangeren!",
+  "ex_en": "Go and wash your dirty fingers!",
   "lodId": "WASCHEN1"
  },
  {
@@ -1994,8 +1957,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Hie riicht den Apparat.",
-  "ex_en": "He fixes the device.",
+  "ex_lb": "Deen accidentéierten Auto ass net méi ze reparéieren.",
+  "ex_en": "The crashed car can't be repaired any more.",
   "lodId": "REPAREIEREN1"
  },
  {
@@ -2007,8 +1970,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Mir schwätze Lëtzebuergesch.",
-  "ex_en": "We speak Luxembourgish.",
+  "ex_lb": "Hien huet ënnerwee kee Wuert geschwat.",
+  "ex_en": "He didn't say a word on the way.",
   "lodId": "SCHWATZEN1"
  },
  {
@@ -2020,12 +1983,12 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Lauschter gutt no!",
-  "ex_en": "Listen carefully!",
+  "ex_lb": "Hues du de Moien de Radio gelauschtert?",
+  "ex_en": "Did you listen to the radio this morning?",
   "lodId": "LAUSCHTEREN1"
  },
  {
-  "lb": "bedeenen",
+  "lb": "bedeiten",
   "en": "to mean, signify",
   "de": "meinen",
   "fr": "penser",
@@ -2033,11 +1996,12 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Wat meens du dozou?",
-  "ex_en": "What do you think about it?"
+  "ex_lb": "Wat bedeit dee Gest?",
+  "ex_en": "What does that gesture mean?",
+  "lodId": "BEDEITEN1"
  },
  {
-  "lb": "meenen",
+  "lb": "mengen",
   "en": "to think, mean",
   "de": "meinen",
   "fr": "penser",
@@ -2045,8 +2009,9 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech mengen, datt et reent.",
-  "ex_en": "I think it's raining."
+  "ex_lb": "Meng net, ech géif dech fäerten!",
+  "ex_en": "Don't think I'm afraid of you!",
+  "lodId": "MENGEN1"
  },
  {
   "lb": "hoffen",
@@ -2057,8 +2022,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech hoffen, datt s du kënns.",
-  "ex_en": "I hope that you come.",
+  "ex_lb": "Loosse mer dat Bescht hoffen!",
+  "ex_en": "Let's hope for the best!",
   "lodId": "HOFFEN1"
  },
  {
@@ -2070,8 +2035,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech gleewen dir net.",
-  "ex_en": "I don't believe you.",
+  "ex_lb": "Ech kann deng Geschicht einfach net gleewen.",
+  "ex_en": "I just can't believe your story.",
   "lodId": "GLEEWEN1"
  },
  {
@@ -2083,8 +2048,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech iwwerleeë mer dat.",
-  "ex_en": "I'll think it over.",
+  "ex_lb": "Ech hoffen, du hues der dee Schratt gutt iwwerluecht!",
+  "ex_en": "I hope you've thought that step through carefully!",
   "lodId": "IWWERLEEEN1"
  },
  {
@@ -2096,8 +2061,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Kanns du dat iwwersetzen?",
-  "ex_en": "Can you translate that?",
+  "ex_lb": "Ech hat nach keng Zäit, fir däin Text op Lëtzebuergesch ze iwwersetzen.",
+  "ex_en": "I haven't had time to translate your text into Luxembourgish yet.",
   "lodId": "IWWERSETZEN1"
  },
  {
@@ -2109,8 +2074,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir iwwerraschen si mat engem Cadeau.",
-  "ex_en": "We surprise her with a gift.",
+  "ex_lb": "Mäi Mann huet mech mat engem Bijou iwwerrascht.",
+  "ex_en": "My husband surprised me with a piece of jewellery.",
   "lodId": "IWWERRASCHEN1"
  },
  {
@@ -2122,12 +2087,12 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Hien huet mech iwwerzeegt.",
-  "ex_en": "He convinced me.",
+  "ex_lb": "Deng Argumenter kënne mech net iwwerzeegen.",
+  "ex_en": "Your arguments can't convince me.",
   "lodId": "IWWERZEEGEN1"
  },
  {
-  "lb": "wiederhuelen",
+  "lb": "widderhuelen",
   "en": "to repeat",
   "de": "wiederholen",
   "fr": "répéter",
@@ -2135,8 +2100,9 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Kanns du dat wiederhuelen?",
-  "ex_en": "Can you repeat that?"
+  "ex_lb": "De Cheemiker huet d'Experiment misse widderhuelen.",
+  "ex_en": "The chemist had to repeat the experiment.",
+  "lodId": "WIDDERHUELEN1"
  },
  {
   "lb": "wiesselen",
@@ -2147,8 +2113,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech wiessele Suen am Büro.",
-  "ex_en": "I change money at the office.",
+  "ex_lb": "Looss mer emol d'Theema wiesselen.",
+  "ex_en": "Let's change the subject.",
   "lodId": "WIESSELEN1"
  },
  {
@@ -2160,8 +2126,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "D'Blummen wuessen am Fréijoer.",
-  "ex_en": "The flowers grow in spring.",
+  "ex_lb": "De Bouf ass erëm aus de Kleeder gewuess.",
+  "ex_en": "The boy has outgrown his clothes again.",
   "lodId": "WUESSEN1"
  },
  {
@@ -2173,8 +2139,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Weis mir de Wee.",
-  "ex_en": "Show me the way.",
+  "ex_lb": "De Chauffer huet dem Douanier déi gefroten Dokumenter gewisen.",
+  "ex_en": "The driver showed the customs officer the documents he asked for.",
   "lodId": "WEISEN1"
  },
  {
@@ -2198,8 +2164,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Vergëss net däi Schlëssel.",
-  "ex_en": "Don't forget your key.",
+  "ex_lb": "Déi Affär ass scho laang vergiess.",
+  "ex_en": "That affair was forgotten long ago.",
   "lodId": "VERGIESSEN1"
  },
  {
@@ -2211,12 +2177,12 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir wiele muer e neie President.",
-  "ex_en": "We elect a new president tomorrow.",
+  "ex_lb": "Bei der Reservatioun kann ee seng Plaz online wielen.",
+  "ex_en": "When booking you can choose your seat online.",
   "lodId": "WIELEN1"
  },
  {
-  "lb": "warden",
+  "lb": "waarden",
   "en": "to wait",
   "de": "warten",
   "fr": "attendre",
@@ -2224,8 +2190,9 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Waart op mech!",
-  "ex_en": "Wait for me!"
+  "ex_lb": "Waart, bis de geruff gëss!",
+  "ex_en": "Wait until you're called!",
+  "lodId": "WAARDEN1"
  },
  {
   "lb": "wënschen",
@@ -2236,8 +2203,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech wënschen dir vill Gléck.",
-  "ex_en": "I wish you much luck.",
+  "ex_lb": "Ech wënschen Iech e gudden Appetit!",
+  "ex_en": "Enjoy your meal!",
   "lodId": "WENSCHEN1"
  },
  {
@@ -2249,8 +2216,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Si bauen en neit Haus.",
-  "ex_en": "They are building a new house.",
+  "ex_lb": "Wéini ass déi Bréck gebaut ginn?",
+  "ex_en": "When was that bridge built?",
   "lodId": "BAUEN1"
  },
  {
@@ -2262,8 +2229,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir plangen eng Rees.",
-  "ex_en": "We're planning a trip.",
+  "ex_lb": "Mir hu fir dëse Sonndeg en Ausfluch an d'Éislek geplangt.",
+  "ex_en": "We've planned a trip to the Éislek for this Sunday.",
   "lodId": "PLANGEN1"
  },
  {
@@ -2275,8 +2242,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Späicher d'Datei, w.e.g.",
-  "ex_en": "Save the file, please.",
+  "ex_lb": "Dat Gëft gëtt laang am Organismus gespäichert.",
+  "ex_en": "That poison is stored in the body for a long time.",
   "lodId": "SPAICHEREN1"
  },
  {
@@ -2288,8 +2255,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech lueden mäi Handy.",
-  "ex_en": "I charge my phone.",
+  "ex_lb": "De Camion gëtt muer eréischt gelueden.",
+  "ex_en": "The lorry won't be loaded until tomorrow.",
   "lodId": "LUEDEN1"
  },
  {
@@ -2301,8 +2268,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Dréck op de Knäppchen.",
-  "ex_en": "Press the button.",
+  "ex_lb": "Mir hunn den Auto missen drécken, fir en unzekréien.",
+  "ex_en": "We had to push the car to get it started.",
   "lodId": "DRECKEN1"
  },
  {
@@ -2314,8 +2281,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Zéi un der Schnouer.",
-  "ex_en": "Pull the cord.",
+  "ex_lb": "Dee laangen Zuch gouf vun zwou Lokomotive gezunn.",
+  "ex_en": "The long train was pulled by two locomotives.",
   "lodId": "ZEIEN2"
  },
  {
@@ -2327,8 +2294,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Gehei mir de Ball.",
-  "ex_en": "Throw me the ball.",
+  "ex_lb": "Gehei de Ball esou wäit s de kanns!",
+  "ex_en": "Throw the ball as far as you can!",
   "lodId": "GEHEIEN1"
  },
  {
@@ -2340,8 +2307,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "De Mënz fänkt eng Maus.",
-  "ex_en": "The cat catches a mouse.",
+  "ex_lb": "Eis Kaz fänkt bal all Dag eng Maus.",
+  "ex_en": "Our cat catches a mouse almost every day.",
   "lodId": "FANKEN1"
  },
  {
@@ -2353,8 +2320,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Hie sammelt al Mënzen.",
-  "ex_en": "He collects old coins.",
+  "ex_lb": "Am Hierscht sammelen d'Kaweechelcher äifereg Nëss an Eechelen.",
+  "ex_en": "In autumn squirrels busily gather nuts and acorns.",
   "lodId": "SAMMELEN1"
  },
  {
@@ -2366,8 +2333,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir deelen eis d'Pizza.",
-  "ex_en": "We share the pizza.",
+  "ex_lb": "An hirer Famill gouf nach net gedeelt.",
+  "ex_en": "In their family the estate hasn't been divided yet.",
   "lodId": "DEELEN1"
  },
  {
@@ -2379,8 +2346,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Mir feieren däi Gebuertsdag.",
-  "ex_en": "We celebrate your birthday.",
+  "ex_lb": "Hie léisst sech gär feieren.",
+  "ex_en": "He likes being celebrated.",
   "lodId": "FEIEREN1"
  },
  {
@@ -2392,8 +2359,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Si danzt gär op der Fest.",
-  "ex_en": "She likes to dance at the party.",
+  "ex_lb": "D'Brautpuer huet eng Walz gedanzt.",
+  "ex_en": "The bride and groom danced a waltz.",
   "lodId": "DANZEN1"
  },
  {
@@ -2405,8 +2372,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "D'Kanner sange schéin.",
-  "ex_en": "The children sing beautifully.",
+  "ex_lb": "Fir Chrëschtdag huet de Chouer all déi bekannt Lidder gesongen.",
+  "ex_en": "For Christmas the choir sang all the well-known songs.",
   "lodId": "SANGEN1"
  },
  {
@@ -2418,8 +2385,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Si molt e Bild.",
-  "ex_en": "She paints a picture.",
+  "ex_lb": "Komm, ech probéieren emol, dech ze molen!",
+  "ex_en": "Come on, let me try to draw you!",
   "lodId": "MOLEN1"
  },
  {
@@ -2431,8 +2398,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "De Bouf zeechent en Haus.",
-  "ex_en": "The boy draws a house.",
+  "ex_lb": "Am Architektebüro gëtt hautdesdaags mam Computer gezeechent.",
+  "ex_en": "These days architects' offices draw on the computer.",
   "lodId": "ZEECHNEN1"
  },
  {
@@ -2444,8 +2411,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Mir reese gär an d'Süden.",
-  "ex_en": "We like to travel to the south.",
+  "ex_lb": "Ech si mäi Liewe laang gär gereest.",
+  "ex_en": "All my life I've loved travelling.",
   "lodId": "REESEN1"
  },
  {
@@ -2457,8 +2424,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir lounen eng Wunneng an der Stad.",
-  "ex_en": "We rent an apartment in town.",
+  "ex_lb": "Déi jonk Koppel iwwerleet, ob si en Appartement soll kafen oder lounen.",
+  "ex_en": "The young couple are thinking about whether to buy or rent a flat.",
   "lodId": "LOUNEN1"
  },
  {
@@ -2470,8 +2437,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Hie verdéngt gutt Geld.",
-  "ex_en": "He earns good money.",
+  "ex_lb": "No deem ville Stress hunn ech (mer) eng Vakanz verdéngt!",
+  "ex_en": "After all that stress I've earned a holiday!",
   "lodId": "VERDENGEN1"
  },
  {
@@ -2483,8 +2450,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Mir spueren op en neit Auto.",
-  "ex_en": "We're saving for a new car.",
+  "ex_lb": "Duerch dës Moossnam wäerte mer vill Sue spueren.",
+  "ex_en": "This measure will save us a lot of money.",
   "lodId": "SPUEREN1"
  },
  {
@@ -2496,8 +2463,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Kanns du mir zéng Euro léinen?",
-  "ex_en": "Can you lend me ten euros?",
+  "ex_lb": "Ech hunn näischt fir ze schreiwen, kanns de mer däi Bic léinen?",
+  "ex_en": "I've got nothing to write with, can you lend me your pen?",
   "lodId": "LEINEN1"
  },
  {
@@ -2509,8 +2476,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech schécken dir eng Kaart.",
-  "ex_en": "I send you a card.",
+  "ex_lb": "Ech schécken der déi Dokumenter mat E-Mail.",
+  "ex_en": "I'll send you those documents by email.",
   "lodId": "SCHECKEN1"
  },
  {
@@ -2522,9 +2489,9 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech kréien e Bréif vun him.",
-  "ex_en": "I get a letter from him.",
-  "lodId": "KREIEN1"
+  "ex_lb": "Hutt Dir d'Rechnung scho kritt?",
+  "ex_en": "Have you received the bill yet?",
+  "lodId": "KREIEN2"
  },
  {
   "lb": "klappen",
@@ -2548,8 +2515,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Den Telefon rëselt.",
-  "ex_en": "The phone is ringing.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "RESELEN1"
  },
  {
@@ -2561,8 +2528,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "D'Iesse schmaacht gutt.",
-  "ex_en": "The food tastes good.",
+  "ex_lb": "Dee Fësch huet e komesche Goût, schmaachs de dat net?",
+  "ex_en": "This fish tastes strange, can't you taste it?",
   "lodId": "SCHMAACHEN1"
  },
  {
@@ -2574,8 +2541,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "D'Blumme richen herrlech.",
-  "ex_en": "The flowers smell wonderful.",
+  "ex_lb": "Seng Mamm ze richen, berouegt e Puppelchen.",
+  "ex_en": "Smelling its mother calms a baby.",
   "lodId": "RICHEN1"
  },
  {
@@ -2587,12 +2554,12 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech fille mech midd.",
-  "ex_en": "I feel tired.",
+  "ex_lb": "Mir fille mat dir!",
+  "ex_en": "We sympathise with you!",
   "lodId": "FILLEN1"
  },
  {
-  "lb": "wéinen",
+  "lb": "kräischen",
   "en": "to cry",
   "de": "weinen",
   "fr": "pleurer",
@@ -2600,8 +2567,9 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "D'Kand wéngt, well et midd ass.",
-  "ex_en": "The child cries because it is tired."
+  "ex_lb": "De klenge Bouf huet haart gekrasch, well e vun der Klunsch gefall war.",
+  "ex_en": "The little boy cried loudly because he had fallen off the swing.",
+  "lodId": "KRAISCHEN1"
  },
  {
   "lb": "laachen",
@@ -2612,8 +2580,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Mir laache vill zesummen.",
-  "ex_en": "We laugh a lot together.",
+  "ex_lb": "De ganze Sall huet iwwer de Witz gelaacht.",
+  "ex_en": "The whole room laughed at the joke.",
   "lodId": "LAACHEN1"
  },
  {
@@ -2630,7 +2598,7 @@
   "lodId": "ROSEN1"
  },
  {
-  "lb": "wakreien",
+  "lb": "erwächen",
   "en": "to wake up",
   "de": "aufwachen",
   "fr": "se réveiller",
@@ -2638,8 +2606,9 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Ech wakreien fréi moies.",
-  "ex_en": "I wake up early in the morning."
+  "ex_lb": "Ech sinn hënt zweemol erwächt.",
+  "ex_en": "I woke up twice last night.",
+  "lodId": "ERWACHEN1"
  },
  {
   "lb": "uschwätzen",
@@ -2650,8 +2619,8 @@
   "gender": "",
   "level": "B2",
   "category": "separable-verb",
-  "ex_lb": "Si schwätzt mech op der Strooss un.",
-  "ex_en": "She speaks to me on the street.",
+  "ex_lb": "Hien huet d'Fra op eng flappseg Manéier ugeschwat.",
+  "ex_en": "He addressed the woman in a flippant manner.",
   "lodId": "USCHWATZEN1"
  },
  {
@@ -2676,24 +2645,12 @@
   "gender": "",
   "level": "B1",
   "category": "separable-verb",
-  "ex_lb": "Maach de Seel um Bam fest.",
-  "ex_en": "Fasten the rope to the tree.",
+  "ex_lb": "D'Aarbechter hunn de Panno mat véier Schrauwen un der Mauer festgemaach.",
+  "ex_en": "The workers fixed the board to the wall with four screws.",
   "lodId": "FESTMAACHEN1"
  },
  {
-  "lb": "hischwätzen",
-  "en": "to go there",
-  "de": "hingehen",
-  "fr": "y aller",
-  "pos": "verb",
-  "gender": "",
-  "level": "B1",
-  "category": "separable-verb",
-  "ex_lb": "Ech ginn elo dohin.",
-  "ex_en": "I'm going there now."
- },
- {
-  "lb": "vereenbaren",
+  "lb": "ofschwätzen",
   "en": "to agree, arrange",
   "de": "vereinbaren",
   "fr": "convenir",
@@ -2701,8 +2658,9 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Mir vereenbaren en Termin.",
-  "ex_en": "We arrange an appointment."
+  "ex_lb": "Hutt Dir déi Demarche mat Ärem Virgesetzten ofgeschwat?",
+  "ex_en": "Did you agree that step with your manager?",
+  "lodId": "OFSCHWATZEN1"
  },
  {
   "lb": "ënnerstëtzen",
@@ -2713,8 +2671,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Meng Famill ënnerstëtzt mech.",
-  "ex_en": "My family supports me.",
+  "ex_lb": "De Gemengerot ënnerstëtzt eis Initiativ.",
+  "ex_en": "The municipal council supports our initiative.",
   "lodId": "ENNERSTETZEN1"
  },
  {
@@ -2726,8 +2684,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ënnerschreif w.e.g. hei ënnen.",
-  "ex_en": "Please sign here below.",
+  "ex_lb": "Ënnerschreif dat op kee Fall!",
+  "ex_en": "Whatever you do, don't sign that!",
   "lodId": "ENNERSCHREIWEN1"
  },
  {
@@ -2751,12 +2709,12 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Hie vertrëtt d'Land am Ausland.",
-  "ex_en": "He represents the country abroad.",
+  "ex_lb": "De Geschiedegte gëtt duerch seng Affekotin vertrueden.",
+  "ex_en": "The injured party is represented by his lawyer.",
   "lodId": "VERTRIEDEN1"
  },
  {
-  "lb": "verglächen",
+  "lb": "vergläichen",
   "en": "to compare",
   "de": "vergleichen",
   "fr": "comparer",
@@ -2764,8 +2722,9 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Verglach déi zwou Méiglechkeeten.",
-  "ex_en": "Compare the two options."
+  "ex_lb": "Um Internet kann ee kamoud d'Präisser (mateneen) vergläichen.",
+  "ex_en": "On the internet you can easily compare prices.",
+  "lodId": "VERGLAICHEN1"
  },
  {
   "lb": "verwenden",
@@ -2776,8 +2735,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech verwenden frësch Zutaten.",
-  "ex_en": "I use fresh ingredients.",
+  "ex_lb": "Wier et net gutt, méi Sue fir d'Recherche ze verwenden?",
+  "ex_en": "Wouldn't it be good to spend more money on research?",
   "lodId": "VERWENDEN1"
  },
  {
@@ -2789,8 +2748,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Si verlaangt eng Erklärung.",
-  "ex_en": "She demands an explanation.",
+  "ex_lb": "Ech bieden dech net dorëm, ech verlaangen et!",
+  "ex_en": "I'm not asking you, I'm demanding it!",
   "lodId": "VERLAANGEN1"
  },
  {
@@ -2802,8 +2761,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "D'Gemeng veranstalt e Fest.",
-  "ex_en": "The municipality hosts a festival.",
+  "ex_lb": "Eist Institut veranstalt d'nächst Joer en internationale Colloque.",
+  "ex_en": "Our institute is organising an international colloquium next year.",
   "lodId": "VERANSTALTEN1"
  },
  {
@@ -2815,12 +2774,12 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Wat ënnerhuele mir um Weekend?",
-  "ex_en": "What shall we do at the weekend?",
+  "ex_lb": "Mir mussen eppes géint d'Schleeken ënnerhuelen!",
+  "ex_en": "We have to do something about the slugs!",
   "lodId": "ENNERHUELEN1"
  },
  {
-  "lb": "beoobachten",
+  "lb": "beobachten",
   "en": "to observe",
   "de": "beobachten",
   "fr": "observer",
@@ -2828,8 +2787,9 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Mir beoobachten d'Villercher.",
-  "ex_en": "We observe the birds."
+  "ex_lb": "Den Ornitholog huet d'Vullen an hirem Nascht beobacht.",
+  "ex_en": "The ornithologist watched the birds in their nest.",
+  "lodId": "BEOBACHTEN2"
  },
  {
   "lb": "beweisen",
@@ -2840,8 +2800,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Du muss dat beweisen.",
-  "ex_en": "You have to prove that.",
+  "ex_lb": "Beweis mir, datt s du dee Kuch eleng gebak hues!",
+  "ex_en": "Prove to me that you baked that cake yourself!",
   "lodId": "BEWEISEN1"
  },
  {
@@ -2853,8 +2813,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Beäntwert d'Fro w.e.g.",
-  "ex_en": "Please answer the question.",
+  "ex_lb": "Ech kann Iech dës Fro net beäntweren.",
+  "ex_en": "I can't answer that question for you.",
   "lodId": "BEANTWEREN1"
  },
  {
@@ -2866,8 +2826,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Ech wëll dat betounen.",
-  "ex_en": "I want to emphasize that.",
+  "ex_lb": "An dësem Wuert gëtt déi virlescht Silb betount.",
+  "ex_en": "In this word the stress is on the penultimate syllable.",
   "lodId": "BETOUNEN1"
  },
  {
@@ -2879,8 +2839,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Ech begräifen däi Problem.",
-  "ex_en": "I grasp your problem.",
+  "ex_lb": "Ech kann däi Behuelen net begräifen.",
+  "ex_en": "I can't understand your behaviour.",
   "lodId": "BEGRAIFEN1"
  },
  {
@@ -2892,8 +2852,8 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "Dat betrëfft eis all.",
-  "ex_en": "That concerns us all.",
+  "ex_lb": "Dat do betrëfft eis net.",
+  "ex_en": "That doesn't concern us.",
   "lodId": "BETREFFEN1"
  },
  {
@@ -2905,8 +2865,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Ech hunn en Invitatioun erhalen.",
-  "ex_en": "I received an invitation.",
+  "ex_lb": "Vun der Festung hu mer e puer Maueren erhalen.",
+  "ex_en": "A few walls of the fortress have survived.",
   "lodId": "ERHALEN1"
  },
  {
@@ -2918,8 +2878,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Erënner mech un den Termin.",
-  "ex_en": "Remind me of the appointment.",
+  "ex_lb": "D'Mamm erënnert d'Kanner un hire Rendez-vous beim Coiffer.",
+  "ex_en": "Mum reminds the children of their hairdresser's appointment.",
   "lodId": "ERENNEREN1"
  },
  {
@@ -2931,21 +2891,9 @@
   "gender": "",
   "level": "B2",
   "category": "verb",
-  "ex_lb": "D'Buch erschéngt am Hierscht.",
-  "ex_en": "The book appears in autumn.",
+  "ex_lb": "D'Muttergottes ass dem Meedchen an der Grott erschéngen.",
+  "ex_en": "The Mother of God appeared to the girl in the grotto.",
   "lodId": "ERSCHENGEN1"
- },
- {
-  "lb": "schwätzeg",
-  "en": "to remain silent",
-  "de": "schweigen",
-  "fr": "se taire",
-  "pos": "verb",
-  "gender": "",
-  "level": "B2",
-  "category": "verb",
-  "ex_lb": "Hie schwätt léiwer.",
-  "ex_en": "He prefers to stay silent."
  },
  {
   "lb": "klammen",
@@ -2956,8 +2904,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "D'Kanner klammen op de Bam.",
-  "ex_en": "The children climb the tree.",
+  "ex_lb": "Hie klëmmt op d'Leeder, fir eng nei Bier anzedréien.",
+  "ex_en": "He climbs the ladder to screw in a new bulb.",
   "lodId": "KLAMMEN1"
  },
  {
@@ -2969,8 +2917,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Pass op, et rëtscht.",
-  "ex_en": "Watch out, it's slippery.",
+  "ex_lb": "Well et glat war, ass de Camion an de Gruef gerëtscht.",
+  "ex_en": "Because it was slippery, the lorry slid into the ditch.",
   "lodId": "RETSCHEN1"
  },
  {
@@ -2982,8 +2930,8 @@
   "gender": "",
   "level": "A2",
   "category": "verb",
-  "ex_lb": "Ech schwamme gär am Mier.",
-  "ex_en": "I like to swim in the sea.",
+  "ex_lb": "Déi iewescht Klasse ginn de Mëtteg schwammen.",
+  "ex_en": "The upper classes go swimming this afternoon.",
   "lodId": "SCHWAMMEN1"
  }
 ]

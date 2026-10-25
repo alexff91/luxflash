@@ -8,8 +8,8 @@
   "gender": "n",
   "level": "A1",
   "category": "home",
-  "ex_lb": "Mäi Haus ass grouss.",
-  "ex_en": "My house is big.",
+  "ex_lb": "An eiser Strooss ginn dräi Haiser gebaut.",
+  "ex_en": "Three houses are being built on our street.",
   "lodId": "HAUS1"
  },
  {
@@ -21,8 +21,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "Si wunnt an enger klenger Wunneng.",
-  "ex_en": "She lives in a small apartment.",
+  "ex_lb": "Meng Wunneng ass um drëtte Stack.",
+  "ex_en": "My flat is on the third floor.",
   "lodId": "WUNNENG1"
  },
  {
@@ -34,8 +34,8 @@
   "gender": "n",
   "level": "A1",
   "category": "rooms",
-  "ex_lb": "D'Zëmmer ass hell.",
-  "ex_en": "The room is bright.",
+  "ex_lb": "Den Usträicher huet sech d'Moosse vum Zëmmer opgeschriwwen.",
+  "ex_en": "The painter wrote down the measurements of the room.",
   "lodId": "ZEMMER1"
  },
  {
@@ -47,8 +47,8 @@
   "gender": "f",
   "level": "A1",
   "category": "rooms",
-  "ex_lb": "Mir iessen an der Kichen.",
-  "ex_en": "We eat in the kitchen.",
+  "ex_lb": "Mir brauchen eng nei Kichen.",
+  "ex_en": "We need a new kitchen.",
   "lodId": "KICHEN1"
  },
  {
@@ -60,8 +60,8 @@
   "gender": "n",
   "level": "A1",
   "category": "rooms",
-  "ex_lb": "D'Buedzëmmer ass propper.",
-  "ex_en": "The bathroom is clean.",
+  "ex_lb": "Mir hunn doheem d'Plättercher am Buedzëmmer nei gemaach.",
+  "ex_en": "We redid the tiles in our bathroom at home.",
   "lodId": "BUEDZEMMER1"
  },
  {
@@ -73,21 +73,22 @@
   "gender": "n",
   "level": "A1",
   "category": "rooms",
-  "ex_lb": "Mäi Schlofzëmmer ass uewen.",
-  "ex_en": "My bedroom is upstairs.",
+  "ex_lb": "An deem Haus si véier Schlofzëmmeren.",
+  "ex_en": "There are four bedrooms in that house.",
   "lodId": "SCHLOFZEMMER1"
  },
  {
-  "lb": "d'Wunnzëmmer",
+  "lb": "d'Stuff",
   "en": "the living room",
   "de": "das Wohnzimmer",
   "fr": "le salon",
   "pos": "noun",
-  "gender": "n",
+  "gender": "f",
   "level": "A1",
   "category": "rooms",
-  "ex_lb": "Mir kucken Tëlee am Wunnzëmmer.",
-  "ex_en": "We watch TV in the living room."
+  "ex_lb": "Eis Kaz läit am léifsten an der Stuff beim Uewen.",
+  "ex_en": "Our cat likes lying in the living room by the stove best.",
+  "lodId": "STUFF1"
  },
  {
   "lb": "d'Kanner­zëmmer",
@@ -110,8 +111,8 @@
   "gender": "m",
   "level": "A2",
   "category": "rooms",
-  "ex_lb": "D'Schong stinn am Entrée.",
-  "ex_en": "The shoes are in the hallway.",
+  "ex_lb": "D'Entrée vum Theater ass voller Leit.",
+  "ex_en": "The theatre foyer is full of people.",
   "lodId": "ENTREE1"
  },
  {
@@ -123,8 +124,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Trap ass steil.",
-  "ex_en": "The stairs are steep.",
+  "ex_lb": "Eis al hëlzen Trap kréckelt.",
+  "ex_en": "Our old wooden staircase creaks.",
   "lodId": "TRAP1"
  },
  {
@@ -136,8 +137,8 @@
   "gender": "m",
   "level": "B1",
   "category": "home",
-  "ex_lb": "Al Saache leien um Späicher.",
-  "ex_en": "Old things are in the attic.",
+  "ex_lb": "Um Späicher reent et zu enger Liicht eran.",
+  "ex_en": "In the attic the rain is coming in through a skylight.",
   "lodId": "SPAICHER1"
  },
  {
@@ -149,8 +150,8 @@
   "gender": "m",
   "level": "A2",
   "category": "home",
-  "ex_lb": "De Wäin steet am Keller.",
-  "ex_en": "The wine is in the cellar.",
+  "ex_lb": "Mir hunn en Haus mat engem verwëllefte Keller.",
+  "ex_en": "We have a house with a vaulted cellar.",
   "lodId": "KELLER1"
  },
  {
@@ -162,12 +163,12 @@
   "gender": "m",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Kanner spillen am Gaart.",
-  "ex_en": "The children play in the garden.",
+  "ex_lb": "Mir hunn hannenaus e grousse Gaart.",
+  "ex_en": "We have a big garden at the back.",
   "lodId": "GAART1"
  },
  {
-  "lb": "de Balkon",
+  "lb": "de Balcon",
   "en": "the balcony",
   "de": "der Balkon",
   "fr": "le balcon",
@@ -175,8 +176,9 @@
   "gender": "m",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Mir sëtzen um Balkon.",
-  "ex_en": "We sit on the balcony."
+  "ex_lb": "Am Theater ware just nach um Balcon Plaze fräi.",
+  "ex_en": "At the theatre the only seats left were in the balcony.",
+  "lodId": "BALCON1"
  },
  {
   "lb": "d'Garage",
@@ -187,8 +189,8 @@
   "gender": "f",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Auto steet an der Garage.",
-  "ex_en": "The car is in the garage.",
+  "ex_lb": "Setz den Auto an d'Garage, ier et reent!",
+  "ex_en": "Put the car in the garage before it rains!",
   "lodId": "GARAGE1"
  },
  {
@@ -200,8 +202,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "Maach d'Dier op!",
-  "ex_en": "Open the door!",
+  "ex_lb": "An der Dier vum Frigo stinn zwou Fläsche Wäin.",
+  "ex_en": "There are two bottles of wine in the fridge door.",
   "lodId": "DIER1"
  },
  {
@@ -213,8 +215,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Fënster ass op.",
-  "ex_en": "The window is open.",
+  "ex_lb": "Mir kréie méi eng grouss Fënster an der Stuff.",
+  "ex_en": "We're getting a big window in the living room.",
   "lodId": "FENSTER1"
  },
  {
@@ -226,8 +228,8 @@
   "gender": "f",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Mauer ass wäiss.",
-  "ex_en": "The wall is white.",
+  "ex_lb": "Eis Noperen hunn eng Mauer ëm hire Virgäertche gebaut.",
+  "ex_en": "Our neighbours built a wall around their front garden.",
   "lodId": "MAUER1"
  },
  {
@@ -239,9 +241,9 @@
   "gender": "f",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Eng Auer hänkt un der Wand.",
-  "ex_en": "A clock hangs on the wall.",
-  "lodId": "WAND1"
+  "ex_lb": "Hie fillt sech wuel a senge véier Wänn.",
+  "ex_en": "He feels at home within his own four walls.",
+  "lodId": "WAND2"
  },
  {
   "lb": "den Daach",
@@ -252,8 +254,8 @@
   "gender": "m",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Den Daach ass rout.",
-  "ex_en": "The roof is red.",
+  "ex_lb": "Et reent duerch den Daach eran!",
+  "ex_en": "The rain is coming in through the roof!",
   "lodId": "DAACH1"
  },
  {
@@ -265,12 +267,12 @@
   "gender": "m",
   "level": "A2",
   "category": "home",
-  "ex_lb": "De Buedem ass nei.",
-  "ex_en": "The floor is new.",
+  "ex_lb": "Deng Planz huet net genuch Buedem.",
+  "ex_en": "Your plant doesn't have enough soil.",
   "lodId": "BUEDEM1"
  },
  {
-  "lb": "d'Plafong",
+  "lb": "de Plaffong",
   "en": "the ceiling",
   "de": "die Decke",
   "fr": "le plafond",
@@ -278,8 +280,9 @@
   "gender": "m",
   "level": "B1",
   "category": "home",
-  "ex_lb": "D'Luucht hänkt um Plafong.",
-  "ex_en": "The light hangs on the ceiling."
+  "ex_lb": "De Gips bréckelt scho vum Plaffong.",
+  "ex_en": "The plaster is already crumbling off the ceiling.",
+  "lodId": "PLAFFONG1"
  },
  {
   "lb": "den Etage",
@@ -290,8 +293,8 @@
   "gender": "m",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Mir wunnen am éischten Etage.",
-  "ex_en": "We live on the first floor.",
+  "ex_lb": "Niewent déi nei Gare soll en Héichhaus mat iwwer 30 Etagë gebaut ginn.",
+  "ex_en": "A high-rise with over 30 floors is to be built next to the new station.",
   "lodId": "ETAGE1"
  },
  {
@@ -303,21 +306,22 @@
   "gender": "m",
   "level": "A1",
   "category": "home",
-  "ex_lb": "Ech sichen de Schlëssel.",
-  "ex_en": "I'm looking for the key.",
+  "ex_lb": "Du brauchs en anere Schlëssel, fir dës Schrauwen unzezéien.",
+  "ex_en": "You need a different spanner to tighten these bolts.",
   "lodId": "SCHLESSEL1"
  },
  {
-  "lb": "d'Méiwel",
+  "lb": "de Miwwel",
   "en": "the furniture",
   "de": "die Möbel",
   "fr": "les meubles",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "D'Méiwel sinn aus Holz.",
-  "ex_en": "The furniture is made of wood."
+  "ex_lb": "Mir hunn d'Miwwelen ëmgestallt.",
+  "ex_en": "We rearranged the furniture.",
+  "lodId": "MIWWEL1"
  },
  {
   "lb": "den Dësch",
@@ -328,8 +332,8 @@
   "gender": "m",
   "level": "A1",
   "category": "furniture",
-  "ex_lb": "D'Iessen ass um Dësch.",
-  "ex_en": "The food is on the table.",
+  "ex_lb": "Iwwer Dësch gëtt net geschwat!",
+  "ex_en": "We don't talk business at the table!",
   "lodId": "DESCH1"
  },
  {
@@ -341,8 +345,8 @@
   "gender": "m",
   "level": "A1",
   "category": "furniture",
-  "ex_lb": "Setz dech op de Stull!",
-  "ex_en": "Sit down on the chair!",
+  "ex_lb": "Huel der e Stull a setz dech bei eis!",
+  "ex_en": "Take a chair and sit with us!",
   "lodId": "STULL1"
  },
  {
@@ -354,8 +358,8 @@
   "gender": "m",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "Hie sëtzt am Fotell.",
-  "ex_en": "He sits in the armchair.",
+  "ex_lb": "Hie sëtzt de ganzen Dag an der Fotell a kuckt d'Televisioun.",
+  "ex_en": "He sits in the armchair all day watching television.",
   "lodId": "FOTELL1"
  },
  {
@@ -380,8 +384,8 @@
   "gender": "n",
   "level": "A1",
   "category": "furniture",
-  "ex_lb": "Ech ginn an d'Bett.",
-  "ex_en": "I'm going to bed.",
+  "ex_lb": "De Schräiner mécht eisen Zwillingen nei Better.",
+  "ex_en": "The carpenter is making new beds for our twins.",
   "lodId": "BETT1"
  },
  {
@@ -393,12 +397,12 @@
   "gender": "m",
   "level": "A1",
   "category": "furniture",
-  "ex_lb": "D'Teller sinn am Schaf.",
-  "ex_en": "The plates are in the cupboard.",
+  "ex_lb": "Et gëtt Schief vu verschiddenen Déiften.",
+  "ex_en": "There are cupboards of different depths.",
   "lodId": "SCHAF1"
  },
  {
-  "lb": "d'Lamp",
+  "lb": "d'Luucht",
   "en": "the lamp",
   "de": "die Lampe",
   "fr": "la lampe",
@@ -406,8 +410,9 @@
   "gender": "f",
   "level": "A1",
   "category": "furniture",
-  "ex_lb": "Maach d'Lamp un!",
-  "ex_en": "Turn on the lamp!"
+  "ex_lb": "Bei den Noperen ass nach Luucht.",
+  "ex_en": "The neighbours still have their light on.",
+  "lodId": "LUUCHT1"
  },
  {
   "lb": "de Spigel",
@@ -418,8 +423,8 @@
   "gender": "m",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "Ech kucke mech am Spigel un.",
-  "ex_en": "I look at myself in the mirror.",
+  "ex_lb": "D'Kanner hunn um Späicher e blanne Spigel fonnt.",
+  "ex_en": "The children found a clouded mirror in the attic.",
   "lodId": "SPIGEL1"
  },
  {
@@ -431,12 +436,12 @@
   "gender": "m",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "Den Teppech ass blo.",
-  "ex_en": "The carpet is blue.",
+  "ex_lb": "Botz deng Schong um Teppech of, ier s de erakënns!",
+  "ex_en": "Wipe your shoes on the mat before you come in!",
   "lodId": "TEPPECH1"
  },
  {
-  "lb": "de Rido",
+  "lb": "de Riddo",
   "en": "the curtain",
   "de": "der Vorhang",
   "fr": "le rideau",
@@ -444,8 +449,9 @@
   "gender": "m",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "Maach de Rido zou!",
-  "ex_en": "Close the curtain!"
+  "ex_lb": "Eis nei Riddoe loossen net genuch Luucht duerch.",
+  "ex_en": "Our new curtains don't let in enough light.",
+  "lodId": "RIDDO1"
  },
  {
   "lb": "de Buedem­belag",
@@ -468,8 +474,8 @@
   "gender": "n",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "D'Këssen ass mëll.",
-  "ex_en": "The pillow is soft.",
+  "ex_lb": "Gëff der Tatta e Kësse fir an de Réck!",
+  "ex_en": "Give auntie a cushion for her back!",
   "lodId": "KESSEN2"
  },
  {
@@ -481,8 +487,8 @@
   "gender": "f",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "Ech hunn eng waarm Decken.",
-  "ex_en": "I have a warm blanket.",
+  "ex_lb": "Déi Decken ass ze kuerz, meng Féiss kucken ënnen eraus!",
+  "ex_en": "This blanket is too short, my feet stick out at the bottom!",
   "lodId": "DECKEN1"
  },
  {
@@ -494,8 +500,8 @@
   "gender": "m",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Den Teller ass eidel.",
-  "ex_en": "The plate is empty.",
+  "ex_lb": "Huel der e Kichenduch an dréchen d'Telleren of!",
+  "ex_en": "Take a tea towel and dry the plates!",
   "lodId": "TELLER1"
  },
  {
@@ -507,8 +513,8 @@
   "gender": "f",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Ech drénken eng Taass Kaffi.",
-  "ex_en": "I drink a cup of coffee.",
+  "ex_lb": "Ech drénken ni méi ewéi eng Taass Kaffi.",
+  "ex_en": "I never drink more than one cup of coffee.",
   "lodId": "TAASS1"
  },
  {
@@ -520,8 +526,8 @@
   "gender": "n",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Ech wëll e Glas Waasser.",
-  "ex_en": "I want a glass of water.",
+  "ex_lb": "Villes, wat fréier aus Glas war, ass haut aus Plastik.",
+  "ex_en": "Much of what used to be made of glass is made of plastic today.",
   "lodId": "GLAS1"
  },
  {
@@ -533,8 +539,8 @@
   "gender": "f",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "D'Zopp ass an der Schossel.",
-  "ex_en": "The soup is in the bowl.",
+  "ex_lb": "Ech hunn d'Margarinn zesumme mam Zocker an eng Schossel gedoen.",
+  "ex_en": "I put the margarine together with the sugar in a bowl.",
   "lodId": "SCHOSSEL1"
  },
  {
@@ -546,8 +552,8 @@
   "gender": "m",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Ech iessen d'Zopp mam Läffel.",
-  "ex_en": "I eat the soup with the spoon.",
+  "ex_lb": "De Puppelche kritt d'Iesse mam Läffel.",
+  "ex_en": "The baby is fed with a spoon.",
   "lodId": "LAFFEL1"
  },
  {
@@ -559,8 +565,8 @@
   "gender": "f",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "D'Forschett läit nieft dem Teller.",
-  "ex_en": "The fork lies next to the plate.",
+  "ex_lb": "Ech iessen de Poulet mat Messer a Forschett.",
+  "ex_en": "I eat chicken with a knife and fork.",
   "lodId": "FORSCHETT1"
  },
  {
@@ -572,21 +578,9 @@
   "gender": "m",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "De Messer ass scharf.",
-  "ex_en": "The knife is sharp.",
+  "ex_lb": "D'Messere si frësch geschlaff!",
+  "ex_en": "The knives have just been sharpened!",
   "lodId": "MESSER1"
- },
- {
-  "lb": "d'Patell",
-  "en": "the frying pan",
-  "de": "die Pfanne",
-  "fr": "la poêle",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "kitchen",
-  "ex_lb": "Ech bake Eeër an der Patell.",
-  "ex_en": "I fry eggs in the pan."
  },
  {
   "lb": "den Dëppen",
@@ -597,8 +591,8 @@
   "gender": "m",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "D'Zopp kacht am Dëppen.",
-  "ex_en": "The soup boils in the pot.",
+  "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
+  "ex_en": "The painter knocked over the paint pots.",
   "lodId": "DEPPEN1"
  },
  {
@@ -610,8 +604,8 @@
   "gender": "m",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "De Kessel kacht d'Waasser.",
-  "ex_en": "The kettle boils the water.",
+  "ex_lb": "D'Quetschekraut brutschelt am Kessel.",
+  "ex_en": "The plum jam is bubbling in the pot.",
   "lodId": "KESSEL1"
  },
  {
@@ -623,8 +617,8 @@
   "gender": "m",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "D'Mëllech ass am Frigo.",
-  "ex_en": "The milk is in the fridge.",
+  "ex_lb": "Lee de Botter an de Frigo!",
+  "ex_en": "Put the butter in the fridge!",
   "lodId": "FRIGO1"
  },
  {
@@ -636,8 +630,8 @@
   "gender": "m",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "De Kuch ass am Uewen.",
-  "ex_en": "The cake is in the oven.",
+  "ex_lb": "An enger hallwer Stonn musse mer de Gratin aus dem Uewen huelen.",
+  "ex_en": "In half an hour we have to take the gratin out of the oven.",
   "lodId": "UEWEN2"
  },
  {
@@ -649,8 +643,8 @@
   "gender": "f",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "D'Spullmaschinn ass voll.",
-  "ex_en": "The dishwasher is full.",
+  "ex_lb": "Deng Kristallsglieser däerfs de net an d'Spullmaschinn setzen.",
+  "ex_en": "You mustn't put your crystal glasses in the dishwasher.",
   "lodId": "SPULLMASCHINN1"
  },
  {
@@ -662,8 +656,8 @@
   "gender": "f",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "D'Kaffismaschinn ass futti.",
-  "ex_en": "The coffee machine is broken.",
+  "ex_lb": "Um Büro hu mir eng ganz performant Kaffismaschinn.",
+  "ex_en": "At the office we have a very powerful coffee machine.",
   "lodId": "KAFFISMASCHINN1"
  },
  {
@@ -675,8 +669,8 @@
   "gender": "f",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "D'Fläsch ass eidel.",
-  "ex_en": "The bottle is empty.",
+  "ex_lb": "De Wënzer huet de Wäin a Fläsche gefëllt.",
+  "ex_en": "The winegrower bottled the wine.",
   "lodId": "FLASCH1"
  },
  {
@@ -688,8 +682,8 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "Gëff mir d'Schéier!",
-  "ex_en": "Give me the scissors!",
+  "ex_lb": "Dës Schéier ass gutt, fir graffe Stoft ze schneiden.",
+  "ex_en": "These scissors are good for cutting coarse fabric.",
   "lodId": "SCHEIER2"
  },
  {
@@ -701,8 +695,8 @@
   "gender": "f",
   "level": "A1",
   "category": "household",
-  "ex_lb": "D'Auer hänkt un der Wand.",
-  "ex_en": "The clock hangs on the wall.",
+  "ex_lb": "Wéi vill Auer ass et?",
+  "ex_en": "What time is it?",
   "lodId": "AUER1"
  },
  {
@@ -727,8 +721,8 @@
   "gender": "m",
   "level": "A1",
   "category": "household",
-  "ex_lb": "Ech schaffen um Computer.",
-  "ex_en": "I work on the computer.",
+  "ex_lb": "D'Computere ginn ëmmer méi bëlleg.",
+  "ex_en": "Computers keep getting cheaper.",
   "lodId": "COMPUTER1"
  },
  {
@@ -740,8 +734,8 @@
   "gender": "m",
   "level": "A1",
   "category": "household",
-  "ex_lb": "Den Telefon kléngelt.",
-  "ex_en": "The telephone is ringing.",
+  "ex_lb": "Matzen an der Nuecht huet den Telefon gerabbelt.",
+  "ex_en": "In the middle of the night the phone rang.",
   "lodId": "TELEFON1"
  },
  {
@@ -753,8 +747,8 @@
   "gender": "m",
   "level": "A2",
   "category": "household",
-  "ex_lb": "Ech lauschtere Radio.",
-  "ex_en": "I listen to the radio.",
+  "ex_lb": "D'Journalistin huet eng eege Sendung um Radio.",
+  "ex_en": "The journalist has her own programme on the radio.",
   "lodId": "RADIO1"
  },
  {
@@ -766,8 +760,8 @@
   "gender": "f",
   "level": "A1",
   "category": "household",
-  "ex_lb": "Maach d'Luucht aus!",
-  "ex_en": "Turn off the light!",
+  "ex_lb": "Bei den Noperen ass nach Luucht.",
+  "ex_en": "The neighbours still have their light on.",
   "lodId": "LUUCHT1"
  },
  {
@@ -792,8 +786,8 @@
   "gender": "m",
   "level": "A2",
   "category": "household",
-  "ex_lb": "De Kuerf ass voll Uebst.",
-  "ex_en": "The basket is full of fruit.",
+  "ex_lb": "Géi sich e Kuerf Gromperen an de Keller!",
+  "ex_en": "Go and fetch a basket of potatoes from the cellar!",
   "lodId": "KUERF1"
  },
  {
@@ -805,8 +799,8 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "D'Spillsaachen sinn an der Këscht.",
-  "ex_en": "The toys are in the box.",
+  "ex_lb": "Um Späicher sti Këschte voll Bicher.",
+  "ex_en": "There are boxes full of books in the attic.",
   "lodId": "KESCHT1"
  },
  {
@@ -818,12 +812,12 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "Ech droen d'Tut.",
-  "ex_en": "I carry the bag.",
-  "lodId": "TUT2"
+  "ex_lb": "D'Maartfra huet d'Äppel an eng Tut gemaach.",
+  "ex_en": "The market woman put the apples in a paper bag.",
+  "lodId": "TUT3"
  },
  {
-  "lb": "de Bessem",
+  "lb": "de Biesem",
   "en": "the broom",
   "de": "der Besen",
   "fr": "le balai",
@@ -831,11 +825,12 @@
   "gender": "m",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "Ech kiere mam Bessem.",
-  "ex_en": "I sweep with the broom."
+  "ex_lb": "De Kniecht huet de Stall mam Biesem gekiert.",
+  "ex_en": "The farmhand swept the stable with a broom.",
+  "lodId": "BIESEM1"
  },
  {
-  "lb": "de Stëbssauger",
+  "lb": "de Staubsauger",
   "en": "the vacuum cleaner",
   "de": "der Staubsauger",
   "fr": "l'aspirateur",
@@ -843,8 +838,9 @@
   "gender": "m",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "De Stëbssauger ass haart.",
-  "ex_en": "The vacuum cleaner is loud."
+  "ex_lb": "Fuer eng Kéier mam Staubsauger iwwer den Tapis!",
+  "ex_en": "Run the vacuum cleaner over the rug!",
+  "lodId": "STAUBSAUGER1"
  },
  {
   "lb": "d'Wäschmaschinn",
@@ -855,8 +851,8 @@
   "gender": "f",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "D'Wäschmaschinn leeft.",
-  "ex_en": "The washing machine is running.",
+  "ex_lb": "De Filter vun eiser Wäschmaschinn ass verstoppt.",
+  "ex_en": "The filter of our washing machine is blocked.",
   "lodId": "WASCHMASCHINN1"
  },
  {
@@ -868,8 +864,8 @@
   "gender": "f",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "Wäsch d'Hänn mat Seef!",
-  "ex_en": "Wash your hands with soap!",
+  "ex_lb": "Déi meescht Seefe si mir ze parfüméiert.",
+  "ex_en": "Most soaps are too perfumed for me.",
   "lodId": "SEEF1"
  },
  {
@@ -881,8 +877,8 @@
   "gender": "n",
   "level": "A2",
   "category": "household",
-  "ex_lb": "D'Handduch ass naass.",
-  "ex_en": "The towel is wet.",
+  "ex_lb": "Hëllefs de mer, d'Handdicher falen?",
+  "ex_en": "Will you help me fold the towels?",
   "lodId": "HANDDUCH1"
  },
  {
@@ -894,8 +890,8 @@
   "gender": "m",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "De Poubelle ass voll.",
-  "ex_en": "The bin is full.",
+  "ex_lb": "An der Kichen hu mer eng kleng Poubelle ënnerem Spullsteen.",
+  "ex_en": "In the kitchen we have a small bin under the sink.",
   "lodId": "POUBELLE1"
  },
  {
@@ -907,12 +903,12 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "Meng Zännbiischt ass blo.",
-  "ex_en": "My toothbrush is blue.",
+  "ex_lb": "Den Zänndokter huet mer eng elektresch Zännbiischt recommandéiert.",
+  "ex_en": "The dentist recommended an electric toothbrush to me.",
   "lodId": "ZANNBIISCHT1"
  },
  {
-  "lb": "d'Zännpâte",
+  "lb": "d'Zännseef",
   "en": "the toothpaste",
   "de": "die Zahnpasta",
   "fr": "le dentifrice",
@@ -920,11 +916,12 @@
   "gender": "f",
   "level": "B1",
   "category": "household",
-  "ex_lb": "D'Zännpâte ass eidel.",
-  "ex_en": "The toothpaste is empty."
+  "ex_lb": "Meng Zännseef schmaacht no Peffermënz.",
+  "ex_en": "My toothpaste tastes of peppermint.",
+  "lodId": "ZANNSEEF1"
  },
  {
-  "lb": "de Kamm",
+  "lb": "de Kamp",
   "en": "the comb",
   "de": "der Kamm",
   "fr": "le peigne",
@@ -932,8 +929,9 @@
   "gender": "m",
   "level": "B1",
   "category": "household",
-  "ex_lb": "Ech kämmen d'Hoer mam Kamm.",
-  "ex_en": "I comb my hair with the comb."
+  "ex_lb": "Dem Hunn säi Kamp war feierrout.",
+  "ex_en": "The cock's comb was fiery red.",
+  "lodId": "KAMP1"
  },
  {
   "lb": "den Hummer",
@@ -944,8 +942,8 @@
   "gender": "m",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Ech schloen den Nol mam Hummer.",
-  "ex_en": "I hit the nail with the hammer.",
+  "ex_lb": "Schlo dech net mam Hummer op den Daum!",
+  "ex_en": "Don't hit your thumb with the hammer!",
   "lodId": "HUMMER1"
  },
  {
@@ -957,12 +955,12 @@
   "gender": "m",
   "level": "A2",
   "category": "tools",
-  "ex_lb": "Den Nol ass an der Wand.",
-  "ex_en": "The nail is in the wall.",
+  "ex_lb": "Schlo den Nol mam Hummer an d'Briet!",
+  "ex_en": "Hammer the nail into the board!",
   "lodId": "NOL1"
  },
  {
-  "lb": "de Bormaschinn",
+  "lb": "d'Buermaschinn",
   "en": "the drill",
   "de": "die Bohrmaschine",
   "fr": "la perceuse",
@@ -970,8 +968,9 @@
   "gender": "f",
   "level": "B2",
   "category": "tools",
-  "ex_lb": "D'Bormaschinn ass haart.",
-  "ex_en": "The drill is loud."
+  "ex_lb": "Fir dëst Lach ze bueren, brauch een eng zolidd Buermaschinn.",
+  "ex_en": "To drill this hole you need a solid drill.",
+  "lodId": "BUERMASCHINN1"
  },
  {
   "lb": "d'Kleeder",
@@ -994,8 +993,8 @@
   "gender": "n",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "Mäin Hiem ass wäiss.",
-  "ex_en": "My shirt is white.",
+  "ex_lb": "Stiech däin Hiem an d'Box!",
+  "ex_en": "Tuck your shirt into your trousers!",
   "lodId": "HIEM1"
  },
  {
@@ -1007,8 +1006,8 @@
   "gender": "f",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "D'Box ass ze laang.",
-  "ex_en": "The trousers are too long.",
+  "ex_lb": "Stiech däin Hiem an d'Box!",
+  "ex_en": "Tuck your shirt into your trousers!",
   "lodId": "BOX1"
  },
  {
@@ -1033,8 +1032,8 @@
   "gender": "n",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "D'Kleed ass schéin.",
-  "ex_en": "The dress is beautiful.",
+  "ex_lb": "Ech kafe meng Kleeder ëmmer nëmmen an de Solden.",
+  "ex_en": "I only ever buy my clothes in the sales.",
   "lodId": "KLEED1"
  },
  {
@@ -1046,8 +1045,8 @@
   "gender": "m",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "Mäi Pullover ass waarm.",
-  "ex_en": "My sweater is warm.",
+  "ex_lb": "Wann et der kal ass, kanns de méi en décke Pullover undinn.",
+  "ex_en": "If you're cold, you can put on a thicker jumper.",
   "lodId": "PULLOVER1"
  },
  {
@@ -1059,8 +1058,8 @@
   "gender": "f",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "Zéi d'Jackett un!",
-  "ex_en": "Put on the jacket!",
+  "ex_lb": "Déi eng déck Jackett un, et ass kal dobaussen!",
+  "ex_en": "Put on a thick jacket, it's cold outside!",
   "lodId": "JACKETT1"
  },
  {
@@ -1072,8 +1071,8 @@
   "gender": "m",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "De Mantel ass waarm.",
-  "ex_en": "The coat is warm.",
+  "ex_lb": "Do däi Mantel un, et ass vill Loft!",
+  "ex_en": "Put your coat on, it's very windy!",
   "lodId": "MANTEL1"
  },
  {
@@ -1085,12 +1084,12 @@
   "gender": "m",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "Meng Schong sinn nei.",
-  "ex_en": "My shoes are new.",
+  "ex_lb": "Meng nei Schong drécken.",
+  "ex_en": "My new shoes pinch.",
   "lodId": "SCHONG1"
  },
  {
-  "lb": "d'Sock",
+  "lb": "d'Strëmp",
   "en": "the sock",
   "de": "die Socke",
   "fr": "la chaussette",
@@ -1098,8 +1097,9 @@
   "gender": "f",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "Meng Socke sinn naass.",
-  "ex_en": "My socks are wet."
+  "ex_lb": "D'Feeschte vu mengen neie Strëmp si schonn zerrass.",
+  "ex_en": "The heels of my new socks are already torn.",
+  "lodId": "STREMP1"
  },
  {
   "lb": "den Hutt",
@@ -1110,8 +1110,8 @@
   "gender": "m",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "Hien dréit en Hutt.",
-  "ex_en": "He wears a hat.",
+  "ex_lb": "Meng Tatta huet e Schaf voller Hitt.",
+  "ex_en": "My aunt has a wardrobe full of hats.",
   "lodId": "HUTT1"
  },
  {
@@ -1123,21 +1123,22 @@
   "gender": "f",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "Setz d'Mutz op!",
-  "ex_en": "Put on the beanie!",
+  "ex_lb": "Do eng Mutz op de Kapp, soss kriss de kal Oueren!",
+  "ex_en": "Put a hat on, or your ears will get cold!",
   "lodId": "MUTZ1"
  },
  {
-  "lb": "d'Handschong",
+  "lb": "d'Händsch",
   "en": "the glove",
   "de": "der Handschuh",
   "fr": "le gant",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "Meng Handschong sinn waarm.",
-  "ex_en": "My gloves are warm."
+  "ex_lb": "Do deng Händschen un, fir am Schnéi ze spillen!",
+  "ex_en": "Put your gloves on to play in the snow!",
+  "lodId": "HANDSCH1"
  },
  {
   "lb": "de Schal",
@@ -1148,8 +1149,8 @@
   "gender": "m",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "Ech droen e Schal.",
-  "ex_en": "I wear a scarf.",
+  "ex_lb": "Am Wanter ginn ech ni ouni Schal baussent d'Dier.",
+  "ex_en": "In winter I never go outside without a scarf.",
   "lodId": "SCHAL1"
  },
  {
@@ -1161,12 +1162,12 @@
   "gender": "f",
   "level": "B1",
   "category": "clothes",
-  "ex_lb": "Hien dréit eng Krawatt.",
-  "ex_en": "He wears a tie.",
+  "ex_lb": "Fir déi Festivitéit muss de eng Krawatt undoen!",
+  "ex_en": "You have to wear a tie for that celebration!",
   "lodId": "KRAWATT1"
  },
  {
-  "lb": "de Gürtel",
+  "lb": "de Rimm",
   "en": "the belt",
   "de": "der Gürtel",
   "fr": "la ceinture",
@@ -1174,8 +1175,9 @@
   "gender": "m",
   "level": "B1",
   "category": "clothes",
-  "ex_lb": "De Gürtel ass ze enk.",
-  "ex_en": "The belt is too tight."
+  "ex_lb": "D'Block u mengem Rimm ass futti.",
+  "ex_en": "The buckle on my belt is broken.",
+  "lodId": "RIMM1"
  },
  {
   "lb": "d'Ënnerwäsch",
@@ -1186,8 +1188,8 @@
   "gender": "f",
   "level": "B1",
   "category": "clothes",
-  "ex_lb": "D'Ënnerwäsch ass propper.",
-  "ex_en": "The underwear is clean.",
+  "ex_lb": "Déi frësch Ënnerwäsch un!",
+  "ex_en": "Put on clean underwear!",
   "lodId": "ENNERWASCH1"
  },
  {
@@ -1199,8 +1201,8 @@
   "gender": "m",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "Ech zéien de Pyjama un.",
-  "ex_en": "I put on the pyjamas.",
+  "ex_lb": "Ditt äre Pyjama un a gitt schlofen!",
+  "ex_en": "Put your pyjamas on and go to bed!",
   "lodId": "PYJAMA1"
  },
  {
@@ -1212,8 +1214,8 @@
   "gender": "n",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "Mäin T-Shirt ass gréng.",
-  "ex_en": "My t-shirt is green.",
+  "ex_lb": "Meng kleng Schwëster hëlt ee vu mengen T-Shirten als Nuetshiem.",
+  "ex_en": "My little sister wears one of my T-shirts as a nightshirt.",
   "lodId": "TSHIRT1"
  },
  {
@@ -1225,8 +1227,8 @@
   "gender": "f",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "Meng Jeans ass blo.",
-  "ex_en": "My jeans are blue.",
+  "ex_lb": "Ech hu bal nëmmen Hiemer aus Jeans.",
+  "ex_en": "Almost all my shirts are denim.",
   "lodId": "JEANS1"
  },
  {
@@ -1238,8 +1240,8 @@
   "gender": "",
   "level": "A1",
   "category": "colors",
-  "ex_lb": "De Schnéi ass wäiss.",
-  "ex_en": "The snow is white.",
+  "ex_lb": "Eng wäiss Dauf symboliséiert de Fridden.",
+  "ex_en": "A white dove symbolises peace.",
   "lodId": "WAISS1"
  },
  {
@@ -1251,8 +1253,8 @@
   "gender": "",
   "level": "A1",
   "category": "colors",
-  "ex_lb": "D'Kaz ass schwaarz.",
-  "ex_en": "The cat is black.",
+  "ex_lb": "Op engem schwaarze Paltong gesäit een all Fisem.",
+  "ex_en": "On a black coat you can see every bit of fluff.",
   "lodId": "SCHWAARZ1"
  },
  {
@@ -1264,8 +1266,8 @@
   "gender": "",
   "level": "A1",
   "category": "colors",
-  "ex_lb": "Den Apel ass rout.",
-  "ex_en": "The apple is red.",
+  "ex_lb": "Ech hunn déi rout Rousen am léifsten.",
+  "ex_en": "I like red roses best.",
   "lodId": "ROUT1"
  },
  {
@@ -1277,8 +1279,8 @@
   "gender": "",
   "level": "A1",
   "category": "colors",
-  "ex_lb": "Den Himmel ass blo.",
-  "ex_en": "The sky is blue.",
+  "ex_lb": "De Bouf huet e schéine bloe Vëlo geschenkt kritt.",
+  "ex_en": "The boy was given a beautiful blue bike.",
   "lodId": "BLO1"
  },
  {
@@ -1290,8 +1292,8 @@
   "gender": "",
   "level": "A1",
   "category": "colors",
-  "ex_lb": "D'Gras ass gréng.",
-  "ex_en": "The grass is green.",
+  "ex_lb": "Mir hunn eis an de Solden eng gréng Kusch kaaft.",
+  "ex_en": "We bought a green sofa in the sales.",
   "lodId": "GRENG1"
  },
  {
@@ -1303,8 +1305,8 @@
   "gender": "",
   "level": "A1",
   "category": "colors",
-  "ex_lb": "D'Sonn ass giel.",
-  "ex_en": "The sun is yellow.",
+  "ex_lb": "Den Dueder vum Ee ass giel.",
+  "ex_en": "The yolk of the egg is yellow.",
   "lodId": "GIEL1"
  },
  {
@@ -1316,8 +1318,8 @@
   "gender": "",
   "level": "A1",
   "category": "colors",
-  "ex_lb": "D'Karott ass orange.",
-  "ex_en": "The carrot is orange.",
+  "ex_lb": "Ech di muer mäin oranget Hiem un.",
+  "ex_en": "Tomorrow I'll wear my orange shirt.",
   "lodId": "ORANGE2"
  },
  {
@@ -1329,8 +1331,8 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "D'Schong sinn brong.",
-  "ex_en": "The shoes are brown.",
+  "ex_lb": "Deng brong Schong passen net bei däi Kostüm.",
+  "ex_en": "Your brown shoes don't go with your suit.",
   "lodId": "BRONG1"
  },
  {
@@ -1342,8 +1344,8 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "Den Himmel ass gro.",
-  "ex_en": "The sky is grey.",
+  "ex_lb": "Mäi Papp krut scho ganz jonk gro Hoer.",
+  "ex_en": "My dad went grey very young.",
   "lodId": "GRO1"
  },
  {
@@ -1355,12 +1357,12 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "D'Blumm ass rosa.",
-  "ex_en": "The flower is pink.",
+  "ex_lb": "Dat klengt Meedchen hat e rosae Rack un.",
+  "ex_en": "The little girl was wearing a pink dress.",
   "lodId": "ROSA1"
  },
  {
-  "lb": "lila",
+  "lb": "violett",
   "en": "purple",
   "de": "lila",
   "fr": "violet",
@@ -1368,8 +1370,9 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "De Rack ass lila.",
-  "ex_en": "The skirt is purple."
+  "ex_lb": "Fir d'Hochzäit koum d'Schwéiermamm an enger violetter Toilette.",
+  "ex_en": "For the wedding the mother-in-law came in a purple outfit.",
+  "lodId": "VIOLETT1"
  },
  {
   "lb": "hell",
@@ -1380,8 +1383,8 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "D'Zëmmer ass hell.",
-  "ex_en": "The room is bright.",
+  "ex_lb": "Am Summer gëtt et scho fréi hell dobaussen.",
+  "ex_en": "In summer it gets light outside early.",
   "lodId": "HELL1"
  },
  {
@@ -1393,8 +1396,8 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "D'Box ass donkelblo.",
-  "ex_en": "The trousers are dark blue.",
+  "ex_lb": "Firwat dees de dech ëmmer donkel un?",
+  "ex_en": "Why do you always wear dark clothes?",
   "lodId": "DONKEL1"
  },
  {
@@ -1406,8 +1409,8 @@
   "gender": "",
   "level": "B1",
   "category": "colors",
-  "ex_lb": "De Bild ass faarweg.",
-  "ex_en": "The picture is colorful.",
+  "ex_lb": "D'Schüler hunn de Panno faarweg ugestrach.",
+  "ex_en": "The pupils painted the board in bright colours.",
   "lodId": "FAARWEG1"
  },
  {
@@ -1419,8 +1422,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Ech wunnen zu Lëtzebuerg.",
-  "ex_en": "I live in Luxembourg.",
+  "ex_lb": "Mir wunnen an enger aler Millen, déi mer restauréiert hunn.",
+  "ex_en": "We live in an old mill that we restored.",
   "lodId": "WUNNEN1"
  },
  {
@@ -1432,8 +1435,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "D'Kanner schlofen.",
-  "ex_en": "The children are sleeping.",
+  "ex_lb": "Schlof gutt an dreem schéin!",
+  "ex_en": "Sleep well and sweet dreams!",
   "lodId": "SCHLOFEN1"
  },
  {
@@ -1445,8 +1448,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Ech stinn um siwen Auer op.",
-  "ex_en": "I get up at seven o'clock.",
+  "ex_lb": "D'Leit sinn opgestanen, wéi d'Nationalhymn gespillt gouf.",
+  "ex_en": "People stood up when the national anthem was played.",
   "lodId": "OPSTOEN2"
  },
  {
@@ -1470,8 +1473,8 @@
   "gender": "",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Ech duschen all Moien.",
-  "ex_en": "I shower every morning.",
+  "ex_lb": "Ech duschen all Mueren.",
+  "ex_en": "I take a shower every morning.",
   "lodId": "DUSCHEN1"
  },
  {
@@ -1499,7 +1502,7 @@
   "ex_en": "The child undresses."
  },
  {
-  "lb": "frühstécken",
+  "lb": "früstücken",
   "en": "to have breakfast",
   "de": "frühstücken",
   "fr": "prendre le petit-déjeuner",
@@ -1507,8 +1510,9 @@
   "gender": "",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Mir frühstécken zesummen.",
-  "ex_en": "We have breakfast together."
+  "ex_lb": "Um wéi vill Auer früstücke mer muer de Moien?",
+  "ex_en": "What time are we having breakfast tomorrow morning?",
+  "lodId": "FRUSTUCKEN1"
  },
  {
   "lb": "iessen",
@@ -1519,8 +1523,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Mir iessen um Mëtteg.",
-  "ex_en": "We eat at noon.",
+  "ex_lb": "Mir iessen de Mëtteg Nuddelen.",
+  "ex_en": "We're having pasta for lunch.",
   "lodId": "IESSEN3"
  },
  {
@@ -1532,8 +1536,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Ech drénke Waasser.",
-  "ex_en": "I drink water.",
+  "ex_lb": "Ech drénke just e Glas Waasser.",
+  "ex_en": "I'll just have a glass of water.",
   "lodId": "DRENKEN1"
  },
  {
@@ -1545,8 +1549,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Meng Mamm kacht gutt.",
-  "ex_en": "My mum cooks well.",
+  "ex_lb": "Ech kache Waasser, fir mer en Téi ze maachen.",
+  "ex_en": "I'm boiling water to make myself a tea.",
   "lodId": "KACHEN2"
  },
  {
@@ -1558,8 +1562,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Mir baken e Kuch.",
-  "ex_en": "We bake a cake.",
+  "ex_lb": "Seng Mamm baakt all Samschdeg e Kuch.",
+  "ex_en": "His mother bakes a cake every Saturday.",
   "lodId": "BAKEN1"
  },
  {
@@ -1571,8 +1575,8 @@
   "gender": "",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "Ech botzen d'Kichen.",
-  "ex_en": "I clean the kitchen.",
+  "ex_lb": "Meng Mamm huet gëschter dat ganzt Haus gebotzt.",
+  "ex_en": "Yesterday my mum cleaned the whole house.",
   "lodId": "BOTZEN1"
  },
  {
@@ -1584,8 +1588,8 @@
   "gender": "",
   "level": "A1",
   "category": "cleaning",
-  "ex_lb": "Ech wäschen d'Wäsch.",
-  "ex_en": "I wash the laundry.",
+  "ex_lb": "Géi wäsch deng knaschteg Fangeren!",
+  "ex_en": "Go and wash your dirty fingers!",
   "lodId": "WASCHEN1"
  },
  {
@@ -1597,8 +1601,8 @@
   "gender": "",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "Ech wäschen no dem Iessen of.",
-  "ex_en": "I wash up after the meal.",
+  "ex_lb": "Et gëtt Zäit, datt mer d'Kichen ofwäschen.",
+  "ex_en": "It's time we cleaned the kitchen.",
   "lodId": "OFWASCHEN1"
  },
  {
@@ -1610,8 +1614,8 @@
   "gender": "",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "Raum däi Zëmmer op!",
-  "ex_en": "Tidy up your room!",
+  "ex_lb": "Déi nei Direktesch huet emol richteg opgeraumt am Betrib!",
+  "ex_en": "The new director really cleaned up the company!",
   "lodId": "OPRAUMEN1"
  },
  {
@@ -1623,8 +1627,8 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "Hänk d'Wäsch op!",
-  "ex_en": "Hang up the laundry!",
+  "ex_lb": "Wou solle mer dat Bild hei ophänken?",
+  "ex_en": "Where shall we hang this picture?",
   "lodId": "OPHANKEN1"
  },
  {
@@ -1636,8 +1640,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Maach d'Fënster op!",
-  "ex_en": "Open the window!",
+  "ex_lb": "D'Kanner hu voller Freed hir Päck opgemaach.",
+  "ex_en": "The children opened their parcels full of joy.",
   "lodId": "OPMAACHEN1"
  },
  {
@@ -1649,8 +1653,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Maach d'Dier zou!",
-  "ex_en": "Close the door!",
+  "ex_lb": "Hëllefs de mer, d'Lueden zouzemaachen?",
+  "ex_en": "Will you help me close the shutters?",
   "lodId": "ZOUMAACHEN1"
  },
  {
@@ -1662,8 +1666,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Maach d'Luucht un!",
-  "ex_en": "Turn on the light!",
+  "ex_lb": "Dëst Joer hu mir schonn Enn August d'Heizung erëm ugemaach.",
+  "ex_en": "This year we already turned the heating back on at the end of August.",
   "lodId": "UMAACHEN1"
  },
  {
@@ -1675,8 +1679,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Maach d'Tëlee aus!",
-  "ex_en": "Turn off the TV!",
+  "ex_lb": "Maach deng Zigarett wannechgelift aus!",
+  "ex_en": "Put out your cigarette, please!",
   "lodId": "AUSMAACHEN1"
  },
  {
@@ -1688,8 +1692,8 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "Hiel d'Spillsaachen op!",
-  "ex_en": "Pick up the toys!",
+  "ex_lb": "Soll ech der de Film ophuelen?",
+  "ex_en": "Shall I record the film for you?",
   "lodId": "OPHUELEN1"
  },
  {
@@ -1701,8 +1705,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Leeg d'Buch op den Dësch!",
-  "ex_en": "Lay the book on the table!",
+  "ex_lb": "Et ass besser fir de Wäin, wann s de d'Fläsche lees.",
+  "ex_en": "It's better for the wine if you lay the bottles down.",
   "lodId": "LEEEN1"
  },
  {
@@ -1714,8 +1718,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Setz d'Taass op den Dësch!",
-  "ex_en": "Set the cup on the table!",
+  "ex_lb": "Setz den Auto an d'Garage, ier et reent!",
+  "ex_en": "Put the car in the garage before it rains!",
   "lodId": "SETZEN2"
  },
  {
@@ -1727,8 +1731,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Stell d'Fläsch an de Frigo!",
-  "ex_en": "Put the bottle in the fridge!",
+  "ex_lb": "Stell déi Leeder erëm duer, wou s de se geholl has!",
+  "ex_en": "Put that ladder back where you got it!",
   "lodId": "STELLEN1"
  },
  {
@@ -1740,8 +1744,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Ech sichen de Schlëssel.",
-  "ex_en": "I'm looking for the key.",
+  "ex_lb": "D'Police sicht de Mäerder.",
+  "ex_en": "The police are looking for the murderer.",
   "lodId": "SICHEN1"
  },
  {
@@ -1753,8 +1757,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Ech fanne meng Brëll net.",
-  "ex_en": "I can't find my glasses.",
+  "ex_lb": "Ech hunn am Bësch eng Auer fonnt.",
+  "ex_en": "I found a watch in the woods.",
   "lodId": "FANNEN1"
  },
  {
@@ -1766,8 +1770,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Ech droen eng Tut.",
-  "ex_en": "I carry a bag.",
+  "ex_lb": "De Papp dréit säi Bouf vill op de Schëlleren.",
+  "ex_en": "Dad often carries his son on his shoulders.",
   "lodId": "DROEN1"
  },
  {
@@ -1779,8 +1783,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Hal d'Glas fest!",
-  "ex_en": "Hold the glass tight!",
+  "ex_lb": "Ech schëdden, hal du den Triichter!",
+  "ex_en": "I'll pour, you hold the funnel!",
   "lodId": "HALEN1"
  },
  {
@@ -1792,8 +1796,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Ech schneiden d'Brout.",
-  "ex_en": "I cut the bread.",
+  "ex_lb": "Hues du dir d'Hoer selwer geschnidden?",
+  "ex_en": "Did you cut your hair yourself?",
   "lodId": "SCHNEIDEN1"
  },
  {
@@ -1805,8 +1809,8 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "Fëll d'Glas mat Waasser!",
-  "ex_en": "Fill the glass with water!",
+  "ex_lb": "De Bauer fëllt d'Gromperen a Säck.",
+  "ex_en": "The farmer fills sacks with potatoes.",
   "lodId": "FELLEN1"
  },
  {
@@ -1830,8 +1834,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Ech reparéieren d'Dier.",
-  "ex_en": "I repair the door.",
+  "ex_lb": "Deen accidentéierten Auto ass net méi ze reparéieren.",
+  "ex_en": "The crashed car can't be repaired any more.",
   "lodId": "REPAREIEREN1"
  },
  {
@@ -1843,8 +1847,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Mir molen d'Mauer.",
-  "ex_en": "We paint the wall.",
+  "ex_lb": "Komm, ech probéieren emol, dech ze molen!",
+  "ex_en": "Come on, let me try to draw you!",
   "lodId": "MOLEN1"
  },
  {
@@ -1856,8 +1860,8 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "Ech klamme op d'Leeder.",
-  "ex_en": "I climb the ladder.",
+  "ex_lb": "Hie klëmmt op d'Leeder, fir eng nei Bier anzedréien.",
+  "ex_en": "He climbs the ladder to screw in a new bulb.",
   "lodId": "KLAMMEN1"
  },
  {
@@ -1874,7 +1878,7 @@
   "lodId": "KLAPPEN1"
  },
  {
-  "lb": "kléngelen",
+  "lb": "schellen",
   "en": "to ring",
   "de": "klingeln",
   "fr": "sonner",
@@ -1882,8 +1886,9 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Et kléngelt un der Dier.",
-  "ex_en": "The doorbell is ringing."
+  "ex_lb": "Den Telefon schellt, kanns du ophiewen?",
+  "ex_en": "The phone's ringing, can you answer it?",
+  "lodId": "SCHELLEN1"
  },
  {
   "lb": "ausrouen",
@@ -1894,8 +1899,8 @@
   "gender": "",
   "level": "B1",
   "category": "routine",
-  "ex_lb": "Ech rou mech op dem Canapé aus.",
-  "ex_en": "I rest on the sofa.",
+  "ex_lb": "Nom Iesse gëtt sech ausgerout.",
+  "ex_en": "After the meal everyone rests.",
   "lodId": "AUSROUEN1"
  },
  {
@@ -1907,8 +1912,8 @@
   "gender": "",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Ech kafe samschdes an.",
-  "ex_en": "I shop on Saturdays.",
+  "ex_lb": "De Grosist huet seng Wueren zu engem gënschtege Präis akaaft.",
+  "ex_en": "The wholesaler bought his goods at a good price.",
   "lodId": "AKAFEN1"
  },
  {
@@ -1932,8 +1937,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Mir kucken Tëlee.",
-  "ex_en": "We watch TV.",
+  "ex_lb": "Kuck mech emol an d'Aen!",
+  "ex_en": "Look me in the eyes!",
   "lodId": "KUCKEN1"
  },
  {
@@ -1945,8 +1950,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Moies drénken ech Kaffi.",
-  "ex_en": "In the morning I drink coffee.",
+  "ex_lb": "Dës Verwaltung ass nëmme moies op.",
+  "ex_en": "This office is only open in the mornings.",
   "lodId": "MOIES1"
  },
  {
@@ -1958,8 +1963,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Owes liesen ech gär.",
-  "ex_en": "In the evening I like to read.",
+  "ex_lb": "Owes ginn d'Hénger an de Juck.",
+  "ex_en": "In the evening the hens go to roost.",
   "lodId": "OWES1"
  },
  {
@@ -1971,8 +1976,8 @@
   "gender": "",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Mëttes iesse mir doheem.",
-  "ex_en": "At noon we eat at home.",
+  "ex_lb": "Mir gi mëttes dacks an de Restaurant iessen.",
+  "ex_en": "At lunchtime we often go out to eat in a restaurant.",
   "lodId": "METTES1"
  },
  {
@@ -1984,8 +1989,8 @@
   "gender": "",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Nuets schlofen ech gutt.",
-  "ex_en": "At night I sleep well.",
+  "ex_lb": "Eisen Informatiker schafft nëmmen nuets.",
+  "ex_en": "Our IT specialist only works at night.",
   "lodId": "NUETS1"
  },
  {
@@ -2009,8 +2014,8 @@
   "gender": "m",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "De Moien ass kal.",
-  "ex_en": "The morning is cold.",
+  "ex_lb": "Mäi Papp mécht all Moien de Baart.",
+  "ex_en": "My dad shaves every morning.",
   "lodId": "MOIEN1"
  },
  {
@@ -2022,8 +2027,8 @@
   "gender": "m",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Den Owend ass roueg.",
-  "ex_en": "The evening is calm.",
+  "ex_lb": "Gees de muer den Owend mat an de Kino?",
+  "ex_en": "Are you coming to the cinema with us tomorrow evening?",
   "lodId": "OWEND1"
  },
  {
@@ -2035,8 +2040,8 @@
   "gender": "f",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Gutt Nuecht!",
-  "ex_en": "Good night!",
+  "ex_lb": "Ech konnt déi ganz Nuecht net schlofen.",
+  "ex_en": "I couldn't sleep all night.",
   "lodId": "NUECHT1"
  },
  {
@@ -2048,8 +2053,8 @@
   "gender": "m",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Um Mëtteg iesse mir.",
-  "ex_en": "At midday we eat.",
+  "ex_lb": "Et ass Mëtteg.",
+  "ex_en": "It's noon.",
   "lodId": "METTEG1"
  },
  {
@@ -2061,8 +2066,8 @@
   "gender": "m",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Ech drénke gär Kaffi.",
-  "ex_en": "I like to drink coffee.",
+  "ex_lb": "Bei eis wiisst kee Kaffi.",
+  "ex_en": "Coffee doesn't grow where we live.",
   "lodId": "KAFFI1"
  },
  {
@@ -2074,8 +2079,8 @@
   "gender": "m",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Den Téi ass nach waarm.",
-  "ex_en": "The tea is still warm.",
+  "ex_lb": "An eise Géigende wiisst keen Téi.",
+  "ex_en": "Tea doesn't grow where we live.",
   "lodId": "TEI1"
  },
  {
@@ -2087,8 +2092,8 @@
   "gender": "f",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "D'Mëllech ass am Frigo.",
-  "ex_en": "The milk is in the fridge.",
+  "ex_lb": "D'Mamm wiermt d'Mëllech fir de Bëbee.",
+  "ex_en": "Mum is warming the milk for the baby.",
   "lodId": "MELLECH1"
  },
  {
@@ -2100,8 +2105,8 @@
   "gender": "n",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Ech kafen e Brout.",
-  "ex_en": "I buy a loaf of bread.",
+  "ex_lb": "Ech hunn dat schwaarzt Brout am léifsten.",
+  "ex_en": "I like brown bread best.",
   "lodId": "BROUT1"
  },
  {
@@ -2113,8 +2118,8 @@
   "gender": "n",
   "level": "A1",
   "category": "kitchen",
-  "ex_lb": "Ech drénke vill Waasser.",
-  "ex_en": "I drink a lot of water.",
+  "ex_lb": "Dëse Stoft léisst kee Waasser duerch.",
+  "ex_en": "This fabric doesn't let water through.",
   "lodId": "WAASSER2"
  },
  {
@@ -2138,8 +2143,8 @@
   "gender": "n",
   "level": "A2",
   "category": "kitchen",
-  "ex_lb": "D'Zopp brauch méi Salz.",
-  "ex_en": "The soup needs more salt.",
+  "ex_lb": "Mir hu kee grafft Salz méi am Haus.",
+  "ex_en": "We have no coarse salt left in the house.",
   "lodId": "SALZ1"
  },
  {
@@ -2151,8 +2156,8 @@
   "gender": "",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "D'Kichen ass propper.",
-  "ex_en": "The kitchen is clean.",
+  "ex_lb": "Proppert Drénkwaasser ass fir de Mënsch liewensnoutwendeg.",
+  "ex_en": "Clean drinking water is vital for humans.",
   "lodId": "PROPPER1"
  },
  {
@@ -2164,8 +2169,8 @@
   "gender": "",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "Meng Hänn sinn dreckeg.",
-  "ex_en": "My hands are dirty.",
+  "ex_lb": "Gehei deng dreckeg Wäsch an d'Maandel!",
+  "ex_en": "Throw your dirty washing into the basket!",
   "lodId": "DRECKEG1"
  },
  {
@@ -2177,8 +2182,8 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Méiwel sinn nei.",
-  "ex_en": "The furniture is new.",
+  "ex_lb": "Ech hu mer an der Vakanz en neie Bikini kaaft.",
+  "ex_en": "I bought myself a new bikini on holiday.",
   "lodId": "NEI1"
  },
  {
@@ -2190,8 +2195,8 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Haus ass al.",
-  "ex_en": "The house is old.",
+  "ex_lb": "An dëser Famill sinn se all al ginn.",
+  "ex_en": "In this family they all lived to an old age.",
   "lodId": "AL1"
  },
  {
@@ -2203,8 +2208,8 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Zëmmer ass grouss.",
-  "ex_en": "The room is big.",
+  "ex_lb": "Eng grouss Famill brauch e grousst Haus.",
+  "ex_en": "A big family needs a big house.",
   "lodId": "GROUSS2"
  },
  {
@@ -2216,8 +2221,8 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Wunneng ass kleng.",
-  "ex_en": "The apartment is small.",
+  "ex_lb": "De klenge Wee féiert laanscht d'Baach bei d'Millen.",
+  "ex_en": "The little path runs along the stream to the mill.",
   "lodId": "KLENG1"
  },
  {
@@ -2229,8 +2234,8 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Zëmmer ass waarm.",
-  "ex_en": "The room is warm.",
+  "ex_lb": "Fir ze spullen, brauch ee waarmt Waasser.",
+  "ex_en": "You need hot water to do the washing-up.",
   "lodId": "WAARM1"
  },
  {
@@ -2242,8 +2247,8 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Waasser ass kal.",
-  "ex_en": "The water is cold.",
+  "ex_lb": "Haut bléist eng kal Loft.",
+  "ex_en": "A cold wind is blowing today.",
   "lodId": "KAL1"
  },
  {
@@ -2255,8 +2260,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "De Frigo ass voll.",
-  "ex_en": "The fridge is full.",
+  "ex_lb": "Déi Këschten, déi um Späicher stinn, si voll (mat) Bicher.",
+  "ex_en": "The boxes in the attic are full of books.",
   "lodId": "VOLL1"
  },
  {
@@ -2268,8 +2273,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Fläsch ass eidel.",
-  "ex_en": "The bottle is empty.",
+  "ex_lb": "Mat engem eidele Mo schafft et sech net gutt.",
+  "ex_en": "It's hard to work on an empty stomach.",
   "lodId": "EIDEL1"
  },
  {
@@ -2281,8 +2286,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Den Teppech ass naass.",
-  "ex_en": "The carpet is wet.",
+  "ex_lb": "Op deenen naasse Plättercher rëtscht ee gären aus.",
+  "ex_en": "You can easily slip on those wet tiles.",
   "lodId": "NAASS1"
  },
  {
@@ -2294,8 +2299,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Wäsch ass dréchen.",
-  "ex_en": "The laundry is dry.",
+  "ex_lb": "Pass op, d'Faarf ass nach net dréchen!",
+  "ex_en": "Careful, the paint isn't dry yet!",
   "lodId": "DRECHEN1"
  },
  {
@@ -2307,8 +2312,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Auer ass futti.",
-  "ex_en": "The clock is broken.",
+  "ex_lb": "Wat ass da futti un dengem Auto?",
+  "ex_en": "So what's broken on your car?",
   "lodId": "FUTTI1"
  },
  {
@@ -2320,8 +2325,8 @@
   "gender": "",
   "level": "B1",
   "category": "home",
-  "ex_lb": "D'Bett ass mëll.",
-  "ex_en": "The bed is soft.",
+  "ex_lb": "No dräi Deeg um Camping vermësst ee säi mëllt Bett!",
+  "ex_en": "After three days of camping you miss your soft bed!",
   "lodId": "MELL1"
  },
  {
@@ -2333,8 +2338,8 @@
   "gender": "",
   "level": "B1",
   "category": "home",
-  "ex_lb": "De Stull ass haart.",
-  "ex_en": "The chair is hard.",
+  "ex_lb": "D'Brout ass haart ewéi Steen!",
+  "ex_en": "The bread is as hard as stone!",
   "lodId": "HAART1"
  },
  {
@@ -2346,12 +2351,12 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Haus ass schéin.",
-  "ex_en": "The house is beautiful.",
+  "ex_lb": "Wat hues du schéin Zänn!",
+  "ex_en": "What beautiful teeth you have!",
   "lodId": "SCHEIN1"
  },
  {
-  "lb": "bequem",
+  "lb": "bequeem",
   "en": "comfortable",
   "de": "bequem",
   "fr": "confortable",
@@ -2359,8 +2364,9 @@
   "gender": "",
   "level": "B1",
   "category": "furniture",
-  "ex_lb": "De Fotell ass bequem.",
-  "ex_en": "The armchair is comfortable."
+  "ex_lb": "Dëse Bus huet bequeem Sëtzer.",
+  "ex_en": "This bus has comfortable seats.",
+  "lodId": "BEQUEEM1"
  },
  {
   "lb": "donkelblo",
@@ -2371,8 +2377,8 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "Meng Jackett ass donkelblo.",
-  "ex_en": "My jacket is dark blue.",
+  "ex_lb": "Dobausse steet eng donkelblo Camionnette mat gieler Schrëft.",
+  "ex_en": "There's a dark blue van with yellow lettering outside.",
   "lodId": "DONKELBLO1"
  },
  {
@@ -2384,8 +2390,8 @@
   "gender": "",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "D'Wand ass hellgréng.",
-  "ex_en": "The wall is light green.",
+  "ex_lb": "Fir mech jäizt deen hellgrénge Paltong bei där rosaer Box.",
+  "ex_en": "To me that light green coat clashes with those pink trousers.",
   "lodId": "HELLGRENG1"
  },
  {
@@ -2397,8 +2403,8 @@
   "gender": "f",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "D'Wäsch ass naass.",
-  "ex_en": "The laundry is wet.",
+  "ex_lb": "Fréier gouf d'Wäsch op der Hand ageseeft a geschruppt.",
+  "ex_en": "In the past laundry was soaped and scrubbed by hand.",
   "lodId": "WASCH1"
  },
  {
@@ -2410,8 +2416,8 @@
   "gender": "m",
   "level": "A2",
   "category": "household",
-  "ex_lb": "De Sak ass schwéier.",
-  "ex_en": "The bag is heavy.",
+  "ex_lb": "Verhief dech net un deem schwéiere Sak!",
+  "ex_en": "Don't strain yourself with that heavy sack!",
   "lodId": "SAK1"
  },
  {
@@ -2423,8 +2429,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Këscht ass schwéier.",
-  "ex_en": "The box is heavy.",
+  "ex_lb": "Ech hunn déi schwéier Laascht bal net gepackt.",
+  "ex_en": "I could barely manage the heavy load.",
   "lodId": "SCHWEIER1"
  },
  {
@@ -2436,8 +2442,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Tut ass liicht.",
-  "ex_en": "The bag is light.",
+  "ex_lb": "Ech hu liichte Kappwéi.",
+  "ex_en": "I have a slight headache.",
   "lodId": "LIICHT1"
  },
  {
@@ -2449,8 +2455,8 @@
   "gender": "f",
   "level": "B1",
   "category": "home",
-  "ex_lb": "D'Heizung ass un.",
-  "ex_en": "The heating is on.",
+  "ex_lb": "Gëschter ass bei eis um Büro d'Heizung ausgefall.",
+  "ex_en": "Yesterday the heating at our office broke down.",
   "lodId": "HEIZUNG1"
  },
  {
@@ -2462,8 +2468,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Dréck op de Knäppchen!",
-  "ex_en": "Press the button!",
+  "ex_lb": "Mir hunn den Auto missen drécken, fir en unzekréien.",
+  "ex_en": "We had to push the car to get it started.",
   "lodId": "DRECKEN1"
  },
  {
@@ -2475,8 +2481,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Zéi un der Dier!",
-  "ex_en": "Pull the door!",
+  "ex_lb": "Dee laangen Zuch gouf vun zwou Lokomotive gezunn.",
+  "ex_en": "The long train was pulled by two locomotives.",
   "lodId": "ZEIEN2"
  },
  {
@@ -2488,8 +2494,8 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "Stouss d'Dier op!",
-  "ex_en": "Push the door open!",
+  "ex_lb": "Hatt huet mech mam Ielebou an d'Säit gestouss.",
+  "ex_en": "She elbowed me in the side.",
   "lodId": "STOUSSEN1"
  },
  {
@@ -2501,8 +2507,8 @@
   "gender": "f",
   "level": "A2",
   "category": "rooms",
-  "ex_lb": "D'Dusch ass kapott.",
-  "ex_en": "The shower is broken.",
+  "ex_lb": "Ech ginn all Moien an d'Dusch.",
+  "ex_en": "I take a shower every morning.",
   "lodId": "DUSCH1"
  },
  {
@@ -2514,8 +2520,8 @@
   "gender": "f",
   "level": "A1",
   "category": "rooms",
-  "ex_lb": "Wou ass d'Toilette?",
-  "ex_en": "Where is the toilet?",
+  "ex_lb": "Ier mer fueren, muss ech nach séier op d'Toilette.",
+  "ex_en": "Before we leave I need to pop to the toilet.",
   "lodId": "TOILETTE1"
  },
  {
@@ -2527,8 +2533,8 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "Wou ass meng Brëll?",
-  "ex_en": "Where are my glasses?",
+  "ex_lb": "Meng Fra krut hire Brëll beim Optiker gefléckt.",
+  "ex_en": "My wife had her glasses repaired at the optician's.",
   "lodId": "BRELL1"
  },
  {
@@ -2540,8 +2546,8 @@
   "gender": "n",
   "level": "A1",
   "category": "furniture",
-  "ex_lb": "D'Bild hänkt un der Wand.",
-  "ex_en": "The picture hangs on the wall.",
+  "ex_lb": "Ech muss dat neit Bild nach arumme loossen.",
+  "ex_en": "I still have to get the new picture framed.",
   "lodId": "BILD1"
  },
  {
@@ -2553,8 +2559,8 @@
   "gender": "f",
   "level": "A1",
   "category": "household",
-  "ex_lb": "D'Blumm ass rout.",
-  "ex_en": "The flower is red.",
+  "ex_lb": "D'Kanner hunn eng wonnerschéi Blumm am Park gesinn.",
+  "ex_en": "The children saw a wonderful flower in the park.",
   "lodId": "BLUMM1"
  },
  {
@@ -2566,8 +2572,8 @@
   "gender": "f",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Hei ass keng Plaz.",
-  "ex_en": "There is no space here.",
+  "ex_lb": "An der Mëtt vun der Plaz steet e Sprangbuer.",
+  "ex_en": "There's a fountain in the middle of the square.",
   "lodId": "PLAZ1"
  },
  {
@@ -2579,8 +2585,8 @@
   "gender": "f",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Lamp steet an der Eck.",
-  "ex_en": "The lamp is in the corner.",
+  "ex_lb": "D'Kand huet sech de Kapp um Eck vum Dësch gestouss.",
+  "ex_en": "The child bumped its head on the corner of the table.",
   "lodId": "ECK1"
  },
  {
@@ -2592,8 +2598,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Schlofzëmmer ass uewen.",
-  "ex_en": "The bedroom is upstairs.",
+  "ex_lb": "Hei ënnen ass et méi kal ewéi do uewen.",
+  "ex_en": "Down here it's colder than up there.",
   "lodId": "UEWEN1"
  },
  {
@@ -2605,8 +2611,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Kichen ass ënnen.",
-  "ex_en": "The kitchen is downstairs.",
+  "ex_lb": "Ech waarden ënnen am Gank op dech.",
+  "ex_en": "I'll wait for you downstairs in the hall.",
   "lodId": "ENNEN1"
  },
  {
@@ -2618,8 +2624,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Kanner spillen dobaussen.",
-  "ex_en": "The children play outside.",
+  "ex_lb": "Do dech waarm un, et ass äiskal dobaussen!",
+  "ex_en": "Dress warmly, it's freezing outside!",
   "lodId": "DOBAUSSEN1"
  },
  {
@@ -2631,8 +2637,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Et reent, mir bleiwen dobannen.",
-  "ex_en": "It's raining, we stay inside.",
+  "ex_lb": "De Papp ass dobannen.",
+  "ex_en": "Dad is inside.",
   "lodId": "DOBANNEN1"
  },
  {
@@ -2644,8 +2650,8 @@
   "gender": "",
   "level": "A1",
   "category": "home",
-  "ex_lb": "Ech sinn haut doheem.",
-  "ex_en": "I am at home today.",
+  "ex_lb": "Ech waarden doheem op dech.",
+  "ex_en": "I'll wait for you at home.",
   "lodId": "DOHEEM2"
  },
  {
@@ -2657,12 +2663,12 @@
   "gender": "m",
   "level": "B2",
   "category": "cleaning",
-  "ex_lb": "Ech brauch e Botzmëttel.",
-  "ex_en": "I need a cleaning agent.",
+  "ex_lb": "Ech hunn d'Fangere réi vun de Botzmëttelen.",
+  "ex_en": "My hands are rough from the cleaning products.",
   "lodId": "BOTZMETTEL1"
  },
  {
-  "lb": "d'Tasch",
+  "lb": "d'Täsch",
   "en": "the pocket/bag",
   "de": "die Tasche",
   "fr": "la poche",
@@ -2670,8 +2676,9 @@
   "gender": "f",
   "level": "A2",
   "category": "clothes",
-  "ex_lb": "De Schlëssel ass an der Tasch.",
-  "ex_en": "The key is in the pocket."
+  "ex_lb": "Ech kafe meeschtens Hiemer mat enger Täsch.",
+  "ex_en": "I usually buy shirts with a pocket.",
+  "lodId": "TASCH1"
  },
  {
   "lb": "undoen",
@@ -2682,8 +2689,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Do de Mantel un!",
-  "ex_en": "Put on the coat!",
+  "ex_lb": "Am Summer dinn ech praktesch nëmme kuerz Boxen un.",
+  "ex_en": "In summer I wear practically nothing but shorts.",
   "lodId": "UNDOEN1"
  },
  {
@@ -2695,8 +2702,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Do d'Schong aus!",
-  "ex_en": "Take off the shoes!",
+  "ex_lb": "Ditt är knaschteg Schong aus, wannechgelift!",
+  "ex_en": "Take off your dirty shoes, please!",
   "lodId": "AUSDOEN1"
  },
  {
@@ -2708,8 +2715,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "D'Box passt mir gutt.",
-  "ex_en": "The trousers fit me well.",
+  "ex_lb": "Dës Schong passe mer net, se sinn eng Nummer ze kleng.",
+  "ex_en": "These shoes don't fit me, they're one size too small.",
   "lodId": "PASSEN2"
  },
  {
@@ -2721,8 +2728,8 @@
   "gender": "",
   "level": "B1",
   "category": "clothes",
-  "ex_lb": "D'Jackett ass ze enk.",
-  "ex_en": "The jacket is too tight.",
+  "ex_lb": "Eist neit Appartement ass e bëssen enk.",
+  "ex_en": "Our new flat is a bit cramped.",
   "lodId": "ENK1"
  },
  {
@@ -2734,9 +2741,9 @@
   "gender": "",
   "level": "B1",
   "category": "clothes",
-  "ex_lb": "D'Box ass ze wäit.",
-  "ex_en": "The trousers are too loose.",
-  "lodId": "WAIT1"
+  "ex_lb": "Ech hu mer erlaabt eranzekommen, d'Hausdier stoung wäit op.",
+  "ex_en": "I took the liberty of coming in, the front door was wide open.",
+  "lodId": "WAIT2"
  },
  {
   "lb": "laang",
@@ -2747,8 +2754,8 @@
   "gender": "",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "De Rack ass laang.",
-  "ex_en": "The skirt is long.",
+  "ex_lb": "Meng Frëndin huet d'Hoer nees laang.",
+  "ex_en": "My girlfriend has long hair again.",
   "lodId": "LAANG1"
  },
  {
@@ -2760,8 +2767,8 @@
   "gender": "",
   "level": "A1",
   "category": "clothes",
-  "ex_lb": "D'Hoer sinn kuerz.",
-  "ex_en": "The hair is short.",
+  "ex_lb": "Déi Box ass mir ze kuerz.",
+  "ex_en": "These trousers are too short for me.",
   "lodId": "KUERZ1"
  },
  {
@@ -2773,8 +2780,8 @@
   "gender": "n",
   "level": "B1",
   "category": "household",
-  "ex_lb": "Ech wiesselen d'Bettzeie.",
-  "ex_en": "I change the bed linen."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "wiesselen",
@@ -2785,12 +2792,12 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Ech wiessele d'Bettzeie.",
-  "ex_en": "I change the bed linen.",
+  "ex_lb": "Looss mer emol d'Theema wiesselen.",
+  "ex_en": "Let's change the subject.",
   "lodId": "WIESSELEN1"
  },
  {
-  "lb": "d'Geschir",
+  "lb": "d'Geschier",
   "en": "the crockery/dishes",
   "de": "das Geschirr",
   "fr": "la vaisselle",
@@ -2798,23 +2805,25 @@
   "gender": "n",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "D'Geschir ass propper.",
-  "ex_en": "The dishes are clean."
+  "ex_lb": "Ech hunn d'Geschier, dat net gebraucht gëtt, zeréck an de Buffet gestallt.",
+  "ex_en": "I put the crockery we don't need back in the sideboard.",
+  "lodId": "GESCHIER1"
  },
  {
-  "lb": "d'Klopapéier",
+  "lb": "den Toilettëpabeier",
   "en": "the toilet paper",
   "de": "das Klopapier",
   "fr": "le papier toilette",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "household",
-  "ex_lb": "D'Klopapéier ass eidel.",
-  "ex_en": "The toilet paper is empty."
+  "ex_lb": "D'Kanner hunn eng ganz Rull Toilettëpabeier verbëtzt.",
+  "ex_en": "The children wasted a whole roll of toilet paper.",
+  "lodId": "TOILETTEPABEIER1"
  },
  {
-  "lb": "de Schampo",
+  "lb": "de Shampoing",
   "en": "the shampoo",
   "de": "das Shampoo",
   "fr": "le shampooing",
@@ -2822,8 +2831,9 @@
   "gender": "m",
   "level": "A2",
   "category": "household",
-  "ex_lb": "De Schampo richt gutt.",
-  "ex_en": "The shampoo smells good."
+  "ex_lb": "Dee Shampoing kritt ee just an der Apdikt ze kafen.",
+  "ex_en": "You can only buy that shampoo at the pharmacy.",
+  "lodId": "SHAMPOING1"
  },
  {
   "lb": "d'Iesszëmmer",
@@ -2834,8 +2844,8 @@
   "gender": "n",
   "level": "A2",
   "category": "rooms",
-  "ex_lb": "Mir iessen am Iesszëmmer.",
-  "ex_en": "We eat in the dining room.",
+  "ex_lb": "Meng Eltere kafe sech gär en neien Dësch fir an d'Iesszëmmer.",
+  "ex_en": "My parents would like to buy a new table for the dining room.",
   "lodId": "IESSZEMMER1"
  },
  {
@@ -2860,8 +2870,8 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "Ech schreiwen eng Akafslëscht.",
-  "ex_en": "I write a shopping list.",
+  "ex_lb": "Maach emol eng Lëscht mat deene Saachen, déi mer fir d'Vakanz brauchen!",
+  "ex_en": "Make a list of the things we need for the holiday!",
   "lodId": "LESCHT1"
  },
  {
@@ -2873,8 +2883,8 @@
   "gender": "f",
   "level": "B1",
   "category": "routine",
-  "ex_lb": "D'Akafslëscht ass laang.",
-  "ex_en": "The shopping list is long.",
+  "ex_lb": "Ech hat meng Akafslëscht doheem leie gelooss, hoffentlech hunn ech näischt vergiess!",
+  "ex_en": "I left my shopping list at home, I hope I haven't forgotten anything!",
   "lodId": "AKAFSLESCHT1"
  },
  {
@@ -2886,21 +2896,9 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "Schléiss d'Dier of!",
-  "ex_en": "Lock the door!",
+  "ex_lb": "Hien huet seng Studien net ofgeschloss.",
+  "ex_en": "He didn't finish his studies.",
   "lodId": "OFSCHLEISSEN1"
- },
- {
-  "lb": "opschléissen",
-  "en": "to unlock",
-  "de": "aufschließen",
-  "fr": "déverrouiller",
-  "pos": "verb",
-  "gender": "",
-  "level": "B1",
-  "category": "actions",
-  "ex_lb": "Ech schléissen d'Haus op.",
-  "ex_en": "I unlock the house."
  },
  {
   "lb": "d'Maschinn",
@@ -2911,8 +2909,8 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "D'Maschinn leeft.",
-  "ex_en": "The machine is running.",
+  "ex_lb": "Si hunn déi zwou al Maschinnen ersat.",
+  "ex_en": "They replaced the two old machines.",
   "lodId": "MASCHINN1"
  },
  {
@@ -2924,8 +2922,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "D'Wäschmaschinn leeft.",
-  "ex_en": "The washing machine is running.",
+  "ex_lb": "Du kanns méi séier lafen ewéi ech.",
+  "ex_en": "You can run faster than me.",
   "lodId": "LAFEN1"
  },
  {
@@ -2937,8 +2935,8 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "D'Tëlee funktionéiert net.",
-  "ex_en": "The TV doesn't work.",
+  "ex_lb": "Mäi Fotoapparat huet bis elo ëmmer tipptopp funktionéiert.",
+  "ex_en": "My camera has always worked perfectly so far.",
   "lodId": "FUNKTIONEIEREN1"
  },
  {
@@ -2950,8 +2948,8 @@
   "gender": "n",
   "level": "A1",
   "category": "household",
-  "ex_lb": "Meng Hoer sinn naass.",
-  "ex_en": "My hair is wet.",
+  "ex_lb": "Wat huet si schéi gro Hoer!",
+  "ex_en": "What beautiful grey hair she has!",
   "lodId": "HOER1"
  },
  {
@@ -2963,12 +2961,12 @@
   "gender": "m",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "De Wecker kléngelt um sechs.",
-  "ex_en": "The alarm rings at six.",
+  "ex_lb": "De Moien hunn ech de Wecker net héieren.",
+  "ex_en": "This morning I didn't hear the alarm clock.",
   "lodId": "WECKER1"
  },
  {
-  "lb": "opwächen",
+  "lb": "erwächen",
   "en": "to wake up",
   "de": "aufwachen",
   "fr": "se réveiller",
@@ -2976,8 +2974,9 @@
   "gender": "",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Ech wächen fréi op.",
-  "ex_en": "I wake up early."
+  "ex_lb": "Ech sinn hënt zweemol erwächt.",
+  "ex_en": "I woke up twice last night.",
+  "lodId": "ERWACHEN1"
  },
  {
   "lb": "an d'Bett goen",
@@ -3000,8 +2999,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Ech stinn fréi op.",
-  "ex_en": "I get up early.",
+  "ex_lb": "Muer musse mer fréi opstoen!",
+  "ex_en": "We have to get up early tomorrow!",
   "lodId": "FREI1"
  },
  {
@@ -3013,8 +3012,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Et ass schonn spéit.",
-  "ex_en": "It is already late.",
+  "ex_lb": "Komm, mir ginn heem, et ass scho spéit!",
+  "ex_en": "Come on, let's go home, it's late already!",
   "lodId": "SPEIT1"
  },
  {
@@ -3026,9 +3025,9 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Maach séier!",
-  "ex_en": "Hurry up!",
-  "lodId": "SEIER2"
+  "ex_lb": "Ech hat nach ëmmer e Faibel fir séier Autoen.",
+  "ex_en": "I've always had a soft spot for fast cars.",
+  "lodId": "SEIER1"
  },
  {
   "lb": "lues",
@@ -3039,8 +3038,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Fuer lues!",
-  "ex_en": "Drive slowly!",
+  "ex_lb": "Am Wartesall ass eng lues Musek gelaf.",
+  "ex_en": "Slow music was playing in the waiting room.",
   "lodId": "LUES1"
  },
  {
@@ -3052,8 +3051,8 @@
   "gender": "n",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "D'Mëttegiessen ass fäerdeg.",
-  "ex_en": "Lunch is ready.",
+  "ex_lb": "Hien huet säi Mëttegiesse stoe gelooss.",
+  "ex_en": "He left his lunch untouched.",
   "lodId": "METTEGIESSEN1"
  },
  {
@@ -3065,8 +3064,8 @@
   "gender": "n",
   "level": "A2",
   "category": "routine",
-  "ex_lb": "Mir kachen d'Owesiessen.",
-  "ex_en": "We cook dinner.",
+  "ex_lb": "Nom Owesiesse kucken ech gären d'Tëlee.",
+  "ex_en": "After dinner I like watching TV.",
   "lodId": "OWESIESSEN1"
  },
  {
@@ -3090,8 +3089,8 @@
   "gender": "",
   "level": "B1",
   "category": "actions",
-  "ex_lb": "Ech decken den Dësch of.",
-  "ex_en": "I clear the table.",
+  "ex_lb": "Hëllef mer, den Dësch ofdecken!",
+  "ex_en": "Help me clear the table!",
   "lodId": "OFDECKEN1"
  },
  {
@@ -3103,8 +3102,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Ech decken den Dësch.",
-  "ex_en": "I set the table.",
+  "ex_lb": "Den Daach vum Haus muss nach virum Wanter nei gedeckt ginn.",
+  "ex_en": "The roof of the house has to be re-covered before winter.",
   "lodId": "DECKEN2"
  },
  {
@@ -3116,8 +3115,8 @@
   "gender": "",
   "level": "B1",
   "category": "cleaning",
-  "ex_lb": "Ech wëschen de Buedem.",
-  "ex_en": "I mop the floor.",
+  "ex_lb": "Wësch mat enger fiichter Lomp iwwer den Dësch, en ass ganz knaschteg!",
+  "ex_en": "Wipe the table with a damp cloth, it's very dirty!",
   "lodId": "WESCHEN2"
  },
  {
@@ -3129,8 +3128,8 @@
   "gender": "m",
   "level": "B1",
   "category": "cleaning",
-  "ex_lb": "Et läit Stëbs um Schaf.",
-  "ex_en": "There is dust on the cupboard.",
+  "ex_lb": "Ech sinn allergesch op Stëbs.",
+  "ex_en": "I'm allergic to dust.",
   "lodId": "STEBS1"
  },
  {
@@ -3142,8 +3141,8 @@
   "gender": "m",
   "level": "A1",
   "category": "household",
-  "ex_lb": "Ech schreiwen um Pabeier.",
-  "ex_en": "I write on the paper.",
+  "ex_lb": "Wat brauch een, fir Pabeier ze produzéieren?",
+  "ex_en": "What do you need to make paper?",
   "lodId": "PABEIER1"
  },
  {
@@ -3155,8 +3154,8 @@
   "gender": "n",
   "level": "A1",
   "category": "household",
-  "ex_lb": "Ech liesen e gutt Buch.",
-  "ex_en": "I'm reading a good book.",
+  "ex_lb": "Dat Buch huet bal 500 Säiten.",
+  "ex_en": "That book has almost 500 pages.",
   "lodId": "BUCH1"
  },
  {
@@ -3168,8 +3167,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Owes liesen ech gär.",
-  "ex_en": "In the evening I like to read.",
+  "ex_lb": "Ech liese grad e spannend Buch.",
+  "ex_en": "I'm reading an exciting book right now.",
   "lodId": "LIESEN1"
  },
  {
@@ -3181,8 +3180,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Ech schreiwen e Bréif.",
-  "ex_en": "I write a letter.",
+  "ex_lb": "Schreift ären Numm op d'Prüfungsblat!",
+  "ex_en": "Write your name on the exam paper!",
   "lodId": "SCHREIWEN1"
  },
  {
@@ -3194,8 +3193,8 @@
   "gender": "m",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Mäin Noper ass nett.",
-  "ex_en": "My neighbour is nice.",
+  "ex_lb": "Dee Schüler huet bei sengem Noper ofgeschriwwen.",
+  "ex_en": "That pupil copied from his neighbour.",
   "lodId": "NOPER1"
  },
  {
@@ -3207,8 +3206,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "Wat ass deng Adress?",
-  "ex_en": "What is your address?",
+  "ex_lb": "Hues de d'Adress op d'Enveloppe geschriwwen?",
+  "ex_en": "Did you write the address on the envelope?",
   "lodId": "ADRESS1"
  },
  {
@@ -3220,8 +3219,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "Ech wunnen an dëser Strooss.",
-  "ex_en": "I live in this street.",
+  "ex_lb": "D'Strooss ass wéinst Aarbechte gespaart.",
+  "ex_en": "The street is closed because of roadworks.",
   "lodId": "STROOSS1"
  },
  {
@@ -3233,8 +3232,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Haus huet d'Nummer fënnef.",
-  "ex_en": "The house has number five.",
+  "ex_lb": "Mir wunnen an der Haaptstrooss op Nummer 100.",
+  "ex_en": "We live on the main street at number 100.",
   "lodId": "NUMMER1"
  },
  {
@@ -3246,8 +3245,8 @@
   "gender": "f",
   "level": "B1",
   "category": "home",
-  "ex_lb": "D'Post ass an der Bréifkëscht.",
-  "ex_en": "The mail is in the mailbox.",
+  "ex_lb": "Ech hunn d'Bréiwer bei der Post an d'Bréifkëscht gehäit.",
+  "ex_en": "I put the letters in the postbox at the post office.",
   "lodId": "BREIFKESCHT1"
  },
  {
@@ -3259,8 +3258,8 @@
   "gender": "",
   "level": "B1",
   "category": "home",
-  "ex_lb": "D'Wunnzëmmer ass gemittlech.",
-  "ex_en": "The living room is cozy.",
+  "ex_lb": "Hien ass e gemittleche Kärel.",
+  "ex_en": "He's an easy-going guy.",
   "lodId": "GEMITTLECH1"
  },
  {
@@ -3272,8 +3271,8 @@
   "gender": "",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Strooss ass roueg.",
-  "ex_en": "The street is quiet.",
+  "ex_lb": "Mäin Neveu ass e ganz rouege Bouf.",
+  "ex_en": "My nephew is a very quiet boy.",
   "lodId": "ROUEG1"
  },
  {
@@ -3285,20 +3284,8 @@
   "gender": "",
   "level": "B1",
   "category": "cleaning",
-  "ex_lb": "Mäi Zëmmer ass opgeraumt.",
-  "ex_en": "My room is tidy."
- },
- {
-  "lb": "onordentlech",
-  "en": "messy",
-  "de": "unordentlich",
-  "fr": "en désordre",
-  "pos": "adjective",
-  "gender": "",
-  "level": "B1",
-  "category": "cleaning",
-  "ex_lb": "D'Kichen ass onordentlech.",
-  "ex_en": "The kitchen is messy."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'Faarf",
@@ -3309,8 +3296,8 @@
   "gender": "f",
   "level": "A2",
   "category": "colors",
-  "ex_lb": "Wéi eng Faarf gefält der?",
-  "ex_en": "Which color do you like?",
+  "ex_lb": "Dës Faarf deckt gutt.",
+  "ex_en": "This paint covers well.",
   "lodId": "FAARF1"
  },
  {
@@ -3322,8 +3309,8 @@
   "gender": "n",
   "level": "A2",
   "category": "home",
-  "ex_lb": "D'Feier ass waarm.",
-  "ex_en": "The fire is warm.",
+  "ex_lb": "Nom Accident huet eisen Auto Feier gefaangen an ass komplett ausgebrannt.",
+  "ex_en": "After the accident our car caught fire and burned out completely.",
   "lodId": "FEIER1"
  },
  {
@@ -3335,8 +3322,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Komm eran!",
-  "ex_en": "Come in!",
+  "ex_lb": "Kommt séier eran, ier der zoppnaass sidd!",
+  "ex_en": "Come in quickly before you're soaked!",
   "lodId": "ERAKOMMEN1"
  },
  {
@@ -3348,8 +3335,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Ech gi kuerz eraus.",
-  "ex_en": "I'm going out briefly.",
+  "ex_lb": "Wann et der an der Sauna ze waarm gëtt, muss de erausgoen!",
+  "ex_en": "If it gets too hot for you in the sauna, you have to go out!",
   "lodId": "ERAUSGOEN1"
  },
  {
@@ -3361,8 +3348,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Ech bleiwen doheem.",
-  "ex_en": "I stay at home.",
+  "ex_lb": "De Papp kënnt net heem iessen, e bleift léiwer an der Stad.",
+  "ex_en": "Dad won't come home for lunch, he'd rather stay in town.",
   "lodId": "BLEIWEN1"
  },
  {
@@ -3387,8 +3374,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "De Schaf steet do.",
-  "ex_en": "The cupboard stands there.",
+  "ex_lb": "Nom Bombardement stoung nach just de Kierchtuerm.",
+  "ex_en": "After the bombing only the church tower was still standing.",
   "lodId": "STOEN1"
  },
  {
@@ -3413,8 +3400,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "D'Bild hänkt un der Wand.",
-  "ex_en": "The picture hangs on the wall.",
+  "ex_lb": "Hänk d'Wäsch an de Gaart, dann dréchent se besser!",
+  "ex_en": "Hang the washing in the garden, it will dry better there!",
   "lodId": "HANKEN1"
  },
  {
@@ -3426,8 +3413,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Dëst Buch gehéiert mir.",
-  "ex_en": "This book belongs to me.",
+  "ex_lb": "Wiem gehéiert dës Jackett?",
+  "ex_en": "Whose jacket is this?",
   "lodId": "GEHEIEREN1"
  },
  {
@@ -3439,8 +3426,8 @@
   "gender": "",
   "level": "A1",
   "category": "actions",
-  "ex_lb": "Ech brauch eng Tut.",
-  "ex_en": "I need a bag.",
+  "ex_lb": "Hien huet vu Klengem un e Brëll gebraucht fir ze liesen.",
+  "ex_en": "He has needed glasses for reading since he was little.",
   "lodId": "BRAUCHEN1"
  },
  {
@@ -3452,8 +3439,8 @@
   "gender": "f",
   "level": "A1",
   "category": "home",
-  "ex_lb": "D'Sonn schéngt an d'Fënster.",
-  "ex_en": "The sun shines into the window.",
+  "ex_lb": "Wéi vill Sonne gëtt et an eisem Universum?",
+  "ex_en": "How many suns are there in our universe?",
   "lodId": "SONN1"
  },
  {
@@ -3465,8 +3452,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Ech kafen e neie Schaf.",
-  "ex_en": "I buy a new cupboard.",
+  "ex_lb": "Ech kafe mir elo eng gutt Mettwurscht!",
+  "ex_en": "I'm going to buy myself a good Mettwurst now!",
   "lodId": "KAFEN1"
  },
  {
@@ -3478,8 +3465,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Mir verkafen den ale Canapé.",
-  "ex_en": "We sell the old sofa.",
+  "ex_lb": "Op den Tankstelle verkafen se och Blummen.",
+  "ex_en": "They sell flowers at petrol stations too.",
   "lodId": "VERKAFEN1"
  },
  {
@@ -3491,8 +3478,8 @@
   "gender": "",
   "level": "A1",
   "category": "routine",
-  "ex_lb": "Ech bezuelen de Loyer.",
-  "ex_en": "I pay the rent.",
+  "ex_lb": "De Client huet d'Wuer boer bezuelt.",
+  "ex_en": "The customer paid for the goods in cash.",
   "lodId": "BEZUELEN1"
  },
  {
@@ -3504,8 +3491,8 @@
   "gender": "",
   "level": "A2",
   "category": "actions",
-  "ex_lb": "Ech hu mäi Schlëssel verluer.",
-  "ex_en": "I lost my key.",
+  "ex_lb": "Ech fäerten, ech hu mäin Ouerrank am Bësch verluer.",
+  "ex_en": "I'm afraid I lost my earring in the woods.",
   "lodId": "VERLEIEREN1"
  },
  {
@@ -3517,8 +3504,8 @@
   "gender": "n",
   "level": "A2",
   "category": "household",
-  "ex_lb": "D'Spillsaachen sinn um Buedem.",
-  "ex_en": "The toys are on the floor."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "de Schrauwenzéier",
@@ -3529,8 +3516,8 @@
   "gender": "m",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "Gëff mir de Schrauwenzéier!",
-  "ex_en": "Give me the screwdriver!",
+  "ex_lb": "Mat deem falsche Schrauwenzéier vermurks de de Kapp vun de Schrauwen.",
+  "ex_en": "With the wrong screwdriver you'll ruin the screw heads.",
   "lodId": "SCHRAUWENZEIER1"
  },
  {
@@ -3542,8 +3529,8 @@
   "gender": "f",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "Ech klamme op d'Leeder.",
-  "ex_en": "I climb up the ladder.",
+  "ex_lb": "Mäi Brudder ass vun der Leeder gefall, wéi en op de Bam wollt klammen.",
+  "ex_en": "My brother fell off the ladder when he tried to climb up the tree.",
   "lodId": "LEEDER1"
  },
  {
@@ -3555,12 +3542,12 @@
   "gender": "f",
   "level": "B1",
   "category": "tools",
-  "ex_lb": "D'Schrauf ass lass.",
-  "ex_en": "The screw is loose.",
+  "ex_lb": "Zéi d'Schrauf mat engem Tournevis un!",
+  "ex_en": "Tighten the screw with a screwdriver!",
   "lodId": "SCHRAUF1"
  },
  {
-  "lb": "d'Kommoud",
+  "lb": "d'Komoud",
   "en": "the chest of drawers",
   "de": "die Kommode",
   "fr": "la commode",
@@ -3568,11 +3555,12 @@
   "gender": "f",
   "level": "B1",
   "category": "furniture",
-  "ex_lb": "D'Socke leien an der Kommoud.",
-  "ex_en": "The socks are in the chest of drawers."
+  "ex_lb": "Deng Schlëssele leien am Gank op der Komoud.",
+  "ex_en": "Your keys are on the chest of drawers in the hall.",
+  "lodId": "KOMOUD1"
  },
  {
-  "lb": "d'Matratz",
+  "lb": "d'Matrass",
   "en": "the mattress",
   "de": "die Matratze",
   "fr": "le matelas",
@@ -3580,8 +3568,9 @@
   "gender": "f",
   "level": "B1",
   "category": "furniture",
-  "ex_lb": "D'Matratz ass haart.",
-  "ex_en": "The mattress is hard."
+  "ex_lb": "Ech wëll mer méi eng haart Matrass kafen.",
+  "ex_en": "I want to buy myself a harder mattress.",
+  "lodId": "MATRASS1"
  },
  {
   "lb": "de Bréif",
@@ -3592,8 +3581,8 @@
   "gender": "m",
   "level": "A2",
   "category": "household",
-  "ex_lb": "Ech schreiwen e Bréif.",
-  "ex_en": "I write a letter.",
+  "ex_lb": "Ech hu vergiess, en Timber op de Bréif ze pechen.",
+  "ex_en": "I forgot to stick a stamp on the letter.",
   "lodId": "BREIF1"
  },
  {
@@ -3605,8 +3594,8 @@
   "gender": "n",
   "level": "A2",
   "category": "home",
-  "ex_lb": "Den Dësch ass aus Holz.",
-  "ex_en": "The table is made of wood.",
+  "ex_lb": "Ech hunn de ganze Mëtteg Holz gehaen.",
+  "ex_en": "I spent the whole afternoon chopping wood.",
   "lodId": "HOLZ1"
  },
  {
@@ -3618,8 +3607,8 @@
   "gender": "m",
   "level": "B1",
   "category": "home",
-  "ex_lb": "D'Schossel ass aus Plastik.",
-  "ex_en": "The bowl is made of plastic.",
+  "ex_lb": "Villes, wat fréier aus Glas war, ass haut aus Plastik.",
+  "ex_en": "Much of what used to be made of glass is made of plastic today.",
   "lodId": "PLASTIK1"
  },
  {
@@ -3631,21 +3620,22 @@
   "gender": "m",
   "level": "A2",
   "category": "furniture",
-  "ex_lb": "Ech schaffen um Schreifdësch.",
-  "ex_en": "I work at the desk.",
+  "ex_lb": "Ech versuerge meng Bréiwer an engem Tirang vu mengem Schreifdësch.",
+  "ex_en": "I keep my letters in a drawer of my desk.",
   "lodId": "SCHREIFDESCH1"
  },
  {
-  "lb": "de Mikrowellenuewen",
+  "lb": "d'Mikrowell",
   "en": "the microwave",
   "de": "die Mikrowelle",
   "fr": "le micro-ondes",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "kitchen",
-  "ex_lb": "Ech wiermen d'Iessen am Mikrowellenuewen.",
-  "ex_en": "I heat the food in the microwave."
+  "ex_lb": "Mikrowelle kënne schiedlech sinn.",
+  "ex_en": "Microwaves can be harmful.",
+  "lodId": "MIKROWELL1"
  },
  {
   "lb": "d'Wäschmëttel",
@@ -3656,21 +3646,22 @@
   "gender": "n",
   "level": "B1",
   "category": "cleaning",
-  "ex_lb": "D'Wäschmëttel ass eidel.",
-  "ex_en": "The detergent is empty.",
+  "ex_lb": "Fir meng däischter Kleeder benotzen ech e flëssegt Wäschmëttel.",
+  "ex_en": "For my dark clothes I use a liquid detergent.",
   "lodId": "WASCHMETTEL1"
  },
  {
-  "lb": "de Müll",
+  "lb": "d'Gedrecks",
   "en": "the rubbish",
   "de": "der Müll",
   "fr": "les déchets",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A2",
   "category": "cleaning",
-  "ex_lb": "Ech bréngen de Müll eraus.",
-  "ex_en": "I take out the rubbish."
+  "ex_lb": "Ech hunn dat ganzt Gedrecks am Gaart verbrannt.",
+  "ex_en": "I burned all the rubbish in the garden.",
+  "lodId": "GEDRECKS2"
  },
  {
   "lb": "d'Vas",
@@ -3681,12 +3672,12 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "D'Blummen sinn an der Vas.",
-  "ex_en": "The flowers are in the vase.",
+  "ex_lb": "Ech fanne keng passend Vas fir deen décke Bouquet.",
+  "ex_en": "I can't find a suitable vase for that big bouquet.",
   "lodId": "VAS1"
  },
  {
-  "lb": "d'Kerz",
+  "lb": "d'Käerz",
   "en": "the candle",
   "de": "die Kerze",
   "fr": "la bougie",
@@ -3694,7 +3685,8 @@
   "gender": "f",
   "level": "A2",
   "category": "household",
-  "ex_lb": "D'Kerz brennt.",
-  "ex_en": "The candle is burning."
+  "ex_lb": "D'Gebuertsdagskand huet d'Käerzen um Kuch all mat engem Coup ausgeblosen.",
+  "ex_en": "The birthday child blew out all the candles on the cake in one go.",
+  "lodId": "KAERZ1"
  }
 ]

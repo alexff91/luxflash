@@ -1,0 +1,2801 @@
+[
+ {
+  "old": "Grouselteren",
+  "en": "grandparents",
+  "lb": "Grousselteren",
+  "lodId": "GROUSSELTEREN1",
+  "gender": "",
+  "ex_lb": "D'Grousselteren drécken eis dacks heemlech e Schäin an de Grapp.",
+  "ex_en": "Our grandparents often slip us a banknote on the quiet."
+ },
+ {
+  "old": "Schweemamm",
+  "en": "mother-in-law",
+  "lb": "Schwéiermamm",
+  "lodId": "SCHWEIERMAMM1",
+  "gender": "f",
+  "ex_lb": "Den Eedem ass net gutt op seng Schwéiermamm ze spriechen.",
+  "ex_en": "The son-in-law is not on good terms with his mother-in-law."
+ },
+ {
+  "old": "Noperin",
+  "en": "neighbour (female)",
+  "lb": "Nopesch",
+  "lodId": "NOPESCH1",
+  "gender": "f",
+  "ex_lb": "D'Professesch mengt, ech hätt am Test bei menger Nopesch ofgeschriwwen.",
+  "ex_en": "The teacher thinks I copied from my neighbour in the test."
+ },
+ {
+  "old": "Knach",
+  "en": "bone",
+  "lb": "Knachen",
+  "lodId": "KNACHEN1",
+  "gender": "",
+  "ex_lb": "Wéi d'Haus ofgerappt gouf, goufen al Knachen am Buedem fonnt.",
+  "ex_en": "When the house was demolished, old bones were found in the ground."
+ },
+ {
+  "old": "Wéiercht",
+  "en": "pain, ache",
+  "lb": "Wéi",
+  "lodId": "WEI6",
+  "gender": "m",
+  "ex_lb": "D'Doktesch huet mer eppes géint de Wéi opgeschriwwen.",
+  "ex_en": "The doctor prescribed me something for the pain."
+ },
+ {
+  "old": "Spritz",
+  "en": "injection, shot",
+  "lb": "Sprëtz",
+  "lodId": "SPRETZ1",
+  "gender": "f",
+  "ex_lb": "An der Fixerstuff gi propper Sprëtzen ausgedeelt.",
+  "ex_en": "Clean syringes are handed out in the drug consumption room."
+ },
+ {
+  "old": "Laangweil",
+  "en": "boredom",
+  "lb": "Langweil",
+  "lodId": "LANGWEIL1",
+  "gender": "f",
+  "ex_lb": "Déi zwee wësse vun elauter Langweil net méi, wat se solle maachen.",
+  "ex_en": "Out of sheer boredom the two of them don't know what to do any more."
+ },
+ {
+  "old": "héisslech",
+  "en": "ugly",
+  "lb": "ellen",
+  "lodId": "ELLEN1",
+  "gender": "",
+  "ex_lb": "„katzen“ ass en ellent Wuert!",
+  "ex_en": "\"Katzen\" is an ugly word!"
+ },
+ {
+  "old": "Pensionär",
+  "en": "pensioner, retiree",
+  "lb": "Pensionnaire",
+  "lodId": "PENSIONNAIRE1",
+  "gender": "m",
+  "ex_lb": "An dësem Altersheem ginn d'Pensionnairë gutt versuergt.",
+  "ex_en": "The residents of this care home are well looked after."
+ },
+ {
+  "old": "rouweg",
+  "en": "calm, quiet",
+  "lb": "roueg",
+  "lodId": "ROUEG1",
+  "gender": "",
+  "ex_lb": "Mäin Neveu ass e ganz rouege Bouf.",
+  "ex_en": "My nephew is a very quiet boy."
+ },
+ {
+  "old": "Nopeschaft",
+  "en": "neighbourhood",
+  "lb": "Noperschaft",
+  "lodId": "NOPERSCHAFT1",
+  "gender": "f",
+  "ex_lb": "Hie wunnt an der Noperschaft.",
+  "ex_en": "He lives in the neighbourhood."
+ },
+ {
+  "old": "Frau (Dame)",
+  "en": "lady",
+  "lb": "Damm",
+  "lodId": "DAMM2",
+  "gender": "f",
+  "ex_lb": "Dir Dammen an Dir Hären.",
+  "ex_en": "Ladies and gentlemen."
+ },
+ {
+  "old": "Schmäerz",
+  "en": "pain",
+  "lb": "Péng",
+  "lodId": "PENG1",
+  "gender": "f",
+  "ex_lb": "D'Patientin kritt staark Medikamenter géint d'Péng.",
+  "ex_en": "The patient gets strong medication for the pain."
+ },
+ {
+  "old": "Diät",
+  "en": "diet",
+  "lb": "Regimm",
+  "lodId": "REGIMM1",
+  "gender": "m",
+  "ex_lb": "No mengem Häerzinfarkt huet meng Doktesch mech gedoen, streng Regimm halen.",
+  "ex_en": "After my heart attack my doctor made me stick to a strict diet."
+ },
+ {
+  "old": "Geboert",
+  "en": "birth",
+  "lb": "Gebuert",
+  "lodId": "GEBUERT1",
+  "gender": "f",
+  "ex_lb": "Hien ass vu Gebuert un daf.",
+  "ex_en": "He has been deaf from birth."
+ },
+ {
+  "old": "Stir",
+  "en": "forehead",
+  "lb": "Stier",
+  "lodId": "STIER1",
+  "gender": "f",
+  "ex_lb": "Wa mäi Papp rosen ass, leet en d'Stier a Falen.",
+  "ex_en": "When my dad is angry, he frowns."
+ },
+ {
+  "old": "sech erkälten",
+  "en": "to catch a cold",
+  "lb": "sech erkalen",
+  "lodId": "ERKALEN1",
+  "gender": "",
+  "ex_lb": "Déi eppes un, soss erkaals de dech!",
+  "ex_en": "Put something on, or you'll catch a cold!"
+ },
+ {
+  "old": "sech bessern",
+  "en": "to get better, recover",
+  "lb": "sech besseren",
+  "lodId": "BESSEREN1",
+  "gender": "",
+  "ex_lb": "Nom ville Reen huet d'Wieder sech gebessert.",
+  "ex_en": "After all the rain the weather has improved."
+ },
+ {
+  "old": "niesen",
+  "en": "to sneeze",
+  "lb": "néitsen",
+  "lodId": "NEITSEN1",
+  "gender": "",
+  "ex_lb": "Ech halen net op mat néitsen, ech mengen, ech hunn eng Allergie!",
+  "ex_en": "I can't stop sneezing, I think I have an allergy!"
+ },
+ {
+  "old": "ëmaarmen",
+  "en": "to hug, embrace",
+  "lb": "ëmäerbelen",
+  "lodId": "EMAERBELEN1",
+  "gender": "",
+  "ex_lb": "D'Mamm ëmäerbelt de Jong, ier en an den Zuch klëmmt.",
+  "ex_en": "The mother hugs her son before he gets on the train."
+ },
+ {
+  "old": "Bues",
+  "en": "kiss",
+  "lb": "Bees",
+  "lodId": "BEES1",
+  "gender": "f",
+  "ex_lb": "Ier et schlofe gaangen ass, huet d'Kand der Tatta eng Bees ginn.",
+  "ex_en": "Before going to bed, the child gave its aunt a kiss."
+ },
+ {
+  "old": "Geduld",
+  "en": "patience",
+  "lb": "Gedold",
+  "lodId": "GEDOLD1",
+  "gender": "f",
+  "ex_lb": "Et muss ee vill Gedold hunn, wann ee mat Jugendleche schafft.",
+  "ex_en": "You need a lot of patience when you work with young people."
+ },
+ {
+  "old": "Famillfeier",
+  "en": "family celebration",
+  "drop": true
+ },
+ {
+  "old": "Verwandtschaft",
+  "en": "relatives, kinship",
+  "drop": true
+ },
+ {
+  "old": "auszéien",
+  "en": "to take off, move out",
+  "lb": "ausdoen",
+  "lodId": "AUSDOEN1",
+  "gender": "",
+  "ex_lb": "Ditt är knaschteg Schong aus, wannechgelift!",
+  "ex_en": "Take off your dirty shoes, please!"
+ },
+ {
+  "old": "aklammen",
+  "en": "to get in (vehicle)",
+  "drop": true
+ },
+ {
+  "old": "eraschaffen",
+  "en": "to bring in, work in",
+  "drop": true
+ },
+ {
+  "old": "zréckkommen",
+  "en": "to come back",
+  "lb": "zeréckkommen",
+  "lodId": "ZERECKKOMMEN1",
+  "gender": "",
+  "ex_lb": "Am Fréijoer kommen d'Schmuebelen zeréck.",
+  "ex_en": "In spring the swallows come back."
+ },
+ {
+  "old": "zréckginn",
+  "en": "to give back",
+  "lb": "zeréckginn",
+  "lodId": "ZERECKGINN1",
+  "gender": "",
+  "ex_lb": "Ech muss dir nach deng Bicher zeréckginn.",
+  "ex_en": "I still have to give you your books back."
+ },
+ {
+  "old": "noschaffen",
+  "en": "to copy, imitate",
+  "lb": "nomaachen",
+  "lodId": "NOMAACHEN1",
+  "gender": "",
+  "ex_lb": "Ech hu mäin Hausschlëssel nomaache gelooss.",
+  "ex_en": "I had a copy of my house key made."
+ },
+ {
+  "old": "uschauen",
+  "en": "to look at",
+  "lb": "ukucken",
+  "lodId": "UKUCKEN1",
+  "gender": "",
+  "ex_lb": "Well mer musse plënneren, gi mer eis de Mëtteg eng Wunneng ukucken.",
+  "ex_en": "Because we have to move, we're going to look at a flat this afternoon."
+ },
+ {
+  "old": "uschalten",
+  "en": "to switch on",
+  "lb": "umaachen",
+  "lodId": "UMAACHEN1",
+  "gender": "",
+  "ex_lb": "Dëst Joer hu mir schonn Enn August d'Heizung erëm ugemaach.",
+  "ex_en": "This year we already turned the heating back on at the end of August."
+ },
+ {
+  "old": "ausroumen",
+  "en": "to clear out",
+  "lb": "raumen",
+  "lodId": "RAUMEN1",
+  "gender": "",
+  "ex_lb": "Raum d'Dossiere wannechgelift an de Schaf!",
+  "ex_en": "Put the files away in the cupboard, please!"
+ },
+ {
+  "old": "ofschécken",
+  "en": "to send off",
+  "drop": true
+ },
+ {
+  "old": "festellen",
+  "en": "to determine, notice",
+  "drop": true
+ },
+ {
+  "old": "erkläeren",
+  "en": "to explain",
+  "lb": "erklären",
+  "lodId": "ERKLAREN1",
+  "gender": "",
+  "ex_lb": "Erklär eis dat emol an aller Rou!",
+  "ex_en": "Explain it to us calmly!"
+ },
+ {
+  "old": "benotzeg",
+  "en": "to need",
+  "lb": "brauchen",
+  "lodId": "BRAUCHEN1",
+  "gender": "",
+  "ex_lb": "Hien huet vu Klengem un e Brëll gebraucht fir ze liesen.",
+  "ex_en": "He has needed glasses for reading since he was little."
+ },
+ {
+  "old": "berücksiichtegen",
+  "en": "to take into account",
+  "lb": "berücksichtegen",
+  "lodId": "BERUCKSICHTEGEN1",
+  "gender": "",
+  "ex_lb": "D'Meenung vun de Leit gouf guer net berücksichtegt.",
+  "ex_en": "People's opinion was not taken into account at all."
+ },
+ {
+  "old": "diskréieren",
+  "en": "to repair",
+  "lb": "reparéieren",
+  "lodId": "REPAREIEREN1",
+  "gender": "",
+  "ex_lb": "Deen accidentéierten Auto ass net méi ze reparéieren.",
+  "ex_en": "The crashed car can't be repaired any more."
+ },
+ {
+  "old": "bedeenen",
+  "en": "to mean, signify",
+  "lb": "bedeiten",
+  "lodId": "BEDEITEN1",
+  "gender": "",
+  "ex_lb": "Wat bedeit dee Gest?",
+  "ex_en": "What does that gesture mean?"
+ },
+ {
+  "old": "meenen",
+  "en": "to think, mean",
+  "lb": "mengen",
+  "lodId": "MENGEN1",
+  "gender": "",
+  "ex_lb": "Meng net, ech géif dech fäerten!",
+  "ex_en": "Don't think I'm afraid of you!"
+ },
+ {
+  "old": "wiederhuelen",
+  "en": "to repeat",
+  "lb": "widderhuelen",
+  "lodId": "WIDDERHUELEN1",
+  "gender": "",
+  "ex_lb": "De Cheemiker huet d'Experiment misse widderhuelen.",
+  "ex_en": "The chemist had to repeat the experiment."
+ },
+ {
+  "old": "warden",
+  "en": "to wait",
+  "lb": "waarden",
+  "lodId": "WAARDEN1",
+  "gender": "",
+  "ex_lb": "Waart, bis de geruff gëss!",
+  "ex_en": "Wait until you're called!"
+ },
+ {
+  "old": "wéinen",
+  "en": "to cry",
+  "lb": "kräischen",
+  "lodId": "KRAISCHEN1",
+  "gender": "",
+  "ex_lb": "De klenge Bouf huet haart gekrasch, well e vun der Klunsch gefall war.",
+  "ex_en": "The little boy cried loudly because he had fallen off the swing."
+ },
+ {
+  "old": "wakreien",
+  "en": "to wake up",
+  "lb": "erwächen",
+  "lodId": "ERWACHEN1",
+  "gender": "",
+  "ex_lb": "Ech sinn hënt zweemol erwächt.",
+  "ex_en": "I woke up twice last night."
+ },
+ {
+  "old": "hischwätzen",
+  "en": "to go there",
+  "drop": true
+ },
+ {
+  "old": "vereenbaren",
+  "en": "to agree, arrange",
+  "lb": "ofschwätzen",
+  "lodId": "OFSCHWATZEN1",
+  "gender": "",
+  "ex_lb": "Hutt Dir déi Demarche mat Ärem Virgesetzten ofgeschwat?",
+  "ex_en": "Did you agree that step with your manager?"
+ },
+ {
+  "old": "verglächen",
+  "en": "to compare",
+  "lb": "vergläichen",
+  "lodId": "VERGLAICHEN1",
+  "gender": "",
+  "ex_lb": "Um Internet kann ee kamoud d'Präisser (mateneen) vergläichen.",
+  "ex_en": "On the internet you can easily compare prices."
+ },
+ {
+  "old": "beoobachten",
+  "en": "to observe",
+  "lb": "beobachten",
+  "lodId": "BEOBACHTEN2",
+  "gender": "",
+  "ex_lb": "Den Ornitholog huet d'Vullen an hirem Nascht beobacht.",
+  "ex_en": "The ornithologist watched the birds in their nest."
+ },
+ {
+  "old": "schwätzeg",
+  "en": "to remain silent",
+  "drop": true
+ },
+ {
+  "old": "de Schraubenzéier",
+  "en": "screwdriver",
+  "lb": "de Schrauwenzéier",
+  "lodId": "SCHRAUWENZEIER1",
+  "gender": "m",
+  "ex_lb": "Mat deem falsche Schrauwenzéier vermurks de de Kapp vun de Schrauwen.",
+  "ex_en": "With the wrong screwdriver you'll ruin the screw heads."
+ },
+ {
+  "old": "d'Sé",
+  "en": "saw",
+  "lb": "d'See",
+  "lodId": "SEE1",
+  "gender": "f",
+  "ex_lb": "D'Blat vun denger See ass stompeg.",
+  "ex_en": "The blade of your saw is blunt."
+ },
+ {
+  "old": "den Nagel",
+  "en": "nail",
+  "lb": "den Nol",
+  "lodId": "NOL1",
+  "gender": "m",
+  "ex_lb": "Schlo den Nol mam Hummer an d'Briet!",
+  "ex_en": "Hammer the nail into the board!"
+ },
+ {
+  "old": "d'Leder",
+  "en": "ladder",
+  "lb": "d'Leeder",
+  "lodId": "LEEDER1",
+  "gender": "f",
+  "ex_lb": "Mäi Brudder ass vun der Leeder gefall, wéi en op de Bam wollt klammen.",
+  "ex_en": "My brother fell off the ladder when he tried to climb up the tree."
+ },
+ {
+  "old": "d'Werkzeegkëscht",
+  "en": "toolbox",
+  "lb": "d'Geschierkëscht",
+  "lodId": "GESCHIERKESCHT1",
+  "gender": "f",
+  "ex_lb": "Eng Ratsch däerf a kenger Geschierkëscht feelen.",
+  "ex_en": "A ratchet should be in every toolbox."
+ },
+ {
+  "old": "d'Schmiergelpabeier",
+  "en": "sandpaper",
+  "lb": "de Glaspabeier",
+  "lodId": "GLASPABEIER1",
+  "gender": "m",
+  "ex_lb": "De Schräiner huet déi rau Kante mat Glaspabeier ofgeschlaff.",
+  "ex_en": "The carpenter sanded the rough edges with sandpaper."
+ },
+ {
+  "old": "de Klebband",
+  "en": "adhesive tape",
+  "drop": true
+ },
+ {
+  "old": "d'Lenkrad",
+  "en": "steering wheel",
+  "lb": "d'Steierrad",
+  "lodId": "STEIERRAD1",
+  "gender": "n",
+  "ex_lb": "Looss deng zwou Hänn um Steierrad!",
+  "ex_en": "Keep both hands on the steering wheel!"
+ },
+ {
+  "old": "de Kofferraum",
+  "en": "boot/trunk",
+  "lb": "d'Mall",
+  "lodId": "MALL1",
+  "gender": "f",
+  "ex_lb": "Mir hunn nach eng al Mall um Späicher stoen.",
+  "ex_en": "We still have an old trunk in the attic."
+ },
+ {
+  "old": "d'Motorhaube",
+  "en": "bonnet/hood",
+  "lb": "de Capot",
+  "lodId": "CAPOT1",
+  "gender": "m",
+  "ex_lb": "De Mecanicien huet de Capot opgemaach, fir den Ueleg ze kontrolléieren.",
+  "ex_en": "The mechanic opened the bonnet to check the oil."
+ },
+ {
+  "old": "d'Lut",
+  "en": "headlight",
+  "lb": "de Scheinwerfer",
+  "lodId": "SCHEINWERFER1",
+  "gender": "m",
+  "ex_lb": "D'Scheinwerfer vum Auto, dee mer entgéintkoum, hu mech verblent.",
+  "ex_en": "The headlights of the oncoming car dazzled me."
+ },
+ {
+  "old": "de Scheibewëscher",
+  "en": "windscreen wiper",
+  "lb": "de Wischer",
+  "lodId": "WISCHER1",
+  "gender": "m",
+  "ex_lb": "Maach deng Wischeren un, et fänkt u mat reenen!",
+  "ex_en": "Turn your wipers on, it's starting to rain!"
+ },
+ {
+  "old": "de Lenker",
+  "en": "handlebar",
+  "drop": true
+ },
+ {
+  "old": "d'Klinquel",
+  "en": "bell (bike)",
+  "lb": "d'Schell",
+  "lodId": "SCHELL1",
+  "gender": "f",
+  "ex_lb": "D'Schell u mengem Vëlo geet net méi.",
+  "ex_en": "The bell on my bike doesn't work any more."
+ },
+ {
+  "old": "de Sattel",
+  "en": "saddle",
+  "lb": "de Suedel",
+  "lodId": "SUEDEL1",
+  "gender": "m",
+  "ex_lb": "Den Jockey huet sengem Päerd de Suedel opgeluecht.",
+  "ex_en": "The jockey saddled his horse."
+ },
+ {
+  "old": "d'Speech",
+  "en": "spoke",
+  "lb": "d'Speechel",
+  "lodId": "SPEECHEL2",
+  "gender": "f",
+  "ex_lb": "Am viischte Rad vu mengem Vëlo sinn e puer Speechele verdiebelt.",
+  "ex_en": "A few spokes in the front wheel of my bike are bent."
+ },
+ {
+  "old": "d'Garteschéier",
+  "en": "secateurs",
+  "lb": "de Secateur",
+  "lodId": "SECATEUR1",
+  "gender": "m",
+  "ex_lb": "Huel de Secateur, fir déi kleng Äscht ofzepëtzen!",
+  "ex_en": "Use the secateurs to trim the small branches!"
+ },
+ {
+  "old": "d'Géisskanne",
+  "en": "watering can",
+  "lb": "d'Géisskan",
+  "lodId": "GEISSKAN1",
+  "gender": "f",
+  "ex_lb": "Nätz d'Blumme léiwer mat der Géisskan ewéi mam Schlauch!",
+  "ex_en": "Water the flowers with the watering can rather than the hose!"
+ },
+ {
+  "old": "de Rasenméier",
+  "en": "lawn mower",
+  "drop": true
+ },
+ {
+  "old": "d'Schubkar",
+  "en": "wheelbarrow",
+  "lb": "d'Schubbkar",
+  "lodId": "SCHUBBKAR1",
+  "gender": "f",
+  "ex_lb": "Nom Wanter am Schapp hat d'Schubbkar e Platten.",
+  "ex_en": "After the winter in the shed the wheelbarrow had a flat tyre."
+ },
+ {
+  "old": "de Bujee",
+  "en": "hedge",
+  "lb": "d'Heck",
+  "lodId": "HECK1",
+  "gender": "f",
+  "ex_lb": "De Papp ass amgaang, hannenaus am Gaart d'Hecken ze schneiden.",
+  "ex_en": "Dad is cutting the hedges at the back of the garden."
+ },
+ {
+  "old": "de Komposthaufen",
+  "en": "compost heap",
+  "drop": true
+ },
+ {
+  "old": "de Gaardeschlauch",
+  "en": "garden hose",
+  "drop": true
+ },
+ {
+  "old": "d'Blummebar",
+  "en": "flowerpot",
+  "lb": "d'Blummendëppen",
+  "lodId": "BLUMMENDEPPEN1",
+  "gender": "n",
+  "ex_lb": "Hu mir kee passende Cache-pot fir dat grousst Blummendëppen?",
+  "ex_en": "Don't we have a suitable pot holder for that big flowerpot?"
+ },
+ {
+  "old": "d'Schäffel",
+  "en": "trowel",
+  "lb": "d'Traufel",
+  "lodId": "TRAUFEL1",
+  "gender": "f",
+  "ex_lb": "De Steemetzer huet d'Mauer mat der Traufel beworf.",
+  "ex_en": "The bricklayer plastered the wall with the trowel."
+ },
+ {
+  "old": "d'Saiten",
+  "en": "strings",
+  "drop": true
+ },
+ {
+  "old": "d'Léinwand",
+  "en": "canvas",
+  "lb": "d'Leinwand",
+  "lodId": "LEINWAND1",
+  "gender": "f",
+  "ex_lb": "De Kënschtler huet d'Motiv fir d'éischt mam Bläistëft op d'Leinwand virgezeechent.",
+  "ex_en": "The artist first sketched the motif on the canvas in pencil."
+ },
+ {
+  "old": "de Léim",
+  "en": "glue",
+  "lb": "de Läim",
+  "lodId": "LAIM1",
+  "gender": "m",
+  "ex_lb": "Maach d'Dëppe mam Läim zou, soss verdréchent en!",
+  "ex_en": "Close the pot of glue, or it will dry out!"
+ },
+ {
+  "old": "d'Faarfpalett",
+  "en": "palette",
+  "lb": "d'Pallett",
+  "lodId": "PALLETT1",
+  "gender": "f",
+  "ex_lb": "Mir kruten dräi Pallette Plättercher geliwwert.",
+  "ex_en": "We had three pallets of tiles delivered."
+ },
+ {
+  "old": "de Léim (Modeling)",
+  "en": "modelling clay",
+  "drop": true
+ },
+ {
+  "old": "d'Nähmaschinn",
+  "en": "sewing machine",
+  "lb": "d'Bitzmaschinn",
+  "lodId": "BITZMASCHINN1",
+  "gender": "f",
+  "ex_lb": "Mir mussen eis Bitzmaschinn flécke loossen.",
+  "ex_en": "We have to get our sewing machine mended."
+ },
+ {
+  "old": "d'Schwammbrëll",
+  "en": "swimming goggles",
+  "drop": true
+ },
+ {
+  "old": "d'Skien",
+  "en": "skis",
+  "drop": true
+ },
+ {
+  "old": "d'Sportsschong",
+  "en": "trainers",
+  "drop": true
+ },
+ {
+  "old": "d'Tor",
+  "en": "goal (net)",
+  "lb": "de Gol",
+  "lodId": "GOL1",
+  "gender": "m",
+  "ex_lb": "Wien ass am Gol?",
+  "ex_en": "Who's in goal?"
+ },
+ {
+  "old": "de Maurer",
+  "en": "bricklayer",
+  "lb": "de Steemetzer",
+  "lodId": "STEEMETZER1",
+  "gender": "m",
+  "ex_lb": "An där Karriär hunn d'Steemetzer en eegenen Atelier.",
+  "ex_en": "In that quarry the stonemasons have their own workshop."
+ },
+ {
+  "old": "de Plombier",
+  "en": "plumber",
+  "lb": "den Installateur",
+  "lodId": "INSTALLATEUR1",
+  "gender": "m",
+  "ex_lb": "Wann s du de Krunn net gefléckt kriss, da musse mer den Installateur ruffen.",
+  "ex_en": "If you can't fix the tap, we'll have to call the plumber."
+ },
+ {
+  "old": "de Mechaniker",
+  "en": "mechanic",
+  "lb": "de Mecanicien",
+  "lodId": "MECANICIEN1",
+  "gender": "m",
+  "ex_lb": "De Mecanicien ass amgaang, de Vidange vum Auto ze maachen.",
+  "ex_en": "The mechanic is changing the car's oil."
+ },
+ {
+  "old": "de Frisör",
+  "en": "hairdresser",
+  "lb": "de Coiffer",
+  "lodId": "COIFFER1",
+  "gender": "m",
+  "ex_lb": "De Coiffer huet dem Bouf eng Bross geschnidden.",
+  "ex_en": "The hairdresser gave the boy a crew cut."
+ },
+ {
+  "old": "de Geertner",
+  "en": "gardener",
+  "lb": "de Gäertner",
+  "lodId": "GAERTNER1",
+  "gender": "m",
+  "ex_lb": "Ech kafe meng Tomate léiwer beim Gäertner.",
+  "ex_en": "I prefer to buy my tomatoes from the market gardener."
+ },
+ {
+  "old": "de Schongmécher",
+  "en": "shoemaker",
+  "drop": true
+ },
+ {
+  "old": "den Dachdecker",
+  "en": "roofer",
+  "lb": "den Daachdecker",
+  "lodId": "DAACHDECKER1",
+  "gender": "m",
+  "ex_lb": "Den Daachdecker kënnt d'nächst Woch e puer Leeën ersetzen.",
+  "ex_en": "The roofer is coming next week to replace a few slates."
+ },
+ {
+  "old": "de Schmaadt",
+  "en": "blacksmith",
+  "lb": "de Schmadd",
+  "lodId": "SCHMADD1",
+  "gender": "m",
+  "ex_lb": "De Schmadd leet d'Eisen op den Amboss, fir et ze verschaffen.",
+  "ex_en": "The blacksmith puts the iron on the anvil to work it."
+ },
+ {
+  "old": "de Räibeisen",
+  "en": "grater",
+  "lb": "d'Rapp",
+  "lodId": "RAPP1",
+  "gender": "f",
+  "ex_lb": "Gëff Uecht op d'Fangeren, wann s de mat der Rapp hantéiers!",
+  "ex_en": "Mind your fingers when you're using the grater!"
+ },
+ {
+  "old": "de Schwéngsbiischt",
+  "en": "whisk",
+  "lb": "de Schnéibiesem",
+  "lodId": "SCHNEIBIESEM1",
+  "gender": "m",
+  "ex_lb": "Huel de Schnéibiesem, fir an der Zooss ze réieren, soss gëtt et Knäpp!",
+  "ex_en": "Use the whisk to stir the sauce, or it will go lumpy!"
+ },
+ {
+  "old": "de Backuewen",
+  "en": "oven",
+  "lb": "de Bakuewen",
+  "lodId": "BAKUEWEN1",
+  "gender": "m",
+  "ex_lb": "D'Pizza kënnt aus dem Bakuewen op den Dësch.",
+  "ex_en": "The pizza comes straight from the oven to the table."
+ },
+ {
+  "old": "de Pëllendrécker",
+  "en": "garlic press",
+  "drop": true
+ },
+ {
+  "old": "de Kachläffel",
+  "en": "wooden spoon",
+  "lb": "de Bräiläffel",
+  "lodId": "BRAILAFFEL1",
+  "gender": "m",
+  "ex_lb": "Huel de Bräiläffel, fir an der Pan ze réieren, soss méchs de Schréipsen dran!",
+  "ex_en": "Use the wooden spoon to stir in the pan, or you'll scratch it!"
+ },
+ {
+  "old": "de Backblech",
+  "en": "baking tray",
+  "lb": "de Blech",
+  "lodId": "BLECH1",
+  "gender": "m",
+  "ex_lb": "Wou ass de Blech, deen ech ëmmer huelen, fir Kichelcher ze baken?",
+  "ex_en": "Where's the baking tray I always use for baking biscuits?"
+ },
+ {
+  "old": "de Sif",
+  "en": "sieve",
+  "lb": "de Sift",
+  "lodId": "SIFT1",
+  "gender": "m",
+  "ex_lb": "Ech hunn de ganze Mëtteg Sand an de Sift geschëppt.",
+  "ex_en": "I spent the whole afternoon shovelling sand into the sieve."
+ },
+ {
+  "old": "de Flëschenëffner",
+  "en": "bottle opener",
+  "lb": "de Fläschenëffner",
+  "lodId": "FLASCHENEFFNER1",
+  "gender": "m",
+  "ex_lb": "Virun de Wale verdeelt d'Partei Fläschenëffner mat hirem Logo drop.",
+  "ex_en": "Before the elections the party hands out bottle openers with its logo on them."
+ },
+ {
+  "old": "de Waasserkessel",
+  "en": "kettle",
+  "lb": "de Kessel",
+  "lodId": "KESSEL1",
+  "gender": "m",
+  "ex_lb": "D'Quetschekraut brutschelt am Kessel.",
+  "ex_en": "The plum jam is bubbling in the pot."
+ },
+ {
+  "old": "de Beton",
+  "en": "concrete",
+  "lb": "de Bëton",
+  "lodId": "BETON1",
+  "gender": "m",
+  "ex_lb": "Déi nei Eisebunnsbréck ass ganz aus Bëton.",
+  "ex_en": "The new railway bridge is made entirely of concrete."
+ },
+ {
+  "old": "de Kupfer",
+  "en": "copper",
+  "lb": "de Koffer",
+  "lodId": "KOFFER3",
+  "gender": "m",
+  "ex_lb": "Mir hunn an eisem Haus Heizungsréier aus Koffer.",
+  "ex_en": "In our house the heating pipes are made of copper."
+ },
+ {
+  "old": "de Lehm",
+  "en": "clay",
+  "lb": "de Leem",
+  "lodId": "LEEM1",
+  "gender": "m",
+  "ex_lb": "D'Kanner forme Figuren aus Leem fir bei d'Krëppchen.",
+  "ex_en": "The children shape clay figures for the crib."
+ },
+ {
+  "old": "de Gürtel",
+  "en": "belt",
+  "lb": "de Rimm",
+  "lodId": "RIMM1",
+  "gender": "m",
+  "ex_lb": "D'Block u mengem Rimm ass futti.",
+  "ex_en": "The buckle on my belt is broken."
+ },
+ {
+  "old": "de Badmantel",
+  "en": "bathrobe",
+  "lb": "de Buedmantel",
+  "lodId": "BUEDMANTEL1",
+  "gender": "m",
+  "ex_lb": "Vergiess däi Buedmantel net, wann s de an d'Sauna gees.",
+  "ex_en": "Don't forget your bathrobe when you go to the sauna."
+ },
+ {
+  "old": "de Reesschirm",
+  "en": "umbrella",
+  "lb": "de Prabbeli",
+  "lodId": "PRABBELI1",
+  "gender": "m",
+  "ex_lb": "Et gëtt Reen, géi net ouni Prabbeli eraus!",
+  "ex_en": "It's going to rain, don't go out without an umbrella!"
+ },
+ {
+  "old": "d'Aarmbanduhr",
+  "en": "wristwatch",
+  "drop": true
+ },
+ {
+  "old": "d'Broschtdaach",
+  "en": "brooch",
+  "lb": "d'Brosch",
+  "lodId": "BROSCH1",
+  "gender": "f",
+  "ex_lb": "De Bijoutier huet eng schéi gëlle Brosch an der Fënster leien.",
+  "ex_en": "The jeweller has a beautiful gold brooch in the window."
+ },
+ {
+  "old": "de Klotsch",
+  "en": "club (golf)",
+  "drop": true
+ },
+ {
+  "old": "d'Schmierfett",
+  "en": "grease",
+  "lb": "d'Fett",
+  "lodId": "FETT2",
+  "gender": "n",
+  "ex_lb": "Huel net ze vill Fett, fir d'Fleesch unzebroden!",
+  "ex_en": "Don't use too much fat to brown the meat!"
+ },
+ {
+  "old": "d'Aquarellfaarf",
+  "en": "watercolour paint",
+  "drop": true
+ },
+ {
+  "old": "de Vëlomechaniker",
+  "en": "bike mechanic",
+  "drop": true
+ },
+ {
+  "old": "de Sock",
+  "en": "sock",
+  "lb": "d'Strëmp",
+  "lodId": "STREMP1",
+  "gender": "f",
+  "ex_lb": "D'Feeschte vu mengen neie Strëmp si schonn zerrass.",
+  "ex_en": "The heels of my new socks are already torn."
+ },
+ {
+  "old": "de Kapuze",
+  "en": "hood",
+  "lb": "d'Kaputz",
+  "lodId": "KAPUTZ1",
+  "gender": "f",
+  "ex_lb": "En hat e laange Mantel mat enger Kaputz un.",
+  "ex_en": "He was wearing a long coat with a hood."
+ },
+ {
+  "old": "de Räissverschloss",
+  "en": "zip",
+  "lb": "d'Tirett",
+  "lodId": "TIRETT1",
+  "gender": "f",
+  "ex_lb": "Déi meescht Boxen hunn haut eng Tirett.",
+  "ex_en": "Most trousers have a zip these days."
+ },
+ {
+  "old": "d'Pinzett",
+  "en": "tweezers",
+  "lb": "d'Pincette",
+  "lodId": "PINCETTE1",
+  "gender": "f",
+  "ex_lb": "D'Mamm huet deem Klengen d'Spläiter mat enger Pincette erausgezunn.",
+  "ex_en": "Mum pulled the splinter out of the little one's finger with tweezers."
+ },
+ {
+  "old": "de Schmiergel (Blocks)",
+  "en": "vice",
+  "lb": "de Schraufstack",
+  "lodId": "SCHRAUFSTACK1",
+  "gender": "m",
+  "ex_lb": "D'Bake vum Schraufstack sinn ofgenotzt.",
+  "ex_en": "The jaws of the vice are worn."
+ },
+ {
+  "old": "d'Wäschklamer",
+  "en": "clothes peg",
+  "lb": "d'Klamer",
+  "lodId": "KLAMER1",
+  "gender": "f",
+  "ex_lb": "",
+  "ex_en": ""
+ },
+ {
+  "old": "de Schubkar (Rad)",
+  "en": "castor wheel",
+  "lb": "d'Rull",
+  "lodId": "RULL1",
+  "gender": "f",
+  "ex_lb": "Ech bräicht e Stull mat Rulle fir bei mäi Schreifdësch.",
+  "ex_en": "I need a chair on castors for my desk."
+ },
+ {
+  "old": "d'Wunnzëmmer",
+  "en": "the living room",
+  "lb": "d'Stuff",
+  "lodId": "STUFF1",
+  "gender": "f",
+  "ex_lb": "Eis Kaz läit am léifsten an der Stuff beim Uewen.",
+  "ex_en": "Our cat likes lying in the living room by the stove best."
+ },
+ {
+  "old": "de Balkon",
+  "en": "the balcony",
+  "lb": "de Balcon",
+  "lodId": "BALCON1",
+  "gender": "m",
+  "ex_lb": "Am Theater ware just nach um Balcon Plaze fräi.",
+  "ex_en": "At the theatre the only seats left were in the balcony."
+ },
+ {
+  "old": "d'Plafong",
+  "en": "the ceiling",
+  "lb": "de Plaffong",
+  "lodId": "PLAFFONG1",
+  "gender": "m",
+  "ex_lb": "De Gips bréckelt scho vum Plaffong.",
+  "ex_en": "The plaster is already crumbling off the ceiling."
+ },
+ {
+  "old": "d'Méiwel",
+  "en": "the furniture",
+  "lb": "de Miwwel",
+  "lodId": "MIWWEL1",
+  "gender": "m",
+  "ex_lb": "Mir hunn d'Miwwelen ëmgestallt.",
+  "ex_en": "We rearranged the furniture."
+ },
+ {
+  "old": "d'Lamp",
+  "en": "the lamp",
+  "lb": "d'Luucht",
+  "lodId": "LUUCHT1",
+  "gender": "f",
+  "ex_lb": "Bei den Noperen ass nach Luucht.",
+  "ex_en": "The neighbours still have their light on."
+ },
+ {
+  "old": "de Rido",
+  "en": "the curtain",
+  "lb": "de Riddo",
+  "lodId": "RIDDO1",
+  "gender": "m",
+  "ex_lb": "Eis nei Riddoe loossen net genuch Luucht duerch.",
+  "ex_en": "Our new curtains don't let in enough light."
+ },
+ {
+  "old": "d'Patell",
+  "en": "the frying pan",
+  "drop": true
+ },
+ {
+  "old": "de Bessem",
+  "en": "the broom",
+  "lb": "de Biesem",
+  "lodId": "BIESEM1",
+  "gender": "m",
+  "ex_lb": "De Kniecht huet de Stall mam Biesem gekiert.",
+  "ex_en": "The farmhand swept the stable with a broom."
+ },
+ {
+  "old": "de Stëbssauger",
+  "en": "the vacuum cleaner",
+  "lb": "de Staubsauger",
+  "lodId": "STAUBSAUGER1",
+  "gender": "m",
+  "ex_lb": "Fuer eng Kéier mam Staubsauger iwwer den Tapis!",
+  "ex_en": "Run the vacuum cleaner over the rug!"
+ },
+ {
+  "old": "d'Zännpâte",
+  "en": "the toothpaste",
+  "lb": "d'Zännseef",
+  "lodId": "ZANNSEEF1",
+  "gender": "f",
+  "ex_lb": "Meng Zännseef schmaacht no Peffermënz.",
+  "ex_en": "My toothpaste tastes of peppermint."
+ },
+ {
+  "old": "de Kamm",
+  "en": "the comb",
+  "lb": "de Kamp",
+  "lodId": "KAMP1",
+  "gender": "m",
+  "ex_lb": "Dem Hunn säi Kamp war feierrout.",
+  "ex_en": "The cock's comb was fiery red."
+ },
+ {
+  "old": "de Bormaschinn",
+  "en": "the drill",
+  "lb": "d'Buermaschinn",
+  "lodId": "BUERMASCHINN1",
+  "gender": "f",
+  "ex_lb": "Fir dëst Lach ze bueren, brauch een eng zolidd Buermaschinn.",
+  "ex_en": "To drill this hole you need a solid drill."
+ },
+ {
+  "old": "d'Sock",
+  "en": "the sock",
+  "lb": "d'Strëmp",
+  "lodId": "STREMP1",
+  "gender": "f",
+  "ex_lb": "D'Feeschte vu mengen neie Strëmp si schonn zerrass.",
+  "ex_en": "The heels of my new socks are already torn."
+ },
+ {
+  "old": "d'Handschong",
+  "en": "the glove",
+  "lb": "d'Händsch",
+  "lodId": "HANDSCH1",
+  "gender": "f",
+  "ex_lb": "Do deng Händschen un, fir am Schnéi ze spillen!",
+  "ex_en": "Put your gloves on to play in the snow!"
+ },
+ {
+  "old": "de Gürtel",
+  "en": "the belt",
+  "lb": "de Rimm",
+  "lodId": "RIMM1",
+  "gender": "m",
+  "ex_lb": "D'Block u mengem Rimm ass futti.",
+  "ex_en": "The buckle on my belt is broken."
+ },
+ {
+  "old": "lila",
+  "en": "purple",
+  "lb": "violett",
+  "lodId": "VIOLETT1",
+  "gender": "",
+  "ex_lb": "Fir d'Hochzäit koum d'Schwéiermamm an enger violetter Toilette.",
+  "ex_en": "For the wedding the mother-in-law came in a purple outfit."
+ },
+ {
+  "old": "frühstécken",
+  "en": "to have breakfast",
+  "lb": "früstücken",
+  "lodId": "FRUSTUCKEN1",
+  "gender": "",
+  "ex_lb": "Um wéi vill Auer früstücke mer muer de Moien?",
+  "ex_en": "What time are we having breakfast tomorrow morning?"
+ },
+ {
+  "old": "kléngelen",
+  "en": "to ring",
+  "lb": "schellen",
+  "lodId": "SCHELLEN1",
+  "gender": "",
+  "ex_lb": "Den Telefon schellt, kanns du ophiewen?",
+  "ex_en": "The phone's ringing, can you answer it?"
+ },
+ {
+  "old": "bequem",
+  "en": "comfortable",
+  "lb": "bequeem",
+  "lodId": "BEQUEEM1",
+  "gender": "",
+  "ex_lb": "Dëse Bus huet bequeem Sëtzer.",
+  "ex_en": "This bus has comfortable seats."
+ },
+ {
+  "old": "d'Tasch",
+  "en": "the pocket/bag",
+  "lb": "d'Täsch",
+  "lodId": "TASCH1",
+  "gender": "f",
+  "ex_lb": "Ech kafe meeschtens Hiemer mat enger Täsch.",
+  "ex_en": "I usually buy shirts with a pocket."
+ },
+ {
+  "old": "d'Geschir",
+  "en": "the crockery/dishes",
+  "lb": "d'Geschier",
+  "lodId": "GESCHIER1",
+  "gender": "n",
+  "ex_lb": "Ech hunn d'Geschier, dat net gebraucht gëtt, zeréck an de Buffet gestallt.",
+  "ex_en": "I put the crockery we don't need back in the sideboard."
+ },
+ {
+  "old": "d'Klopapéier",
+  "en": "the toilet paper",
+  "lb": "den Toilettëpabeier",
+  "lodId": "TOILETTEPABEIER1",
+  "gender": "m",
+  "ex_lb": "D'Kanner hunn eng ganz Rull Toilettëpabeier verbëtzt.",
+  "ex_en": "The children wasted a whole roll of toilet paper."
+ },
+ {
+  "old": "de Schampo",
+  "en": "the shampoo",
+  "lb": "de Shampoing",
+  "lodId": "SHAMPOING1",
+  "gender": "m",
+  "ex_lb": "Dee Shampoing kritt ee just an der Apdikt ze kafen.",
+  "ex_en": "You can only buy that shampoo at the pharmacy."
+ },
+ {
+  "old": "opschléissen",
+  "en": "to unlock",
+  "drop": true
+ },
+ {
+  "old": "opwächen",
+  "en": "to wake up",
+  "lb": "erwächen",
+  "lodId": "ERWACHEN1",
+  "gender": "",
+  "ex_lb": "Ech sinn hënt zweemol erwächt.",
+  "ex_en": "I woke up twice last night."
+ },
+ {
+  "old": "onordentlech",
+  "en": "messy",
+  "drop": true
+ },
+ {
+  "old": "d'Kommoud",
+  "en": "the chest of drawers",
+  "lb": "d'Komoud",
+  "lodId": "KOMOUD1",
+  "gender": "f",
+  "ex_lb": "Deng Schlëssele leien am Gank op der Komoud.",
+  "ex_en": "Your keys are on the chest of drawers in the hall."
+ },
+ {
+  "old": "d'Matratz",
+  "en": "the mattress",
+  "lb": "d'Matrass",
+  "lodId": "MATRASS1",
+  "gender": "f",
+  "ex_lb": "Ech wëll mer méi eng haart Matrass kafen.",
+  "ex_en": "I want to buy myself a harder mattress."
+ },
+ {
+  "old": "de Mikrowellenuewen",
+  "en": "the microwave",
+  "lb": "d'Mikrowell",
+  "lodId": "MIKROWELL1",
+  "gender": "f",
+  "ex_lb": "Mikrowelle kënne schiedlech sinn.",
+  "ex_en": "Microwaves can be harmful."
+ },
+ {
+  "old": "de Müll",
+  "en": "the rubbish",
+  "lb": "d'Gedrecks",
+  "lodId": "GEDRECKS2",
+  "gender": "n",
+  "ex_lb": "Ech hunn dat ganzt Gedrecks am Gaart verbrannt.",
+  "ex_en": "I burned all the rubbish in the garden."
+ },
+ {
+  "old": "d'Kerz",
+  "en": "the candle",
+  "lb": "d'Käerz",
+  "lodId": "KAERZ1",
+  "gender": "f",
+  "ex_lb": "D'Gebuertsdagskand huet d'Käerzen um Kuch all mat engem Coup ausgeblosen.",
+  "ex_en": "The birthday child blew out all the candles on the cake in one go."
+ },
+ {
+  "old": "de Wek",
+  "en": "bread roll",
+  "lb": "d'Bréitchen",
+  "lodId": "BREITCHEN1",
+  "gender": "n",
+  "ex_lb": "Eise Bäcker huet déi beschte Bréidercher.",
+  "ex_en": "Our baker has the best bread rolls."
+ },
+ {
+  "old": "de Joghurt",
+  "en": "yoghurt",
+  "lb": "de Jugurt",
+  "lodId": "JUGURT1",
+  "gender": "m",
+  "ex_lb": "Ech iessen all Mueren e Jugurt.",
+  "ex_en": "I eat a yoghurt every morning."
+ },
+ {
+  "old": "d'Pouletsfleesch",
+  "en": "chicken meat",
+  "drop": true
+ },
+ {
+  "old": "de Schinken",
+  "en": "ham",
+  "lb": "d'Ham",
+  "lodId": "HAM1",
+  "gender": "f",
+  "ex_lb": "Eise Metzler huet d'Hamen agesolpert.",
+  "ex_en": "Our butcher has cured the hams."
+ },
+ {
+  "old": "d'Birel",
+  "en": "pear",
+  "lb": "d'Bier",
+  "lodId": "BIER3",
+  "gender": "f",
+  "ex_lb": "Ech iesse gär eng Bier als Dessert.",
+  "ex_en": "I like eating a pear for dessert."
+ },
+ {
+  "old": "d'Kussjäissen",
+  "en": "breakfast",
+  "lb": "d'Moiesiessen",
+  "lodId": "MOIESIESSEN1",
+  "gender": "n",
+  "ex_lb": "Ei, wat hate mer am Hotel e leckert Moiesiessen!",
+  "ex_en": "Oh, what a delicious breakfast we had at the hotel!"
+ },
+ {
+  "old": "braden",
+  "en": "to fry/roast",
+  "lb": "broden",
+  "lodId": "BRODEN1",
+  "gender": "",
+  "ex_lb": "Et gëtt gebroden Äppel als Dessert.",
+  "ex_en": "There are baked apples for dessert."
+ },
+ {
+  "old": "de Karton",
+  "en": "box/carton",
+  "lb": "d'Këscht",
+  "lodId": "KESCHT1",
+  "gender": "f",
+  "ex_lb": "Um Späicher sti Këschte voll Bicher.",
+  "ex_en": "There are boxes full of books in the attic."
+ },
+ {
+  "old": "d'Blocht",
+  "en": "tin/can",
+  "lb": "d'Béchs",
+  "lodId": "BECHS1",
+  "gender": "f",
+  "ex_lb": "Ech gi mer an den Automat eng Béchs Limonad sichen.",
+  "ex_en": "I'm going to get a can of lemonade from the vending machine."
+ },
+ {
+  "old": "de Kelner",
+  "en": "waiter",
+  "lb": "de Serveur",
+  "lodId": "SERVEUR1",
+  "gender": "m",
+  "ex_lb": "Mir hunn deem feine Serveur e schéint Drénkgeld ginn.",
+  "ex_en": "We gave the nice waiter a generous tip."
+ },
+ {
+  "old": "den Trinkgeld",
+  "en": "tip",
+  "lb": "d'Drénkgeld",
+  "lodId": "DRENKGELD1",
+  "gender": "n",
+  "ex_lb": "Owes deelen d'Garçonen sech d'Drénkgeld.",
+  "ex_en": "In the evening the waiters share the tips."
+ },
+ {
+  "old": "den Apéro",
+  "en": "aperitif",
+  "lb": "den Apero",
+  "lodId": "APERO1",
+  "gender": "m",
+  "ex_lb": "",
+  "ex_en": ""
+ },
+ {
+  "old": "d'Virspeis",
+  "en": "starter",
+  "lb": "d'Entrée",
+  "lodId": "ENTREE1",
+  "gender": "f",
+  "ex_lb": "",
+  "ex_en": ""
+ },
+ {
+  "old": "d'Haaptspeis",
+  "en": "main course",
+  "lb": "den Haaptplat",
+  "lodId": "HAAPTPLAT1",
+  "gender": "m",
+  "ex_lb": "Wéi den Haaptplat zerwéiert gouf, hat ech scho keen Honger méi.",
+  "ex_en": "By the time the main course was served, I wasn't hungry any more."
+ },
+ {
+  "old": "de Wuerekuerf",
+  "en": "shopping cart",
+  "drop": true
+ },
+ {
+  "old": "d'Reductioun",
+  "en": "discount",
+  "lb": "de Rabatt",
+  "lodId": "RABATT1",
+  "gender": "m",
+  "ex_lb": "Well mer esou vill kaaft hunn, krute mer Rabatt.",
+  "ex_en": "Because we bought so much, we got a discount."
+ },
+ {
+  "old": "d'Serviette",
+  "en": "napkin",
+  "lb": "d'Zerwéit",
+  "lodId": "ZERWEIT1",
+  "gender": "f",
+  "ex_lb": "Elo ass meng Zerwéit mer schonn erëm op de Buedem gefall!",
+  "ex_en": "Now my napkin has fallen on the floor again!"
+ },
+ {
+  "old": "frühstücken",
+  "en": "to have breakfast",
+  "lb": "früstücken",
+  "lodId": "FRUSTUCKEN1",
+  "gender": "",
+  "ex_lb": "Um wéi vill Auer früstücke mer muer de Moien?",
+  "ex_en": "What time are we having breakfast tomorrow morning?"
+ },
+ {
+  "old": "servéieren",
+  "en": "to serve",
+  "lb": "zerwéieren",
+  "lodId": "ZERWEIEREN1",
+  "gender": "",
+  "ex_lb": "De Garçon huet d'Dammen um Dësch fir d'éischt zerwéiert.",
+  "ex_en": "The waiter served the ladies at the table first."
+ },
+ {
+  "old": "d'Pommes",
+  "en": "chips/fries",
+  "lb": "d'Fritt",
+  "lodId": "FRITT1",
+  "gender": "f",
+  "ex_lb": "Um Begriefnes gouf et Ham, Fritten an Zalot.",
+  "ex_en": "At the funeral there was ham, chips and salad."
+ },
+ {
+  "old": "den Owesbrout",
+  "en": "evening bread meal",
+  "drop": true
+ },
+ {
+  "old": "satt",
+  "en": "full (satiated)",
+  "lb": "sat",
+  "lodId": "SAT1",
+  "gender": "",
+  "ex_lb": "Fléif mer net méi, ech si sat!",
+  "ex_en": "Don't give me any more, I'm full!"
+ },
+ {
+  "old": "wéivill",
+  "en": "how much",
+  "drop": true
+ },
+ {
+  "old": "d'Kasséiererin",
+  "en": "cashier (woman)",
+  "lb": "d'Caissière",
+  "lodId": "CAISSIERE1",
+  "gender": "f",
+  "ex_lb": "Meng Mamm ass säit Jore Caissière vum Keeleclub.",
+  "ex_en": "My mum has been the treasurer of the skittles club for years."
+ },
+ {
+  "old": "d'Garnelen",
+  "en": "shrimp",
+  "lb": "d'Crevette",
+  "lodId": "CREVETTE1",
+  "gender": "f",
+  "ex_lb": "Ech hu mer e Risotto mat Mullen a Crevettë bestallt.",
+  "ex_en": "I ordered a risotto with mussels and prawns."
+ },
+ {
+  "old": "d'Gurk",
+  "en": "cucumber",
+  "lb": "d'Concomber",
+  "lodId": "CONCOMBER1",
+  "gender": "f",
+  "ex_lb": "Ech schielen d'Concomberen, wann ech Zalot dervu maachen.",
+  "ex_en": "I peel the cucumbers when I make a salad with them."
+ },
+ {
+  "old": "d'Pëlz",
+  "en": "mushroom",
+  "lb": "de Champignon",
+  "lodId": "CHAMPIGNON1",
+  "gender": "m",
+  "ex_lb": "De Kach hat vergiess, d'Champignonen an d'Zooss ze schneiden.",
+  "ex_en": "The cook had forgotten to slice the mushrooms into the sauce."
+ },
+ {
+  "old": "de Lauch",
+  "en": "leek",
+  "lb": "d'Porrett",
+  "lodId": "PORRETT1",
+  "gender": "f",
+  "ex_lb": "Ech hunn d'Porretten net gär.",
+  "ex_en": "I don't like leeks."
+ },
+ {
+  "old": "d'Melon",
+  "en": "melon",
+  "lb": "d'Meloun",
+  "lodId": "MELOUN1",
+  "gender": "f",
+  "ex_lb": "Als Entrée gëtt et haut Ham a Meloun.",
+  "ex_en": "Today's starter is ham and melon."
+ },
+ {
+  "old": "d'Hambier",
+  "en": "raspberry",
+  "lb": "d'Hammbier",
+  "lodId": "HAMMBIER1",
+  "gender": "f",
+  "ex_lb": "Dëst Joer waren d'Hammbiere fréi zeideg.",
+  "ex_en": "This year the raspberries were ripe early."
+ },
+ {
+  "old": "bitter",
+  "en": "bitter",
+  "lb": "batter",
+  "lodId": "BATTER1",
+  "gender": "",
+  "ex_lb": "Jidderee mécht batter Erfarungen.",
+  "ex_en": "Everyone has bitter experiences."
+ },
+ {
+  "old": "d'Rais",
+  "en": "rice",
+  "lb": "de Räis",
+  "lodId": "RAIS1",
+  "gender": "m",
+  "ex_lb": "An eise Géigende gëtt kee Räis ugeplanzt.",
+  "ex_en": "No rice is grown in our part of the world."
+ },
+ {
+  "old": "d'Konfitür",
+  "en": "jam",
+  "drop": true
+ },
+ {
+  "old": "de Müesli",
+  "en": "muesli",
+  "lb": "de Müsli",
+  "lodId": "MUSLI1",
+  "gender": "m",
+  "ex_lb": "",
+  "ex_en": ""
+ },
+ {
+  "old": "de Vinaigre",
+  "en": "vinegar",
+  "lb": "den Esseg",
+  "lodId": "ESSEG1",
+  "gender": "m",
+  "ex_lb": "Maach net ze vill Esseg an d'Zooss!",
+  "ex_en": "Don't put too much vinegar in the sauce!"
+ },
+ {
+  "old": "de Mostert",
+  "en": "mustard",
+  "lb": "de Moschter",
+  "lodId": "MOSCHTER1",
+  "gender": "m",
+  "ex_lb": "Schmier de Brot mat Moschter an!",
+  "ex_en": "Spread the bread with mustard!"
+ },
+ {
+  "old": "d'Petersëlleg",
+  "en": "parsley",
+  "lb": "de Péiterséileg",
+  "lodId": "PEITERSEILEG1",
+  "gender": "m",
+  "ex_lb": "D'Plattoe ware mat Péiterséileg garnéiert.",
+  "ex_en": "The platters were garnished with parsley."
+ },
+ {
+  "old": "de Steak",
+  "en": "steak",
+  "lb": "de Bifdeck",
+  "lodId": "BIFDECK1",
+  "gender": "m",
+  "ex_lb": "Ech brode mer heiansdo e gudde säftege Bifdeck.",
+  "ex_en": "I sometimes fry myself a good juicy steak."
+ },
+ {
+  "old": "den Omelett",
+  "en": "omelette",
+  "lb": "d'Omlett",
+  "lodId": "OMLETT1",
+  "gender": "f",
+  "ex_lb": "Soll ech eis den Owend eng Omlett mat Champignone maachen?",
+  "ex_en": "Shall I make us a mushroom omelette tonight?"
+ },
+ {
+  "old": "d'Crêpe",
+  "en": "crepe/pancake",
+  "lb": "de Paangech",
+  "lodId": "PAANGECH1",
+  "gender": "m",
+  "ex_lb": "Ech hätt emol erëm Loscht op eng Geméiszopp mat Paangecher!",
+  "ex_en": "I'd love a vegetable soup with pancakes again!"
+ },
+ {
+  "old": "d'Aeppeltaart",
+  "en": "apple tart",
+  "lb": "d'Äppeltaart",
+  "lodId": "APPELTAART1",
+  "gender": "f",
+  "ex_lb": "D'Kanner hunn eng Äppeltaart mat Äppel aus dem Bongert gebak.",
+  "ex_en": "The children baked an apple tart with apples from the orchard."
+ },
+ {
+  "old": "de Gromperestamp",
+  "en": "mashed potatoes",
+  "lb": "de Gromperepüree",
+  "lodId": "GROMPEREPUREE1",
+  "gender": "m",
+  "ex_lb": "Ech maachen ëmmer e bësse Muskat an de Gromperepüree.",
+  "ex_en": "I always put a bit of nutmeg in the mashed potatoes."
+ },
+ {
+  "old": "de Crémant",
+  "en": "sparkling wine",
+  "lb": "de Cremant",
+  "lodId": "CREMANT1",
+  "gender": "m",
+  "ex_lb": "Soll ech eis nach zwee Cremante bestellen?",
+  "ex_en": "Shall I order us two more glasses of crémant?"
+ },
+ {
+  "old": "de Brett",
+  "en": "cutting board",
+  "lb": "d'Brietchen",
+  "lodId": "BRIETCHEN1",
+  "gender": "n",
+  "ex_lb": "De Kach huet d'Brietchen erausgeholl, fir d'Ënnen drop ze schneiden.",
+  "ex_en": "The cook took out the chopping board to cut the onions on it."
+ },
+ {
+  "old": "de Congélateur",
+  "en": "freezer",
+  "lb": "d'Killtru",
+  "lodId": "KILLTRU1",
+  "gender": "f",
+  "ex_lb": "Huel d'Fleesch scho mueres fréi aus der Killtru!",
+  "ex_en": "Take the meat out of the freezer early in the morning!"
+ },
+ {
+  "old": "de Pot",
+  "en": "jar/pot",
+  "lb": "d'Dëppen",
+  "lodId": "DEPPEN1",
+  "gender": "n",
+  "ex_lb": "D'Käche kacht d'Geméiszopp an engem groussen Dëppen.",
+  "ex_en": "The cook makes the vegetable soup in a big pot."
+ },
+ {
+  "old": "d'Kanne",
+  "en": "jug",
+  "lb": "de Krou",
+  "lodId": "KROU1",
+  "gender": "m",
+  "ex_lb": "De Krou ass erofgefall a gebrach.",
+  "ex_en": "The jug fell down and broke."
+ },
+ {
+  "old": "d'Backwueren",
+  "en": "baked goods",
+  "drop": true
+ },
+ {
+  "old": "d'Beilag",
+  "en": "side dish",
+  "lb": "d'Bäiluecht",
+  "lodId": "BAILUECHT1",
+  "gender": "f",
+  "ex_lb": "Wëllt Der Räis oder Fritten als Bäiluecht?",
+  "ex_en": "Would you like rice or chips as a side?"
+ },
+ {
+  "old": "d'Cantine",
+  "en": "canteen",
+  "lb": "d'Kantin",
+  "lodId": "KANTIN1",
+  "gender": "f",
+  "ex_lb": "D'Schüler ginn all Dag an d'Kantin.",
+  "ex_en": "The pupils go to the canteen every day."
+ },
+ {
+  "old": "de Goûter",
+  "en": "afternoon snack",
+  "drop": true
+ },
+ {
+  "old": "de Kolleg",
+  "en": "colleague",
+  "lb": "de Kolleeg",
+  "lodId": "KOLLEEG1",
+  "gender": "m",
+  "ex_lb": "De Weekend fueren ech mat engem Kolleeg an d'Vakanz.",
+  "ex_en": "At the weekend I'm going on holiday with a colleague."
+ },
+ {
+  "old": "de Léierer",
+  "en": "teacher",
+  "lb": "den Enseignant",
+  "lodId": "ENSEIGNANT1",
+  "gender": "m",
+  "ex_lb": "Mäi Brudder ass Enseignant.",
+  "ex_en": "My brother is a teacher."
+ },
+ {
+  "old": "d'Suen ofhiewen",
+  "en": "to withdraw money",
+  "drop": true
+ },
+ {
+  "old": "de Krédit",
+  "en": "loan",
+  "lb": "de Kredit",
+  "lodId": "KREDIT1",
+  "gender": "m",
+  "ex_lb": "D'Bank huet eis de Kredit fir eisen neien Auto accordéiert.",
+  "ex_en": "The bank granted us the loan for our new car."
+ },
+ {
+  "old": "de Concurrent",
+  "en": "competitor",
+  "lb": "de Konkurrent",
+  "lodId": "KONKURRENT1",
+  "gender": "m",
+  "ex_lb": "Wann ee kee Konkurrent huet, ass ee Meeschter um Maart.",
+  "ex_en": "If you have no competitor, you rule the market."
+ },
+ {
+  "old": "de Contrat",
+  "en": "contract",
+  "lb": "de Kontrakt",
+  "lodId": "KONTRAKT1",
+  "gender": "m",
+  "ex_lb": "Mir hunn de Kontrakt haut ënnerschriwwen a fortgeschéckt.",
+  "ex_en": "We signed the contract today and sent it off."
+ },
+ {
+  "old": "de Secrétaire",
+  "en": "secretary",
+  "lb": "de Sekretär",
+  "lodId": "SEKRETAR1",
+  "gender": "m",
+  "ex_lb": "D'Directrice diktéiert grad hirem Sekretär e Bréif.",
+  "ex_en": "The director is dictating a letter to her secretary."
+ },
+ {
+  "old": "d'Candidature",
+  "en": "application",
+  "lb": "d'Kandidatur",
+  "lodId": "KANDIDATUR1",
+  "gender": "f",
+  "ex_lb": "D'Kandidature musse virum 1. Mee ageschéckt ginn.",
+  "ex_en": "Applications must be sent in before 1 May."
+ },
+ {
+  "old": "d'Plicht",
+  "en": "duty",
+  "lb": "d'Flicht",
+  "lodId": "FLICHT1",
+  "gender": "f",
+  "ex_lb": "All Bierger huet Rechter a Flichten.",
+  "ex_en": "Every citizen has rights and duties."
+ },
+ {
+  "old": "d'These",
+  "en": "thesis",
+  "lb": "d'Thees",
+  "lodId": "THEES1",
+  "gender": "f",
+  "ex_lb": "A sengem neie Buch vertrëtt den Auteur nationalistesch Theesen.",
+  "ex_en": "In his new book the author argues nationalist theses."
+ },
+ {
+  "old": "erkläeren",
+  "en": "to explain",
+  "lb": "erklären",
+  "lodId": "ERKLAREN1",
+  "gender": "",
+  "ex_lb": "Erklär eis dat emol an aller Rou!",
+  "ex_en": "Explain it to us calmly!"
+ },
+ {
+  "old": "iwwen",
+  "en": "to practise",
+  "lb": "üben",
+  "lodId": "UBEN1",
+  "gender": "",
+  "ex_lb": "Ech hu jorelaang um Piano misse Gammen üben.",
+  "ex_en": "For years I had to practise scales on the piano."
+ },
+ {
+  "old": "d'Iwwung",
+  "en": "exercise",
+  "lb": "d'Übung",
+  "lodId": "UBUNG1",
+  "gender": "f",
+  "ex_lb": "An deem Beräich hunn ech keng Übung.",
+  "ex_en": "I have no experience in that area."
+ },
+ {
+  "old": "de Contrat ënnerschreiwen",
+  "en": "to sign a contract",
+  "drop": true
+ },
+ {
+  "old": "de Piloot",
+  "en": "pilot",
+  "lb": "de Pilot",
+  "lodId": "PILOT1",
+  "gender": "m",
+  "ex_lb": "Virum Start iwwerpréift de Pilot d'Instrumenter am Cockpit.",
+  "ex_en": "Before take-off the pilot checks the instruments in the cockpit."
+ },
+ {
+  "old": "de Concurrence",
+  "en": "competition",
+  "lb": "d'Konkurrenz",
+  "lodId": "KONKURRENZ1",
+  "gender": "f",
+  "ex_lb": "D'Konkurrenz ass gutt fir d'Geschäft.",
+  "ex_en": "Competition is good for business."
+ },
+ {
+  "old": "de Stipendium",
+  "en": "scholarship",
+  "drop": true
+ },
+ {
+  "old": "d'Tickett",
+  "en": "the ticket",
+  "lb": "den Ticket",
+  "lodId": "TICKET1",
+  "gender": "m",
+  "ex_lb": "Mir hunn eis Tickete fir an de Kino doheem leie gelooss!",
+  "ex_en": "We left our cinema tickets at home!"
+ },
+ {
+  "old": "de Métro",
+  "en": "the metro",
+  "lb": "de Metro",
+  "lodId": "METRO1",
+  "gender": "m",
+  "ex_lb": "Mir hunn de leschte Metro verpasst.",
+  "ex_en": "We missed the last metro."
+ },
+ {
+  "old": "erausklamen",
+  "en": "to get off",
+  "lb": "erausklammen",
+  "lodId": "ERAUSKLAMMEN1",
+  "gender": "",
+  "ex_lb": "Déi meescht Leit si virun der Gare erausgeklommen.",
+  "ex_en": "Most people got off in front of the station."
+ },
+ {
+  "old": "ëmklamen",
+  "en": "to change (trains)",
+  "drop": true
+ },
+ {
+  "old": "de Bushaff",
+  "en": "the bus stop",
+  "lb": "d'Bushaltestell",
+  "lodId": "BUSHALTESTELL1",
+  "gender": "f",
+  "ex_lb": "Op dëser Bushaltestell hale sechs Linne stall.",
+  "ex_en": "Six lines stop at this bus stop."
+ },
+ {
+  "old": "d'Ampel",
+  "en": "the traffic light",
+  "lb": "d'Luucht",
+  "lodId": "LUUCHT1",
+  "gender": "f",
+  "ex_lb": "Bei den Noperen ass nach Luucht.",
+  "ex_en": "The neighbours still have their light on."
+ },
+ {
+  "old": "d'Mairie",
+  "en": "the town hall",
+  "lb": "d'Stadhaus",
+  "lodId": "STADHAUS1",
+  "gender": "n",
+  "ex_lb": "De Buergermeeschter huet d'Éieregäscht am Stadhaus empfaangen.",
+  "ex_en": "The mayor received the guests of honour at the town hall."
+ },
+ {
+  "old": "d'Alzette",
+  "en": "the Alzette (river)",
+  "lb": "Uelzecht",
+  "lodId": "UELZECHT1",
+  "gender": "",
+  "ex_lb": "D'Uelzecht leeft zu Ettelbréck an d'Sauer.",
+  "ex_en": "The Alzette flows into the Sauer at Ettelbruck."
+ },
+ {
+  "old": "d'Sprangprëssioun",
+  "en": "the dancing procession",
+  "lb": "Sprangpressessioun",
+  "lodId": "SPRANGPRESSESSIOUN1",
+  "gender": "",
+  "ex_lb": "Vill Touriste kommen all Joer d'Sprangpressessioun kucken.",
+  "ex_en": "Many tourists come every year to watch the dancing procession."
+ },
+ {
+  "old": "de Crémant",
+  "en": "the Crémant (sparkling wine)",
+  "lb": "de Cremant",
+  "lodId": "CREMANT1",
+  "gender": "m",
+  "ex_lb": "Soll ech eis nach zwee Cremante bestellen?",
+  "ex_en": "Shall I order us two more glasses of crémant?"
+ },
+ {
+  "old": "België",
+  "en": "Belgium",
+  "lb": "Belsch",
+  "lodId": "BELSCH1",
+  "gender": "",
+  "ex_lb": "Ech kommen aus der Belsch.",
+  "ex_en": "I come from Belgium."
+ },
+ {
+  "old": "de Frantséis",
+  "en": "the Frenchman",
+  "drop": true
+ },
+ {
+  "old": "den Italiener",
+  "en": "the Italian",
+  "lb": "den Italieener",
+  "lodId": "ITALIEENER1",
+  "gender": "m",
+  "ex_lb": "Mäi beschte Frënd ass Italieener.",
+  "ex_en": "My best friend is Italian."
+ },
+ {
+  "old": "den Asseur",
+  "en": "the lift",
+  "lb": "de Lift",
+  "lodId": "LIFT1",
+  "gender": "m",
+  "ex_lb": "Ech fäerten, fir mam Lift ze fueren.",
+  "ex_en": "I'm afraid of taking the lift."
+ },
+ {
+  "old": "de Bankomat",
+  "en": "the cash machine",
+  "lb": "de Bancomat",
+  "lodId": "BANCOMAT1",
+  "gender": "m",
+  "ex_lb": "De Bancomat huet meng Kaart agehalen.",
+  "ex_en": "The cash machine swallowed my card."
+ },
+ {
+  "old": "d'Tal",
+  "en": "the valley",
+  "lb": "den Dall",
+  "lodId": "DALL1",
+  "gender": "m",
+  "ex_lb": "D'Sonn schéngt iwwer Bierg an Dall.",
+  "ex_en": "The sun shines over hill and dale."
+ },
+ {
+  "old": "de Zebrasträif",
+  "en": "the zebra crossing",
+  "lb": "den Zeebrasträifen",
+  "lodId": "ZEEBRASTRAIFEN1",
+  "gender": "m",
+  "ex_lb": "Et däerf ee mat sengem Auto net um Zeebrasträife stoe bleiwen.",
+  "ex_en": "You mustn't stop your car on the zebra crossing."
+ },
+ {
+  "old": "zréck",
+  "en": "back",
+  "lb": "zeréck",
+  "lodId": "ZERECK1",
+  "gender": "",
+  "ex_lb": "Fir dohin hu mer de Bus geholl, fir zeréck si mer zu Fouss gaangen.",
+  "ex_en": "We took the bus there and walked back."
+ },
+ {
+  "old": "folgen",
+  "en": "to follow",
+  "lb": "nogoen",
+  "lodId": "NOGOEN1",
+  "gender": "",
+  "ex_lb": "Gitt him no, hie kennt de Wee!",
+  "ex_en": "Follow him, he knows the way!"
+ },
+ {
+  "old": "d'Altstad",
+  "en": "the old town",
+  "lb": "d'Alstad",
+  "lodId": "ALSTAD1",
+  "gender": "f",
+  "ex_lb": "D'Alstad ass ënner anerem fir hir Festungsmauere bekannt.",
+  "ex_en": "The old town is known, among other things, for its fortress walls."
+ },
+ {
+  "old": "mieden",
+  "en": "to rent",
+  "lb": "lounen",
+  "lodId": "LOUNEN1",
+  "gender": "",
+  "ex_lb": "Déi jonk Koppel iwwerleet, ob si en Appartement soll kafen oder lounen.",
+  "ex_en": "The young couple are thinking about whether to buy or rent a flat."
+ },
+ {
+  "old": "den Hiesch",
+  "en": "deer/stag",
+  "lb": "den Hirsch",
+  "lodId": "HIRSCH2",
+  "gender": "m",
+  "ex_lb": "Vill Leit verwiesselen den Hirsch mam Réibock.",
+  "ex_en": "Many people confuse the red deer with the roebuck."
+ },
+ {
+  "old": "de Frosch",
+  "en": "frog",
+  "lb": "de Fräsch",
+  "lodId": "FRASCH1",
+  "gender": "m",
+  "ex_lb": "An eisem Weier sinn dëst Joer vill Fräschen.",
+  "ex_en": "There are lots of frogs in our pond this year."
+ },
+ {
+  "old": "den Eekuerf",
+  "en": "squirrel",
+  "lb": "d'Kaweechelchen",
+  "lodId": "KAWEECHELCHEN2",
+  "gender": "n",
+  "ex_lb": "Hien ass flénk ewéi e Kaweechelchen.",
+  "ex_en": "He is as quick as a squirrel."
+ },
+ {
+  "old": "d'Gewidder",
+  "en": "thunderstorm",
+  "lb": "d'Donnerwieder",
+  "lodId": "DONNERWIEDER1",
+  "gender": "n",
+  "ex_lb": "Hënt war e schwéiert Donnerwieder, et huet un engem Stéck gedonnert a geblëtzt.",
+  "ex_en": "There was a heavy thunderstorm last night, it thundered and lightninged non-stop."
+ },
+ {
+  "old": "wollekeg",
+  "en": "cloudy",
+  "lb": "bedeckt",
+  "lodId": "BEDECKT1",
+  "gender": "",
+  "ex_lb": "Et ass bedeckt, géi net ouni Prabbeli eraus!",
+  "ex_en": "It's overcast, don't go out without an umbrella!"
+ },
+ {
+  "old": "d'Neijoer",
+  "en": "New Year",
+  "drop": true
+ },
+ {
+  "old": "de Karneval",
+  "en": "carnival",
+  "lb": "d'Fuesent",
+  "lodId": "FUESENT1",
+  "gender": "f",
+  "ex_lb": "Mir hu fir d'Fuesent eng Woch Vakanz.",
+  "ex_en": "We have a week's holiday for carnival."
+ },
+ {
+  "old": "de Velo",
+  "en": "bicycle",
+  "lb": "de Vëlo",
+  "lodId": "VELO1",
+  "gender": "m",
+  "ex_lb": "D'viischt Rad vu mengem Vëlo huet eng Aachtchen.",
+  "ex_en": "The front wheel of my bike is buckled."
+ },
+ {
+  "old": "de Schwammbad",
+  "en": "swimming pool",
+  "lb": "d'Schwämm",
+  "lodId": "SCHWAMM1",
+  "gender": "f",
+  "ex_lb": "D'Fassad vun der Schwämm muss frëschgemaach ginn.",
+  "ex_en": "The façade of the swimming pool needs to be redone."
+ },
+ {
+  "old": "de Garten",
+  "en": "garden",
+  "lb": "de Gaart",
+  "lodId": "GAART1",
+  "gender": "m",
+  "ex_lb": "Mir hunn hannenaus e grousse Gaart.",
+  "ex_en": "We have a big garden at the back."
+ },
+ {
+  "old": "d'Gitar",
+  "en": "guitar",
+  "lb": "d'Gittar",
+  "lodId": "GITTAR1",
+  "gender": "f",
+  "ex_lb": "Eist Meedche spillt stonnelaang op senger Gittar.",
+  "ex_en": "Our daughter plays her guitar for hours."
+ },
+ {
+  "old": "de Stréckstoff",
+  "en": "knitting",
+  "lb": "d'Stréck",
+  "lodId": "STRECK4",
+  "gender": "f",
+  "ex_lb": "Géi net u meng Stréck, soss léiss de mer nach Masche falen!",
+  "ex_en": "Don't touch my knitting, or you'll make me drop stitches!"
+ },
+ {
+  "old": "den Owesstär",
+  "en": "evening star",
+  "drop": true
+ },
+ {
+  "old": "d'Sonnestralen",
+  "en": "sunshine/sun rays",
+  "drop": true
+ },
+ {
+  "old": "de Mëttesdag",
+  "en": "lunchtime",
+  "lb": "de Mëtteg",
+  "lodId": "METTEG1",
+  "gender": "m",
+  "ex_lb": "Et ass Mëtteg.",
+  "ex_en": "It's noon."
+ },
+ {
+  "old": "den Auerenzäiger",
+  "en": "clock hand",
+  "drop": true
+ },
+ {
+  "old": "d'Beier",
+  "en": "berry",
+  "drop": true
+ },
+ {
+  "old": "de Spruss",
+  "en": "sprout/shoot",
+  "lb": "d'Kéng",
+  "lodId": "KENG2",
+  "gender": "f",
+  "ex_lb": "Mir mussen d'Gromperen ewechgeheien, well se schonn elauter Kéngen hunn.",
+  "ex_en": "We have to throw the potatoes away because they're all sprouting."
+ },
+ {
+  "old": "d'Hochzäitsfeier",
+  "en": "wedding party",
+  "drop": true
+ },
+ {
+  "old": "d'Prozessioun",
+  "en": "procession",
+  "lb": "d'Pressessioun",
+  "lodId": "PRESSESSIOUN1",
+  "gender": "f",
+  "ex_lb": "Am ganzen Duerf waren d'Kapelle fir d'Pressessioun gerëscht.",
+  "ex_en": "In the whole village the chapels were decorated for the procession."
+ },
+ {
+  "old": "d'Geschenkpäckelchen",
+  "en": "gift parcel",
+  "drop": true
+ },
+ {
+  "old": "de Feierwierk",
+  "en": "fireworks",
+  "lb": "d'Freedefeier",
+  "lodId": "FREEDEFEIER1",
+  "gender": "n",
+  "ex_lb": "Mir ginn all Joer um Virowend vum Nationalfeierdag d'Freedefeier kucken.",
+  "ex_en": "Every year on the eve of National Day we go and watch the fireworks."
+ },
+ {
+  "old": "den Tor",
+  "en": "goal",
+  "lb": "de Gol",
+  "lodId": "GOL1",
+  "gender": "m",
+  "ex_lb": "Wien ass am Gol?",
+  "ex_en": "Who's in goal?"
+ },
+ {
+  "old": "d'Medaille",
+  "en": "medal",
+  "lb": "d'Medail",
+  "lodId": "MEDAIL1",
+  "gender": "f",
+  "ex_lb": "Déi fräiwëlleg Mataarbechter krute fir hiren Asaz eng Medail.",
+  "ex_en": "The volunteers got a medal for their commitment."
+ },
+ {
+  "old": "flunn",
+  "en": "to fly",
+  "lb": "fléien",
+  "lodId": "FLEIEN1",
+  "gender": "",
+  "ex_lb": "D'Schmuebele fléien héich iwwer den Haiser.",
+  "ex_en": "The swallows fly high above the houses."
+ },
+ {
+  "old": "wéivill",
+  "en": "how much/many",
+  "drop": true
+ },
+ {
+  "old": "wéieng",
+  "en": "which",
+  "drop": true
+ },
+ {
+  "old": "während",
+  "en": "while, during",
+  "lb": "wärend",
+  "lodId": "WAREND2",
+  "gender": "",
+  "ex_lb": "Wärend ech den Deeg maachen, kanns du d'Geméis schneiden.",
+  "ex_en": "While I make the dough, you can chop the vegetables."
+ },
+ {
+  "old": "weg",
+  "en": "away, gone",
+  "lb": "fort",
+  "lodId": "FORT1",
+  "gender": "",
+  "ex_lb": "De Bus ass scho fort, mir huelen deen nächsten!",
+  "ex_en": "The bus has already gone, we'll take the next one!"
+ },
+ {
+  "old": "zréck",
+  "en": "back",
+  "lb": "zeréck",
+  "lodId": "ZERECK1",
+  "gender": "",
+  "ex_lb": "Fir dohin hu mer de Bus geholl, fir zeréck si mer zu Fouss gaangen.",
+  "ex_en": "We took the bus there and walked back."
+ },
+ {
+  "old": "danken",
+  "en": "to thank",
+  "lb": "sech bedanken",
+  "lodId": "BEDANKEN1",
+  "gender": "",
+  "ex_lb": "De President huet sech häerzlech bei senge Mataarbechter bedankt.",
+  "ex_en": "The president warmly thanked his staff."
+ },
+ {
+  "old": "erkläeren",
+  "en": "to explain",
+  "lb": "erklären",
+  "lodId": "ERKLAREN1",
+  "gender": "",
+  "ex_lb": "Erklär eis dat emol an aller Rou!",
+  "ex_en": "Explain it to us calmly!"
+ },
+ {
+  "old": "arbechten",
+  "en": "to work, labor",
+  "lb": "schaffen",
+  "lodId": "SCHAFFEN3",
+  "gender": "",
+  "ex_lb": "Ech hunn de ganzen Dag am Gaart geschafft.",
+  "ex_en": "I worked in the garden all day."
+ },
+ {
+  "old": "zimlech",
+  "en": "rather, quite",
+  "lb": "zimmlech",
+  "lodId": "ZIMMLECH1",
+  "gender": "",
+  "ex_lb": "Haut ass zimmlech vill Loft dobaussen.",
+  "ex_en": "It's quite windy outside today."
+ },
+ {
+  "old": "héisslech",
+  "en": "ugly",
+  "lb": "ellen",
+  "lodId": "ELLEN1",
+  "gender": "",
+  "ex_lb": "„katzen“ ass en ellent Wuert!",
+  "ex_en": "\"Katzen\" is an ugly word!"
+ },
+ {
+  "old": "gefährlech",
+  "en": "dangerous",
+  "lb": "geféierlech",
+  "lodId": "GEFEIERLECH1",
+  "gender": "",
+  "ex_lb": "Wann een an e Krisegebitt schaffe geet, lieft ee geféierlech.",
+  "ex_en": "If you go to work in a crisis zone, you live dangerously."
+ },
+ {
+  "old": "houngereg",
+  "en": "hungry",
+  "lb": "hongereg",
+  "lodId": "HONGEREG1",
+  "gender": "",
+  "ex_lb": "Nom Schwamme sinn d'Kanner ëmmer hongereg.",
+  "ex_en": "After swimming the children are always hungry."
+ },
+ {
+  "old": "fast",
+  "en": "almost",
+  "lb": "quasi",
+  "lodId": "QUASI1",
+  "gender": "",
+  "ex_lb": "Hautdesdaags huet quasi jiddereen en Handy.",
+  "ex_en": "Nowadays almost everyone has a mobile phone."
+ },
+ {
+  "old": "absolutt",
+  "en": "absolutely",
+  "lb": "absolut",
+  "lodId": "ABSOLUT2",
+  "gender": "",
+  "ex_lb": "Du hues absolut Recht!",
+  "ex_en": "You're absolutely right!"
+ },
+ {
+  "old": "d'Tradition",
+  "en": "tradition",
+  "lb": "d'Traditioun",
+  "lodId": "TRADITIOUN1",
+  "gender": "f",
+  "ex_lb": "Allerhellege gi vill Leit just aus Traditioun op d'Griewer.",
+  "ex_en": "On All Saints' Day many people visit the graves just out of tradition."
+ },
+ {
+  "old": "d'Reliéioun",
+  "en": "religion",
+  "lb": "d'Relioun",
+  "lodId": "RELIOUN1",
+  "gender": "f",
+  "ex_lb": "Verschidde Relioune schreiwen eng Faaschtenzäit vir.",
+  "ex_en": "Some religions prescribe a period of fasting."
+ },
+ {
+  "old": "d'Wahlen",
+  "en": "elections",
+  "lb": "d'Wal",
+  "lodId": "WAL1",
+  "gender": "f",
+  "ex_lb": "Déi nei Partei huet bei de Walen eelef Prozent vun de Stëmme kritt.",
+  "ex_en": "The new party got eleven percent of the vote in the elections."
+ },
+ {
+  "old": "eropueden",
+  "en": "to upload",
+  "lb": "eroplueden",
+  "lodId": "EROPLUEDEN1",
+  "gender": "",
+  "ex_lb": "Ass nach genuch Plaz op eisem Server, fir deen décke Fichier eropzelueden?",
+  "ex_en": "Is there still enough space on our server to upload that big file?"
+ },
+ {
+  "old": "d'Liige",
+  "en": "lie",
+  "lb": "d'Ligen",
+  "lodId": "LIGEN1",
+  "gender": "f",
+  "ex_lb": "Mat Lige kënnt een net wäit.",
+  "ex_en": "Lies won't get you far."
+ },
+ {
+  "old": "d'Glécks",
+  "en": "luck",
+  "lb": "d'Gléck",
+  "lodId": "GLECK1",
+  "gender": "n",
+  "ex_lb": "Et kann ee keen zu sengem Gléck zwéngen!",
+  "ex_en": "You can't force anyone to be happy!"
+ },
+ {
+  "old": "d'Mengung",
+  "en": "opinion",
+  "lb": "d'Meenung",
+  "lodId": "MEENUNG1",
+  "gender": "f",
+  "ex_lb": "Ech loossen hie bei senger Meenung.",
+  "ex_en": "I'll leave him to his opinion."
+ },
+ {
+  "old": "Wann ech glift",
+  "en": "please",
+  "lb": "wannechgelift",
+  "lodId": "WANNECHGELIFT1",
+  "gender": "",
+  "ex_lb": "Wéi vill Auer ass et, wannechgelift?",
+  "ex_en": "What time is it, please?"
+ },
+ {
+  "old": "nëtzlos",
+  "en": "useless",
+  "lb": "onnëtz",
+  "lodId": "ONNETZ1",
+  "gender": "",
+  "ex_lb": "Dat war en onnëtzen Effort!",
+  "ex_en": "That was a useless effort!"
+ },
+ {
+  "old": "rëlaxt",
+  "en": "relaxed",
+  "lb": "relax",
+  "lodId": "RELAX1",
+  "gender": "",
+  "ex_lb": "Mir haten e richteg relaxe Weekend.",
+  "ex_en": "We had a really relaxed weekend."
+ },
+ {
+  "old": "zimlech",
+  "en": "quite",
+  "lb": "zimmlech",
+  "lodId": "ZIMMLECH1",
+  "gender": "",
+  "ex_lb": "Haut ass zimmlech vill Loft dobaussen.",
+  "ex_en": "It's quite windy outside today."
+ },
+ {
+  "old": "Wat gëtt et Neies?",
+  "en": "What's new?",
+  "drop": true
+ },
+ {
+  "old": "d'Suchmaschinn",
+  "en": "search engine",
+  "lb": "d'Sichmaschinn",
+  "lodId": "SICHMASCHINN1",
+  "gender": "f",
+  "ex_lb": "Wéi eng Sichmaschinn benotz du, wann s de Recherchen am Internet méchs?",
+  "ex_en": "Which search engine do you use when you do research on the internet?"
+ },
+ {
+  "old": "Forschung",
+  "en": "research",
+  "lb": "Fuerschung",
+  "lodId": "FUERSCHUNG1",
+  "gender": "f",
+  "ex_lb": "Allgemeng muss méi an d'Fuerschung investéiert ginn.",
+  "ex_en": "In general, more needs to be invested in research."
+ },
+ {
+  "old": "Hypothes",
+  "en": "hypothesis",
+  "lb": "Hypothees",
+  "lodId": "HYPOTHEES1",
+  "gender": "f",
+  "ex_lb": "Seng Theorie berout op elauter Hypotheesen.",
+  "ex_en": "His theory rests entirely on hypotheses."
+ },
+ {
+  "old": "Schlussfolgerung",
+  "en": "conclusion",
+  "lb": "Schlussfollgerung",
+  "lodId": "SCHLUSSFOLLGERUNG1",
+  "gender": "f",
+  "ex_lb": "D'Affekotin an de Riichter sinn zu där selwechter Schlussfollgerung komm.",
+  "ex_en": "The lawyer and the judge came to the same conclusion."
+ },
+ {
+  "old": "Molekül",
+  "en": "molecule",
+  "lb": "Moleküll",
+  "lodId": "MOLEKULL1",
+  "gender": "f",
+  "ex_lb": "Et brauch een e Mikroskop, fir d'Moleküllen ze gesinn.",
+  "ex_en": "You need a microscope to see molecules."
+ },
+ {
+  "old": "Strahlung",
+  "en": "radiation",
+  "lb": "Stralung",
+  "lodId": "STRALUNG1",
+  "gender": "f",
+  "ex_lb": "D'radioaktiv Stralung ass schiedlech fir de Mënsch.",
+  "ex_en": "Radioactive radiation is harmful to humans."
+ },
+ {
+  "old": "Verdrag",
+  "en": "treaty, contract",
+  "lb": "Vertrag",
+  "lodId": "VERTRAG1",
+  "gender": "m",
+  "ex_lb": "Mir hunn de Vertrag mat der Botzfirma gekënnegt.",
+  "ex_en": "We cancelled the contract with the cleaning company."
+ },
+ {
+  "old": "Rechtsanwalt",
+  "en": "attorney-at-law",
+  "lb": "Affekot",
+  "lodId": "AFFEKOT1",
+  "gender": "m",
+  "ex_lb": "Den Affekot verteidegt säi Client viru Geriicht.",
+  "ex_en": "The lawyer defends his client in court."
+ },
+ {
+  "old": "Blutdrock",
+  "en": "blood pressure",
+  "lb": "Bluttdrock",
+  "lodId": "BLUTTDROCK1",
+  "gender": "m",
+  "ex_lb": "D'Doktesch huet dem Blesséierten de Bols geholl an de Bluttdrock gemooss.",
+  "ex_en": "The doctor took the injured man's pulse and measured his blood pressure."
+ },
+ {
+  "old": "Knach",
+  "en": "bone",
+  "lb": "Knachen",
+  "lodId": "KNACHEN1",
+  "gender": "",
+  "ex_lb": "Wéi d'Haus ofgerappt gouf, goufen al Knachen am Buedem fonnt.",
+  "ex_en": "When the house was demolished, old bones were found in the ground."
+ },
+ {
+  "old": "Schäerflëschten",
+  "en": "rash",
+  "lb": "Ausschlag",
+  "lodId": "AUSSCHLAG1",
+  "gender": "m",
+  "ex_lb": "D'Patientin huet en Ausschlag um Been.",
+  "ex_en": "The patient has a rash on her leg."
+ },
+ {
+  "old": "Müdegkeet",
+  "en": "fatigue, tiredness",
+  "lb": "Middegkeet",
+  "lodId": "MIDDEGKEET1",
+  "gender": "f",
+  "ex_lb": "D'Kanner behale vun elauter Middegkeet d'Aen net méi op.",
+  "ex_en": "The children are so tired they can't keep their eyes open."
+ },
+ {
+  "old": "Bouk",
+  "en": "beech",
+  "lb": "Bich",
+  "lodId": "BICH1",
+  "gender": "f",
+  "ex_lb": "Hanner der Kierch stinn dräi grouss Bichen.",
+  "ex_en": "Three big beeches stand behind the church."
+ },
+ {
+  "old": "Birk",
+  "en": "birch",
+  "lb": "Bierk",
+  "lodId": "BIERK1",
+  "gender": "f",
+  "ex_lb": "D'Gemengegäertner hu Bierke laanscht de Wee geplanzt.",
+  "ex_en": "The municipal gardeners planted birches along the path."
+ },
+ {
+  "old": "Eechhärnchen",
+  "en": "squirrel",
+  "lb": "Kaweechelchen",
+  "lodId": "KAWEECHELCHEN2",
+  "gender": "n",
+  "ex_lb": "Hien ass flénk ewéi e Kaweechelchen.",
+  "ex_en": "He is as quick as a squirrel."
+ },
+ {
+  "old": "Hiesch",
+  "en": "deer, stag",
+  "lb": "Hirsch",
+  "lodId": "HIRSCH2",
+  "gender": "m",
+  "ex_lb": "Vill Leit verwiesselen den Hirsch mam Réibock.",
+  "ex_en": "Many people confuse the red deer with the roebuck."
+ },
+ {
+  "old": "Schwalm",
+  "en": "swallow",
+  "lb": "Schmuewel",
+  "lodId": "SCHMUEWEL1",
+  "gender": "f",
+  "ex_lb": "Wann d'Schmuewelen déif fléien, da gëtt et gewéinlech Reen.",
+  "ex_en": "When swallows fly low, it usually rains."
+ },
+ {
+  "old": "Spuetz",
+  "en": "sparrow",
+  "lb": "Spatz",
+  "lodId": "SPATZ1",
+  "gender": "m",
+  "ex_lb": "D'Spatze picken un den Hénger hirem Fudder.",
+  "ex_en": "The sparrows peck at the hens' feed."
+ },
+ {
+  "old": "Eemes",
+  "en": "ant",
+  "lb": "Seejomes",
+  "lodId": "SEEJOMES1",
+  "gender": "f",
+  "ex_lb": "Ënner dem Fënsterbriet haust eng Kolonie Seejomessen.",
+  "ex_en": "A colony of ants lives under the window sill."
+ },
+ {
+  "old": "Imm",
+  "en": "bee",
+  "lb": "Bei",
+  "lodId": "BEI1",
+  "gender": "f",
+  "ex_lb": "Héier emol, wéi d'Beie summen!",
+  "ex_en": "Listen to the bees buzzing!"
+ },
+ {
+  "old": "Schleck",
+  "en": "snail",
+  "lb": "Schleek",
+  "lodId": "SCHLEEK1",
+  "gender": "m",
+  "ex_lb": "De Schleek zitt d'Haren an, wann een se upéckt.",
+  "ex_en": "The snail pulls in its horns when you touch it."
+ },
+ {
+  "old": "Brennëssel",
+  "en": "nettle",
+  "lb": "Brennnessel",
+  "lodId": "BRENNNESSEL1",
+  "gender": "f",
+  "ex_lb": "Et deet net gutt, wann s de an d'Brennnessele fäls.",
+  "ex_en": "It's no fun falling into the nettles."
+ },
+ {
+  "old": "Klee",
+  "en": "clover",
+  "lb": "Kléi",
+  "lodId": "KLEI1",
+  "gender": "m",
+  "ex_lb": "Dreif d'Kéi aus dem Kléi!",
+  "ex_en": "Drive the cows out of the clover!"
+ },
+ {
+  "old": "Sumpf",
+  "en": "swamp, marsh",
+  "lb": "Supp",
+  "lodId": "SUPP1",
+  "gender": "f",
+  "ex_lb": "Um Festival stoungen d'Leit bis un d'Knéien an der Supp.",
+  "ex_en": "At the festival people stood knee-deep in mud."
+ },
+ {
+  "old": "Kenntnëss",
+  "en": "knowledge, proficiency",
+  "lb": "Kenntnis",
+  "lodId": "KENNTNIS1",
+  "gender": "f",
+  "ex_lb": "Seng Kenntnisser an der Geografie sinn net déck.",
+  "ex_en": "His knowledge of geography is not great."
+ },
+ {
+  "old": "Wéimutt",
+  "en": "melancholy, wistfulness",
+  "lb": "Melancholie",
+  "lodId": "MELANCHOLIE1",
+  "gender": "f",
+  "ex_lb": "Hie gefält sech a senger Melancholie.",
+  "ex_en": "He wallows in his melancholy."
+ },
+ {
+  "old": "Sehnsucht",
+  "en": "longing, yearning",
+  "drop": true
+ },
+ {
+  "old": "Mëttleed",
+  "en": "compassion, pity",
+  "lb": "Matleed",
+  "lodId": "MATLEED1",
+  "gender": "n",
+  "ex_lb": "Huet da guer kee Matleed mat deem aarme Mann?",
+  "ex_en": "Have you no pity at all for that poor man?"
+ },
+ {
+  "old": "Gelaassenheet",
+  "en": "composure, serenity",
+  "lb": "Geloossenheet",
+  "lodId": "GELOOSSENHEET1",
+  "gender": "f",
+  "ex_lb": "Et ass ze bewonneren, mat wat fir enger Geloossenheet hien an den Exame geet.",
+  "ex_en": "It's admirable how calmly he goes into the exam."
+ },
+ {
+  "old": "Zoufriddenheet",
+  "en": "contentment",
+  "drop": true
+ },
+ {
+  "old": "Treei",
+  "en": "loyalty, faithfulness",
+  "lb": "Loyalitéit",
+  "lodId": "LOYALITEIT1",
+  "gender": "f",
+  "ex_lb": "De Chef verlaangt absolut Loyalitéit vu senge Mataarbechter.",
+  "ex_en": "The boss demands absolute loyalty from his staff."
+ },
+ {
+  "old": "Grafregkeet",
+  "en": "generosity",
+  "lb": "Generositéit",
+  "lodId": "GENEROSITEIT1",
+  "gender": "f",
+  "ex_lb": "D'Associatioun appelléiert un d'Generositéit vun de Leit.",
+  "ex_en": "The association appeals to people's generosity."
+ },
+ {
+  "old": "Houfregkeet",
+  "en": "arrogance",
+  "lb": "Arroganz",
+  "lodId": "ARROGANZ1",
+  "gender": "f",
+  "ex_lb": "D'Muecht schaaft dacks eng gewëssen Arroganz.",
+  "ex_en": "Power often breeds a certain arrogance."
+ },
+ {
+  "old": "Hartnäckegkeet",
+  "en": "persistence, stubbornness",
+  "lb": "Stuerheet",
+  "lodId": "STUERHEET1",
+  "gender": "f",
+  "ex_lb": "Mat denger Stuerheet méchs de der keng Frënn!",
+  "ex_en": "You won't make any friends with your stubbornness!"
+ },
+ {
+  "old": "Oprichtegkeet",
+  "en": "sincerity",
+  "drop": true
+ },
+ {
+  "old": "ehrgäizeg",
+  "en": "ambitious",
+  "lb": "éiergäizeg",
+  "lodId": "EIERGAIZEG1",
+  "gender": "",
+  "ex_lb": "Fir et am Liewen zu eppes ze bréngen, muss een éiergäizeg sinn.",
+  "ex_en": "To get anywhere in life, you have to be ambitious."
+ },
+ {
+  "old": "neugiereg",
+  "en": "curious",
+  "lb": "virwëlzeg",
+  "lodId": "VIRWELZEG1",
+  "gender": "",
+  "ex_lb": "Sief dach net ëmmer esou virwëlzeg!",
+  "ex_en": "Don't always be so nosy!"
+ },
+ {
+  "old": "onvermeidlech",
+  "en": "inevitable",
+  "drop": true
+ },
+ {
+  "old": "schlussfolgeren",
+  "en": "to conclude, infer",
+  "drop": true
+ },
+ {
+  "old": "veruerteelen",
+  "en": "to convict, condemn",
+  "lb": "verurteelen",
+  "lodId": "VERURTEELEN1",
+  "gender": "",
+  "ex_lb": "Den Ugekloten ass fir seng Verbrieche verurteelt ginn.",
+  "ex_en": "The defendant was convicted of his crimes."
+ },
+ {
+  "old": "erforschen",
+  "en": "to research, explore",
+  "lb": "fuerschen",
+  "lodId": "FUERSCHEN1",
+  "gender": "",
+  "ex_lb": "Vill Wëssenschaftler fuerschen no engem Heelmëttel géint Aids.",
+  "ex_en": "Many scientists are researching a cure for AIDS."
+ },
+ {
+  "old": "Wahrscheinlechkeet",
+  "en": "probability",
+  "lb": "Warscheinlechkeet",
+  "lodId": "WARSCHEINLECHKEET1",
+  "gender": "f",
+  "ex_lb": "D'Warscheinlechkeet, datt se d'Abriecher kréien, ass minim.",
+  "ex_en": "The probability that they'll catch the burglars is minimal."
+ },
+ {
+  "old": "Genesung",
+  "en": "recovery, convalescence",
+  "lb": "Besserung",
+  "lodId": "BESSERUNG1",
+  "gender": "f",
+  "ex_lb": "Mam Wieder ass nach keng Besserung ze erwaarden.",
+  "ex_en": "No improvement in the weather is expected yet."
+ }
+]

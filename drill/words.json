@@ -2717,25 +2717,6 @@
 "ru": "дождь"
 },
 {
-"id": "restaurant.noun",
-"lb": "Restaurant",
-"pos": "noun",
-"gender": "m",
-"level": "A1",
-"category": "buildings",
-"en": "the restaurant",
-"lodId": "RESTAURANT1",
-"examples": [
-{
-"lb": "An deem klenge Restaurant kritt ee gutt a bëlleg z'iessen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/41/41ccd0655d97d886762a30345a23ff53.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/41/41ccd0655d97d886762a30345a23ff53.m4a",
-"ru": "В этом маленьком ресторане можно вкусно и дёшево поесть."
-}
-],
-"ru": "ресторан"
-},
-{
 "id": "rucksak.noun",
 "lb": "Rucksak",
 "pos": "noun",
@@ -3394,25 +3375,6 @@
 "ru": "такси"
 },
 {
-"id": "telefon.noun",
-"lb": "Telefon",
-"pos": "noun",
-"gender": "m",
-"level": "A1",
-"category": "household",
-"en": "the telephone",
-"lodId": "TELEFON1",
-"examples": [
-{
-"lb": "Matzen an der Nuecht huet den Telefon gerabbelt.",
-"ogg": "https://lod.lu/uploads/examples/OGG/87/87b65a27cb7976585bd1fc3fe8a495e5.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/87/87b65a27cb7976585bd1fc3fe8a495e5.m4a",
-"ru": "Посреди ночи зазвонил телефон."
-}
-],
-"ru": "телефон"
-},
-{
 "id": "teller.noun",
 "lb": "Teller",
 "pos": "noun",
@@ -3563,25 +3525,6 @@
 }
 ],
 "ru": "дома"
-},
-{
-"id": "dokter.noun",
-"lb": "Dokter",
-"pos": "noun",
-"gender": "m",
-"level": "A1",
-"category": "medicine",
-"en": "doctor",
-"lodId": "DOKTER1",
-"examples": [
-{
-"lb": "An esou Fäll soll een direkt den Dokter ruffen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/df/df8b09797e2df943d296927f56941442.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/df/df8b09797e2df943d296927f56941442.m4a",
-"ru": "В таких случаях надо сразу вызывать врача."
-}
-],
-"ru": "врач"
 },
 {
 "id": "donneschdeg.noun",
@@ -4021,25 +3964,6 @@
 "ru": "неправильный"
 },
 {
-"id": "famill.noun",
-"lb": "Famill",
-"pos": "noun",
-"gender": "f",
-"level": "A1",
-"category": "family",
-"en": "family",
-"lodId": "FAMILL1",
-"examples": [
-{
-"lb": "Op der Spillplaz ware vill Famille mat klenge Kanner.",
-"ogg": "https://lod.lu/uploads/examples/OGG/56/56822146482609c33a74210a30473764.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/56/56822146482609c33a74210a30473764.m4a",
-"ru": "На детской площадке было много семей с маленькими детьми."
-}
-],
-"ru": "семья"
-},
-{
 "id": "fanger.noun",
 "lb": "Fanger",
 "pos": "noun",
@@ -4439,25 +4363,6 @@
 "ru": "очень; целый"
 },
 {
-"id": "gebuertsdag.noun",
-"lb": "Gebuertsdag",
-"pos": "noun",
-"gender": "m",
-"level": "A1",
-"category": "ages",
-"en": "birthday",
-"lodId": "GEBUERTSDAG1",
-"examples": [
-{
-"lb": "Ech sinn dëse Weekend op zwee Gebuertsdeeg invitéiert.",
-"ogg": "https://lod.lu/uploads/examples/OGG/b1/b1afd0b52fa8aa4c1103303b92e835a9.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/b1/b1afd0b52fa8aa4c1103303b92e835a9.m4a",
-"ru": "На этих выходных я приглашён на два дня рождения."
-}
-],
-"ru": "день рождения"
-},
-{
 "id": "gesiicht.noun",
 "lb": "Gesiicht",
 "pos": "noun",
@@ -4838,25 +4743,6 @@
 "ru": "ей; её, их"
 },
 {
-"id": "hoer.noun",
-"lb": "Hoer",
-"pos": "noun",
-"gender": "n",
-"level": "A1",
-"category": "body",
-"en": "hair",
-"lodId": "HOER1",
-"examples": [
-{
-"lb": "Wat huet si schéi gro Hoer!",
-"ogg": null,
-"aac": null,
-"ru": "Какие у неё красивые седые волосы!"
-}
-],
-"ru": "волосы"
-},
-{
 "id": "honger.noun",
 "lb": "Honger",
 "pos": "noun",
@@ -5121,25 +5007,6 @@
 }
 ],
 "ru": "да"
-},
-{
-"id": "joer.noun",
-"lb": "Joer",
-"pos": "noun",
-"gender": "n",
-"level": "A1",
-"category": "ages",
-"en": "year",
-"lodId": "JOER1",
-"examples": [
-{
-"lb": "Vu Joer zu Joer komme méi Leit op d'Grillfest.",
-"ogg": "https://lod.lu/uploads/examples/OGG/08/08cec0fec27e0ce09745742cb81df9b6.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/08/08cec0fec27e0ce09745742cb81df9b6.m4a",
-"ru": "С каждым годом на праздник барбекю приходит больше людей."
-}
-],
-"ru": "год"
 },
 {
 "id": "jong.noun",
@@ -5501,25 +5368,6 @@
 }
 ],
 "ru": "длинный"
-},
-{
-"id": "leit.noun",
-"lb": "Leit",
-"pos": "noun",
-"gender": "",
-"level": "A1",
-"category": "people",
-"en": "people",
-"lodId": "LEIT1",
-"examples": [
-{
-"lb": "Et hate sech nëmmen zéng Leit fir eisen Trëppeltour ugemellt.",
-"ogg": "https://lod.lu/uploads/examples/OGG/7d/7dd2322331af3b6574053f98052358d2.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/7d/7dd2322331af3b6574053f98052358d2.m4a",
-"ru": "На нашу пешую экскурсию записались только десять человек."
-}
-],
-"ru": "люди"
 },
 {
 "id": "liesen.verb",
@@ -7320,25 +7168,6 @@
 "ru": "восемнадцать"
 },
 {
-"id": "vakanz.noun",
-"lb": "Vakanz",
-"pos": "noun",
-"gender": "f",
-"level": "A1",
-"category": "people",
-"en": "holiday, vacation",
-"lodId": "VAKANZ1",
-"examples": [
-{
-"lb": "An zwou Wochen ass endlech Vakanz!",
-"ogg": "https://lod.lu/uploads/examples/OGG/65/65b3ccc96fac60ec3e1d4eee32020b0c.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/65/65b3ccc96fac60ec3e1d4eee32020b0c.m4a",
-"ru": "Через две недели наконец каникулы!"
-}
-],
-"ru": "отпуск, каникулы"
-},
-{
 "id": "vill.adverb",
 "lb": "vill",
 "pos": "adverb",
@@ -8605,25 +8434,6 @@
 "ru": "ананас"
 },
 {
-"id": "apdikt.noun",
-"lb": "Apdikt",
-"pos": "noun",
-"gender": "f",
-"level": "A2",
-"category": "buildings",
-"en": "the pharmacy",
-"lodId": "APDIKT1",
-"examples": [
-{
-"lb": "Wat fir eng Apdikt huet haut den Owend Déngscht?",
-"ogg": "https://lod.lu/uploads/examples/OGG/ba/ba6536ed34d3ce0c9cbf25aaff0f474d.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/ba/ba6536ed34d3ce0c9cbf25aaff0f474d.m4a",
-"ru": "Какая аптека сегодня вечером дежурит?"
-}
-],
-"ru": "аптека"
-},
-{
 "id": "app.noun",
 "lb": "App",
 "pos": "noun",
@@ -8805,25 +8615,6 @@
 }
 ],
 "ru": "мост"
-},
-{
-"id": "brell.noun",
-"lb": "Brëll",
-"pos": "noun",
-"gender": "f",
-"level": "A2",
-"category": "household",
-"en": "the glasses",
-"lodId": "BRELL1",
-"examples": [
-{
-"lb": "Meng Fra krut hire Brëll beim Optiker gefléckt.",
-"ogg": "https://lod.lu/uploads/examples/OGG/fa/faa1cad05be21b847ee632cfddb300bb.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/fa/faa1cad05be21b847ee632cfddb300bb.m4a",
-"ru": "Моей жене починили очки у оптика."
-}
-],
-"ru": "очки"
 },
 {
 "id": "backerei.noun",
@@ -9140,25 +8931,6 @@
 }
 ],
 "ru": "флейта"
-},
-{
-"id": "foto.noun",
-"lb": "Foto",
-"pos": "noun",
-"gender": "f",
-"level": "A2",
-"category": "media",
-"en": "photo",
-"lodId": "FOTO1",
-"examples": [
-{
-"lb": "Wie mécht d'Fotoen op Ärer Hochzäit?",
-"ogg": "https://lod.lu/uploads/examples/OGG/79/79fae2eaea4f584955788244c38ead78.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/79/79fae2eaea4f584955788244c38ead78.m4a",
-"ru": "Кто фотографирует на вашей свадьбе?"
-}
-],
-"ru": "фотография"
 },
 {
 "id": "fraizait.noun",
@@ -10186,10 +9958,10 @@
 "lb": "Ouni Brëll kréien ech kee Fuedem méi an d'Nol!",
 "ogg": "https://lod.lu/uploads/examples/OGG/ab/ab00436273e2c8b1eb815afddeadd108.ogg",
 "aac": "https://lod.lu/uploads/examples/AAC/ab/ab00436273e2c8b1eb815afddeadd108.m4a",
-"ru": "Забей гвоздь молотком в доску!"
+"ru": "Без очков я уже не могу вдеть нитку в иголку."
 }
 ],
-"ru": "гвоздь"
+"ru": "иголка"
 },
 {
 "id": "norden.noun",
@@ -10399,25 +10171,6 @@
 }
 ],
 "ru": "полиция"
-},
-{
-"id": "problem.noun",
-"lb": "Problem",
-"pos": "noun",
-"gender": "n",
-"level": "A2",
-"category": "abstract",
-"en": "problem",
-"lodId": "PROBLEM1",
-"examples": [
-{
-"lb": "Den Techniker konnt de Problem un der Elektronik séier behiewen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/62/6292ea3704427a6639b4950875ed28bf.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/62/6292ea3704427a6639b4950875ed28bf.m4a",
-"ru": "Техник быстро устранил проблему в электронике."
-}
-],
-"ru": "проблема"
 },
 {
 "id": "projet.noun",
@@ -10922,25 +10675,6 @@
 }
 ],
 "ru": "солнечные очки"
-},
-{
-"id": "spidol.noun",
-"lb": "Spidol",
-"pos": "noun",
-"gender": "n",
-"level": "A2",
-"category": "buildings",
-"en": "the hospital",
-"lodId": "SPIDOL1",
-"examples": [
-{
-"lb": "Et sinn net genuch Parkplaze beim Spidol.",
-"ogg": "https://lod.lu/uploads/examples/OGG/cb/cb15ccbe490ae2342e46ae6dbc144cf0.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/cb/cb15ccbe490ae2342e46ae6dbc144cf0.m4a",
-"ru": "У больницы не хватает парковочных мест."
-}
-],
-"ru": "больница"
 },
 {
 "id": "statioun.noun",
@@ -12183,25 +11917,6 @@
 "ru": "банкомат"
 },
 {
-"id": "glas.noun",
-"lb": "Glas",
-"pos": "noun",
-"gender": "n",
-"level": "A2",
-"category": "material",
-"en": "glass (material)",
-"lodId": "GLAS1",
-"examples": [
-{
-"lb": "Villes, wat fréier aus Glas war, ass haut aus Plastik.",
-"ogg": "https://lod.lu/uploads/examples/OGG/83/83929a0d73e0bd42b71006fe265969f5.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/83/83929a0d73e0bd42b71006fe265969f5.m4a",
-"ru": "Многое, что раньше было из стекла, сегодня из пластика."
-}
-],
-"ru": "стекло; стакан"
-},
-{
 "id": "grad.noun",
 "lb": "Grad",
 "pos": "noun",
@@ -12848,25 +12563,6 @@
 "ru": "полдень; обед"
 },
 {
-"id": "mettegiessen.noun",
-"lb": "Mëttegiessen",
-"pos": "noun",
-"gender": "n",
-"level": "A2",
-"category": "meal",
-"en": "lunch",
-"lodId": "METTEGIESSEN1",
-"examples": [
-{
-"lb": "Hien huet säi Mëttegiesse stoe gelooss.",
-"ogg": "https://lod.lu/uploads/examples/OGG/03/0319174b82912bc4756eb1305cb23c91.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/03/0319174b82912bc4756eb1305cb23c91.m4a",
-"ru": "Он оставил свой обед нетронутым."
-}
-],
-"ru": "обед"
-},
-{
 "id": "noper.noun",
 "lb": "Noper",
 "pos": "noun",
@@ -13247,25 +12943,6 @@
 "ru": "скидка"
 },
 {
-"id": "radio.noun",
-"lb": "Radio",
-"pos": "noun",
-"gender": "m",
-"level": "A2",
-"category": "household",
-"en": "the radio",
-"lodId": "RADIO1",
-"examples": [
-{
-"lb": "D'Journalistin huet eng eege Sendung um Radio.",
-"ogg": "https://lod.lu/uploads/examples/OGG/c9/c9f242d8a64560e7888e64029caab614.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/c9/c9f242d8a64560e7888e64029caab614.m4a",
-"ru": "У журналистки своя передача на радио."
-}
-],
-"ru": "радио"
-},
-{
 "id": "reebou.noun",
 "lb": "Reebou",
 "pos": "noun",
@@ -13333,25 +13010,6 @@
 }
 ],
 "ru": "мешок"
-},
-{
-"id": "salz.noun",
-"lb": "Salz",
-"pos": "noun",
-"gender": "n",
-"level": "A2",
-"category": "kitchen",
-"en": "the salt",
-"lodId": "SALZ1",
-"examples": [
-{
-"lb": "Mir hu kee grafft Salz méi am Haus.",
-"ogg": "https://lod.lu/uploads/examples/OGG/f0/f083a41f9045298da054e8c8a47253fa.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/f0/f083a41f9045298da054e8c8a47253fa.m4a",
-"ru": "У нас дома больше нет крупной соли."
-}
-],
-"ru": "соль"
 },
 {
 "id": "sand.noun",
@@ -13886,7 +13544,7 @@
 "ru": "четверть"
 },
 {
-"id": "wand.noun",
+"id": "wand.noun-wand1",
 "lb": "Wand",
 "pos": "noun",
 "gender": "m",
@@ -13899,10 +13557,10 @@
 "lb": "Säit de Moie bléist en äiskale Wand.",
 "ogg": "https://lod.lu/uploads/examples/OGG/7b/7b4b7d2db0154af04fc7016b01543532.ogg",
 "aac": "https://lod.lu/uploads/examples/AAC/7b/7b4b7d2db0154af04fc7016b01543532.m4a",
-"ru": "Он хорошо себя чувствует в своих четырёх стенах."
+"ru": "С утра дует ледяной ветер."
 }
 ],
-"ru": "стена"
+"ru": "ветер"
 },
 {
 "id": "wecker.noun",
@@ -14076,25 +13734,6 @@
 "ru": "десерт"
 },
 {
-"id": "duuscht.noun",
-"lb": "Duuscht",
-"pos": "noun",
-"gender": "m",
-"level": "A2",
-"category": "meal",
-"en": "thirst",
-"lodId": "DUUSCHT1",
-"examples": [
-{
-"lb": "Ech hunn Duuscht, ech muss eppes drénken.",
-"ogg": "https://lod.lu/uploads/examples/OGG/cb/cbc8ecf789797ce8cd9197d6a76091f0.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/cb/cbc8ecf789797ce8cd9197d6a76091f0.m4a",
-"ru": "Я хочу пить, мне нужно что-нибудь выпить."
-}
-],
-"ru": "жажда"
-},
-{
 "id": "daitschen.noun",
 "lb": "Däitschen",
 "pos": "noun",
@@ -14131,25 +13770,6 @@
 }
 ],
 "ru": "кастрюля; горшок"
-},
-{
-"id": "eck.noun",
-"lb": "Eck",
-"pos": "noun",
-"gender": "m",
-"level": "A2",
-"category": "directions",
-"en": "the corner",
-"lodId": "ECK1",
-"examples": [
-{
-"lb": "D'Kand huet sech de Kapp um Eck vum Dësch gestouss.",
-"ogg": "https://lod.lu/uploads/examples/OGG/2d/2d7077f46347646c9502a439ed832603.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/2d/2d7077f46347646c9502a439ed832603.m4a",
-"ru": "Ребёнок ударился головой об угол стола."
-}
-],
-"ru": "угол"
 },
 {
 "id": "elefant.noun",
@@ -14266,25 +13886,6 @@
 "ru": "шлем"
 },
 {
-"id": "honger.noun",
-"lb": "Honger",
-"pos": "noun",
-"gender": "m",
-"level": "A2",
-"category": "meal",
-"en": "hunger",
-"lodId": "HONGER1",
-"examples": [
-{
-"lb": "Ech hunn de géien Honger, solle mer eppes iesse goen?",
-"ogg": "https://lod.lu/uploads/examples/OGG/9b/9b65062cf56bc02f3f0c92ea1c3b60eb.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/9b/9b65062cf56bc02f3f0c92ea1c3b60eb.m4a",
-"ru": "Я ужасно голоден, может, пойдём поедим?"
-}
-],
-"ru": "голод"
-},
-{
 "id": "hues.noun",
 "lb": "Hues",
 "pos": "noun",
@@ -14380,7 +13981,7 @@
 "ru": "интернет"
 },
 {
-"id": "nol.noun",
+"id": "nol.noun-nol1",
 "lb": "Nol",
 "pos": "noun",
 "gender": "m",
@@ -14396,7 +13997,7 @@
 "ru": "Забей гвоздь молотком в доску!"
 }
 ],
-"ru": "гвоздь"
+"ru": "гвоздь; ноготь"
 },
 {
 "id": "osten.noun",
@@ -14416,25 +14017,6 @@
 }
 ],
 "ru": "восток"
-},
-{
-"id": "owesiessen.noun",
-"lb": "Owesiessen",
-"pos": "noun",
-"gender": "n",
-"level": "A2",
-"category": "meal",
-"en": "dinner",
-"lodId": "OWESIESSEN1",
-"examples": [
-{
-"lb": "Nom Owesiesse kucken ech gären d'Tëlee.",
-"ogg": "https://lod.lu/uploads/examples/OGG/41/416369f134ff6c977532373a71d561d2.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/41/416369f134ff6c977532373a71d561d2.m4a",
-"ru": "После ужина я люблю смотреть телевизор."
-}
-],
-"ru": "ужин"
 },
 {
 "id": "tennis.noun",
@@ -16197,25 +15779,6 @@
 "ru": "вас, вам"
 },
 {
-"id": "infirmiere.noun",
-"lb": "Infirmière",
-"pos": "noun",
-"gender": "f",
-"level": "A2",
-"category": "medicine",
-"en": "nurse (female)",
-"lodId": "INFIRMIERE1",
-"examples": [
-{
-"lb": "All Moie kënnt eng Infirmière mir de Verband frëschmaachen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/fb/fb47ce50bfcbffcef5833870496230ac.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/fb/fb47ce50bfcbffcef5833870496230ac.m4a",
-"ru": "Каждое утро приходит медсестра и меняет мне повязку."
-}
-],
-"ru": "медсестра"
-},
-{
 "id": "interessant.adjective",
 "lb": "interessant",
 "pos": "adjective",
@@ -16779,25 +16342,6 @@
 "ru": "оставлять, позволять"
 },
 {
-"id": "leift.noun",
-"lb": "Léift",
-"pos": "noun",
-"gender": "f",
-"level": "A2",
-"category": "relationships",
-"en": "love",
-"lodId": "LEIFT1",
-"examples": [
-{
-"lb": "Hatt huet him seng Léift ni gewisen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/9b/9b341212400502da0c99c2debde12831.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/9b/9b341212400502da0c99c2debde12831.m4a",
-"ru": "Она так и не показала ему своей любви."
-}
-],
-"ru": "любовь"
-},
-{
 "id": "leiwer.adverb",
 "lb": "léiwer",
 "pos": "adverb",
@@ -17143,25 +16687,6 @@
 }
 ],
 "ru": "после; к"
-},
-{
-"id": "noper.noun",
-"lb": "Noper",
-"pos": "noun",
-"gender": "m",
-"level": "A2",
-"category": "relationships",
-"en": "neighbour",
-"lodId": "NOPER1",
-"examples": [
-{
-"lb": "Dee Schüler huet bei sengem Noper ofgeschriwwen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/51/51f6c08e5266f50ef6a75b7f300091c4.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/51/51f6c08e5266f50ef6a75b7f300091c4.m4a",
-"ru": "Этот ученик списал у соседа по парте."
-}
-],
-"ru": "сосед"
 },
 {
 "id": "nuets.adverb",
@@ -19777,25 +19302,6 @@
 "ru": "список покупок"
 },
 {
-"id": "angscht.noun",
-"lb": "Angscht",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "abstract",
-"en": "fear",
-"lodId": "ANGSCHT1",
-"examples": [
-{
-"lb": "Ech hu keng Angscht viru Spannen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/df/df06097cf348780b2a236aaf5db696be.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/df/df06097cf348780b2a236aaf5db696be.m4a",
-"ru": "Я не боюсь пауков."
-}
-],
-"ru": "страх"
-},
-{
 "id": "annonce.noun",
 "lb": "Annonce",
 "pos": "noun",
@@ -19908,25 +19414,6 @@
 }
 ],
 "ru": "житель"
-},
-{
-"id": "bildung.noun",
-"lb": "Bildung",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "society",
-"en": "education",
-"lodId": "BILDUNG1",
-"examples": [
-{
-"lb": "Eng gutt Bildung ass wichteg fir d'Zukunft vun de Kanner.",
-"ogg": "https://lod.lu/uploads/examples/OGG/d4/d417707c24a95056150e170a1a21db26.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/d4/d417707c24a95056150e170a1a21db26.m4a",
-"ru": "Хорошее образование важно для будущего детей."
-}
-],
-"ru": "образование"
 },
 {
 "id": "bouneschlupp.noun",
@@ -20252,25 +19739,6 @@
 "ru": "опыт"
 },
 {
-"id": "etage.noun",
-"lb": "Etage",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "buildings",
-"en": "the floor/storey",
-"lodId": "ETAGE1",
-"examples": [
-{
-"lb": "Niewent déi nei Gare soll en Héichhaus mat iwwer 30 Etagë gebaut ginn.",
-"ogg": "https://lod.lu/uploads/examples/OGG/32/32b0d86c69d3de1e71961d9bdb25535b.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/32/32b0d86c69d3de1e71961d9bdb25535b.m4a",
-"ru": "Рядом с новым вокзалом собираются построить высотку больше чем на 30 этажей."
-}
-],
-"ru": "этаж"
-},
-{
 "id": "etikett.noun",
 "lb": "Etikett",
 "pos": "noun",
@@ -20433,25 +19901,6 @@
 }
 ],
 "ru": "закон"
-},
-{
-"id": "gesondheet.noun",
-"lb": "Gesondheet",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "society",
-"en": "health",
-"lodId": "GESONDHEET1",
-"examples": [
-{
-"lb": "Du muss eppes fir deng Gesondheet maachen!",
-"ogg": "https://lod.lu/uploads/examples/OGG/63/6339dd7c8bd268ccb3cc21d29a998776.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/63/6339dd7c8bd268ccb3cc21d29a998776.m4a",
-"ru": "Тебе надо что-то делать для своего здоровья!"
-}
-],
-"ru": "здоровье"
 },
 {
 "id": "gespreich.noun",
@@ -21174,25 +20623,6 @@
 "ru": "пенсия"
 },
 {
-"id": "plastik.noun",
-"lb": "Plastik",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "home",
-"en": "the plastic",
-"lodId": "PLASTIK1",
-"examples": [
-{
-"lb": "Villes, wat fréier aus Glas war, ass haut aus Plastik.",
-"ogg": "https://lod.lu/uploads/examples/OGG/83/83929a0d73e0bd42b71006fe265969f5.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/83/83929a0d73e0bd42b71006fe265969f5.m4a",
-"ru": "Многое, что раньше было из стекла, сегодня из пластика."
-}
-],
-"ru": "пластик"
-},
-{
 "id": "politik.noun",
 "lb": "Politik",
 "pos": "noun",
@@ -21699,25 +21129,6 @@
 "ru": "клавиатура"
 },
 {
-"id": "theater.noun",
-"lb": "Theater",
-"pos": "noun",
-"gender": "n",
-"level": "B1",
-"category": "buildings",
-"en": "the theatre",
-"lodId": "THEATER1",
-"examples": [
-{
-"lb": "Dësen Theater spillt nëmme modern Stécker.",
-"ogg": "https://lod.lu/uploads/examples/OGG/c5/c54a07be5860b3110a623fb79fa640f7.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/c5/c54a07be5860b3110a623fb79fa640f7.m4a",
-"ru": "Этот театр ставит только современные пьесы."
-}
-],
-"ru": "театр"
-},
-{
 "id": "traditioun.noun",
 "lb": "Traditioun",
 "pos": "noun",
@@ -22096,25 +21507,6 @@
 }
 ],
 "ru": "благодарность"
-},
-{
-"id": "begreissung.noun",
-"lb": "Begréissung",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "tourism",
-"en": "the greeting",
-"lodId": "BEGREISSUNG1",
-"examples": [
-{
-"lb": "No der Begréissung huet de Minister eng Ried gehalen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/db/db7bd179ed12246b9e0efe5e39af9919.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/db/db7bd179ed12246b9e0efe5e39af9919.m4a",
-"ru": "После приветствия министр произнёс речь."
-}
-],
-"ru": "приветствие"
 },
 {
 "id": "bericht.noun",
@@ -23307,25 +22699,6 @@
 "ru": "ракетка; клюшка"
 },
 {
-"id": "schlessel.noun",
-"lb": "Schlëssel",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "tools",
-"en": "wrench",
-"lodId": "SCHLESSEL1",
-"examples": [
-{
-"lb": "Du brauchs en anere Schlëssel, fir dës Schrauwen unzezéien.",
-"ogg": "https://lod.lu/uploads/examples/OGG/24/2408becc9125f952e216f9b406ed756a.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/24/2408becc9125f952e216f9b406ed756a.m4a",
-"ru": "Чтобы закрутить эти винты, тебе нужен другой ключ."
-}
-],
-"ru": "ключ"
-},
-{
 "id": "schrauwenzeier.noun",
 "lb": "Schrauwenzéier",
 "pos": "noun",
@@ -23825,25 +23198,6 @@
 "ru": "волк"
 },
 {
-"id": "wuerzel.noun",
-"lb": "Wuerzel",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "garden",
-"en": "root",
-"lodId": "WUERZEL1",
-"examples": [
-{
-"lb": "D'Wuerzel vum Bakzant ass entzünt.",
-"ogg": "https://lod.lu/uploads/examples/OGG/1f/1f78d1b0b0e63b4b1b1603cbeff2593d.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/1f/1f78d1b0b0e63b4b1b1603cbeff2593d.m4a",
-"ru": "Корень коренного зуба воспалён."
-}
-],
-"ru": "корень"
-},
-{
 "id": "decideieren.verb",
 "lb": "decidéieren",
 "pos": "verb",
@@ -23918,25 +23272,6 @@
 }
 ],
 "ru": "рабочее место"
-},
-{
-"id": "affekot.noun",
-"lb": "Affekot",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "profession",
-"en": "lawyer",
-"lodId": "AFFEKOT1",
-"examples": [
-{
-"lb": "Den Affekot verteidegt säi Client viru Geriicht.",
-"ogg": "https://lod.lu/uploads/examples/OGG/8a/8a515ec08350915d9a6606295f114282.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/8a/8a515ec08350915d9a6606295f114282.m4a",
-"ru": "Адвокат защищает своего клиента в суде."
-}
-],
-"ru": "адвокат"
 },
 {
 "id": "akkordeon.noun",
@@ -24490,25 +23825,6 @@
 "ru": "сова"
 },
 {
-"id": "energie.noun",
-"lb": "Energie",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "science",
-"en": "energy",
-"lodId": "ENERGIE1",
-"examples": [
-{
-"lb": "Iess e Stéck Schockela, dat gëtt der erëm Energie!",
-"ogg": "https://lod.lu/uploads/examples/OGG/86/868030c21ad124ea2debfb30ed3eb0bf.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/86/868030c21ad124ea2debfb30ed3eb0bf.m4a",
-"ru": "Съешь кусочек шоколада, это снова даст тебе энергии!"
-}
-],
-"ru": "энергия"
-},
-{
 "id": "enk.adjective",
 "lb": "enk",
 "pos": "adjective",
@@ -24640,25 +23956,6 @@
 }
 ],
 "ru": "развитие"
-},
-{
-"id": "erfarung.noun",
-"lb": "Erfarung",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "abstract",
-"en": "experience",
-"lodId": "ERFARUNG1",
-"examples": [
-{
-"lb": "Meng Studienzäit war eng flott Erfarung.",
-"ogg": "https://lod.lu/uploads/examples/OGG/79/79d440051f74171bf279abab2c642db3.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/79/79d440051f74171bf279abab2c642db3.m4a",
-"ru": "Студенческие годы были для меня отличным опытом."
-}
-],
-"ru": "опыт"
 },
 {
 "id": "erfollegraich.adjective",
@@ -25098,25 +24395,6 @@
 "ru": "работать, функционировать"
 },
 {
-"id": "fuuss.noun",
-"lb": "Fuuss",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "nature",
-"en": "fox",
-"lodId": "FUUSS2",
-"examples": [
-{
-"lb": "De Fuuss ass e ganz nëtzlecht Déier, dat an der Natur vill As frësst an esou potenziell Krankheete verhënnert.",
-"ogg": "https://lod.lu/uploads/examples/OGG/72/72f13461b60baf33bf7339fce5c57bc9.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/72/72f13461b60baf33bf7339fce5c57bc9.m4a",
-"ru": "Лиса — очень полезный зверь: она поедает много падали в природе и так предотвращает болезни."
-}
-],
-"ru": "лиса"
-},
-{
 "id": "fanken.verb",
 "lb": "fänken",
 "pos": "verb",
@@ -25250,25 +24528,6 @@
 "ru": "бросать"
 },
 {
-"id": "gemeinschaft.noun",
-"lb": "Gemeinschaft",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "abstract",
-"en": "community",
-"lodId": "GEMEINSCHAFT1",
-"examples": [
-{
-"lb": "An eisem Land gëtt et eng kleng Gemeinschaft vun indoneeseschen Immigranten.",
-"ogg": "https://lod.lu/uploads/examples/OGG/aa/aabad8943d9aeae6a8c05e7fb280f8c9.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/aa/aabad8943d9aeae6a8c05e7fb280f8c9.m4a",
-"ru": "В нашей стране есть небольшая община индонезийских иммигрантов."
-}
-],
-"ru": "сообщество, община"
-},
-{
 "id": "gemittlech.adjective",
 "lb": "gemittlech",
 "pos": "adjective",
@@ -25305,56 +24564,6 @@
 }
 ],
 "ru": "справедливый"
-},
-{
-"id": "geriicht.noun",
-"lb": "Geriicht",
-"pos": "noun",
-"gender": "n",
-"level": "B1",
-"category": "law",
-"en": "court",
-"lodId": "GERIICHT1",
-"examples": [],
-"ru": "блюдо; суд"
-},
-{
-"id": "gesellschaft.noun",
-"lb": "Gesellschaft",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "abstract",
-"en": "society",
-"lodId": "GESELLSCHAFT1",
-"examples": [
-{
-"lb": "Bei deene Leit bass de a gudder Gesellschaft.",
-"ogg": "https://lod.lu/uploads/examples/OGG/b0/b0446b077290ecb9b08e882f237eb16c.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/b0/b0446b077290ecb9b08e882f237eb16c.m4a",
-"ru": "С этими людьми ты в хорошей компании."
-}
-],
-"ru": "общество; компания"
-},
-{
-"id": "gesetz.noun",
-"lb": "Gesetz",
-"pos": "noun",
-"gender": "n",
-"level": "B1",
-"category": "law",
-"en": "law, statute",
-"lodId": "GESETZ1",
-"examples": [
-{
-"lb": "Dat ass en ongeschriwwent Gesetz!",
-"ogg": "https://lod.lu/uploads/examples/OGG/00/0016755e736613a91b5cd79c7635c6f4.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/00/0016755e736613a91b5cd79c7635c6f4.m4a",
-"ru": "Это неписаный закон!"
-}
-],
-"ru": "закон"
 },
 {
 "id": "gestresst.adjective",
@@ -25519,25 +24728,6 @@
 }
 ],
 "ru": "исторический"
-},
-{
-"id": "hoffnung.noun",
-"lb": "Hoffnung",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "emotions",
-"en": "hope",
-"lodId": "HOFFNUNG1",
-"examples": [
-{
-"lb": "Si haten d'Hoffnung schonn opginn, datt aus hirem Fils nach eppes géif.",
-"ogg": "https://lod.lu/uploads/examples/OGG/a5/a58b6f18b823250c41bf64edad4cf182.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/a5/a58b6f18b823250c41bf64edad4cf182.m4a",
-"ru": "Они уже потеряли надежду, что из их сына что-нибудь выйдет."
-}
-],
-"ru": "надежда"
 },
 {
 "id": "houschten.verb",
@@ -26438,25 +25628,6 @@
 "ru": "проверять, смотреть"
 },
 {
-"id": "nol.noun",
-"lb": "Nol",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "body",
-"en": "nail (finger)",
-"lodId": "NOL1",
-"examples": [
-{
-"lb": "Schlo den Nol mam Hummer an d'Briet!",
-"ogg": "https://lod.lu/uploads/examples/OGG/2e/2ec54c102bb7049141c97153bc5746a6.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/2e/2ec54c102bb7049141c97153bc5746a6.m4a",
-"ru": "Забей гвоздь молотком в доску!"
-}
-],
-"ru": "гвоздь"
-},
-{
 "id": "normalerweis.adverb",
 "lb": "normalerweis",
 "pos": "adverb",
@@ -26868,44 +26039,6 @@
 "ru": "пациент"
 },
 {
-"id": "pensioun.noun",
-"lb": "Pensioun",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "ages",
-"en": "retirement, pension",
-"lodId": "PENSIOUN1",
-"examples": [
-{
-"lb": "Eis Direktesch geet geschwënn a Pensioun.",
-"ogg": "https://lod.lu/uploads/examples/OGG/6b/6bed47b2e6c152ee11c4655b4c475ebc.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/6b/6bed47b2e6c152ee11c4655b4c475ebc.m4a",
-"ru": "Наша директриса скоро уходит на пенсию."
-}
-],
-"ru": "пенсия"
-},
-{
-"id": "pilz.noun",
-"lb": "Pilz",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "nature",
-"en": "mushroom, fungus",
-"lodId": "PILZ1",
-"examples": [
-{
-"lb": "D'Kanner si mam Bop Pilze sammelen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/fd/fde14ed64917c31de4cb3bee7388ef4a.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/fd/fde14ed64917c31de4cb3bee7388ef4a.m4a",
-"ru": "Дети с дедушкой ходили собирать грибы."
-}
-],
-"ru": "гриб"
-},
-{
 "id": "plangen.verb",
 "lb": "plangen",
 "pos": "verb",
@@ -27001,25 +26134,6 @@
 "ru": "производить"
 },
 {
-"id": "paiperlek.noun",
-"lb": "Päiperlek",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "nature",
-"en": "butterfly",
-"lodId": "PAIPERLEK1",
-"examples": [
-{
-"lb": "Am Summer hu mer de Gaart voller Päiperleken.",
-"ogg": "https://lod.lu/uploads/examples/OGG/41/417b85fdf00d51a441242846d0deada7.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/41/417b85fdf00d51a441242846d0deada7.m4a",
-"ru": "Летом у нас в саду полно бабочек."
-}
-],
-"ru": "бабочка"
-},
-{
 "id": "quell.noun",
 "lb": "Quell",
 "pos": "noun",
@@ -27056,25 +26170,6 @@
 }
 ],
 "ru": "реакция"
-},
-{
-"id": "recht.noun",
-"lb": "Recht",
-"pos": "noun",
-"gender": "n",
-"level": "B1",
-"category": "law",
-"en": "right, law",
-"lodId": "RECHT1",
-"examples": [
-{
-"lb": "Dat Gesetz ass am Aklang mam europäesche Recht.",
-"ogg": "https://lod.lu/uploads/examples/OGG/0a/0a12b42ea87713d0da6e1b345393204e.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/0a/0a12b42ea87713d0da6e1b345393204e.m4a",
-"ru": "Этот закон соответствует европейскому праву."
-}
-],
-"ru": "право"
 },
 {
 "id": "recycleieren.verb",
@@ -27132,44 +26227,6 @@
 }
 ],
 "ru": "чинить"
-},
-{
-"id": "respekt.noun",
-"lb": "Respekt",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "relationships",
-"en": "respect",
-"lodId": "RESPEKT1",
-"examples": [
-{
-"lb": "All Respekt fir deng Leeschtung am Concours!",
-"ogg": "https://lod.lu/uploads/examples/OGG/ba/bacf277846ab24233c10d27922cfb775.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/ba/bacf277846ab24233c10d27922cfb775.m4a",
-"ru": "Моё уважение за твой результат на конкурсе!"
-}
-],
-"ru": "уважение"
-},
-{
-"id": "resultat.noun",
-"lb": "Resultat",
-"pos": "noun",
-"gender": "n",
-"level": "B1",
-"category": "academic",
-"en": "result",
-"lodId": "RESULTAT1",
-"examples": [
-{
-"lb": "De Schüler huet d'Resultat am Kapp ausgerechent.",
-"ogg": "https://lod.lu/uploads/examples/OGG/ff/ffd955de0725021e4721e0404557ce22.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/ff/ffd955de0725021e4721e0404557ce22.m4a",
-"ru": "Ученик вычислил результат в уме."
-}
-],
-"ru": "результат"
 },
 {
 "id": "richen.verb",
@@ -27353,25 +26410,6 @@
 }
 ],
 "ru": "узкий"
-},
-{
-"id": "schold.noun",
-"lb": "Schold",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "law",
-"en": "guilt, fault",
-"lodId": "SCHOLD1",
-"examples": [
-{
-"lb": "Ech si mer kenger Schold bewosst.",
-"ogg": "https://lod.lu/uploads/examples/OGG/86/86ae11c695c1c9a8e98eb289cd792af9.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/86/86ae11c695c1c9a8e98eb289cd792af9.m4a",
-"ru": "Я не чувствую за собой никакой вины."
-}
-],
-"ru": "вина; долг"
 },
 {
 "id": "schrecklech.adjective",
@@ -27602,18 +26640,6 @@
 "ru": "умирать"
 },
 {
-"id": "stoff.noun",
-"lb": "Stoff",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "science",
-"en": "substance, material",
-"lodId": "STOFF1",
-"examples": [],
-"ru": "ткань; вещество"
-},
-{
 "id": "stolz.noun",
 "lb": "Stolz",
 "pos": "noun",
@@ -27650,25 +26676,6 @@
 }
 ],
 "ru": "толкать"
-},
-{
-"id": "stress.noun",
-"lb": "Stress",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "emotions",
-"en": "stress",
-"lodId": "STRESS1",
-"examples": [
-{
-"lb": "Vun deem dauernde Stress op der Aarbecht gouf hie krank.",
-"ogg": "https://lod.lu/uploads/examples/OGG/98/989a7e8d418a40c8ea8e2d33b0593018.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/98/989a7e8d418a40c8ea8e2d33b0593018.m4a",
-"ru": "От постоянного стресса на работе он заболел."
-}
-],
-"ru": "стресс"
 },
 {
 "id": "strof.noun",
@@ -27973,25 +26980,6 @@
 }
 ],
 "ru": "ответственный"
-},
-{
-"id": "verantwortung.noun",
-"lb": "Verantwortung",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "abstract",
-"en": "responsibility",
-"lodId": "VERANTWORTUNG1",
-"examples": [
-{
-"lb": "Als Erzéier huet een eng grouss Verantwortung.",
-"ogg": "https://lod.lu/uploads/examples/OGG/e0/e0b7f74cbfc1bdf5fbd41c54c7c73a4f.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/e0/e0b7f74cbfc1bdf5fbd41c54c7c73a4f.m4a",
-"ru": "У воспитателя большая ответственность."
-}
-],
-"ru": "ответственность"
 },
 {
 "id": "verbesseren.verb",
@@ -28393,25 +27381,6 @@
 "ru": "представлять (кого-то, себе)"
 },
 {
-"id": "virus.noun",
-"lb": "Virus",
-"pos": "noun",
-"gender": "m",
-"level": "B1",
-"category": "health",
-"en": "virus",
-"lodId": "VIRUS1",
-"examples": [
-{
-"lb": "Géint e Virus hëlleft keen Antibiotique.",
-"ogg": "https://lod.lu/uploads/examples/OGG/78/785e171b43d08fc41d7c2d1902b96b28.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/78/785e171b43d08fc41d7c2d1902b96b28.m4a",
-"ru": "Против вируса антибиотик не помогает."
-}
-],
-"ru": "вирус"
-},
-{
 "id": "wakereg.adjective",
 "lb": "wakereg",
 "pos": "adjective",
@@ -28714,25 +27683,6 @@
 }
 ],
 "ru": "знания"
-},
-{
-"id": "wessenschaft.noun",
-"lb": "Wëssenschaft",
-"pos": "noun",
-"gender": "f",
-"level": "B1",
-"category": "science",
-"en": "science",
-"lodId": "WESSENSCHAFT1",
-"examples": [
-{
-"lb": "D'Astronomie ass d'Wëssenschaft vum Universum.",
-"ogg": "https://lod.lu/uploads/examples/OGG/78/788ff6cd5f884b9bea097d52e130a542.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/78/788ff6cd5f884b9bea097d52e130a542.m4a",
-"ru": "Астрономия — наука о Вселенной."
-}
-],
-"ru": "наука"
 },
 {
 "id": "zefridden.adjective",
@@ -30234,25 +29184,6 @@
 "ru": "терпимость; допуск"
 },
 {
-"id": "ursaach.noun",
-"lb": "Ursaach",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "abstract",
-"en": "cause",
-"lodId": "URSAACH1",
-"examples": [
-{
-"lb": "Keng Ursaach!",
-"ogg": "https://lod.lu/uploads/examples/OGG/e3/e31ef68f7ad276a3774b8ecb76f11a65.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/e3/e31ef68f7ad276a3774b8ecb76f11a65.m4a",
-"ru": "Не за что!"
-}
-],
-"ru": "причина; «не за что»"
-},
-{
 "id": "verfassung.noun",
 "lb": "Verfassung",
 "pos": "noun",
@@ -30327,63 +29258,6 @@
 }
 ],
 "ru": "загрязнение"
-},
-{
-"id": "verannerung.noun",
-"lb": "Verännerung",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "abstract",
-"en": "change",
-"lodId": "VERANNERUNG1",
-"examples": [
-{
-"lb": "Kleng Verännerunge falen engem net ëmmer op.",
-"ogg": "https://lod.lu/uploads/examples/OGG/ed/ed135d900ecf95455c32966b5907fb75.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/ed/ed135d900ecf95455c32966b5907fb75.m4a",
-"ru": "Небольшие изменения не всегда бросаются в глаза."
-}
-],
-"ru": "изменение"
-},
-{
-"id": "virliesung.noun",
-"lb": "Virliesung",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "university",
-"en": "lecture",
-"lodId": "VIRLIESUNG1",
-"examples": [
-{
-"lb": "De Professer ass a senge Virliesungen op déi aktuell Theorien agaangen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/62/62f93401933d216e6b5a8d03aedca5f0.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/62/62f93401933d216e6b5a8d03aedca5f0.m4a",
-"ru": "На лекциях профессор разбирал актуальные теории."
-}
-],
-"ru": "лекция"
-},
-{
-"id": "wessen.noun",
-"lb": "Wëssen",
-"pos": "noun",
-"gender": "n",
-"level": "B2",
-"category": "abstract",
-"en": "knowledge",
-"lodId": "WESSEN1",
-"examples": [
-{
-"lb": "Kéints de eis hëllefen, hei ass däi Wësse gefrot!",
-"ogg": "https://lod.lu/uploads/examples/OGG/6d/6deaa8a4afe68928d07a7e65f32a0650.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/6d/6deaa8a4afe68928d07a7e65f32a0650.m4a",
-"ru": "Помоги нам, здесь нужны твои знания!"
-}
-],
-"ru": "знания"
 },
 {
 "id": "eislek.noun",
@@ -30776,25 +29650,6 @@
 }
 ],
 "ru": "сеть"
-},
-{
-"id": "riichter.noun",
-"lb": "Riichter",
-"pos": "noun",
-"gender": "m",
-"level": "B2",
-"category": "profession",
-"en": "judge",
-"lodId": "RIICHTER1",
-"examples": [
-{
-"lb": "De Riichter huet den Ugekloten an där Affär schëlleg gesprach.",
-"ogg": "https://lod.lu/uploads/examples/OGG/9c/9c1119e9c96002e21d35193a4ea2dd25.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/9c/9c1119e9c96002e21d35193a4ea2dd25.m4a",
-"ru": "Судья признал обвиняемого виновным по этому делу."
-}
-],
-"ru": "судья"
 },
 {
 "id": "risiko.noun",
@@ -31234,25 +30089,6 @@
 "ru": "устанавливать"
 },
 {
-"id": "fraiheet.noun",
-"lb": "Fräiheet",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "emotions",
-"en": "freedom",
-"lodId": "FRAIHEET1",
-"examples": [
-{
-"lb": "Deen Tyrann hëlt dem Vollek all Fräiheeten.",
-"ogg": "https://lod.lu/uploads/examples/OGG/29/292749abfe73122b2f0ae37ea61bd54d.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/29/292749abfe73122b2f0ae37ea61bd54d.m4a",
-"ru": "Этот тиран отнимает у народа все свободы."
-}
-],
-"ru": "свобода"
-},
-{
 "id": "fuerscher.noun",
 "lb": "Fuerscher",
 "pos": "noun",
@@ -31270,63 +30106,6 @@
 }
 ],
 "ru": "исследователь"
-},
-{
-"id": "generatioun.noun",
-"lb": "Generatioun",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "ages",
-"en": "generation",
-"lodId": "GENERATIOUN1",
-"examples": [
-{
-"lb": "Fréier hunn alt dräi Generatiounen an engem Haus gewunnt.",
-"ogg": "https://lod.lu/uploads/examples/OGG/05/05dbe2d1f35c5b51323bb8c45281de1a.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/05/05dbe2d1f35c5b51323bb8c45281de1a.m4a",
-"ru": "Раньше бывало, что три поколения жили в одном доме."
-}
-],
-"ru": "поколение"
-},
-{
-"id": "gerechtegkeet.noun",
-"lb": "Gerechtegkeet",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "law",
-"en": "justice",
-"lodId": "GERECHTEGKEET1",
-"examples": [
-{
-"lb": "Et gëtt keng Gerechtegkeet méi op dëser Welt!",
-"ogg": "https://lod.lu/uploads/examples/OGG/e5/e57bad9ce2ce11c1260697fd16ee8a44.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/e5/e57bad9ce2ce11c1260697fd16ee8a44.m4a",
-"ru": "Нет больше справедливости на этом свете!"
-}
-],
-"ru": "справедливость"
-},
-{
-"id": "geschwindegkeet.noun",
-"lb": "Geschwindegkeet",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "science",
-"en": "speed, velocity",
-"lodId": "GESCHWINDEGKEET1",
-"examples": [
-{
-"lb": "De Coureur konnt bei der Geschwindegkeet vum Peloton net mathalen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/18/18c55abf6cc7ca3d9f2a9867bce54275.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/18/18c55abf6cc7ca3d9f2a9867bce54275.m4a",
-"ru": "Велогонщик не выдержал скорости пелотона."
-}
-],
-"ru": "скорость"
 },
 {
 "id": "gewessen.noun",
@@ -31462,25 +30241,6 @@
 "ru": "исцеление, заживление"
 },
 {
-"id": "identiteit.noun",
-"lb": "Identitéit",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "people",
-"en": "identity",
-"lodId": "IDENTITEIT1",
-"examples": [
-{
-"lb": "Ier ech an d'Gebai eragelooss gouf, ass meng Identitéit iwwerpréift ginn.",
-"ogg": "https://lod.lu/uploads/examples/OGG/55/55acbdce62620869dde48ca7e6f2fa69.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/55/55acbdce62620869dde48ca7e6f2fa69.m4a",
-"ru": "Прежде чем меня впустили в здание, проверили мою личность."
-}
-],
-"ru": "личность, идентичность"
-},
-{
 "id": "iechternach.noun",
 "lb": "Iechternach",
 "pos": "noun",
@@ -31593,25 +30353,6 @@
 }
 ],
 "ru": "убеждённый"
-},
-{
-"id": "iwwerzeegung.noun",
-"lb": "Iwwerzeegung",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "abstract",
-"en": "conviction, belief",
-"lodId": "IWWERZEEGUNG1",
-"examples": [
-{
-"lb": "Et gëtt Leit, déi géife fir hir Iwwerzeegung stierwen.",
-"ogg": "https://lod.lu/uploads/examples/OGG/22/22239258334c3fdf38e8d5d3c7ef54a0.ogg",
-"aac": "https://lod.lu/uploads/examples/AAC/22/22239258334c3fdf38e8d5d3c7ef54a0.m4a",
-"ru": "Есть люди, которые готовы умереть за свои убеждения."
-}
-],
-"ru": "убеждение"
 },
 {
 "id": "justiz.noun",
@@ -32099,18 +30840,6 @@
 }
 ],
 "ru": "симптом"
-},
-{
-"id": "toleranz.noun",
-"lb": "Toleranz",
-"pos": "noun",
-"gender": "f",
-"level": "B2",
-"category": "abstract",
-"en": "tolerance",
-"lodId": "TOLERANZ1",
-"examples": [],
-"ru": "терпимость; допуск"
 },
 {
 "id": "ufuerderen.verb",

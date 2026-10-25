@@ -8,8 +8,8 @@
   "gender": "f",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Dës Erkenntnis huet alles verännert.",
-  "ex_en": "This insight changed everything.",
+  "ex_lb": "Dat ass fir eis all eng wichteg Erkenntnis.",
+  "ex_en": "That is an important insight for all of us.",
   "lodId": "ERKENNTNIS1"
  },
  {
@@ -21,8 +21,8 @@
   "gender": "n",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Säi Bewosstsinn ass nach kloer.",
-  "ex_en": "His consciousness is still clear.",
+  "ex_lb": "Mir ginn déi Reform un am Bewosstsinn, datt vill Aarbecht op eis duerkënnt.",
+  "ex_en": "We're tackling this reform aware that a lot of work lies ahead of us.",
   "lodId": "BEWOSSTSINN1"
  },
  {
@@ -34,8 +34,8 @@
   "gender": "n",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Säi Gewëssen huet him keng Rou gelooss.",
-  "ex_en": "His conscience gave him no peace.",
+  "ex_lb": "Et gëtt Leit, déi kee Gewëssen hunn!",
+  "ex_en": "Some people have no conscience!",
   "lodId": "GEWESSEN1"
  },
  {
@@ -60,8 +60,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "D'Fräiheet ass e wäertvollt Gutt.",
-  "ex_en": "Freedom is a precious good.",
+  "ex_lb": "Deen Tyrann hëlt dem Vollek all Fräiheeten.",
+  "ex_en": "That tyrant takes away all the people's freedoms.",
   "lodId": "FRAIHEET1"
  },
  {
@@ -73,8 +73,8 @@
   "gender": "f",
   "level": "B2",
   "category": "law",
-  "ex_lb": "Si kämpft fir d'Gerechtegkeet.",
-  "ex_en": "She fights for justice.",
+  "ex_lb": "Et gëtt keng Gerechtegkeet méi op dëser Welt!",
+  "ex_en": "There's no justice left in this world!",
   "lodId": "GERECHTEGKEET1"
  },
  {
@@ -86,8 +86,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Hien iwwerhëlt d'Verantwortung.",
-  "ex_en": "He takes on the responsibility.",
+  "ex_lb": "Als Erzéier huet een eng grouss Verantwortung.",
+  "ex_en": "As an educator you have a great responsibility.",
   "lodId": "VERANTWORTUNG1"
  },
  {
@@ -99,8 +99,8 @@
   "gender": "m",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Benotz däi Verstand!",
-  "ex_en": "Use your reason!",
+  "ex_lb": "Eisen alen Direkter war e Mann mat vill Verstand.",
+  "ex_en": "Our old director was a man of great intelligence.",
   "lodId": "VERSTAND1"
  },
  {
@@ -125,8 +125,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Si handelt aus Iwwerzeegung.",
-  "ex_en": "She acts out of conviction.",
+  "ex_lb": "Et gëtt Leit, déi géife fir hir Iwwerzeegung stierwen.",
+  "ex_en": "There are people who would die for their convictions.",
   "lodId": "IWWERZEEGUNG1"
  },
  {
@@ -138,8 +138,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Wat ass d'Bedeitung vun dësem Wuert?",
-  "ex_en": "What is the meaning of this word?",
+  "ex_lb": "Dat Gedicht huet eng déif Bedeitung.",
+  "ex_en": "That poem has a deep meaning.",
   "lodId": "BEDEITUNG1"
  },
  {
@@ -151,8 +151,8 @@
   "gender": "m",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Wat ass den Zweck vun dëser Reegel?",
-  "ex_en": "What is the purpose of this rule?",
+  "ex_lb": "Deng Beméiungen hunn hiren Zweck verfeelt.",
+  "ex_en": "Your efforts missed their purpose.",
   "lodId": "ZWECK1"
  },
  {
@@ -164,8 +164,8 @@
   "gender": "",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Si deelen déiselwecht Wäerter.",
-  "ex_en": "They share the same values."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "Virstellung",
@@ -176,8 +176,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Ech hunn keng Virstellung dovun.",
-  "ex_en": "I have no notion of that.",
+  "ex_lb": "Ech hunn nach keng kloer Virstellung vum Projet.",
+  "ex_en": "I don't have a clear idea of the project yet.",
   "lodId": "VIRSTELLUNG1"
  },
  {
@@ -189,8 +189,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Hien huet vill Erfarung an deem Beräich.",
-  "ex_en": "He has a lot of experience in that field.",
+  "ex_lb": "Meng Studienzäit war eng flott Erfarung.",
+  "ex_en": "My time as a student was a great experience.",
   "lodId": "ERFARUNG1"
  },
  {
@@ -202,8 +202,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Ech hunn eng schéin Erënnerung un d'Rees.",
-  "ex_en": "I have a nice memory of the trip.",
+  "ex_lb": "Ech hunn eise Konveniat a gudder Erënnerung behalen.",
+  "ex_en": "I have fond memories of our class reunion.",
   "lodId": "ERENNERUNG1"
  },
  {
@@ -215,8 +215,8 @@
   "gender": "m",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Hatt huet en groussen Aflëss op d'Grupp.",
-  "ex_en": "She has a great influence on the group."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "Gemeinschaft",
@@ -227,8 +227,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "D'Gemeinschaft hält zesummen.",
-  "ex_en": "The community sticks together.",
+  "ex_lb": "An eisem Land gëtt et eng kleng Gemeinschaft vun indoneeseschen Immigranten.",
+  "ex_en": "In our country there's a small community of Indonesian immigrants.",
   "lodId": "GEMEINSCHAFT1"
  },
  {
@@ -240,8 +240,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "D'Gesellschaft verännert sech séier.",
-  "ex_en": "Society changes quickly.",
+  "ex_lb": "Bei deene Leit bass de a gudder Gesellschaft.",
+  "ex_en": "You're in good company with those people.",
   "lodId": "GESELLSCHAFT1"
  },
  {
@@ -253,8 +253,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "D'Entwécklung vum Projet leeft gutt.",
-  "ex_en": "The development of the project is going well.",
+  "ex_lb": "Är Duechter ass an hirer Entwécklung liicht hannendran.",
+  "ex_en": "Your daughter is slightly behind in her development.",
   "lodId": "ENTWECKLUNG1"
  },
  {
@@ -266,8 +266,8 @@
   "gender": "m",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Mir maachen e groussen Fortschrëtt.",
-  "ex_en": "We are making great progress.",
+  "ex_lb": "De Fortschrëtt ass net ze stoppen.",
+  "ex_en": "Progress can't be stopped.",
   "lodId": "FORTSCHRETT1"
  },
  {
@@ -279,8 +279,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Eng Verännerung géif gutt doen.",
-  "ex_en": "A change would do good.",
+  "ex_lb": "Kleng Verännerunge falen engem net ëmmer op.",
+  "ex_en": "Small changes aren't always noticeable.",
   "lodId": "VERANNERUNG1"
  },
  {
@@ -292,12 +292,12 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Eng grouss Onsécherheet herrscht am Land.",
-  "ex_en": "A great uncertainty prevails in the country.",
+  "ex_lb": "Wéinst der Onsécherheet an deem Quartier ginn d'Leit owes net méi eraus.",
+  "ex_en": "Because of the lack of safety in that neighbourhood, people no longer go out in the evening.",
   "lodId": "ONSECHERHEET1"
  },
  {
-  "lb": "Forschung",
+  "lb": "Fuerschung",
   "en": "research",
   "de": "Forschung",
   "fr": "recherche",
@@ -305,8 +305,9 @@
   "gender": "f",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Si schafft an der medezinescher Forschung.",
-  "ex_en": "She works in medical research."
+  "ex_lb": "Allgemeng muss méi an d'Fuerschung investéiert ginn.",
+  "ex_en": "In general, more needs to be invested in research.",
+  "lodId": "FUERSCHUNG1"
  },
  {
   "lb": "Wëssenschaft",
@@ -317,8 +318,8 @@
   "gender": "f",
   "level": "B1",
   "category": "science",
-  "ex_lb": "D'Wëssenschaft mécht grouss Fortschrëtter.",
-  "ex_en": "Science is making great progress.",
+  "ex_lb": "D'Astronomie ass d'Wëssenschaft vum Universum.",
+  "ex_en": "Astronomy is the science of the universe.",
   "lodId": "WESSENSCHAFT1"
  },
  {
@@ -330,12 +331,12 @@
   "gender": "f",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Dës Theorie ass nach net bewisen.",
-  "ex_en": "This theory is not yet proven.",
+  "ex_lb": "Der Police hir Theorie ass, datt d'Abriecher zu méi waren.",
+  "ex_en": "The police's theory is that there were several burglars.",
   "lodId": "THEORIE1"
  },
  {
-  "lb": "Hypothes",
+  "lb": "Hypothees",
   "en": "hypothesis",
   "de": "Hypothese",
   "fr": "hypothèse",
@@ -343,8 +344,9 @@
   "gender": "f",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Mir testen elo eis Hypothes.",
-  "ex_en": "We are now testing our hypothesis."
+  "ex_lb": "Seng Theorie berout op elauter Hypotheesen.",
+  "ex_en": "His theory rests entirely on hypotheses.",
+  "lodId": "HYPOTHEES1"
  },
  {
   "lb": "Experiment",
@@ -355,8 +357,8 @@
   "gender": "n",
   "level": "B1",
   "category": "science",
-  "ex_lb": "D'Experiment war e Succès.",
-  "ex_en": "The experiment was a success.",
+  "ex_lb": "De Cheemiker huet seng Theorie duerch e spektakuläert Experiment bewisen.",
+  "ex_en": "The chemist proved his theory with a spectacular experiment.",
   "lodId": "EXPERIMENT1"
  },
  {
@@ -381,8 +383,8 @@
   "gender": "m",
   "level": "B2",
   "category": "law",
-  "ex_lb": "Et gëtt kee Beweis fir seng Schold.",
-  "ex_en": "There is no proof of his guilt.",
+  "ex_lb": "Et leie stéchhalteg Beweiser géint den Ugeklote vir.",
+  "ex_en": "There is solid evidence against the defendant.",
   "lodId": "BEWEIS1"
  },
  {
@@ -394,12 +396,12 @@
   "gender": "n",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "D'Resultat war erstaunlech.",
-  "ex_en": "The result was astonishing.",
+  "ex_lb": "De Schüler huet d'Resultat am Kapp ausgerechent.",
+  "ex_en": "The pupil worked out the result in his head.",
   "lodId": "RESULTAT1"
  },
  {
-  "lb": "Schlussfolgerung",
+  "lb": "Schlussfollgerung",
   "en": "conclusion",
   "de": "Schlussfolgerung",
   "fr": "conclusion",
@@ -407,8 +409,9 @@
   "gender": "f",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Hir Schlussfolgerung ass logesch.",
-  "ex_en": "Her conclusion is logical."
+  "ex_lb": "D'Affekotin an de Riichter sinn zu där selwechter Schlussfollgerung komm.",
+  "ex_en": "The lawyer and the judge came to the same conclusion.",
+  "lodId": "SCHLUSSFOLLGERUNG1"
  },
  {
   "lb": "Analys",
@@ -419,8 +422,8 @@
   "gender": "f",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "D'Analys vun den Donnéeën leeft.",
-  "ex_en": "The analysis of the data is underway.",
+  "ex_lb": "D'Analyse vum Drénkwaasser goufen nach net ausgewäert.",
+  "ex_en": "The drinking water tests have not been evaluated yet.",
   "lodId": "ANALYS1"
  },
  {
@@ -444,21 +447,22 @@
   "gender": "m",
   "level": "B1",
   "category": "science",
-  "ex_lb": "Den éischte Versuch ass gescheitert.",
-  "ex_en": "The first attempt failed.",
+  "ex_lb": "All eis Versich waren ëmsoss.",
+  "ex_en": "All our attempts were in vain.",
   "lodId": "VERSUCH1"
  },
  {
-  "lb": "Molekül",
+  "lb": "Moleküll",
   "en": "molecule",
   "de": "Molekül",
   "fr": "molécule",
   "pos": "noun",
-  "gender": "n",
+  "gender": "f",
   "level": "B2",
   "category": "science",
-  "ex_lb": "Waasser besteet aus klenge Molekülen.",
-  "ex_en": "Water consists of small molecules."
+  "ex_lb": "Et brauch een e Mikroskop, fir d'Moleküllen ze gesinn.",
+  "ex_en": "You need a microscope to see molecules.",
+  "lodId": "MOLEKULL1"
  },
  {
   "lb": "Atom",
@@ -469,8 +473,8 @@
   "gender": "n",
   "level": "B2",
   "category": "science",
-  "ex_lb": "En Atom ass extrem kleng.",
-  "ex_en": "An atom is extremely small.",
+  "ex_lb": "Den Atom gouf laang als dat klengst Element vum Universum ugesinn.",
+  "ex_en": "For a long time the atom was considered the smallest element of the universe.",
   "lodId": "ATOM1"
  },
  {
@@ -482,8 +486,8 @@
   "gender": "f",
   "level": "B1",
   "category": "science",
-  "ex_lb": "All Zell huet e Kär.",
-  "ex_en": "Every cell has a nucleus.",
+  "ex_lb": "Ënner dem Mikroskop gëtt d'Zell 800-mol vergréissert.",
+  "ex_en": "Under the microscope the cell is magnified 800 times.",
   "lodId": "ZELL1"
  },
  {
@@ -495,8 +499,8 @@
   "gender": "f",
   "level": "B2",
   "category": "science",
-  "ex_lb": "D'Schwéierkraaft zitt alles erof.",
-  "ex_en": "Gravity pulls everything down.",
+  "ex_lb": "D'Physiksprofessorin huet de Schüler de Prinzip vun der Schwéierkraaft erkläert.",
+  "ex_en": "The physics teacher explained the principle of gravity to the pupils.",
   "lodId": "SCHWEIERKRAAFT1"
  },
  {
@@ -508,8 +512,8 @@
   "gender": "f",
   "level": "B1",
   "category": "science",
-  "ex_lb": "D'Sonn liwwert vill Energie.",
-  "ex_en": "The sun provides a lot of energy.",
+  "ex_lb": "Iess e Stéck Schockela, dat gëtt der erëm Energie!",
+  "ex_en": "Eat a piece of chocolate, it'll give you energy again!",
   "lodId": "ENERGIE1"
  },
  {
@@ -521,12 +525,12 @@
   "gender": "f",
   "level": "B2",
   "category": "science",
-  "ex_lb": "D'Liicht huet eng enorm Geschwindegkeet.",
-  "ex_en": "Light has an enormous speed.",
+  "ex_lb": "De Coureur konnt bei der Geschwindegkeet vum Peloton net mathalen.",
+  "ex_en": "The rider couldn't keep up with the speed of the peloton.",
   "lodId": "GESCHWINDEGKEET1"
  },
  {
-  "lb": "Strahlung",
+  "lb": "Stralung",
   "en": "radiation",
   "de": "Strahlung",
   "fr": "rayonnement",
@@ -534,8 +538,9 @@
   "gender": "f",
   "level": "B2",
   "category": "science",
-  "ex_lb": "D'Strahlung ass geféierlech.",
-  "ex_en": "The radiation is dangerous."
+  "ex_lb": "D'radioaktiv Stralung ass schiedlech fir de Mënsch.",
+  "ex_en": "Radioactive radiation is harmful to humans.",
+  "lodId": "STRALUNG1"
  },
  {
   "lb": "Reaktioun",
@@ -546,8 +551,8 @@
   "gender": "f",
   "level": "B1",
   "category": "science",
-  "ex_lb": "D'chemesch Reaktioun gëtt waarm.",
-  "ex_en": "The chemical reaction becomes warm.",
+  "ex_lb": "Ech si gespaant op dem Papp seng Reaktioun, wann en de Kaddo opmécht.",
+  "ex_en": "I'm curious how Dad will react when he opens the present.",
   "lodId": "REAKTIOUN1"
  },
  {
@@ -572,8 +577,8 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Hien huet der Versuchung net widderstanen.",
-  "ex_en": "He did not resist the temptation.",
+  "ex_lb": "Ech konnt der Versuchung net widderstoen, fir menger Frëndin alles weiderzezielen.",
+  "ex_en": "I couldn't resist the temptation to tell my girlfriend everything.",
   "lodId": "VERSUCHUNG1"
  },
  {
@@ -598,8 +603,8 @@
   "gender": "m",
   "level": "B1",
   "category": "law",
-  "ex_lb": "De Riichter huet d'Urteel verkënnegt.",
-  "ex_en": "The judge announced the verdict.",
+  "ex_lb": "De Riichter huet den Ugekloten an där Affär schëlleg gesprach.",
+  "ex_en": "The judge found the defendant guilty in that case.",
   "lodId": "RIICHTER1"
  },
  {
@@ -611,8 +616,8 @@
   "gender": "m",
   "level": "B1",
   "category": "law",
-  "ex_lb": "Hir Affekot verdeedegt si gutt.",
-  "ex_en": "Her lawyer defends her well.",
+  "ex_lb": "Den Affekot verteidegt säi Client viru Geriicht.",
+  "ex_en": "The lawyer defends his client in court.",
   "lodId": "AFFEKOT1"
  },
  {
@@ -624,8 +629,8 @@
   "gender": "n",
   "level": "B2",
   "category": "law",
-  "ex_lb": "D'Urteel war gerecht.",
-  "ex_en": "The verdict was fair.",
+  "ex_lb": "An deem Prozess ass d'Urteel nach net gesprach.",
+  "ex_en": "In that trial the verdict has not yet been delivered.",
   "lodId": "URTEEL1"
  },
  {
@@ -637,8 +642,8 @@
   "gender": "n",
   "level": "B1",
   "category": "law",
-  "ex_lb": "Dat neit Gesetz trëtt muer a Kraaft.",
-  "ex_en": "The new law comes into force tomorrow.",
+  "ex_lb": "Dat ass en ongeschriwwent Gesetz!",
+  "ex_en": "That's an unwritten law!",
   "lodId": "GESETZ1"
  },
  {
@@ -650,8 +655,8 @@
   "gender": "n",
   "level": "B1",
   "category": "law",
-  "ex_lb": "Jiddereen huet d'Recht op Bildung.",
-  "ex_en": "Everyone has the right to education.",
+  "ex_lb": "Dat Gesetz ass am Aklang mam europäesche Recht.",
+  "ex_en": "That law is in line with European law.",
   "lodId": "RECHT1"
  },
  {
@@ -676,8 +681,8 @@
   "gender": "f",
   "level": "B1",
   "category": "law",
-  "ex_lb": "Et war net seng Schold.",
-  "ex_en": "It was not his fault.",
+  "ex_lb": "Ech si mer kenger Schold bewosst.",
+  "ex_en": "I'm not aware of any guilt.",
   "lodId": "SCHOLD1"
  },
  {
@@ -689,8 +694,8 @@
   "gender": "f",
   "level": "B1",
   "category": "law",
-  "ex_lb": "D'Strof war ze haart.",
-  "ex_en": "The punishment was too harsh.",
+  "ex_lb": "Well dee Schëllege sech net gemellt huet, krut déi ganz Klass eng Strof.",
+  "ex_en": "Because the culprit didn't own up, the whole class was punished.",
   "lodId": "STROF1"
  },
  {
@@ -702,8 +707,8 @@
   "gender": "n",
   "level": "B2",
   "category": "law",
-  "ex_lb": "D'Verbriechen ass nach net opgekläert.",
-  "ex_en": "The crime has not yet been solved.",
+  "ex_lb": "Friemenhaass kann zu schlëmme Verbrieche féieren.",
+  "ex_en": "Xenophobia can lead to terrible crimes.",
   "lodId": "VERBRIECHEN1"
  },
  {
@@ -727,12 +732,12 @@
   "gender": "f",
   "level": "B2",
   "category": "law",
-  "ex_lb": "Hien huet d'Beschëllegung zréckgewisen.",
-  "ex_en": "He rejected the accusation.",
+  "ex_lb": "Den Ugeklote gouf vun alle Beschëllegunge fräigesprach.",
+  "ex_en": "The defendant was acquitted of all charges.",
   "lodId": "BESCHELLEGUNG1"
  },
  {
-  "lb": "Verdrag",
+  "lb": "Vertrag",
   "en": "treaty, contract",
   "de": "Vertrag",
   "fr": "traité",
@@ -740,11 +745,12 @@
   "gender": "m",
   "level": "B2",
   "category": "law",
-  "ex_lb": "Béid Säiten hunn de Verdrag ënnerschriwwen.",
-  "ex_en": "Both sides signed the treaty."
+  "ex_lb": "Mir hunn de Vertrag mat der Botzfirma gekënnegt.",
+  "ex_en": "We cancelled the contract with the cleaning company.",
+  "lodId": "VERTRAG1"
  },
  {
-  "lb": "Rechtsanwalt",
+  "lb": "Affekot",
   "en": "attorney-at-law",
   "de": "Rechtsanwalt",
   "fr": "juriste",
@@ -752,8 +758,9 @@
   "gender": "m",
   "level": "B2",
   "category": "law",
-  "ex_lb": "De Rechtsanwalt huet de Fall geholl.",
-  "ex_en": "The attorney took the case."
+  "ex_lb": "Den Affekot verteidegt säi Client viru Geriicht.",
+  "ex_en": "The lawyer defends his client in court.",
+  "lodId": "AFFEKOT1"
  },
  {
   "lb": "Justiz",
@@ -764,8 +771,8 @@
   "gender": "f",
   "level": "B2",
   "category": "law",
-  "ex_lb": "D'Justiz funktionéiert onofhängeg.",
-  "ex_en": "The judiciary operates independently.",
+  "ex_lb": "An enger Demokratie ass d'Justiz onofhängeg.",
+  "ex_en": "In a democracy the judiciary is independent.",
   "lodId": "JUSTIZ1"
  },
  {
@@ -777,8 +784,8 @@
   "gender": "f",
   "level": "B2",
   "category": "health",
-  "ex_lb": "Eng chronesch Erkrankung erfuerdert Pfleeg.",
-  "ex_en": "A chronic illness requires care.",
+  "ex_lb": "Wéinst enger stënterlecher Erkrankung huet de Sänger de Concert missen ofsoen.",
+  "ex_en": "Because of a sudden illness the singer had to cancel the concert.",
   "lodId": "ERKRANKUNG1"
  },
  {
@@ -790,8 +797,8 @@
   "gender": "f",
   "level": "B1",
   "category": "health",
-  "ex_lb": "D'Behandlung dauert sechs Méint.",
-  "ex_en": "The treatment lasts six months.",
+  "ex_lb": "D'Hausdéieren hunn e Recht op eng gutt Behandlung.",
+  "ex_en": "Pets have the right to be treated well.",
   "lodId": "BEHANDLUNG1"
  },
  {
@@ -803,8 +810,8 @@
   "gender": "f",
   "level": "B2",
   "category": "health",
-  "ex_lb": "D'Diagnos war e Schock fir hatt.",
-  "ex_en": "The diagnosis was a shock for her.",
+  "ex_lb": "Den Dokter muss d'Bluttanalys ofwaarden, ier en eng Diagnos ka maachen.",
+  "ex_en": "The doctor has to wait for the blood test before making a diagnosis.",
   "lodId": "DIAGNOS1"
  },
  {
@@ -816,8 +823,8 @@
   "gender": "n",
   "level": "B2",
   "category": "health",
-  "ex_lb": "D'éischt Symptomer sinn elo do.",
-  "ex_en": "The first symptoms are now present.",
+  "ex_lb": "Dacks gi Medikamenter agesat, déi just d'Symptomer behandelen.",
+  "ex_en": "Often medicines are used that only treat the symptoms.",
   "lodId": "SYMPTOM1"
  },
  {
@@ -829,8 +836,8 @@
   "gender": "f",
   "level": "B1",
   "category": "health",
-  "ex_lb": "D'Impfung schützt géint d'Krankheet.",
-  "ex_en": "The vaccination protects against the disease.",
+  "ex_lb": "Du muss deng Impfungen an den Impfpass androe loossen.",
+  "ex_en": "You must have your vaccinations entered in your vaccination record.",
   "lodId": "IMPFUNG1"
  },
  {
@@ -842,8 +849,8 @@
   "gender": "f",
   "level": "B1",
   "category": "health",
-  "ex_lb": "D'Operatioun ass gutt verlaf.",
-  "ex_en": "The operation went well.",
+  "ex_lb": "Bei der Operatioun krut d'Patientin eng nei Nier agesat.",
+  "ex_en": "In the operation the patient received a new kidney.",
   "lodId": "OPERATIOUN1"
  },
  {
@@ -855,8 +862,8 @@
   "gender": "f",
   "level": "B2",
   "category": "health",
-  "ex_lb": "Hien huet eng Entzündung um Knéi.",
-  "ex_en": "He has an inflammation on his knee.",
+  "ex_lb": "De Sportler huet eng Entzündung am Knéi.",
+  "ex_en": "The athlete has an inflamed knee.",
   "lodId": "ENTZUNDUNG1"
  },
  {
@@ -868,8 +875,8 @@
   "gender": "f",
   "level": "B1",
   "category": "health",
-  "ex_lb": "D'Verletzung heelt lues.",
-  "ex_en": "The injury heals slowly.",
+  "ex_lb": "De Blesséierten ass an der Nuecht u senge Verletzunge gestuerwen.",
+  "ex_en": "The injured man died of his injuries during the night.",
   "lodId": "VERLETZUNG1"
  },
  {
@@ -881,8 +888,8 @@
   "gender": "f",
   "level": "B2",
   "category": "health",
-  "ex_lb": "D'Heelung huet laang gedauert.",
-  "ex_en": "The healing took a long time.",
+  "ex_lb": "Mat deem neien Traitement ginn d'Chancen op eng Heelung däitlech erop.",
+  "ex_en": "With the new treatment the chances of a cure rise considerably.",
   "lodId": "HEELUNG1"
  },
  {
@@ -894,12 +901,12 @@
   "gender": "n",
   "level": "B2",
   "category": "health",
-  "ex_lb": "E staarkt Immunsystem ass wichteg.",
-  "ex_en": "A strong immune system is important.",
+  "ex_lb": "Eng gesond Liewensweis dréit zu engem gudden Immunsystem bäi.",
+  "ex_en": "A healthy lifestyle contributes to a good immune system.",
   "lodId": "IMMUNSYSTEM1"
  },
  {
-  "lb": "Blutdrock",
+  "lb": "Bluttdrock",
   "en": "blood pressure",
   "de": "Blutdruck",
   "fr": "tension artérielle",
@@ -907,8 +914,9 @@
   "gender": "m",
   "level": "B2",
   "category": "health",
-  "ex_lb": "Säi Blutdrock ass ze héich.",
-  "ex_en": "His blood pressure is too high."
+  "ex_lb": "D'Doktesch huet dem Blesséierten de Bols geholl an de Bluttdrock gemooss.",
+  "ex_en": "The doctor took the injured man's pulse and measured his blood pressure.",
+  "lodId": "BLUTTDROCK1"
  },
  {
   "lb": "Allergie",
@@ -919,8 +927,8 @@
   "gender": "f",
   "level": "B1",
   "category": "health",
-  "ex_lb": "Ech hunn eng Allergie géint Pollen.",
-  "ex_en": "I have an allergy to pollen.",
+  "ex_lb": "Hien huet eng Allergie op Nëss.",
+  "ex_en": "He is allergic to nuts.",
   "lodId": "ALLERGIE1"
  },
  {
@@ -932,12 +940,12 @@
   "gender": "m",
   "level": "B1",
   "category": "health",
-  "ex_lb": "De Virus verbreet sech séier.",
-  "ex_en": "The virus spreads quickly.",
+  "ex_lb": "Géint e Virus hëlleft keen Antibiotique.",
+  "ex_en": "Antibiotics don't help against a virus.",
   "lodId": "VIRUS1"
  },
  {
-  "lb": "Knach",
+  "lb": "Knachen",
   "en": "bone",
   "de": "Knochen",
   "fr": "os",
@@ -945,8 +953,9 @@
   "gender": "m",
   "level": "B1",
   "category": "health",
-  "ex_lb": "Hien huet sech e Knach gebrach.",
-  "ex_en": "He broke a bone."
+  "ex_lb": "Wéi d'Haus ofgerappt gouf, goufen al Knachen am Buedem fonnt.",
+  "ex_en": "When the house was demolished, old bones were found in the ground.",
+  "lodId": "KNACHEN1"
  },
  {
   "lb": "Muskel",
@@ -957,8 +966,8 @@
   "gender": "m",
   "level": "B1",
   "category": "health",
-  "ex_lb": "No der Sport deet de Muskel wéi.",
-  "ex_en": "After sports the muscle hurts.",
+  "ex_lb": "Wann e Muskel sech entzünt, kann dat zimmlech wéidoen.",
+  "ex_en": "When a muscle becomes inflamed, it can hurt quite a lot.",
   "lodId": "MUSKEL1"
  },
  {
@@ -970,12 +979,12 @@
   "gender": "m",
   "level": "B2",
   "category": "health",
-  "ex_lb": "En Nerv ass ageklämmt.",
-  "ex_en": "A nerve is pinched.",
+  "ex_lb": "De Mann huet d'Nerve verluer.",
+  "ex_en": "The man lost his nerve.",
   "lodId": "NERV1"
  },
  {
-  "lb": "Schäerflëschten",
+  "lb": "Ausschlag",
   "en": "rash",
   "de": "Hautausschlag",
   "fr": "éruption cutanée",
@@ -983,11 +992,12 @@
   "gender": "m",
   "level": "B2",
   "category": "health",
-  "ex_lb": "De Schäerflëschten juckt staark.",
-  "ex_en": "The rash itches a lot."
+  "ex_lb": "D'Patientin huet en Ausschlag um Been.",
+  "ex_en": "The patient has a rash on her leg.",
+  "lodId": "AUSSCHLAG1"
  },
  {
-  "lb": "Müdegkeet",
+  "lb": "Middegkeet",
   "en": "fatigue, tiredness",
   "de": "Müdigkeit",
   "fr": "fatigue",
@@ -995,8 +1005,9 @@
   "gender": "f",
   "level": "B1",
   "category": "health",
-  "ex_lb": "Eng grouss Müdegkeet huet mech iwwerfall.",
-  "ex_en": "A great tiredness came over me."
+  "ex_lb": "D'Kanner behale vun elauter Middegkeet d'Aen net méi op.",
+  "ex_en": "The children are so tired they can't keep their eyes open.",
+  "lodId": "MIDDEGKEET1"
  },
  {
   "lb": "Eechel",
@@ -1007,12 +1018,12 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "Eng al Eechel steet am Gaart.",
-  "ex_en": "An old oak stands in the garden.",
+  "ex_lb": "D'Kaweechelchen huet eng Eechel fonnt.",
+  "ex_en": "The squirrel found an acorn.",
   "lodId": "EECHEL1"
  },
  {
-  "lb": "Bouk",
+  "lb": "Bich",
   "en": "beech",
   "de": "Buche",
   "fr": "hêtre",
@@ -1020,11 +1031,12 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "D'Bouk huet glat Rënn.",
-  "ex_en": "The beech has smooth bark."
+  "ex_lb": "Hanner der Kierch stinn dräi grouss Bichen.",
+  "ex_en": "Three big beeches stand behind the church.",
+  "lodId": "BICH1"
  },
  {
-  "lb": "Birk",
+  "lb": "Bierk",
   "en": "birch",
   "de": "Birke",
   "fr": "bouleau",
@@ -1032,8 +1044,9 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "D'Birk huet wäiss Rënn.",
-  "ex_en": "The birch has white bark."
+  "ex_lb": "D'Gemengegäertner hu Bierke laanscht de Wee geplanzt.",
+  "ex_en": "The municipal gardeners planted birches along the path.",
+  "lodId": "BIERK1"
  },
  {
   "lb": "Ficht",
@@ -1057,8 +1070,8 @@
   "gender": "m",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "E Fuuss lääft iwwer d'Wiss.",
-  "ex_en": "A fox runs across the meadow.",
+  "ex_lb": "De Fuuss ass e ganz nëtzlecht Déier, dat an der Natur vill As frësst an esou potenziell Krankheete verhënnert.",
+  "ex_en": "The fox is a very useful animal: it eats a lot of carrion in nature and so prevents disease.",
   "lodId": "FUUSS2"
  },
  {
@@ -1070,8 +1083,8 @@
   "gender": "m",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "Den Dachs ass nuets ënnerwee.",
-  "ex_en": "The badger is out at night.",
+  "ex_lb": "Den Dachs ass de gréisste Vertrieder vun der Marderfamill zu Lëtzebuerg a steet säit 1986 ënner Aarteschutz.",
+  "ex_en": "The badger is the largest member of the marten family in Luxembourg and has been a protected species since 1986.",
   "lodId": "DACHS2"
  },
  {
@@ -1083,12 +1096,12 @@
   "gender": "m",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "En Igel rullt sech zesummen.",
-  "ex_en": "A hedgehog rolls itself up.",
+  "ex_lb": "Den Igel däerf net mat Mëllech gefiddert ginn, well déi staarken Duerchfall bei em ausléist an zum Doud ka féieren.",
+  "ex_en": "Hedgehogs must not be fed milk, because it gives them severe diarrhoea and can kill them.",
   "lodId": "IGEL2"
  },
  {
-  "lb": "Eechhärnchen",
+  "lb": "Kaweechelchen",
   "en": "squirrel",
   "de": "Eichhörnchen",
   "fr": "écureuil",
@@ -1096,11 +1109,12 @@
   "gender": "n",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "D'Eechhärnchen sammelt Nëss.",
-  "ex_en": "The squirrel collects nuts."
+  "ex_lb": "Hien ass flénk ewéi e Kaweechelchen.",
+  "ex_en": "He is as quick as a squirrel.",
+  "lodId": "KAWEECHELCHEN2"
  },
  {
-  "lb": "Hiesch",
+  "lb": "Hirsch",
   "en": "deer, stag",
   "de": "Hirsch",
   "fr": "cerf",
@@ -1108,8 +1122,9 @@
   "gender": "m",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "En Hiesch steet um Bëschrand.",
-  "ex_en": "A stag stands at the edge of the forest."
+  "ex_lb": "Vill Leit verwiesselen den Hirsch mam Réibock.",
+  "ex_en": "Many people confuse the red deer with the roebuck.",
+  "lodId": "HIRSCH2"
  },
  {
   "lb": "Réi",
@@ -1120,8 +1135,8 @@
   "gender": "n",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "E Réi sprangt iwwer de Wee.",
-  "ex_en": "A roe deer jumps over the path.",
+  "ex_lb": "Dat Klengt ass schei ewéi e Réi.",
+  "ex_en": "The little one is as shy as a deer.",
   "lodId": "REI4"
  },
  {
@@ -1133,12 +1148,12 @@
   "gender": "f",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "D'Eil jaut nuets.",
-  "ex_en": "The owl hunts at night.",
+  "ex_lb": "Mir haten deslescht eng Eil um Späicher.",
+  "ex_en": "We recently had an owl in the attic.",
   "lodId": "EIL1"
  },
  {
-  "lb": "Schwalm",
+  "lb": "Schmuewel",
   "en": "swallow",
   "de": "Schwalbe",
   "fr": "hirondelle",
@@ -1146,11 +1161,12 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "D'Schwalme kommen am Fréijoer zréck.",
-  "ex_en": "The swallows come back in spring."
+  "ex_lb": "Wann d'Schmuewelen déif fléien, da gëtt et gewéinlech Reen.",
+  "ex_en": "When swallows fly low, it usually rains.",
+  "lodId": "SCHMUEWEL1"
  },
  {
-  "lb": "Spuetz",
+  "lb": "Spatz",
   "en": "sparrow",
   "de": "Spatz",
   "fr": "moineau",
@@ -1158,11 +1174,12 @@
   "gender": "m",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "E Spuetz pickt no Kären.",
-  "ex_en": "A sparrow pecks for grains."
+  "ex_lb": "D'Spatze picken un den Hénger hirem Fudder.",
+  "ex_en": "The sparrows peck at the hens' feed.",
+  "lodId": "SPATZ1"
  },
  {
-  "lb": "Eemes",
+  "lb": "Seejomes",
   "en": "ant",
   "de": "Ameise",
   "fr": "fourmi",
@@ -1170,11 +1187,12 @@
   "gender": "f",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "D'Eemese schaffen den ganzen Dag.",
-  "ex_en": "The ants work all day."
+  "ex_lb": "Ënner dem Fënsterbriet haust eng Kolonie Seejomessen.",
+  "ex_en": "A colony of ants lives under the window sill.",
+  "lodId": "SEEJOMES1"
  },
  {
-  "lb": "Imm",
+  "lb": "Bei",
   "en": "bee",
   "de": "Biene",
   "fr": "abeille",
@@ -1182,8 +1200,9 @@
   "gender": "f",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "D'Imm sammelt Hunneg.",
-  "ex_en": "The bee collects honey."
+  "ex_lb": "Héier emol, wéi d'Beie summen!",
+  "ex_en": "Listen to the bees buzzing!",
+  "lodId": "BEI1"
  },
  {
   "lb": "Päiperlek",
@@ -1194,21 +1213,22 @@
   "gender": "m",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "E faarwege Päiperlek fléit ëmmer.",
-  "ex_en": "A colorful butterfly flies around.",
+  "ex_lb": "Am Summer hu mer de Gaart voller Päiperleken.",
+  "ex_en": "In summer our garden is full of butterflies.",
   "lodId": "PAIPERLEK1"
  },
  {
-  "lb": "Schleck",
+  "lb": "Schleek",
   "en": "snail",
   "de": "Schnecke",
   "fr": "escargot",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "D'Schleck kräicht ganz lues.",
-  "ex_en": "The snail crawls very slowly."
+  "ex_lb": "De Schleek zitt d'Haren an, wann een se upéckt.",
+  "ex_en": "The snail pulls in its horns when you touch it.",
+  "lodId": "SCHLEEK1"
  },
  {
   "lb": "Fräsch",
@@ -1219,8 +1239,8 @@
   "gender": "m",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "E Fräsch sprangt an den Weier.",
-  "ex_en": "A frog jumps into the pond.",
+  "ex_lb": "An eisem Weier sinn dëst Joer vill Fräschen.",
+  "ex_en": "There are lots of frogs in our pond this year.",
   "lodId": "FRASCH1"
  },
  {
@@ -1232,8 +1252,8 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "Eng Schmuel fléit ëm d'Luucht.",
-  "ex_en": "A moth flies around the light.",
+  "ex_lb": "De Camion kënnt net duerch déi schmuel Afaart an den Haff.",
+  "ex_en": "The lorry can't get through the narrow entrance into the yard.",
   "lodId": "SCHMUEL1"
  },
  {
@@ -1245,12 +1265,12 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "Mëschten wuessen op alen Beem.",
-  "ex_en": "Mistletoe grows on old trees.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "MESCHTEN1"
  },
  {
-  "lb": "Brennëssel",
+  "lb": "Brennnessel",
   "en": "nettle",
   "de": "Brennnessel",
   "fr": "ortie",
@@ -1258,11 +1278,12 @@
   "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "D'Brennëssel brennt op der Haut.",
-  "ex_en": "The nettle stings on the skin."
+  "ex_lb": "Et deet net gutt, wann s de an d'Brennnessele fäls.",
+  "ex_en": "It's no fun falling into the nettles.",
+  "lodId": "BRENNNESSEL1"
  },
  {
-  "lb": "Klee",
+  "lb": "Kléi",
   "en": "clover",
   "de": "Klee",
   "fr": "trèfle",
@@ -1270,8 +1291,9 @@
   "gender": "m",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "E véierbliedrege Klee bréngt Gléck.",
-  "ex_en": "A four-leaf clover brings luck."
+  "ex_lb": "Dreif d'Kéi aus dem Kléi!",
+  "ex_en": "Drive the cows out of the clover!",
+  "lodId": "KLEI1"
  },
  {
   "lb": "Pilz",
@@ -1282,8 +1304,8 @@
   "gender": "m",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "Dëse Pilz ass net iessbar.",
-  "ex_en": "This mushroom is not edible.",
+  "ex_lb": "D'Kanner si mam Bop Pilze sammelen.",
+  "ex_en": "The children went mushroom picking with grandpa.",
   "lodId": "PILZ1"
  },
  {
@@ -1295,8 +1317,8 @@
   "gender": "n",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "D'Moos wiisst um Steen.",
-  "ex_en": "The moss grows on the stone.",
+  "ex_lb": "Déi al Mauer ass voller Moos.",
+  "ex_en": "The old wall is covered in moss.",
   "lodId": "MOOS1"
  },
  {
@@ -1308,21 +1330,22 @@
   "gender": "f",
   "level": "B1",
   "category": "nature",
-  "ex_lb": "D'Quell sprudelt aus dem Fiels.",
-  "ex_en": "The spring gushes from the rock.",
+  "ex_lb": "D'Waasserwierk huet eng nei Quell gefaasst.",
+  "ex_en": "The waterworks has tapped a new spring.",
   "lodId": "QUELL1"
  },
  {
-  "lb": "Sumpf",
+  "lb": "Supp",
   "en": "swamp, marsh",
   "de": "Sumpf",
   "fr": "marais",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B2",
   "category": "nature",
-  "ex_lb": "Am Sumpf liewen vill Insekten.",
-  "ex_en": "Many insects live in the swamp."
+  "ex_lb": "Um Festival stoungen d'Leit bis un d'Knéien an der Supp.",
+  "ex_en": "At the festival people stood knee-deep in mud.",
+  "lodId": "SUPP1"
  },
  {
   "lb": "Schluet",
@@ -1346,8 +1369,8 @@
   "gender": "f",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Bildung ass de Schlëssel zum Erfolleg.",
-  "ex_en": "Education is the key to success.",
+  "ex_lb": "Eng gutt Bildung ass wichteg fir d'Zukunft vun de Kanner.",
+  "ex_en": "A good education is important for children's future.",
   "lodId": "BILDUNG1"
  },
  {
@@ -1359,8 +1382,8 @@
   "gender": "n",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Säi Wëssen ass beandrockend.",
-  "ex_en": "His knowledge is impressive.",
+  "ex_lb": "Kéints de eis hëllefen, hei ass däi Wësse gefrot!",
+  "ex_en": "Could you help us, your knowledge is needed here!",
   "lodId": "WESSEN1"
  },
  {
@@ -1372,8 +1395,8 @@
   "gender": "f",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Eng nei Studie bestätegt dat.",
-  "ex_en": "A new study confirms that.",
+  "ex_lb": "Als Ofschloss vu senge Studie muss de Student e Memoire schreiwen.",
+  "ex_en": "To finish his studies the student has to write a dissertation.",
   "lodId": "STUDIE1"
  },
  {
@@ -1385,8 +1408,8 @@
   "gender": "f",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "D'Virliesung fänkt um aacht un.",
-  "ex_en": "The lecture begins at eight.",
+  "ex_lb": "De Professer ass a senge Virliesungen op déi aktuell Theorien agaangen.",
+  "ex_en": "In his lectures the professor discussed current theories.",
   "lodId": "VIRLIESUNG1"
  },
  {
@@ -1398,8 +1421,8 @@
   "gender": "m",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Si mécht hire Dokter an der Chimie.",
-  "ex_en": "She is doing her doctorate in chemistry.",
+  "ex_lb": "An esou Fäll soll een direkt den Dokter ruffen.",
+  "ex_en": "In such cases you should call the doctor straight away.",
   "lodId": "DOKTER1"
  },
  {
@@ -1411,8 +1434,8 @@
   "gender": "m",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "De Fuerscher huet eppes Neies entdeckt.",
-  "ex_en": "The researcher discovered something new.",
+  "ex_lb": "De Fuerscher gëtt all seng Donnéeën an de Computer an.",
+  "ex_en": "The researcher enters all his data into the computer.",
   "lodId": "FUERSCHER1"
  },
  {
@@ -1424,8 +1447,8 @@
   "gender": "f",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Dës Entdeckung verännert d'Medezin.",
-  "ex_en": "This discovery changes medicine.",
+  "ex_lb": "D'Entdeckung vun Amerika hat e groussen Impakt op d'Ekonomie.",
+  "ex_en": "The discovery of America had a big impact on the economy.",
   "lodId": "ENTDECKUNG1"
  },
  {
@@ -1437,8 +1460,8 @@
   "gender": "m",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Dëse Begrëff ass schwéier ze erklären.",
-  "ex_en": "This concept is hard to explain.",
+  "ex_lb": "D'Philosophe beschäftege sech vill mat de Begrëffer vu Raum an Zäit.",
+  "ex_en": "Philosophers deal a lot with the concepts of space and time.",
   "lodId": "BEGREFF2"
  },
  {
@@ -1450,8 +1473,8 @@
   "gender": "n",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Säin Argument war iwwerzeegend.",
-  "ex_en": "His argument was convincing.",
+  "ex_lb": "Schlo en anert Argument vir, dat doten daacht näischt!",
+  "ex_en": "Come up with another argument, that one is no good!",
   "lodId": "ARGUMENT1"
  },
  {
@@ -1463,8 +1486,8 @@
   "gender": "n",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Hien huet d'Zitat falsch ugewannt.",
-  "ex_en": "He used the quotation incorrectly.",
+  "ex_lb": "Vu wiem ass dat Zitat scho méi?",
+  "ex_en": "Who was that quote by again?",
   "lodId": "ZITAT1"
  },
  {
@@ -1476,12 +1499,12 @@
   "gender": "f",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "D'Iwwersetzung ass net ganz präzis.",
-  "ex_en": "The translation is not very precise.",
+  "ex_lb": "E Mammesproochler huet mer bei der Iwwersetzung gehollef.",
+  "ex_en": "A native speaker helped me with the translation.",
   "lodId": "IWWERSETZUNG1"
  },
  {
-  "lb": "Kenntnëss",
+  "lb": "Kenntnis",
   "en": "knowledge, proficiency",
   "de": "Kenntnis",
   "fr": "connaissance",
@@ -1489,11 +1512,12 @@
   "gender": "f",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Si huet gutt Kenntnësser am Däitschen.",
-  "ex_en": "She has good knowledge of German."
+  "ex_lb": "Seng Kenntnisser an der Geografie sinn net déck.",
+  "ex_en": "His knowledge of geography is not great.",
+  "lodId": "KENNTNIS1"
  },
  {
-  "lb": "Wéimutt",
+  "lb": "Melancholie",
   "en": "melancholy, wistfulness",
   "de": "Wehmut",
   "fr": "mélancolie",
@@ -1501,20 +1525,9 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Mat Wéimutt huet hatt un déi Zäit geduecht.",
-  "ex_en": "With wistfulness she thought of that time."
- },
- {
-  "lb": "Sehnsucht",
-  "en": "longing, yearning",
-  "de": "Sehnsucht",
-  "fr": "nostalgie",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B2",
-  "category": "emotion",
-  "ex_lb": "Hien huet Sehnsucht no doheem.",
-  "ex_en": "He has a longing for home."
+  "ex_lb": "Hie gefält sech a senger Melancholie.",
+  "ex_en": "He wallows in his melancholy.",
+  "lodId": "MELANCHOLIE1"
  },
  {
   "lb": "Verzweiflung",
@@ -1538,8 +1551,8 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Mat Erliichterung huet hien ootmen.",
-  "ex_en": "With relief he breathed out.",
+  "ex_lb": "De Bijoutier huet mat Erliichterung festgestallt, datt näischt geklaut gi war.",
+  "ex_en": "The jeweller noted with relief that nothing had been stolen.",
   "lodId": "ERLIICHTERUNG1"
  },
  {
@@ -1551,8 +1564,8 @@
   "gender": "m",
   "level": "B1",
   "category": "emotion",
-  "ex_lb": "Mat Stolz huet si de Präis ugeholl.",
-  "ex_en": "With pride she accepted the prize.",
+  "ex_lb": "Du bass mäi ganze Stolz.",
+  "ex_en": "You are my pride and joy.",
   "lodId": "STOLZ1"
  },
  {
@@ -1564,12 +1577,12 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Aus Schimmt huet hien näischt gesot.",
-  "ex_en": "Out of shame he said nothing.",
+  "ex_lb": "No mengem Mëssel war ech rout vu Schimmt.",
+  "ex_en": "After my blunder I was red with shame.",
   "lodId": "SCHIMMT1"
  },
  {
-  "lb": "Mëttleed",
+  "lb": "Matleed",
   "en": "compassion, pity",
   "de": "Mitleid",
   "fr": "compassion",
@@ -1577,8 +1590,9 @@
   "gender": "n",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Si huet Mëttleed mat den Aarmen.",
-  "ex_en": "She has compassion for the poor."
+  "ex_lb": "Huet da guer kee Matleed mat deem aarme Mann?",
+  "ex_en": "Have you no pity at all for that poor man?",
+  "lodId": "MATLEED1"
  },
  {
   "lb": "Begeeschterung",
@@ -1589,8 +1603,8 @@
   "gender": "f",
   "level": "B1",
   "category": "emotion",
-  "ex_lb": "Mat Begeeschterung huet hien matgemaach.",
-  "ex_en": "With enthusiasm he joined in.",
+  "ex_lb": "Weis emol e bësse méi Begeeschterung bei der Aarbecht!",
+  "ex_en": "Show a bit more enthusiasm at work!",
   "lodId": "BEGEESCHTERUNG1"
  },
  {
@@ -1602,8 +1616,8 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Si huet eng Ofneigung géint Lëgnen.",
-  "ex_en": "She has an aversion to lies.",
+  "ex_lb": "Ech hunn eng Ofneigung géint autoritär Methoden.",
+  "ex_en": "I have an aversion to authoritarian methods.",
   "lodId": "OFNEIGUNG1"
  },
  {
@@ -1615,8 +1629,8 @@
   "gender": "m",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Säin Nei ass net ze iwwersinn.",
-  "ex_en": "His envy cannot be overlooked.",
+  "ex_lb": "Ech hu mer an der Vakanz en neie Bikini kaaft.",
+  "ex_en": "I bought myself a new bikini on holiday.",
   "lodId": "NEI1"
  },
  {
@@ -1628,8 +1642,8 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "An senger Roserei huet hien geruff.",
-  "ex_en": "In his rage he shouted.",
+  "ex_lb": "Ech hu mech al misse beherrschen, fir meng Roserei net ze weisen.",
+  "ex_en": "I really had to control myself so as not to show my anger.",
   "lodId": "ROSEREI1"
  },
  {
@@ -1641,12 +1655,12 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Eng komesch Onrou huet mech iwwerfall.",
-  "ex_en": "A strange unease came over me.",
+  "ex_lb": "E klengt Kand war ënner den Affer vun deene bluddegen Onrouen.",
+  "ex_en": "A small child was among the victims of the bloody unrest.",
   "lodId": "ONROU1"
  },
  {
-  "lb": "Gelaassenheet",
+  "lb": "Geloossenheet",
   "en": "composure, serenity",
   "de": "Gelassenheit",
   "fr": "sérénité",
@@ -1654,20 +1668,9 @@
   "gender": "f",
   "level": "B2",
   "category": "emotion",
-  "ex_lb": "Mat Gelaassenheet huet hien geäntwert.",
-  "ex_en": "With composure he answered."
- },
- {
-  "lb": "Zoufriddenheet",
-  "en": "contentment",
-  "de": "Zufriedenheit",
-  "fr": "satisfaction",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "emotion",
-  "ex_lb": "Eng grouss Zoufriddenheet huet hatt gefëllt.",
-  "ex_en": "A great contentment filled her."
+  "ex_lb": "Et ass ze bewonneren, mat wat fir enger Geloossenheet hien an den Exame geet.",
+  "ex_en": "It's admirable how calmly he goes into the exam.",
+  "lodId": "GELOOSSENHEET1"
  },
  {
   "lb": "Dankbarkeet",
@@ -1678,8 +1681,8 @@
   "gender": "f",
   "level": "B1",
   "category": "emotion",
-  "ex_lb": "Aus Dankbarkeet huet si him geschriwwen.",
-  "ex_en": "Out of gratitude she wrote to him.",
+  "ex_lb": "Vun elauter Dankbarkeet hunn si eis en décke Bouquet Blumme geschenkt.",
+  "ex_en": "Out of sheer gratitude they gave us a big bouquet of flowers.",
   "lodId": "DANKBARKEET1"
  },
  {
@@ -1691,8 +1694,8 @@
   "gender": "f",
   "level": "B1",
   "category": "trait",
-  "ex_lb": "Éierlechkeet ass him wichteg.",
-  "ex_en": "Honesty is important to him.",
+  "ex_lb": "Ech zweiwelen net un denger Éierlechkeet.",
+  "ex_en": "I don't doubt your honesty.",
   "lodId": "EIERLECHKEET1"
  },
  {
@@ -1704,8 +1707,8 @@
   "gender": "f",
   "level": "B2",
   "category": "trait",
-  "ex_lb": "Trotz sengem Erfolleg bleift hien an der Bescheidenheet.",
-  "ex_en": "Despite his success he remains modest.",
+  "ex_lb": "Bescheidenheet ass eng Dugend, déi ech bei mengem Bop ëmmer bewonnert hunn.",
+  "ex_en": "Modesty is a virtue I always admired in my grandpa.",
   "lodId": "BESCHEIDENHEET1"
  },
  {
@@ -1717,8 +1720,8 @@
   "gender": "f",
   "level": "B1",
   "category": "trait",
-  "ex_lb": "Mat Gedold geet alles besser.",
-  "ex_en": "With patience everything goes better.",
+  "ex_lb": "Et muss ee vill Gedold hunn, wann ee mat Jugendleche schafft.",
+  "ex_en": "You need a lot of patience when you work with young people.",
   "lodId": "GEDOLD1"
  },
  {
@@ -1730,8 +1733,8 @@
   "gender": "m",
   "level": "B1",
   "category": "trait",
-  "ex_lb": "Et brauch Mutt fir esou ze handelen.",
-  "ex_en": "It takes courage to act like that.",
+  "ex_lb": "Si haten de Mutt, sech géint d'Ongerechtegkeeten ze wieren.",
+  "ex_en": "They had the courage to stand up against injustice.",
   "lodId": "MUTT1"
  },
  {
@@ -1743,12 +1746,12 @@
   "gender": "m",
   "level": "B1",
   "category": "trait",
-  "ex_lb": "Säi Fläiss huet sech ausgezuelt.",
-  "ex_en": "His diligence paid off.",
+  "ex_lb": "Säi Fläiss ass mat enger Primm belount ginn.",
+  "ex_en": "His hard work was rewarded with a bonus.",
   "lodId": "FLAISS1"
  },
  {
-  "lb": "Treei",
+  "lb": "Loyalitéit",
   "en": "loyalty, faithfulness",
   "de": "Treue",
   "fr": "fidélité",
@@ -1756,11 +1759,12 @@
   "gender": "f",
   "level": "B2",
   "category": "trait",
-  "ex_lb": "Hir Treei zu de Frënn ass grouss.",
-  "ex_en": "Her loyalty to friends is great."
+  "ex_lb": "De Chef verlaangt absolut Loyalitéit vu senge Mataarbechter.",
+  "ex_en": "The boss demands absolute loyalty from his staff.",
+  "lodId": "LOYALITEIT1"
  },
  {
-  "lb": "Grafregkeet",
+  "lb": "Generositéit",
   "en": "generosity",
   "de": "Großzügigkeit",
   "fr": "générosité",
@@ -1768,11 +1772,12 @@
   "gender": "f",
   "level": "B2",
   "category": "trait",
-  "ex_lb": "Seng Grafregkeet kennt keng Grenzen.",
-  "ex_en": "His generosity knows no bounds."
+  "ex_lb": "D'Associatioun appelléiert un d'Generositéit vun de Leit.",
+  "ex_en": "The association appeals to people's generosity.",
+  "lodId": "GENEROSITEIT1"
  },
  {
-  "lb": "Houfregkeet",
+  "lb": "Arroganz",
   "en": "arrogance",
   "de": "Hochmut",
   "fr": "arrogance",
@@ -1780,8 +1785,9 @@
   "gender": "f",
   "level": "B2",
   "category": "trait",
-  "ex_lb": "Seng Houfregkeet stéiert vill Leit.",
-  "ex_en": "His arrogance bothers many people."
+  "ex_lb": "D'Muecht schaaft dacks eng gewëssen Arroganz.",
+  "ex_en": "Power often breeds a certain arrogance.",
+  "lodId": "ARROGANZ1"
  },
  {
   "lb": "Virsiicht",
@@ -1792,12 +1798,12 @@
   "gender": "f",
   "level": "B1",
   "category": "trait",
-  "ex_lb": "Mat Virsiicht ass hien iwwer d'Strooss gaang.",
-  "ex_en": "With caution he crossed the street.",
+  "ex_lb": "Mir si mat Virsiicht un dee kriddelegen Dossier erugaangen.",
+  "ex_en": "We approached that delicate matter with caution.",
   "lodId": "VIRSIICHT1"
  },
  {
-  "lb": "Hartnäckegkeet",
+  "lb": "Stuerheet",
   "en": "persistence, stubbornness",
   "de": "Hartnäckigkeit",
   "fr": "ténacité",
@@ -1805,20 +1811,9 @@
   "gender": "f",
   "level": "B2",
   "category": "trait",
-  "ex_lb": "Mat Hartnäckegkeet huet hien et geschaaft.",
-  "ex_en": "With persistence he managed it."
- },
- {
-  "lb": "Oprichtegkeet",
-  "en": "sincerity",
-  "de": "Aufrichtigkeit",
-  "fr": "sincérité",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B2",
-  "category": "trait",
-  "ex_lb": "Seng Oprichtegkeet huet mech beréiert.",
-  "ex_en": "His sincerity touched me."
+  "ex_lb": "Mat denger Stuerheet méchs de der keng Frënn!",
+  "ex_en": "You won't make any friends with your stubbornness!",
+  "lodId": "STUERHEET1"
  },
  {
   "lb": "Zouversiicht",
@@ -1829,12 +1824,12 @@
   "gender": "f",
   "level": "B2",
   "category": "trait",
-  "ex_lb": "Mat Zouversiicht kucken mir no vir.",
-  "ex_en": "With confidence we look ahead.",
+  "ex_lb": "Zënter hien erëm eng Aarbecht huet, kuckt e mat méi Zouversiicht an d'Zukunft.",
+  "ex_en": "Since he has a job again, he looks to the future with more confidence.",
   "lodId": "ZOUVERSIICHT1"
  },
  {
-  "lb": "ehrgäizeg",
+  "lb": "éiergäizeg",
   "en": "ambitious",
   "de": "ehrgeizig",
   "fr": "ambitieux",
@@ -1842,11 +1837,12 @@
   "gender": "",
   "level": "B2",
   "category": "trait",
-  "ex_lb": "Si ass eng ehrgäizeg jonk Fra.",
-  "ex_en": "She is an ambitious young woman."
+  "ex_lb": "Fir et am Liewen zu eppes ze bréngen, muss een éiergäizeg sinn.",
+  "ex_en": "To get anywhere in life, you have to be ambitious.",
+  "lodId": "EIERGAIZEG1"
  },
  {
-  "lb": "neugiereg",
+  "lb": "virwëlzeg",
   "en": "curious",
   "de": "neugierig",
   "fr": "curieux",
@@ -1854,8 +1850,9 @@
   "gender": "",
   "level": "B1",
   "category": "trait",
-  "ex_lb": "De Bouf ass ganz neugiereg.",
-  "ex_en": "The boy is very curious."
+  "ex_lb": "Sief dach net ëmmer esou virwëlzeg!",
+  "ex_en": "Don't always be so nosy!",
+  "lodId": "VIRWELZEG1"
  },
  {
   "lb": "zouverlässeg",
@@ -1866,8 +1863,8 @@
   "gender": "",
   "level": "B1",
   "category": "trait",
-  "ex_lb": "Hien ass e zouverlässege Kolleeg.",
-  "ex_en": "He is a reliable colleague.",
+  "ex_lb": "D'Wiederprevisioune sinn net ëmmer zouverlässeg.",
+  "ex_en": "Weather forecasts are not always reliable.",
   "lodId": "ZOUVERLASSEG1"
  },
  {
@@ -1879,8 +1876,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Hir Meenungen sinn ganz ënnerschiddlech.",
-  "ex_en": "Their opinions are quite different.",
+  "ex_lb": "D'Reaktiounen op déi Ried si ganz ënnerschiddlech.",
+  "ex_en": "Reactions to that speech vary a lot.",
   "lodId": "ENNERSCHIDDLECH1"
  },
  {
@@ -1892,8 +1889,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Dës Strooss ass geféierlech.",
-  "ex_en": "This road is dangerous.",
+  "ex_lb": "Wann een an e Krisegebitt schaffe geet, lieft ee geféierlech.",
+  "ex_en": "If you go to work in a crisis zone, you live dangerously.",
   "lodId": "GEFEIERLECH1"
  },
  {
@@ -1905,21 +1902,9 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Seng Erklärung war verständlech.",
-  "ex_en": "His explanation was understandable.",
+  "ex_lb": "Däin Ierger ass ganz verständlech.",
+  "ex_en": "Your annoyance is quite understandable.",
   "lodId": "VERSTANDLECH1"
- },
- {
-  "lb": "onvermeidlech",
-  "en": "inevitable",
-  "de": "unvermeidlich",
-  "fr": "inévitable",
-  "pos": "adjective",
-  "gender": "",
-  "level": "B2",
-  "category": "abstract",
-  "ex_lb": "De Konflikt war onvermeidlech.",
-  "ex_en": "The conflict was inevitable."
  },
  {
   "lb": "wesentlech",
@@ -1943,8 +1928,8 @@
   "gender": "",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Dës Iddi ass ze abstrakt fir mech.",
-  "ex_en": "This idea is too abstract for me.",
+  "ex_lb": "Deen Text ass mir ze vill abstrakt.",
+  "ex_en": "That text is too abstract for me.",
   "lodId": "ABSTRAKT1"
  },
  {
@@ -1958,7 +1943,7 @@
   "category": "philosophy",
   "ex_lb": "Mir brauchen eng objektiv Analys.",
   "ex_en": "We need an objective analysis.",
-  "lodId": "OBJEKTIV2"
+  "lodId": "OBJEKTIV1"
  },
  {
   "lb": "subjektiv",
@@ -1969,8 +1954,8 @@
   "gender": "",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Säin Urteel ass ze subjektiv.",
-  "ex_en": "His judgment is too subjective.",
+  "ex_lb": "Deng Krittären, fir d'Konscht ze beurteelen, si mir ze vill subjektiv.",
+  "ex_en": "Your criteria for judging art are too subjective for me.",
   "lodId": "SUBJEKTIV1"
  },
  {
@@ -1982,21 +1967,9 @@
   "gender": "",
   "level": "B1",
   "category": "philosophy",
-  "ex_lb": "Säi Gedankegang ass logesch.",
-  "ex_en": "His train of thought is logical.",
+  "ex_lb": "Seng logesch Iwwerleeunge ware fir jidderee verständlech.",
+  "ex_en": "His logical reasoning was clear to everyone.",
   "lodId": "LOGESCH1"
- },
- {
-  "lb": "schlussfolgeren",
-  "en": "to conclude, infer",
-  "de": "schlussfolgern",
-  "fr": "déduire",
-  "pos": "verb",
-  "gender": "",
-  "level": "B2",
-  "category": "academic",
-  "ex_lb": "Doraus kënne mir vill schlussfolgeren.",
-  "ex_en": "From that we can infer a lot."
  },
  {
   "lb": "ënnersichen",
@@ -2007,8 +1980,8 @@
   "gender": "",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "De Fuerscher ënnersicht d'Probe.",
-  "ex_en": "The researcher examines the sample.",
+  "ex_lb": "De Laborant huet d'Buedemprouwen ënnersicht.",
+  "ex_en": "The lab technician analysed the soil samples.",
   "lodId": "ENNERSICHEN1"
  },
  {
@@ -2020,8 +1993,8 @@
   "gender": "",
   "level": "B2",
   "category": "law",
-  "ex_lb": "Hien kann seng Onschold beweisen.",
-  "ex_en": "He can prove his innocence.",
+  "ex_lb": "Beweis mir, datt s du dee Kuch eleng gebak hues!",
+  "ex_en": "Prove to me that you baked that cake yourself!",
   "lodId": "BEWEISEN1"
  },
  {
@@ -2038,7 +2011,7 @@
   "lodId": "VERDEEDEGEN1"
  },
  {
-  "lb": "veruerteelen",
+  "lb": "verurteelen",
   "en": "to convict, condemn",
   "de": "verurteilen",
   "fr": "condamner",
@@ -2046,8 +2019,9 @@
   "gender": "",
   "level": "B2",
   "category": "law",
-  "ex_lb": "De Riichter huet hien veruerteelt.",
-  "ex_en": "The judge convicted him."
+  "ex_lb": "Den Ugekloten ass fir seng Verbrieche verurteelt ginn.",
+  "ex_en": "The defendant was convicted of his crimes.",
+  "lodId": "VERURTEELEN1"
  },
  {
   "lb": "heelen",
@@ -2058,8 +2032,8 @@
   "gender": "",
   "level": "B1",
   "category": "health",
-  "ex_lb": "D'Wonn heelt lues.",
-  "ex_en": "The wound heals slowly.",
+  "ex_lb": "Esou kleng Brandwonnen heele séier.",
+  "ex_en": "Small burns like that heal quickly.",
   "lodId": "HEELEN2"
  },
  {
@@ -2071,8 +2045,8 @@
   "gender": "",
   "level": "B2",
   "category": "health",
-  "ex_lb": "Den Dokter huet d'Krankheet diagnostizéiert.",
-  "ex_en": "The doctor diagnosed the illness.",
+  "ex_lb": "Seng Krankheet gouf ze spéit diagnostizéiert.",
+  "ex_en": "His illness was diagnosed too late.",
   "lodId": "DIAGNOSTIZEIEREN1"
  },
  {
@@ -2084,8 +2058,8 @@
   "gender": "",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Ech zweiwelen un dëser Ausso.",
-  "ex_en": "I doubt this statement.",
+  "ex_lb": "Hien huet ni u sech gezweiwelt.",
+  "ex_en": "He never doubted himself.",
   "lodId": "ZWEIWELEN1"
  },
  {
@@ -2097,8 +2071,8 @@
   "gender": "",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Hien huet mech iwwerzeegt.",
-  "ex_en": "He convinced me.",
+  "ex_lb": "Deng Argumenter kënne mech net iwwerzeegen.",
+  "ex_en": "Your arguments can't convince me.",
   "lodId": "IWWERZEEGEN1"
  },
  {
@@ -2110,12 +2084,12 @@
   "gender": "",
   "level": "B1",
   "category": "academic",
-  "ex_lb": "Si huet en neie Stär entdeckt.",
-  "ex_en": "She discovered a new star.",
+  "ex_lb": "Et ass eng nei Orchideeënzort entdeckt ginn.",
+  "ex_en": "A new variety of orchid has been discovered.",
   "lodId": "ENTDECKEN1"
  },
  {
-  "lb": "erforschen",
+  "lb": "fuerschen",
   "en": "to research, explore",
   "de": "erforschen",
   "fr": "explorer",
@@ -2123,8 +2097,9 @@
   "gender": "",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Si erforschen d'Ursaachen.",
-  "ex_en": "They are researching the causes."
+  "ex_lb": "Vill Wëssenschaftler fuerschen no engem Heelmëttel géint Aids.",
+  "ex_en": "Many scientists are researching a cure for AIDS.",
+  "lodId": "FUERSCHEN1"
  },
  {
   "lb": "Ursaach",
@@ -2135,8 +2110,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "D'Ursaach vum Feeler ass onbekannt.",
-  "ex_en": "The cause of the error is unknown.",
+  "ex_lb": "Keng Ursaach!",
+  "ex_en": "You're welcome!",
   "lodId": "URSAACH1"
  },
  {
@@ -2148,8 +2123,8 @@
   "gender": "f",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Dat huet schwéier Follegen.",
-  "ex_en": "That has serious consequences.",
+  "ex_lb": "Dat sinn d'Follge vun der Gripp.",
+  "ex_en": "Those are the after-effects of the flu.",
   "lodId": "FOLLEG1"
  },
  {
@@ -2161,8 +2136,8 @@
   "gender": "m",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Ech gesinn de Zesummenhang net.",
-  "ex_en": "I don't see the connection.",
+  "ex_lb": "Gëtt et en Zesummenhang tëschent deenen zwee Verbriechen?",
+  "ex_en": "Is there a connection between the two crimes?",
   "lodId": "ZESUMMENHANG1"
  },
  {
@@ -2174,8 +2149,8 @@
   "gender": "m",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Am Géigesaz zu him bleift si roueg.",
-  "ex_en": "In contrast to him she stays calm.",
+  "ex_lb": "Tëschent eise Meenunge besteet e grousse Géigesaz.",
+  "ex_en": "There's a sharp contrast between our opinions.",
   "lodId": "GEIGESAZ1"
  },
  {
@@ -2187,8 +2162,8 @@
   "gender": "m",
   "level": "B1",
   "category": "abstract",
-  "ex_lb": "Et gëtt e groussen Ënnerscheed.",
-  "ex_en": "There is a big difference.",
+  "ex_lb": "Do maachen ech keen Ënnerscheed!",
+  "ex_en": "I make no distinction there!",
   "lodId": "ENNERSCHEED1"
  },
  {
@@ -2200,8 +2175,8 @@
   "gender": "f",
   "level": "B2",
   "category": "academic",
-  "ex_lb": "Dës Behaaptung ass net belueft.",
-  "ex_en": "This claim is not proven.",
+  "ex_lb": "Ech bleiwe bei menger Behaaptung!",
+  "ex_en": "I stand by my claim!",
   "lodId": "BEHAAPTUNG1"
  },
  {
@@ -2213,8 +2188,8 @@
   "gender": "n",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Mir solle géint Virurteeler kämpfen.",
-  "ex_en": "We should fight against prejudices.",
+  "ex_lb": "Datt d'Männer besser Auto fueren ewéi d'Fraen, dat ass e klassescht Virurteel.",
+  "ex_en": "That men drive better than women is a classic prejudice.",
   "lodId": "VIRURTEEL1"
  },
  {
@@ -2239,8 +2214,8 @@
   "gender": "f",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "D'Würd vum Mënsch ass onantastbar.",
-  "ex_en": "Human dignity is inviolable.",
+  "ex_lb": "D'Würd vun de Patiente muss zu all Ament respektéiert ginn.",
+  "ex_en": "The dignity of patients must be respected at all times.",
   "lodId": "WURD1"
  },
  {
@@ -2252,8 +2227,8 @@
   "gender": "f",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Seng Moral ass héich.",
-  "ex_en": "His morals are high.",
+  "ex_lb": "Klaue geet géint meng Moral.",
+  "ex_en": "Stealing goes against my morals.",
   "lodId": "MORAL1"
  },
  {
@@ -2265,8 +2240,8 @@
   "gender": "n",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Hatt huet säi Schicksal ugeholl.",
-  "ex_en": "She accepted her fate.",
+  "ex_lb": "D'Schicksal huet et gutt mat mir gemengt.",
+  "ex_en": "Fate has been kind to me.",
   "lodId": "SCHICKSAL1"
  },
  {
@@ -2278,8 +2253,8 @@
   "gender": "f",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Si stellt d'Existenz vu Gott a Fro.",
-  "ex_en": "She questions the existence of God.",
+  "ex_lb": "Wie gleeft haut nach un d'Existenz vun Draachen?",
+  "ex_en": "Who still believes in the existence of dragons today?",
   "lodId": "EXISTENZ1"
  },
  {
@@ -2291,8 +2266,8 @@
   "gender": "f",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "No laanger Iwwerleeung huet hien zougesot.",
-  "ex_en": "After long reflection he agreed.",
+  "ex_lb": "De Sekretär huet eis Iwwerleeungen all notéiert.",
+  "ex_en": "The secretary noted down all our thoughts.",
   "lodId": "IWWERLEEUNG1"
  },
  {
@@ -2317,8 +2292,8 @@
   "gender": "f",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Dat ass eng Verschwendung vun Zäit.",
-  "ex_en": "That is a waste of time.",
+  "ex_lb": "Mir halen dee Projet fir eng Verschwendung vu Steiersuen.",
+  "ex_en": "We consider that project a waste of taxpayers' money.",
   "lodId": "VERSCHWENDUNG1"
  },
  {
@@ -2330,12 +2305,12 @@
   "gender": "n",
   "level": "B2",
   "category": "abstract",
-  "ex_lb": "Hien huet säi Gläichgewiicht verluer.",
-  "ex_en": "He lost his balance.",
+  "ex_lb": "Ech hu schonn zënter e puer Woche Problemer mam Gläichgewiicht.",
+  "ex_en": "I've had balance problems for a few weeks.",
   "lodId": "GLAICHGEWIICHT1"
  },
  {
-  "lb": "Wahrscheinlechkeet",
+  "lb": "Warscheinlechkeet",
   "en": "probability",
   "de": "Wahrscheinlichkeit",
   "fr": "probabilité",
@@ -2343,8 +2318,9 @@
   "gender": "f",
   "level": "B2",
   "category": "science",
-  "ex_lb": "D'Wahrscheinlechkeet ass ganz kleng.",
-  "ex_en": "The probability is very small."
+  "ex_lb": "D'Warscheinlechkeet, datt se d'Abriecher kréien, ass minim.",
+  "ex_en": "The probability that they'll catch the burglars is minimal.",
+  "lodId": "WARSCHEINLECHKEET1"
  },
  {
   "lb": "Schwellung",
@@ -2355,8 +2331,8 @@
   "gender": "f",
   "level": "B2",
   "category": "health",
-  "ex_lb": "D'Schwellung geet lues zréck.",
-  "ex_en": "The swelling is slowly going down.",
+  "ex_lb": "Wann d'Schwellung net zeréckgeet, muss de bei den Dokter goen!",
+  "ex_en": "If the swelling doesn't go down, you have to see a doctor!",
   "lodId": "SCHWELLUNG1"
  },
  {
@@ -2373,7 +2349,7 @@
   "lodId": "PFLEEG1"
  },
  {
-  "lb": "Genesung",
+  "lb": "Besserung",
   "en": "recovery, convalescence",
   "de": "Genesung",
   "fr": "convalescence",
@@ -2381,8 +2357,9 @@
   "gender": "f",
   "level": "B2",
   "category": "health",
-  "ex_lb": "Ech wënschen dir eng gutt Genesung.",
-  "ex_en": "I wish you a good recovery."
+  "ex_lb": "Mam Wieder ass nach keng Besserung ze erwaarden.",
+  "ex_en": "No improvement in the weather is expected yet.",
+  "lodId": "BESSERUNG1"
  },
  {
   "lb": "verdächteg",
@@ -2393,8 +2370,8 @@
   "gender": "",
   "level": "B2",
   "category": "law",
-  "ex_lb": "Säi Verhalen war verdächteg.",
-  "ex_en": "His behavior was suspicious.",
+  "ex_lb": "Um Flughafen ass bei enger Kontroll e verdächtege Pak fonnt ginn.",
+  "ex_en": "At the airport a suspicious package was found during a check.",
   "lodId": "VERDACHTEG1"
  },
  {
@@ -2406,8 +2383,8 @@
   "gender": "",
   "level": "B2",
   "category": "law",
-  "ex_lb": "De Mann ass onschëlleg.",
-  "ex_en": "The man is innocent.",
+  "ex_lb": "Den Diktator huet Dausende vun onschëllege Leit hiriichte gelooss.",
+  "ex_en": "The dictator had thousands of innocent people executed.",
   "lodId": "ONSCHELLEG1"
  },
  {
@@ -2419,8 +2396,8 @@
   "gender": "",
   "level": "B1",
   "category": "law",
-  "ex_lb": "D'Decisioun war gerecht.",
-  "ex_en": "The decision was fair.",
+  "ex_lb": "Deen huet seng gerecht Strof kritt!",
+  "ex_en": "He got the punishment he deserved!",
   "lodId": "GERECHT1"
  },
  {
@@ -2432,8 +2409,8 @@
   "gender": "",
   "level": "B2",
   "category": "health",
-  "ex_lb": "Hien huet chronesch Réckwéi.",
-  "ex_en": "He has chronic back pain.",
+  "ex_lb": "Chronesch Krankheete sinn net ustiechend.",
+  "ex_en": "Chronic diseases are not contagious.",
   "lodId": "CHRONESCH1"
  },
  {
@@ -2445,8 +2422,8 @@
   "gender": "",
   "level": "B2",
   "category": "health",
-  "ex_lb": "Dës Krankheet ass ustiechend.",
-  "ex_en": "This illness is contagious.",
+  "ex_lb": "Kriibs ass keng ustiechend Krankheet.",
+  "ex_en": "Cancer is not a contagious disease.",
   "lodId": "USTIECHEND1"
  },
  {
@@ -2458,8 +2435,8 @@
   "gender": "",
   "level": "B2",
   "category": "law",
-  "ex_lb": "Hien huet sech schëlleg bekannt.",
-  "ex_en": "He pleaded guilty.",
+  "ex_lb": "Dee schëllege Schüler gouf bei den Direkter an de Büro geruff.",
+  "ex_en": "The guilty pupil was called to the head's office.",
   "lodId": "SCHELLEG1"
  }
 ]

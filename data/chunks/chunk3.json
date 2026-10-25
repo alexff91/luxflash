@@ -8,8 +8,8 @@
   "gender": "n",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Iessen ass fäerdeg.",
-  "ex_en": "The food is ready.",
+  "ex_lb": "Dir kënnt iech usetzen, d'Iesse steet um Dësch!",
+  "ex_en": "You can sit down, the food is on the table!",
   "lodId": "IESSEN1"
  },
  {
@@ -21,8 +21,8 @@
   "gender": "",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Mir iessen elo.",
-  "ex_en": "We are eating now.",
+  "ex_lb": "Mir iessen de Mëtteg Nuddelen.",
+  "ex_en": "We're having pasta for lunch.",
   "lodId": "IESSEN3"
  },
  {
@@ -34,8 +34,8 @@
   "gender": "",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "Ech drénken Waasser.",
-  "ex_en": "I drink water.",
+  "ex_lb": "Ech drénke just e Glas Waasser.",
+  "ex_en": "I'll just have a glass of water.",
   "lodId": "DRENKEN1"
  },
  {
@@ -47,21 +47,22 @@
   "gender": "n",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Ech kafen e Brout.",
-  "ex_en": "I buy a bread.",
+  "ex_lb": "Ech hunn dat schwaarzt Brout am léifsten.",
+  "ex_en": "I like brown bread best.",
   "lodId": "BROUT1"
  },
  {
-  "lb": "de Wek",
+  "lb": "d'Bréitchen",
   "en": "bread roll",
   "de": "das Brötchen",
   "fr": "le petit pain",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Ech iessen e Wek.",
-  "ex_en": "I eat a bread roll."
+  "ex_lb": "Eise Bäcker huet déi beschte Bréidercher.",
+  "ex_en": "Our baker has the best bread rolls.",
+  "lodId": "BREITCHEN1"
  },
  {
   "lb": "d'Botter",
@@ -72,8 +73,8 @@
   "gender": "f",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Botter ass um Dësch.",
-  "ex_en": "The butter is on the table.",
+  "ex_lb": "Mäi Papp ësst keng Schmier ouni Botter.",
+  "ex_en": "My dad never eats a sandwich without butter.",
   "lodId": "BOTTER1"
  },
  {
@@ -85,8 +86,8 @@
   "gender": "m",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Ech hu gär Kéis.",
-  "ex_en": "I like cheese.",
+  "ex_lb": "Fir den Owend hunn ech Kéis matbruecht.",
+  "ex_en": "I brought cheese for this evening.",
   "lodId": "KEIS1"
  },
  {
@@ -98,8 +99,8 @@
   "gender": "n",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Ech iessen en Ee.",
-  "ex_en": "I eat an egg.",
+  "ex_lb": "De Guckuck leet seng Eeër a friem Näschter.",
+  "ex_en": "The cuckoo lays its eggs in other birds' nests.",
   "lodId": "EE1"
  },
  {
@@ -111,12 +112,12 @@
   "gender": "f",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "D'Mëllech ass frësch.",
-  "ex_en": "The milk is fresh.",
+  "ex_lb": "D'Mamm wiermt d'Mëllech fir de Bëbee.",
+  "ex_en": "Mum is warming the milk for the baby.",
   "lodId": "MELLECH1"
  },
  {
-  "lb": "de Joghurt",
+  "lb": "de Jugurt",
   "en": "yoghurt",
   "de": "der Joghurt",
   "fr": "le yaourt",
@@ -124,8 +125,9 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Ech iessen e Joghurt.",
-  "ex_en": "I eat a yoghurt."
+  "ex_lb": "Ech iessen all Mueren e Jugurt.",
+  "ex_en": "I eat a yoghurt every morning.",
+  "lodId": "JUGURT1"
  },
  {
   "lb": "den Zocker",
@@ -136,8 +138,8 @@
   "gender": "m",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Wëlls du Zocker?",
-  "ex_en": "Do you want sugar?",
+  "ex_lb": "D'Bomi mécht ëmmer dräi Läffelen Zocker an hire Kaffi.",
+  "ex_en": "Grandma always puts three spoons of sugar in her coffee.",
   "lodId": "ZOCKER1"
  },
  {
@@ -149,8 +151,8 @@
   "gender": "n",
   "level": "A1",
   "category": "cooking",
-  "ex_lb": "Gëff w.e.g. d'Salz.",
-  "ex_en": "Please pass the salt.",
+  "ex_lb": "Mir hu kee grafft Salz méi am Haus.",
+  "ex_en": "We have no coarse salt left in the house.",
   "lodId": "SALZ1"
  },
  {
@@ -162,8 +164,8 @@
   "gender": "m",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Ech maachen e bësse Peffer dran.",
-  "ex_en": "I add a little pepper.",
+  "ex_lb": "Et feelt eng Grëtz Peffer an denger Zooss.",
+  "ex_en": "Your sauce needs a pinch of pepper.",
   "lodId": "PEFFER1"
  },
  {
@@ -175,8 +177,8 @@
   "gender": "f",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Ech brauch Ueleg fir d'Zooss.",
-  "ex_en": "I need oil for the sauce.",
+  "ex_lb": "Kuck no, ob nach genuch Ueleg am Motor ass!",
+  "ex_en": "Check whether there's still enough oil in the engine!",
   "lodId": "UELEG1"
  },
  {
@@ -188,8 +190,8 @@
   "gender": "",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Kanner iessen gär Nuddelen.",
-  "ex_en": "The children like pasta.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "NUDDELEN1"
  },
  {
@@ -201,8 +203,8 @@
   "gender": "f",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Ech maachen eng Zalot.",
-  "ex_en": "I make a salad.",
+  "ex_lb": "Et sinn nach zwee Heeder Zalot am Frigo.",
+  "ex_en": "There are still two heads of lettuce in the fridge.",
   "lodId": "ZALOT1"
  },
  {
@@ -214,8 +216,8 @@
   "gender": "f",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Zopp ass waarm.",
-  "ex_en": "The soup is warm.",
+  "ex_lb": "Mir haten alle béid eng Zopp als Entrée.",
+  "ex_en": "We both had soup as a starter.",
   "lodId": "ZOPP1"
  },
  {
@@ -227,8 +229,8 @@
   "gender": "n",
   "level": "A1",
   "category": "meat",
-  "ex_lb": "Ech iessen net vill Fleesch.",
-  "ex_en": "I don't eat much meat.",
+  "ex_lb": "De Kach leet d'Fleesch op de Grill.",
+  "ex_en": "The cook puts the meat on the grill.",
   "lodId": "FLEESCH1"
  },
  {
@@ -240,21 +242,9 @@
   "gender": "m",
   "level": "A1",
   "category": "fish",
-  "ex_lb": "De Fësch ass frësch.",
-  "ex_en": "The fish is fresh.",
+  "ex_lb": "Dee Fësch ass voller Sprenzen!",
+  "ex_en": "That fish is full of bones!",
   "lodId": "FESCH1"
- },
- {
-  "lb": "d'Pouletsfleesch",
-  "en": "chicken meat",
-  "de": "das Hähnchenfleisch",
-  "fr": "le poulet",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A2",
-  "category": "meat",
-  "ex_lb": "Mir iessen Pouletsfleesch.",
-  "ex_en": "We eat chicken."
  },
  {
   "lb": "de Poulet",
@@ -265,8 +255,8 @@
   "gender": "m",
   "level": "A1",
   "category": "meat",
-  "ex_lb": "De Poulet ass am Uewen.",
-  "ex_en": "The chicken is in the oven.",
+  "ex_lb": "De Mëtteg gëtt et Poulet mat Räis.",
+  "ex_en": "Today there's chicken with rice for lunch.",
   "lodId": "POULET1"
  },
  {
@@ -278,8 +268,8 @@
   "gender": "n",
   "level": "A2",
   "category": "meat",
-  "ex_lb": "Ech iessen kee Schwéngefleesch.",
-  "ex_en": "I don't eat pork.",
+  "ex_lb": "D'Judden an d'Moslemen iesse kee Schwéngefleesch.",
+  "ex_en": "Jews and Muslims don't eat pork.",
   "lodId": "SCHWENGEFLEESCH1"
  },
  {
@@ -291,8 +281,8 @@
   "gender": "n",
   "level": "A2",
   "category": "meat",
-  "ex_lb": "D'Rëndfleesch ass deier.",
-  "ex_en": "The beef is expensive.",
+  "ex_lb": "Wann ech Fleesch iessen, hunn ech am léifste Rëndfleesch.",
+  "ex_en": "When I eat meat, I like beef best.",
   "lodId": "RENDFLEESCH1"
  },
  {
@@ -304,21 +294,22 @@
   "gender": "f",
   "level": "A1",
   "category": "meat",
-  "ex_lb": "Ech kafen eng Wurscht.",
-  "ex_en": "I buy a sausage.",
+  "ex_lb": "Bréng mir e puer Tranchë Wurscht mat!",
+  "ex_en": "Bring me a few slices of sausage!",
   "lodId": "WURSCHT1"
  },
  {
-  "lb": "de Schinken",
+  "lb": "d'Ham",
   "en": "ham",
   "de": "der Schinken",
   "fr": "le jambon",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "meat",
-  "ex_lb": "E Sandwich mat Schinken, w.e.g.",
-  "ex_en": "A sandwich with ham, please."
+  "ex_lb": "Eise Metzler huet d'Hamen agesolpert.",
+  "ex_en": "Our butcher has cured the hams.",
+  "lodId": "HAM1"
  },
  {
   "lb": "d'Uebst",
@@ -329,8 +320,8 @@
   "gender": "n",
   "level": "A1",
   "category": "fruit",
-  "ex_lb": "Ech iesse vill Uebst.",
-  "ex_en": "I eat a lot of fruit.",
+  "ex_lb": "Fir Dessert iessen ech am léifsten Uebst.",
+  "ex_en": "For dessert I like fruit best.",
   "lodId": "UEBST1"
  },
  {
@@ -342,12 +333,12 @@
   "gender": "m",
   "level": "A1",
   "category": "fruit",
-  "ex_lb": "Ech iessen en Apel.",
-  "ex_en": "I eat an apple.",
+  "ex_lb": "Den Apel fält net wäit vum Bam.",
+  "ex_en": "The apple doesn't fall far from the tree.",
   "lodId": "APEL1"
  },
  {
-  "lb": "d'Birel",
+  "lb": "d'Bier",
   "en": "pear",
   "de": "die Birne",
   "fr": "la poire",
@@ -355,8 +346,9 @@
   "gender": "f",
   "level": "A2",
   "category": "fruit",
-  "ex_lb": "D'Birel ass séiss.",
-  "ex_en": "The pear is sweet."
+  "ex_lb": "Ech iesse gär eng Bier als Dessert.",
+  "ex_en": "I like eating a pear for dessert.",
+  "lodId": "BIER3"
  },
  {
   "lb": "d'Banann",
@@ -367,8 +359,8 @@
   "gender": "f",
   "level": "A1",
   "category": "fruit",
-  "ex_lb": "D'Kand iesst eng Banann.",
-  "ex_en": "The child eats a banana.",
+  "ex_lb": "Bananne si bei Sportler e beléifte Snack.",
+  "ex_en": "Bananas are a popular snack with athletes.",
   "lodId": "BANANN1"
  },
  {
@@ -380,8 +372,8 @@
   "gender": "f",
   "level": "A1",
   "category": "fruit",
-  "ex_lb": "Ech pressen eng Orange.",
-  "ex_en": "I squeeze an orange.",
+  "ex_lb": "Gëff mer eng Zéif vun denger Orange!",
+  "ex_en": "Give me a segment of your orange!",
   "lodId": "ORANGE1"
  },
  {
@@ -393,8 +385,8 @@
   "gender": "f",
   "level": "A2",
   "category": "fruit",
-  "ex_lb": "Ech brauch eng Zitroun.",
-  "ex_en": "I need a lemon.",
+  "ex_lb": "Fir dëse Cocktail brauch een eng Zitroun.",
+  "ex_en": "You need a lemon for this cocktail.",
   "lodId": "ZITROUN1"
  },
  {
@@ -406,8 +398,8 @@
   "gender": "",
   "level": "A2",
   "category": "fruit",
-  "ex_lb": "D'Drauwen sinn déck.",
-  "ex_en": "The grapes are big."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'Äerdbier",
@@ -418,8 +410,8 @@
   "gender": "f",
   "level": "A2",
   "category": "fruit",
-  "ex_lb": "Ech hu gär Äerdbieren.",
-  "ex_en": "I like strawberries.",
+  "ex_lb": "Ech hunn de Kuch mat enger Äerdbier dekoréiert.",
+  "ex_en": "I decorated the cake with a strawberry.",
   "lodId": "AERDBIER1"
  },
  {
@@ -431,8 +423,8 @@
   "gender": "f",
   "level": "B1",
   "category": "fruit",
-  "ex_lb": "D'Kiischte si rout.",
-  "ex_en": "The cherries are red.",
+  "ex_lb": "Dat do ass d'Kiischt um Kuch!",
+  "ex_en": "That's the icing on the cake!",
   "lodId": "KIISCHT1"
  },
  {
@@ -444,8 +436,8 @@
   "gender": "n",
   "level": "A1",
   "category": "vegetable",
-  "ex_lb": "Ech iesse vill Geméis.",
-  "ex_en": "I eat a lot of vegetables.",
+  "ex_lb": "Ech kafe mäi Geméis ëmmer am Biobuttek.",
+  "ex_en": "I always buy my vegetables at the organic shop.",
   "lodId": "GEMEIS1"
  },
  {
@@ -457,8 +449,8 @@
   "gender": "f",
   "level": "A1",
   "category": "vegetable",
-  "ex_lb": "Mir iesse Grompere mëttes.",
-  "ex_en": "We eat potatoes at noon.",
+  "ex_lb": "De Bop ass amgaang, Gromperen ze schielen.",
+  "ex_en": "Grandpa is peeling potatoes.",
   "lodId": "GROMPER1"
  },
  {
@@ -470,8 +462,8 @@
   "gender": "f",
   "level": "A1",
   "category": "vegetable",
-  "ex_lb": "D'Tomat ass rout.",
-  "ex_en": "The tomato is red.",
+  "ex_lb": "Ass et net nach ze kal, fir Tomaten ze setzen?",
+  "ex_en": "Isn't it still too cold to plant tomatoes?",
   "lodId": "TOMAT1"
  },
  {
@@ -483,8 +475,8 @@
   "gender": "m",
   "level": "A2",
   "category": "vegetable",
-  "ex_lb": "Ech schneiden en Ënn.",
-  "ex_en": "I cut an onion.",
+  "ex_lb": "De Kach schneit d'Ënn kleng.",
+  "ex_en": "The cook chops the onions finely.",
   "lodId": "ENN2"
  },
  {
@@ -496,8 +488,8 @@
   "gender": "n",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "Ech drénken e Glas Waasser.",
-  "ex_en": "I drink a glass of water.",
+  "ex_lb": "Dëse Stoft léisst kee Waasser duerch.",
+  "ex_en": "This fabric doesn't let water through.",
   "lodId": "WAASSER2"
  },
  {
@@ -509,8 +501,8 @@
   "gender": "m",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "Ech drénken e Kaffi.",
-  "ex_en": "I drink a coffee.",
+  "ex_lb": "Bei eis wiisst kee Kaffi.",
+  "ex_en": "Coffee doesn't grow where we live.",
   "lodId": "KAFFI1"
  },
  {
@@ -522,8 +514,8 @@
   "gender": "m",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "Wëlls du en Téi?",
-  "ex_en": "Do you want a tea?",
+  "ex_lb": "An eise Géigende wiisst keen Téi.",
+  "ex_en": "Tea doesn't grow where we live.",
   "lodId": "TEI1"
  },
  {
@@ -535,8 +527,8 @@
   "gender": "m",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "Ech kafen Orangejus.",
-  "ex_en": "I buy orange juice.",
+  "ex_lb": "Häss de gär e Glas Jus?",
+  "ex_en": "Would you like a glass of juice?",
   "lodId": "JUS1"
  },
  {
@@ -548,8 +540,8 @@
   "gender": "m",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "E Béier, w.e.g.",
-  "ex_en": "A beer, please.",
+  "ex_lb": "Bestell eis nach zwee Béier!",
+  "ex_en": "Order us two more beers!",
   "lodId": "BEIER1"
  },
  {
@@ -561,8 +553,8 @@
   "gender": "m",
   "level": "A1",
   "category": "drink",
-  "ex_lb": "Mir drénke roude Wäin.",
-  "ex_en": "We drink red wine.",
+  "ex_lb": "Ech drénke beim Iesse gären e Pättche Roude Wäin.",
+  "ex_en": "I like a glass of red wine with my meal.",
   "lodId": "WAIN1"
  },
  {
@@ -574,8 +566,8 @@
   "gender": "f",
   "level": "A2",
   "category": "drink",
-  "ex_lb": "D'Kand wëllt eng Limonad.",
-  "ex_en": "The child wants a lemonade.",
+  "ex_lb": "Bestell eis nach zwou Limonaden!",
+  "ex_en": "Order us two more lemonades!",
   "lodId": "LIMONAD1"
  },
  {
@@ -587,8 +579,8 @@
   "gender": "m",
   "level": "B1",
   "category": "drink",
-  "ex_lb": "Mir drénke Schampes.",
-  "ex_en": "We drink champagne.",
+  "ex_lb": "Bestell eis nach zwee Schampes, wannechgelift!",
+  "ex_en": "Order us two more glasses of champagne, please!",
   "lodId": "SCHAMPES1"
  },
  {
@@ -600,8 +592,8 @@
   "gender": "m",
   "level": "B1",
   "category": "drink",
-  "ex_lb": "Ech bestellen e Cocktail.",
-  "ex_en": "I order a cocktail.",
+  "ex_lb": "Mir sinn den Owend op e Cocktail invitéiert.",
+  "ex_en": "We're invited to a reception tonight.",
   "lodId": "COCKTAIL1"
  },
  {
@@ -613,12 +605,12 @@
   "gender": "m",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "Moies drénken ech Kaffi.",
-  "ex_en": "In the morning I drink coffee.",
+  "ex_lb": "Dës Verwaltung ass nëmme moies op.",
+  "ex_en": "This office is only open in the mornings.",
   "lodId": "MOIES1"
  },
  {
-  "lb": "d'Kussjäissen",
+  "lb": "d'Moiesiessen",
   "en": "breakfast",
   "de": "das Frühstück",
   "fr": "le petit-déjeuner",
@@ -626,8 +618,9 @@
   "gender": "n",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "D'Kussjäissen ass fäerdeg.",
-  "ex_en": "Breakfast is ready."
+  "ex_lb": "Ei, wat hate mer am Hotel e leckert Moiesiessen!",
+  "ex_en": "Oh, what a delicious breakfast we had at the hotel!",
+  "lodId": "MOIESIESSEN1"
  },
  {
   "lb": "de Mëttegiessen",
@@ -638,8 +631,8 @@
   "gender": "n",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "De Mëttegiesse war gutt.",
-  "ex_en": "The lunch was good.",
+  "ex_lb": "Hien huet säi Mëttegiesse stoe gelooss.",
+  "ex_en": "He left his lunch untouched.",
   "lodId": "METTEGIESSEN1"
  },
  {
@@ -651,8 +644,8 @@
   "gender": "n",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "Den Owesiessen ass um aacht.",
-  "ex_en": "Dinner is at eight.",
+  "ex_lb": "Nom Owesiesse kucken ech gären d'Tëlee.",
+  "ex_en": "After dinner I like watching TV.",
   "lodId": "OWESIESSEN1"
  },
  {
@@ -677,8 +670,8 @@
   "gender": "m",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Ech maachen e Sandwich.",
-  "ex_en": "I make a sandwich.",
+  "ex_lb": "Ech hu mer e Sandwich mat Ham, Kéis an Tomat bestallt.",
+  "ex_en": "I ordered a sandwich with ham, cheese and tomato.",
   "lodId": "SANDWICH1"
  },
  {
@@ -690,8 +683,8 @@
   "gender": "f",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Mir bestellen eng Pizza.",
-  "ex_en": "We order a pizza.",
+  "ex_lb": "Ech hu gär Anchoisen op der Pizza.",
+  "ex_en": "I like anchovies on my pizza.",
   "lodId": "PIZZA1"
  },
  {
@@ -715,8 +708,8 @@
   "gender": "m",
   "level": "A1",
   "category": "food",
-  "ex_lb": "De Kuch ass séiss.",
-  "ex_en": "The cake is sweet.",
+  "ex_lb": "Meng Mamm baakt all Samschdeg e Kuch.",
+  "ex_en": "My mum bakes a cake every Saturday.",
   "lodId": "KUCH1"
  },
  {
@@ -728,8 +721,8 @@
   "gender": "f",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Ech hu gär Schockela.",
-  "ex_en": "I like chocolate.",
+  "ex_lb": "De schwaarze Schockela ass mir ze batter.",
+  "ex_en": "Dark chocolate is too bitter for me.",
   "lodId": "SCHOCKELA2"
  },
  {
@@ -741,8 +734,8 @@
   "gender": "f",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Kanner wëllen eng Glace.",
-  "ex_en": "The children want ice cream.",
+  "ex_lb": "Als Dessert gouf et eng Glace.",
+  "ex_en": "There was ice cream for dessert.",
   "lodId": "GLACE2"
  },
  {
@@ -754,12 +747,12 @@
   "gender": "",
   "level": "A1",
   "category": "cooking",
-  "ex_lb": "Ech kachen haut Owend.",
-  "ex_en": "I cook tonight.",
+  "ex_lb": "Ech kache Waasser, fir mer en Téi ze maachen.",
+  "ex_en": "I'm boiling water to make myself a tea.",
   "lodId": "KACHEN2"
  },
  {
-  "lb": "braden",
+  "lb": "broden",
   "en": "to fry/roast",
   "de": "braten",
   "fr": "rôtir",
@@ -767,8 +760,9 @@
   "gender": "",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Ech braden d'Fleesch.",
-  "ex_en": "I fry the meat."
+  "ex_lb": "Et gëtt gebroden Äppel als Dessert.",
+  "ex_en": "There are baked apples for dessert.",
+  "lodId": "BRODEN1"
  },
  {
   "lb": "baken",
@@ -779,8 +773,8 @@
   "gender": "",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Mir baken e Kuch.",
-  "ex_en": "We bake a cake.",
+  "ex_lb": "Seng Mamm baakt all Samschdeg e Kuch.",
+  "ex_en": "His mother bakes a cake every Saturday.",
   "lodId": "BAKEN1"
  },
  {
@@ -792,8 +786,8 @@
   "gender": "",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Ech schneiden d'Geméis.",
-  "ex_en": "I cut the vegetables.",
+  "ex_lb": "Hues du dir d'Hoer selwer geschnidden?",
+  "ex_en": "Did you cut your hair yourself?",
   "lodId": "SCHNEIDEN1"
  },
  {
@@ -805,8 +799,8 @@
   "gender": "",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Mësch alles gutt zesummen.",
-  "ex_en": "Mix everything well together.",
+  "ex_lb": "Bei deem Rezept muss de fir d'éischt Zocker an Eeër mëschen.",
+  "ex_en": "For that recipe you first have to mix sugar and eggs.",
   "lodId": "MESCHEN1"
  },
  {
@@ -818,8 +812,8 @@
   "gender": "",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech schielen d'Grompere.",
-  "ex_en": "I peel the potatoes.",
+  "ex_lb": "Hëllefs de mer d'Grompere schielen?",
+  "ex_en": "Will you help me peel the potatoes?",
   "lodId": "SCHIELEN1"
  },
  {
@@ -831,8 +825,8 @@
   "gender": "",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech preparéieren d'Iessen.",
-  "ex_en": "I prepare the food.",
+  "ex_lb": "D'Politikerin hat hir Ried gutt preparéiert.",
+  "ex_en": "The politician had prepared her speech well.",
   "lodId": "PREPAREIEREN1"
  },
  {
@@ -844,8 +838,8 @@
   "gender": "",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech wiermen d'Zopp op.",
-  "ex_en": "I heat up the soup.",
+  "ex_lb": "Opgewiermt schmaacht d'Zopp mir am beschten.",
+  "ex_en": "I like soup best reheated.",
   "lodId": "OPWIERMEN1"
  },
  {
@@ -857,8 +851,8 @@
   "gender": "f",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "D'Pan ass um Uewen.",
-  "ex_en": "The pan is on the stove.",
+  "ex_lb": "D'Fett brutzelt an der Pan.",
+  "ex_en": "The fat is sizzling in the pan.",
   "lodId": "PAN1"
  },
  {
@@ -870,8 +864,8 @@
   "gender": "m",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "De Dëppe steet um Hierd.",
-  "ex_en": "The pot is on the stove.",
+  "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
+  "ex_en": "The painter knocked over the paint pots.",
   "lodId": "DEPPEN1"
  },
  {
@@ -883,8 +877,8 @@
   "gender": "m",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Den Uewen ass waarm.",
-  "ex_en": "The oven is hot.",
+  "ex_lb": "An enger hallwer Stonn musse mer de Gratin aus dem Uewen huelen.",
+  "ex_en": "In half an hour we have to take the gratin out of the oven.",
   "lodId": "UEWEN2"
  },
  {
@@ -896,8 +890,8 @@
   "gender": "m",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "D'Mëllech ass am Frigo.",
-  "ex_en": "The milk is in the fridge.",
+  "ex_lb": "Lee de Botter an de Frigo!",
+  "ex_en": "Put the butter in the fridge!",
   "lodId": "FRIGO1"
  },
  {
@@ -909,8 +903,8 @@
   "gender": "m",
   "level": "A1",
   "category": "cooking",
-  "ex_lb": "Wou ass de Messer?",
-  "ex_en": "Where is the knife?",
+  "ex_lb": "D'Messere si frësch geschlaff!",
+  "ex_en": "The knives have just been sharpened!",
   "lodId": "MESSER1"
  },
  {
@@ -922,8 +916,8 @@
   "gender": "f",
   "level": "A1",
   "category": "cooking",
-  "ex_lb": "Gëff mir eng Forschett.",
-  "ex_en": "Give me a fork.",
+  "ex_lb": "Ech iessen de Poulet mat Messer a Forschett.",
+  "ex_en": "I eat chicken with a knife and fork.",
   "lodId": "FORSCHETT1"
  },
  {
@@ -935,8 +929,8 @@
   "gender": "m",
   "level": "A1",
   "category": "cooking",
-  "ex_lb": "Ech iessen d'Zopp mam Läffel.",
-  "ex_en": "I eat the soup with the spoon.",
+  "ex_lb": "De Puppelche kritt d'Iesse mam Läffel.",
+  "ex_en": "The baby is fed with a spoon.",
   "lodId": "LAFFEL1"
  },
  {
@@ -948,8 +942,8 @@
   "gender": "m",
   "level": "A1",
   "category": "cooking",
-  "ex_lb": "Den Teller ass eidel.",
-  "ex_en": "The plate is empty.",
+  "ex_lb": "Huel der e Kichenduch an dréchen d'Telleren of!",
+  "ex_en": "Take a tea towel and dry the plates!",
   "lodId": "TELLER1"
  },
  {
@@ -961,8 +955,8 @@
   "gender": "f",
   "level": "A1",
   "category": "container",
-  "ex_lb": "Eng Taass Kaffi, w.e.g.",
-  "ex_en": "A cup of coffee, please.",
+  "ex_lb": "Ech drénken ni méi ewéi eng Taass Kaffi.",
+  "ex_en": "I never drink more than one cup of coffee.",
   "lodId": "TAASS1"
  },
  {
@@ -974,8 +968,8 @@
   "gender": "n",
   "level": "A1",
   "category": "container",
-  "ex_lb": "E Glas Waasser, w.e.g.",
-  "ex_en": "A glass of water, please.",
+  "ex_lb": "Villes, wat fréier aus Glas war, ass haut aus Plastik.",
+  "ex_en": "Much of what used to be made of glass is made of plastic today.",
   "lodId": "GLAS1"
  },
  {
@@ -987,8 +981,8 @@
   "gender": "f",
   "level": "A1",
   "category": "container",
-  "ex_lb": "Eng Fläsch Wäin, w.e.g.",
-  "ex_en": "A bottle of wine, please.",
+  "ex_lb": "De Wënzer huet de Wäin a Fläsche gefëllt.",
+  "ex_en": "The winegrower bottled the wine.",
   "lodId": "FLASCH1"
  },
  {
@@ -1004,16 +998,17 @@
   "ex_en": "A small pot of butter."
  },
  {
-  "lb": "de Karton",
+  "lb": "d'Këscht",
   "en": "box/carton",
   "de": "der Karton",
   "fr": "le carton",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "container",
-  "ex_lb": "E Karton Mëllech.",
-  "ex_en": "A carton of milk."
+  "ex_lb": "Um Späicher sti Këschte voll Bicher.",
+  "ex_en": "There are boxes full of books in the attic.",
+  "lodId": "KESCHT1"
  },
  {
   "lb": "de Pak",
@@ -1024,8 +1019,8 @@
   "gender": "m",
   "level": "A2",
   "category": "container",
-  "ex_lb": "E Pak Nuddelen.",
-  "ex_en": "A pack of pasta.",
+  "ex_lb": "Mir mussen e Pak op d'Post siche goen.",
+  "ex_en": "We have to pick up a parcel at the post office.",
   "lodId": "PAK1"
  },
  {
@@ -1041,7 +1036,7 @@
   "ex_en": "A bag of chips."
  },
  {
-  "lb": "d'Blocht",
+  "lb": "d'Béchs",
   "en": "tin/can",
   "de": "die Dose",
   "fr": "la boîte",
@@ -1049,8 +1044,9 @@
   "gender": "f",
   "level": "B1",
   "category": "container",
-  "ex_lb": "Eng Bocht Tomaten.",
-  "ex_en": "A can of tomatoes."
+  "ex_lb": "Ech gi mer an den Automat eng Béchs Limonad sichen.",
+  "ex_en": "I'm going to get a can of lemonade from the vending machine.",
+  "lodId": "BECHS1"
  },
  {
   "lb": "de Stéck",
@@ -1061,8 +1057,8 @@
   "gender": "n",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "E Stéck Kuch, w.e.g.",
-  "ex_en": "A piece of cake, please.",
+  "ex_lb": "Wëlls de e Stéck vu mengem Apel?",
+  "ex_en": "Do you want a piece of my apple?",
   "lodId": "STECK1"
  },
  {
@@ -1087,8 +1083,8 @@
   "gender": "f",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "D'Hallschent vum Kuch.",
-  "ex_en": "Half of the cake.",
+  "ex_lb": "Mir hunn d'Hallschent vum Kuch scho giess!",
+  "ex_en": "We've already eaten half the cake!",
   "lodId": "HALLSCHENT1"
  },
  {
@@ -1100,8 +1096,8 @@
   "gender": "m",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "E Liter Mëllech, w.e.g.",
-  "ex_en": "A litre of milk, please.",
+  "ex_lb": "Ech drénken all Dag zwee Liter Waasser.",
+  "ex_en": "I drink two litres of water every day.",
   "lodId": "LITER1"
  },
  {
@@ -1113,8 +1109,8 @@
   "gender": "m",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "E Kilo Äppel, w.e.g.",
-  "ex_en": "A kilo of apples, please.",
+  "ex_lb": "Ech brauch nach e Kilo Miel.",
+  "ex_en": "I still need a kilo of flour.",
   "lodId": "KILO1"
  },
  {
@@ -1126,8 +1122,8 @@
   "gender": "n",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "Honnert Gramm Kéis, w.e.g.",
-  "ex_en": "A hundred grams of cheese, please.",
+  "ex_lb": "Dësen Timber ass gutt fir Bréiwer bis 20 Gramm.",
+  "ex_en": "This stamp is good for letters up to 20 grams.",
   "lodId": "GRAMM1"
  },
  {
@@ -1139,8 +1135,8 @@
   "gender": "",
   "level": "A1",
   "category": "quantity",
-  "ex_lb": "Ech iesse net vill.",
-  "ex_en": "I don't eat much.",
+  "ex_lb": "An deem Buttek ass d'Uebst vill ze deier.",
+  "ex_en": "In that shop the fruit is much too expensive.",
   "lodId": "VILL1"
  },
  {
@@ -1152,9 +1148,9 @@
   "gender": "",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "Ech drénke wéineg Kaffi.",
-  "ex_en": "I drink little coffee.",
-  "lodId": "WEINEG1"
+  "ex_lb": "De leschte Mount ass wéineg Ree gefall.",
+  "ex_en": "Little rain fell last month.",
+  "lodId": "WEINEG2"
  },
  {
   "lb": "genuch",
@@ -1165,8 +1161,8 @@
   "gender": "",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "Dat ass genuch, merci.",
-  "ex_en": "That is enough, thanks.",
+  "ex_lb": "Et sinn nach genuch fräi Plazen do.",
+  "ex_en": "There are still enough free seats.",
   "lodId": "GENUCH1"
  },
  {
@@ -1178,8 +1174,8 @@
   "gender": "n",
   "level": "A1",
   "category": "restaurant",
-  "ex_lb": "Mir ginn an d'Restaurant.",
-  "ex_en": "We go to the restaurant.",
+  "ex_lb": "An deem klenge Restaurant kritt ee gutt a bëlleg z'iessen.",
+  "ex_en": "In that little restaurant you get good, cheap food.",
   "lodId": "RESTAURANT1"
  },
  {
@@ -1204,8 +1200,8 @@
   "gender": "m",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "Kann ech de Menü kréien?",
-  "ex_en": "Can I have the menu?",
+  "ex_lb": "De Chef proposéiert de Mëtteg e Menü mat véier Gäng.",
+  "ex_en": "Today at lunch the chef is offering a four-course menu.",
   "lodId": "MENU1"
  },
  {
@@ -1217,8 +1213,8 @@
   "gender": "",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "Ech bestellen eng Pizza.",
-  "ex_en": "I order a pizza.",
+  "ex_lb": "De Bouf huet sech beim Kleeschen e Vëlo bestallt.",
+  "ex_en": "The boy asked Saint Nicholas for a bike.",
   "lodId": "BESTELLEN1"
  },
  {
@@ -1230,8 +1226,8 @@
   "gender": "f",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "D'Rechnung, w.e.g.",
-  "ex_en": "The bill, please.",
+  "ex_lb": "Ech fäerte ganz, de Schräiner mécht eis eng déck Rechnung!",
+  "ex_en": "I'm afraid the carpenter will send us a hefty bill!",
   "lodId": "RECHNUNG1"
  },
  {
@@ -1243,12 +1239,12 @@
   "gender": "",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Ech bezuelen mat der Kaart.",
-  "ex_en": "I pay with the card.",
+  "ex_lb": "De Client huet d'Wuer boer bezuelt.",
+  "ex_en": "The customer paid for the goods in cash.",
   "lodId": "BEZUELEN1"
  },
  {
-  "lb": "de Kelner",
+  "lb": "de Serveur",
   "en": "waiter",
   "de": "der Kellner",
   "fr": "le serveur",
@@ -1256,8 +1252,9 @@
   "gender": "m",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "De Kelner bréngt d'Iessen.",
-  "ex_en": "The waiter brings the food."
+  "ex_lb": "Mir hunn deem feine Serveur e schéint Drénkgeld ginn.",
+  "ex_en": "We gave the nice waiter a generous tip.",
+  "lodId": "SERVEUR1"
  },
  {
   "lb": "d'Reservatioun",
@@ -1268,12 +1265,12 @@
   "gender": "f",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "Ech hunn eng Reservatioun.",
-  "ex_en": "I have a reservation.",
+  "ex_lb": "Ech hunn eis Reservatioun vertässelt.",
+  "ex_en": "I messed up our reservation.",
   "lodId": "RESERVATIOUN1"
  },
  {
-  "lb": "den Trinkgeld",
+  "lb": "d'Drénkgeld",
   "en": "tip",
   "de": "das Trinkgeld",
   "fr": "le pourboire",
@@ -1281,11 +1278,12 @@
   "gender": "n",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "Ech ginn en Trinkgeld.",
-  "ex_en": "I give a tip."
+  "ex_lb": "Owes deelen d'Garçonen sech d'Drénkgeld.",
+  "ex_en": "In the evening the waiters share the tips.",
+  "lodId": "DRENKGELD1"
  },
  {
-  "lb": "den Apéro",
+  "lb": "den Apero",
   "en": "aperitif",
   "de": "der Aperitif",
   "fr": "l'apéritif",
@@ -1293,8 +1291,9 @@
   "gender": "m",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "Mir huelen en Apéro.",
-  "ex_en": "We have an aperitif."
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "APERO1"
  },
  {
   "lb": "den Dessert",
@@ -1305,12 +1304,12 @@
   "gender": "m",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "Wat fir en Dessert wëlls du?",
-  "ex_en": "Which dessert do you want?",
+  "ex_lb": "Ech hunn ze vill giess, ech wëll keen Dessert méi.",
+  "ex_en": "I've eaten too much, I don't want any dessert.",
   "lodId": "DESSERT1"
  },
  {
-  "lb": "d'Virspeis",
+  "lb": "d'Entrée",
   "en": "starter",
   "de": "die Vorspeise",
   "fr": "l'entrée",
@@ -1318,20 +1317,22 @@
   "gender": "f",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "Als Virspeis huelen ech Zopp.",
-  "ex_en": "As a starter I'll have soup."
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "ENTREE1"
  },
  {
-  "lb": "d'Haaptspeis",
+  "lb": "den Haaptplat",
   "en": "main course",
   "de": "das Hauptgericht",
   "fr": "le plat principal",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "Wat ass d'Haaptspeis?",
-  "ex_en": "What is the main course?"
+  "ex_lb": "Wéi den Haaptplat zerwéiert gouf, hat ech scho keen Honger méi.",
+  "ex_en": "By the time the main course was served, I wasn't hungry any more.",
+  "lodId": "HAAPTPLAT1"
  },
  {
   "lb": "akafen",
@@ -1342,8 +1343,8 @@
   "gender": "",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Mir ginn akafen.",
-  "ex_en": "We go shopping.",
+  "ex_lb": "De Grosist huet seng Wueren zu engem gënschtege Präis akaaft.",
+  "ex_en": "The wholesaler bought his goods at a good price.",
   "lodId": "AKAFEN1"
  },
  {
@@ -1355,8 +1356,8 @@
   "gender": "",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Ech kafen Brout.",
-  "ex_en": "I buy bread.",
+  "ex_lb": "Ech kafe mir elo eng gutt Mettwurscht!",
+  "ex_en": "I'm going to buy myself a good Mettwurst now!",
   "lodId": "KAFEN1"
  },
  {
@@ -1368,8 +1369,8 @@
   "gender": "",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Si verkafe frësch Uebst.",
-  "ex_en": "They sell fresh fruit.",
+  "ex_lb": "Op den Tankstelle verkafen se och Blummen.",
+  "ex_en": "They sell flowers at petrol stations too.",
   "lodId": "VERKAFEN1"
  },
  {
@@ -1381,8 +1382,8 @@
   "gender": "m",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "De Buttek ass zou.",
-  "ex_en": "The shop is closed.",
+  "ex_lb": "Wa Braderie ass, si vill Leit an de Butteker.",
+  "ex_en": "When there's a street sale, lots of people are in the shops.",
   "lodId": "BUTTEK1"
  },
  {
@@ -1394,8 +1395,8 @@
   "gender": "m",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Ech ginn an de Supermarché.",
-  "ex_en": "I go to the supermarket.",
+  "ex_lb": "Mir ginn eis Kommissiounen an de Supermarché maachen.",
+  "ex_en": "We're going to do our shopping at the supermarket.",
   "lodId": "SUPERMARCHE1"
  },
  {
@@ -1407,8 +1408,8 @@
   "gender": "m",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Samschdes ass Maart.",
-  "ex_en": "On Saturday there is a market.",
+  "ex_lb": "Ech hu mer um Maart eng Bott Spargele kaaft.",
+  "ex_en": "I bought a bunch of asparagus at the market.",
   "lodId": "MAART1"
  },
  {
@@ -1420,8 +1421,8 @@
   "gender": "f",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Ech kafe Brout an der Bäckerei.",
-  "ex_en": "I buy bread at the bakery.",
+  "ex_lb": "An där Bäckerei kritt ee ganz gutt Aachtercher.",
+  "ex_en": "That bakery sells very good figure-of-eight pastries.",
   "lodId": "BACKEREI1"
  },
  {
@@ -1433,21 +1434,9 @@
   "gender": "f",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "D'Metzlerei ass nieft der Post.",
-  "ex_en": "The butcher's is next to the post office.",
+  "ex_lb": "Bei eis am Duerf ass eng nei Metzlerei opgaangen.",
+  "ex_en": "A new butcher's has opened in our village.",
   "lodId": "METZLEREI1"
- },
- {
-  "lb": "de Wuerekuerf",
-  "en": "shopping cart",
-  "de": "der Einkaufswagen",
-  "fr": "le caddie",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "shopping",
-  "ex_lb": "De Wuerekuerf ass voll.",
-  "ex_en": "The shopping cart is full."
  },
  {
   "lb": "de Kuerf",
@@ -1458,8 +1447,8 @@
   "gender": "m",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Ech huelen e Kuerf.",
-  "ex_en": "I take a basket.",
+  "ex_lb": "Géi sich e Kuerf Gromperen an de Keller!",
+  "ex_en": "Go and fetch a basket of potatoes from the cellar!",
   "lodId": "KUERF1"
  },
  {
@@ -1471,8 +1460,8 @@
   "gender": "f",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Ech bezuelen un der Keess.",
-  "ex_en": "I pay at the cash register.",
+  "ex_lb": "Et huet 20 Minutte gedauert, bis ech duerch d'Keess war.",
+  "ex_en": "It took 20 minutes to get through the checkout.",
   "lodId": "KEESS1"
  },
  {
@@ -1497,8 +1486,8 @@
   "gender": "m",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Wéi vill ass de Präis?",
-  "ex_en": "What is the price?",
+  "ex_lb": "Ech hunn dëse Vëlo fir den hallwe Präis kritt.",
+  "ex_en": "I got this bike at half price.",
   "lodId": "PRAIS1"
  },
  {
@@ -1510,8 +1499,8 @@
   "gender": "",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Dat ass ze deier.",
-  "ex_en": "That is too expensive.",
+  "ex_lb": "Ech hu mer en deiere Bijou geleescht.",
+  "ex_en": "I treated myself to an expensive piece of jewellery.",
   "lodId": "DEIER2"
  },
  {
@@ -1523,8 +1512,8 @@
   "gender": "",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "D'Uebst ass bëlleg.",
-  "ex_en": "The fruit is cheap.",
+  "ex_lb": "D'Iesse war gutt a bëlleg!",
+  "ex_en": "The food was good and cheap!",
   "lodId": "BELLEG1"
  },
  {
@@ -1536,21 +1525,22 @@
   "gender": "",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "Et sinn elo Solden.",
-  "ex_en": "It's the sales now.",
+  "ex_lb": "D'nächst Woch fänken d'Solden un.",
+  "ex_en": "The sales start next week.",
   "lodId": "SOLDEN1"
  },
  {
-  "lb": "d'Reductioun",
+  "lb": "de Rabatt",
   "en": "discount",
   "de": "der Rabatt",
   "fr": "la réduction",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "Et gëtt eng Reductioun.",
-  "ex_en": "There is a discount."
+  "ex_lb": "Well mer esou vill kaaft hunn, krute mer Rabatt.",
+  "ex_en": "Because we bought so much, we got a discount.",
+  "lodId": "RABATT1"
  },
  {
   "lb": "de Cash",
@@ -1561,8 +1551,8 @@
   "gender": "m",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "Ech bezuele mat Cash.",
-  "ex_en": "I pay with cash.",
+  "ex_lb": "Ech huelen niewent menger Kreditkaart och ëmmer e bësse Cash mat an d'Vakanz.",
+  "ex_en": "Besides my credit card I always take some cash on holiday.",
   "lodId": "CASH2"
  },
  {
@@ -1574,8 +1564,8 @@
   "gender": "f",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Ech bezuele mat der Bankkaart.",
-  "ex_en": "I pay with the bank card.",
+  "ex_lb": "De Code vu senger Bankkaart soll ee kengem verroden.",
+  "ex_en": "You should never reveal your bank card PIN to anyone.",
   "lodId": "BANKKAART1"
  },
  {
@@ -1587,9 +1577,9 @@
   "gender": "f",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Brauche Dir eng Tut?",
-  "ex_en": "Do you need a bag?",
-  "lodId": "TUT2"
+  "ex_lb": "D'Maartfra huet d'Äppel an eng Tut gemaach.",
+  "ex_en": "The market woman put the apples in a paper bag.",
+  "lodId": "TUT3"
  },
  {
   "lb": "frësch",
@@ -1600,8 +1590,8 @@
   "gender": "",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Geméis ass frësch.",
-  "ex_en": "The vegetables are fresh.",
+  "ex_lb": "Déi Koppel ass frësch bestuet.",
+  "ex_en": "That couple has just got married.",
   "lodId": "FRESCH1"
  },
  {
@@ -1613,8 +1603,8 @@
   "gender": "",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Iessen ass gutt.",
-  "ex_en": "The food is good.",
+  "ex_lb": "Fir hiren Alter ass d'Bom nach bei gudder Gesondheet.",
+  "ex_en": "For her age, grandma is still in good health.",
   "lodId": "GUTT2"
  },
  {
@@ -1626,8 +1616,8 @@
   "gender": "",
   "level": "A2",
   "category": "food",
-  "ex_lb": "De Kuch ass lecker.",
-  "ex_en": "The cake is delicious.",
+  "ex_lb": "Gëff mer wannechgelift nach e Stéck vun där leckerer Taart!",
+  "ex_en": "Please give me another piece of that delicious tart!",
   "lodId": "LECKER1"
  },
  {
@@ -1639,8 +1629,8 @@
   "gender": "",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Den Téi ass ze séiss.",
-  "ex_en": "The tea is too sweet.",
+  "ex_lb": "Dee Parfum ass mir ze séiss.",
+  "ex_en": "That perfume is too sweet for me.",
   "lodId": "SEISS1"
  },
  {
@@ -1652,8 +1642,8 @@
   "gender": "",
   "level": "A2",
   "category": "food",
-  "ex_lb": "D'Zitroun ass sauer.",
-  "ex_en": "The lemon is sour.",
+  "ex_lb": "Déi Kiischte si mir ze sauer.",
+  "ex_en": "Those cherries are too sour for me.",
   "lodId": "SAUER1"
  },
  {
@@ -1665,8 +1655,8 @@
   "gender": "",
   "level": "A2",
   "category": "food",
-  "ex_lb": "D'Zopp ass ze salzeg.",
-  "ex_en": "The soup is too salty.",
+  "ex_lb": "Wéineg Planze verdroen déi salzeg Mierloft.",
+  "ex_en": "Few plants tolerate the salty sea air.",
   "lodId": "SALZEG1"
  },
  {
@@ -1691,8 +1681,8 @@
   "gender": "",
   "level": "A1",
   "category": "food",
-  "ex_lb": "De Kaffi ass nach waarm.",
-  "ex_en": "The coffee is still warm.",
+  "ex_lb": "Fir ze spullen, brauch ee waarmt Waasser.",
+  "ex_en": "You need hot water to do the washing-up.",
   "lodId": "WAARM1"
  },
  {
@@ -1704,8 +1694,8 @@
   "gender": "",
   "level": "A1",
   "category": "food",
-  "ex_lb": "D'Zopp ass kal.",
-  "ex_en": "The soup is cold.",
+  "ex_lb": "Haut bléist eng kal Loft.",
+  "ex_en": "A cold wind is blowing today.",
   "lodId": "KAL1"
  },
  {
@@ -1717,8 +1707,8 @@
   "gender": "",
   "level": "A1",
   "category": "meal",
-  "ex_lb": "Ech sinn hongereg.",
-  "ex_en": "I am hungry.",
+  "ex_lb": "Nom Schwamme sinn d'Kanner ëmmer hongereg.",
+  "ex_en": "After swimming the children are always hungry.",
   "lodId": "HONGEREG1"
  },
  {
@@ -1730,8 +1720,8 @@
   "gender": "",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "Ech sinn duuschtereg.",
-  "ex_en": "I am thirsty.",
+  "ex_lb": "De Garçon huet deenen duuschterege Kanner eng Limonad zerwéiert.",
+  "ex_en": "The waiter served the thirsty children a lemonade.",
   "lodId": "DUUSCHTEREG1"
  },
  {
@@ -1743,8 +1733,8 @@
   "gender": "m",
   "level": "B1",
   "category": "food",
-  "ex_lb": "Et huet e gudde Goût.",
-  "ex_en": "It has a good taste.",
+  "ex_lb": "D'Zooss huet en excellente Goût.",
+  "ex_en": "The sauce has an excellent taste.",
   "lodId": "GOUT1"
  },
  {
@@ -1756,8 +1746,8 @@
   "gender": "",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Dat schmaacht gutt.",
-  "ex_en": "That tastes good.",
+  "ex_lb": "Dee Fësch huet e komesche Goût, schmaachs de dat net?",
+  "ex_en": "This fish tastes strange, can't you taste it?",
   "lodId": "SCHMAACHEN1"
  },
  {
@@ -1769,8 +1759,8 @@
   "gender": "",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Probéier emol dës Zopp.",
-  "ex_en": "Try this soup.",
+  "ex_lb": "Probéier emol en anert Medikament!",
+  "ex_en": "Try a different medicine!",
   "lodId": "PROBEIEREN1"
  },
  {
@@ -1782,8 +1772,8 @@
   "gender": "f",
   "level": "B1",
   "category": "luxdish",
-  "ex_lb": "D'Bouneschlupp ass typesch lëtzebuergesch.",
-  "ex_en": "The bean soup is typically Luxembourgish.",
+  "ex_lb": "Mir kachen den Owend eng Bouneschlupp fir eis Frënn.",
+  "ex_en": "Tonight we're cooking a Bouneschlupp for our friends.",
   "lodId": "BOUNESCHLUPP1"
  },
  {
@@ -1819,8 +1809,8 @@
   "gender": "m",
   "level": "A1",
   "category": "restaurant",
-  "ex_lb": "Setz dech op de Stull.",
-  "ex_en": "Sit down on the chair.",
+  "ex_lb": "Huel der e Stull a setz dech bei eis!",
+  "ex_en": "Take a chair and sit with us!",
   "lodId": "STULL1"
  },
  {
@@ -1832,12 +1822,12 @@
   "gender": "m",
   "level": "A1",
   "category": "restaurant",
-  "ex_lb": "Den Dësch ass fir véier Persounen.",
-  "ex_en": "The table is for four people.",
+  "ex_lb": "Iwwer Dësch gëtt net geschwat!",
+  "ex_en": "We don't talk business at the table!",
   "lodId": "DESCH1"
  },
  {
-  "lb": "d'Serviette",
+  "lb": "d'Zerwéit",
   "en": "napkin",
   "de": "die Serviette",
   "fr": "la serviette",
@@ -1845,8 +1835,9 @@
   "gender": "f",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "Wou ass d'Serviette?",
-  "ex_en": "Where is the napkin?"
+  "ex_lb": "Elo ass meng Zerwéit mer schonn erëm op de Buedem gefall!",
+  "ex_en": "Now my napkin has fallen on the floor again!",
+  "lodId": "ZERWEIT1"
  },
  {
   "lb": "d'Portioun",
@@ -1857,8 +1848,8 @@
   "gender": "f",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "D'Portioun ass grouss.",
-  "ex_en": "The portion is big.",
+  "ex_lb": "Bei eis an der Kantin gëtt et zerguttst Portiounen.",
+  "ex_en": "In our canteen the portions are more than generous.",
   "lodId": "PORTIOUN1"
  },
  {
@@ -1870,8 +1861,8 @@
   "gender": "",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "D'Iessen ass fäerdeg.",
-  "ex_en": "The food is ready.",
+  "ex_lb": "Ruff mech, wann d'Iesse fäerdeg ass!",
+  "ex_en": "Call me when the food is ready!",
   "lodId": "FAERDEG1"
  },
  {
@@ -1895,12 +1886,12 @@
   "gender": "",
   "level": "B2",
   "category": "cooking",
-  "ex_lb": "Wierz d'Fleesch gutt.",
-  "ex_en": "Season the meat well.",
+  "ex_lb": "Déi Zopp ass nawell gutt gewierzt!",
+  "ex_en": "That soup is really well seasoned!",
   "lodId": "WIERZEN1"
  },
  {
-  "lb": "frühstücken",
+  "lb": "früstücken",
   "en": "to have breakfast",
   "de": "frühstücken",
   "fr": "déjeuner",
@@ -1908,11 +1899,12 @@
   "gender": "",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "Mir frühstücke géint aacht.",
-  "ex_en": "We have breakfast around eight."
+  "ex_lb": "Um wéi vill Auer früstücke mer muer de Moien?",
+  "ex_en": "What time are we having breakfast tomorrow morning?",
+  "lodId": "FRUSTUCKEN1"
  },
  {
-  "lb": "servéieren",
+  "lb": "zerwéieren",
   "en": "to serve",
   "de": "servieren",
   "fr": "servir",
@@ -1920,8 +1912,9 @@
   "gender": "",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "De Kelner servéiert d'Iessen.",
-  "ex_en": "The waiter serves the food."
+  "ex_lb": "De Garçon huet d'Dammen um Dësch fir d'éischt zerwéiert.",
+  "ex_en": "The waiter served the ladies at the table first.",
+  "lodId": "ZERWEIEREN1"
  },
  {
   "lb": "d'Spezialitéit",
@@ -1945,8 +1938,8 @@
   "gender": "",
   "level": "B1",
   "category": "food",
-  "ex_lb": "Ech iesse vegetaresch.",
-  "ex_en": "I eat vegetarian.",
+  "ex_lb": "Dee vegetaresche Plat war excellent!",
+  "ex_en": "That vegetarian dish was excellent!",
   "lodId": "VEGETARESCH1"
  },
  {
@@ -1958,8 +1951,8 @@
   "gender": "",
   "level": "B1",
   "category": "food",
-  "ex_lb": "Hutt Dir e vegan Menü?",
-  "ex_en": "Do you have a vegan menu?",
+  "ex_lb": "Hues de schonn eng Kéier vegane Kéis geschmaacht?",
+  "ex_en": "Have you ever tasted vegan cheese?",
   "lodId": "VEGAN1"
  },
  {
@@ -1971,8 +1964,8 @@
   "gender": "",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Uebst ass gesond.",
-  "ex_en": "Fruit is healthy.",
+  "ex_lb": "De Patient ass erëm gesond.",
+  "ex_en": "The patient is healthy again.",
   "lodId": "GESOND1"
  },
  {
@@ -1984,8 +1977,8 @@
   "gender": "",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "En hallwe Liter Mëllech.",
-  "ex_en": "Half a litre of milk.",
+  "ex_lb": "Ech hunn eng hallef Dosen Eeër kaaft.",
+  "ex_en": "I bought half a dozen eggs.",
   "lodId": "HALLEF1"
  },
  {
@@ -1997,8 +1990,8 @@
   "gender": "",
   "level": "A1",
   "category": "quantity",
-  "ex_lb": "D'Glas ass voll.",
-  "ex_en": "The glass is full.",
+  "ex_lb": "Déi Këschten, déi um Späicher stinn, si voll (mat) Bicher.",
+  "ex_en": "The boxes in the attic are full of books.",
   "lodId": "VOLL1"
  },
  {
@@ -2010,33 +2003,22 @@
   "gender": "",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "D'Fläsch ass eidel.",
-  "ex_en": "The bottle is empty.",
+  "ex_lb": "Mat engem eidele Mo schafft et sech net gutt.",
+  "ex_en": "It's hard to work on an empty stomach.",
   "lodId": "EIDEL1"
  },
  {
-  "lb": "d'Pommes",
+  "lb": "d'Fritt",
   "en": "chips/fries",
   "de": "die Pommes frites",
   "fr": "les frites",
   "pos": "noun",
-  "gender": "",
+  "gender": "f",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Steak mat Pommes.",
-  "ex_en": "Steak with chips."
- },
- {
-  "lb": "den Owesbrout",
-  "en": "evening bread meal",
-  "de": "das Abendbrot",
-  "fr": "le souper",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B1",
-  "category": "meal",
-  "ex_lb": "Mir iessen Owesbrout.",
-  "ex_en": "We eat an evening bread meal."
+  "ex_lb": "Um Begriefnes gouf et Ham, Fritten an Zalot.",
+  "ex_en": "At the funeral there was ham, chips and salad.",
+  "lodId": "FRITT1"
  },
  {
   "lb": "de Knätsch",
@@ -2060,12 +2042,12 @@
   "gender": "m",
   "level": "B1",
   "category": "meal",
-  "ex_lb": "Gudden Appetit!",
-  "ex_en": "Enjoy your meal!",
+  "ex_lb": "Dee Borscht huet nawell en zolitten Appetit!",
+  "ex_en": "That lad has quite an appetite!",
   "lodId": "APPETIT1"
  },
  {
-  "lb": "satt",
+  "lb": "sat",
   "en": "full (satiated)",
   "de": "satt",
   "fr": "rassasié",
@@ -2073,8 +2055,9 @@
   "gender": "",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "Ech sinn elo satt.",
-  "ex_en": "I am full now."
+  "ex_lb": "Fléif mer net méi, ech si sat!",
+  "ex_en": "Don't give me any more, I'm full!",
+  "lodId": "SAT1"
  },
  {
   "lb": "wäschen",
@@ -2085,8 +2068,8 @@
   "gender": "",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Ech wäschen d'Uebst.",
-  "ex_en": "I wash the fruit.",
+  "ex_lb": "Géi wäsch deng knaschteg Fangeren!",
+  "ex_en": "Go and wash your dirty fingers!",
   "lodId": "WASCHEN1"
  },
  {
@@ -2098,8 +2081,8 @@
   "gender": "",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Schëtt d'Mëllech an d'Taass.",
-  "ex_en": "Pour the milk into the cup.",
+  "ex_lb": "Dee Jugurt ass esou leefeg, dee kanns de schëdden.",
+  "ex_en": "That yoghurt is so runny you can pour it.",
   "lodId": "SCHEDDEN1"
  },
  {
@@ -2111,8 +2094,8 @@
   "gender": "",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Ech decken den Dësch.",
-  "ex_en": "I set the table.",
+  "ex_lb": "Den Daach vum Haus muss nach virum Wanter nei gedeckt ginn.",
+  "ex_en": "The roof of the house has to be re-covered before winter.",
   "lodId": "DECKEN2"
  },
  {
@@ -2124,8 +2107,8 @@
   "gender": "",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "No dem Iesse wäsche mir of.",
-  "ex_en": "After the meal we wash up.",
+  "ex_lb": "Et gëtt Zäit, datt mer d'Kichen ofwäschen.",
+  "ex_en": "It's time we cleaned the kitchen.",
   "lodId": "OFWASCHEN1"
  },
  {
@@ -2137,8 +2120,8 @@
   "gender": "f",
   "level": "A2",
   "category": "container",
-  "ex_lb": "Eng Schossel Zalot.",
-  "ex_en": "A bowl of salad.",
+  "ex_lb": "Ech hunn d'Margarinn zesumme mam Zocker an eng Schossel gedoen.",
+  "ex_en": "I put the margarine together with the sugar in a bowl.",
   "lodId": "SCHOSSEL1"
  },
  {
@@ -2150,8 +2133,8 @@
   "gender": "",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "D'Tut ass gratis.",
-  "ex_en": "The bag is free.",
+  "ex_lb": "Haut kanns de gratis an d'Muséeë goen.",
+  "ex_en": "Today you can go to the museums for free.",
   "lodId": "GRATIS1"
  },
  {
@@ -2163,8 +2146,8 @@
   "gender": "m",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Dat kascht fofzeg Cent.",
-  "ex_en": "That costs fifty cents.",
+  "ex_lb": "Et ass mer en Cent op de Buedem gefall.",
+  "ex_en": "A cent fell on the floor.",
   "lodId": "CENT1"
  },
  {
@@ -2176,8 +2159,8 @@
   "gender": "m",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Dat kascht fënnef Euro.",
-  "ex_en": "That costs five euros.",
+  "ex_lb": "Den Euro ass eng staark Wärung.",
+  "ex_en": "The euro is a strong currency.",
   "lodId": "EURO1"
  },
  {
@@ -2189,8 +2172,8 @@
   "gender": "",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Wéi vill kascht dat?",
-  "ex_en": "How much does that cost?",
+  "ex_lb": "Esou e Fotoapparat kascht en Heedegeld!",
+  "ex_en": "A camera like that costs a fortune!",
   "lodId": "KASCHTEN2"
  },
  {
@@ -2202,8 +2185,8 @@
   "gender": "m",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "Hei ass äre Bong.",
-  "ex_en": "Here is your receipt.",
+  "ex_lb": "Mat hirem Bong konnten d'Schüler sech e Buch siche goen.",
+  "ex_en": "With their vouchers the pupils could go and choose a book.",
   "lodId": "BONG1"
  },
  {
@@ -2215,8 +2198,8 @@
   "gender": "",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Wiel een Uebst.",
-  "ex_en": "Choose a fruit.",
+  "ex_lb": "Bei der Reservatioun kann ee seng Plaz online wielen.",
+  "ex_en": "When booking you can choose your seat online.",
   "lodId": "WIELEN1"
  },
  {
@@ -2228,8 +2211,8 @@
   "gender": "",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Ech sichen de Kéis.",
-  "ex_en": "I'm looking for the cheese.",
+  "ex_lb": "D'Police sicht de Mäerder.",
+  "ex_en": "The police are looking for the murderer.",
   "lodId": "SICHEN1"
  },
  {
@@ -2241,8 +2224,8 @@
   "gender": "",
   "level": "A1",
   "category": "shopping",
-  "ex_lb": "Ech fannen d'Mëllech net.",
-  "ex_en": "I can't find the milk.",
+  "ex_lb": "Ech hunn am Bësch eng Auer fonnt.",
+  "ex_en": "I found a watch in the woods.",
   "lodId": "FANNEN1"
  },
  {
@@ -2254,8 +2237,8 @@
   "gender": "m",
   "level": "B1",
   "category": "supermarket",
-  "ex_lb": "De Kéis ass um Regal.",
-  "ex_en": "The cheese is on the shelf.",
+  "ex_lb": "Am Keller ass d'Regal mat den Amaachglieser ëmgefall.",
+  "ex_en": "In the cellar the shelf with the preserving jars fell over.",
   "lodId": "REGAL1"
  },
  {
@@ -2267,21 +2250,9 @@
   "gender": "f",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Ech maachen eng Lëscht.",
-  "ex_en": "I make a list.",
+  "ex_lb": "Maach emol eng Lëscht mat deene Saachen, déi mer fir d'Vakanz brauchen!",
+  "ex_en": "Make a list of the things we need for the holiday!",
   "lodId": "LESCHT1"
- },
- {
-  "lb": "wéivill",
-  "en": "how much",
-  "de": "wie viel",
-  "fr": "combien",
-  "pos": "adverb",
-  "gender": "",
-  "level": "A1",
-  "category": "shopping",
-  "ex_lb": "Wéivill kascht de Kéis?",
-  "ex_en": "How much is the cheese?"
  },
  {
   "lb": "den Honger",
@@ -2292,8 +2263,8 @@
   "gender": "m",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "Ech hunn Honger.",
-  "ex_en": "I am hungry.",
+  "ex_lb": "Ech hunn de géien Honger, solle mer eppes iesse goen?",
+  "ex_en": "I'm starving, shall we go and eat something?",
   "lodId": "HONGER1"
  },
  {
@@ -2305,8 +2276,8 @@
   "gender": "m",
   "level": "A2",
   "category": "meal",
-  "ex_lb": "Ech hunn Duuscht.",
-  "ex_en": "I am thirsty.",
+  "ex_lb": "Ech hunn Duuscht, ech muss eppes drénken.",
+  "ex_en": "I'm thirsty, I need to drink something.",
   "lodId": "DUUSCHT1"
  },
  {
@@ -2342,8 +2313,8 @@
   "gender": "",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "Ass den Dësch fräi?",
-  "ex_en": "Is the table free?",
+  "ex_lb": "D'Hénger lafe fräi ronderëm.",
+  "ex_en": "The hens run around freely.",
   "lodId": "FRAI1"
  },
  {
@@ -2367,8 +2338,8 @@
   "gender": "f",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "D'Kaart, w.e.g.",
-  "ex_en": "The menu, please.",
+  "ex_lb": "Mir hunn eise Frënn eng Kaart aus der Vakanz geschéckt.",
+  "ex_en": "We sent our friends a card from our holiday.",
   "lodId": "KAART1"
  },
  {
@@ -2380,8 +2351,8 @@
   "gender": "f",
   "level": "A1",
   "category": "cooking",
-  "ex_lb": "D'Mamm ass an der Kichen.",
-  "ex_en": "Mum is in the kitchen.",
+  "ex_lb": "Mir brauchen eng nei Kichen.",
+  "ex_en": "We need a new kitchen.",
   "lodId": "KICHEN1"
  },
  {
@@ -2405,8 +2376,8 @@
   "gender": "m",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "De Bäcker mécht frësch Brout.",
-  "ex_en": "The baker makes fresh bread.",
+  "ex_lb": "Bei dësem Bäcker kritt een och sonndes frëscht Brout.",
+  "ex_en": "At this baker's you get fresh bread even on Sundays.",
   "lodId": "BACKER1"
  },
  {
@@ -2418,12 +2389,12 @@
   "gender": "m",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "De Metzler verkeeft Fleesch.",
-  "ex_en": "The butcher sells meat.",
+  "ex_lb": "Eise Metzler verkeeft wonnerbare Groen Drot.",
+  "ex_en": "Our butcher sells wonderful Groen Drot.",
   "lodId": "METZLER1"
  },
  {
-  "lb": "d'Kasséiererin",
+  "lb": "d'Caissière",
   "en": "cashier (woman)",
   "de": "die Kassiererin",
   "fr": "la caissière",
@@ -2431,8 +2402,9 @@
   "gender": "f",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "D'Kasséiererin scannt d'Wueren.",
-  "ex_en": "The cashier scans the goods."
+  "ex_lb": "Meng Mamm ass säit Jore Caissière vum Keeleclub.",
+  "ex_en": "My mum has been the treasurer of the skittles club for years.",
+  "lodId": "CAISSIERE1"
  },
  {
   "lb": "androen",
@@ -2456,8 +2428,8 @@
   "gender": "",
   "level": "A2",
   "category": "shopping",
-  "ex_lb": "Bréng Brout mat.",
-  "ex_en": "Bring bread along.",
+  "ex_lb": "Bréngs de mer eppes aus der Vakanz mat?",
+  "ex_en": "Will you bring me something back from your holiday?",
   "lodId": "MATBRENGEN1"
  },
  {
@@ -2469,8 +2441,8 @@
   "gender": "",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Dat ass en typescht Geriicht.",
-  "ex_en": "That is a typical dish.",
+  "ex_lb": "Bouneschlupp ass en typesche Lëtzebuerger Plat.",
+  "ex_en": "Bouneschlupp is a typical Luxembourgish dish.",
   "lodId": "TYPESCH1"
  },
  {
@@ -2495,8 +2467,8 @@
   "gender": "f",
   "level": "B1",
   "category": "fruit",
-  "ex_lb": "D'Quetsche si räif.",
-  "ex_en": "The plums are ripe.",
+  "ex_lb": "Looss d'Quetschen hänken, se sinn nach net zeideg!",
+  "ex_en": "Leave the plums on the tree, they're not ripe yet!",
   "lodId": "QUETSCH1"
  },
  {
@@ -2532,8 +2504,8 @@
   "gender": "",
   "level": "A1",
   "category": "quantity",
-  "ex_lb": "All d'Wuere si frësch.",
-  "ex_en": "All the goods are fresh.",
+  "ex_lb": "Dat muss dach all Mënsch verstoen!",
+  "ex_en": "Surely every human being must understand that!",
   "lodId": "ALL2"
  },
  {
@@ -2545,8 +2517,8 @@
   "gender": "",
   "level": "A1",
   "category": "quantity",
-  "ex_lb": "Ech hu keng Mëllech méi.",
-  "ex_en": "I have no milk left.",
+  "ex_lb": "Hie verpasst keng Molzecht.",
+  "ex_en": "He never misses a meal.",
   "lodId": "KENG3"
  },
  {
@@ -2558,8 +2530,8 @@
   "gender": "",
   "level": "A1",
   "category": "quantity",
-  "ex_lb": "Ech wëll méi Zopp.",
-  "ex_en": "I want more soup.",
+  "ex_lb": "Ech sinn zwee Joer méi al ewéi mäi Brudder.",
+  "ex_en": "I'm two years older than my brother.",
   "lodId": "MEI1"
  },
  {
@@ -2571,21 +2543,22 @@
   "gender": "",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "Ech iesse manner Zocker.",
-  "ex_en": "I eat less sugar.",
+  "ex_lb": "Iess manner, wann s de wëlls ofhuelen!",
+  "ex_en": "Eat less if you want to lose weight!",
   "lodId": "MANNER1"
  },
  {
-  "lb": "d'Garnelen",
+  "lb": "d'Crevette",
   "en": "shrimp",
   "de": "die Garnelen",
   "fr": "les crevettes",
   "pos": "noun",
-  "gender": "",
+  "gender": "f",
   "level": "B1",
   "category": "fish",
-  "ex_lb": "Mir iesse Garnelen.",
-  "ex_en": "We eat shrimp."
+  "ex_lb": "Ech hu mer e Risotto mat Mullen a Crevettë bestallt.",
+  "ex_en": "I ordered a risotto with mussels and prawns.",
+  "lodId": "CREVETTE1"
  },
  {
   "lb": "de Laachs",
@@ -2621,8 +2594,8 @@
   "gender": "m",
   "level": "B1",
   "category": "fish",
-  "ex_lb": "E Sandwich mat Thon.",
-  "ex_en": "A sandwich with tuna.",
+  "ex_lb": "D'Bestänn vum Thon si weltwäit zeréckgaangen.",
+  "ex_en": "Tuna stocks have declined worldwide.",
   "lodId": "THON1"
  },
  {
@@ -2646,8 +2619,8 @@
   "gender": "m",
   "level": "B1",
   "category": "meat",
-  "ex_lb": "Eeër mat Speck.",
-  "ex_en": "Eggs with bacon.",
+  "ex_lb": "De Kach bréit Speck fir op d'Mauséiercherszalot.",
+  "ex_en": "The cook is frying bacon for the lamb's lettuce salad.",
   "lodId": "SPECK1"
  },
  {
@@ -2659,12 +2632,12 @@
   "gender": "m",
   "level": "B1",
   "category": "vegetable",
-  "ex_lb": "Ech maache Knuewelek dran.",
-  "ex_en": "I add garlic.",
+  "ex_lb": "An där Vinaigrette ass ze vill Knuewelek!",
+  "ex_en": "There's too much garlic in that vinaigrette!",
   "lodId": "KNUEWELEK1"
  },
  {
-  "lb": "d'Gurk",
+  "lb": "d'Concomber",
   "en": "cucumber",
   "de": "die Gurke",
   "fr": "le concombre",
@@ -2672,8 +2645,9 @@
   "gender": "f",
   "level": "A2",
   "category": "vegetable",
-  "ex_lb": "D'Gurk ass an der Zalot.",
-  "ex_en": "The cucumber is in the salad."
+  "ex_lb": "Ech schielen d'Concomberen, wann ech Zalot dervu maachen.",
+  "ex_en": "I peel the cucumbers when I make a salad with them.",
+  "lodId": "CONCOMBER1"
  },
  {
   "lb": "de Paprika",
@@ -2684,9 +2658,9 @@
   "gender": "m",
   "level": "A2",
   "category": "vegetable",
-  "ex_lb": "Ech kafen e roude Paprika.",
-  "ex_en": "I buy a red bell pepper.",
-  "lodId": "PAPRIKA1"
+  "ex_lb": "Fir dëst Rezept muss een zwee rout Paprikae kleng schneiden.",
+  "ex_en": "For this recipe you need to chop two red peppers finely.",
+  "lodId": "PAPRIKA2"
  },
  {
   "lb": "de Brokkoli",
@@ -2697,8 +2671,8 @@
   "gender": "m",
   "level": "B1",
   "category": "vegetable",
-  "ex_lb": "De Brokkoli ass gesond.",
-  "ex_en": "Broccoli is healthy.",
+  "ex_lb": "Eise Brokkoli ass déi lescht Deeg schéi gewuess.",
+  "ex_en": "Our broccoli has grown nicely over the last few days.",
   "lodId": "BROKKOLI1"
  },
  {
@@ -2710,21 +2684,22 @@
   "gender": "m",
   "level": "B1",
   "category": "vegetable",
-  "ex_lb": "Ech iesse gär Spinat.",
-  "ex_en": "I like spinach.",
+  "ex_lb": "Ech maachen e bësse Knuewelek an de Spinat.",
+  "ex_en": "I put a bit of garlic in the spinach.",
   "lodId": "SPINAT1"
  },
  {
-  "lb": "d'Pëlz",
+  "lb": "de Champignon",
   "en": "mushroom",
   "de": "der Pilz",
   "fr": "le champignon",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "vegetable",
-  "ex_lb": "Mir iesse Pëlze mat Rais.",
-  "ex_en": "We eat mushrooms with rice."
+  "ex_lb": "De Kach hat vergiess, d'Champignonen an d'Zooss ze schneiden.",
+  "ex_en": "The cook had forgotten to slice the mushrooms into the sauce.",
+  "lodId": "CHAMPIGNON1"
  },
  {
   "lb": "d'Béinchen",
@@ -2735,8 +2710,8 @@
   "gender": "",
   "level": "B1",
   "category": "vegetable",
-  "ex_lb": "Ech kachen Béinchen.",
-  "ex_en": "I cook beans.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "BEINCHEN1"
  },
  {
@@ -2752,16 +2727,17 @@
   "ex_en": "The peas are green."
  },
  {
-  "lb": "de Lauch",
+  "lb": "d'Porrett",
   "en": "leek",
   "de": "der Lauch",
   "fr": "le poireau",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "vegetable",
-  "ex_lb": "Lauch an der Zopp.",
-  "ex_en": "Leek in the soup."
+  "ex_lb": "Ech hunn d'Porretten net gär.",
+  "ex_en": "I don't like leeks.",
+  "lodId": "PORRETT1"
  },
  {
   "lb": "de Kabes",
@@ -2772,8 +2748,8 @@
   "gender": "m",
   "level": "B1",
   "category": "vegetable",
-  "ex_lb": "Mir iesse Kabes.",
-  "ex_en": "We eat cabbage.",
+  "ex_lb": "Haut gëtt et Gesolpertes mat Kabes.",
+  "ex_en": "Today there's Gesolpertes with cabbage.",
   "lodId": "KABES1"
  },
  {
@@ -2785,12 +2761,12 @@
   "gender": "m",
   "level": "A2",
   "category": "vegetable",
-  "ex_lb": "Zalot mat Mais.",
-  "ex_en": "Salad with corn.",
+  "ex_lb": "D'Hénger picke sech de Mais aus dem Fudder eraus.",
+  "ex_en": "The hens pick the maize out of the feed.",
   "lodId": "MAIS1"
  },
  {
-  "lb": "d'Melon",
+  "lb": "d'Meloun",
   "en": "melon",
   "de": "die Melone",
   "fr": "le melon",
@@ -2798,8 +2774,9 @@
   "gender": "f",
   "level": "A2",
   "category": "fruit",
-  "ex_lb": "D'Melon ass séiss.",
-  "ex_en": "The melon is sweet."
+  "ex_lb": "Als Entrée gëtt et haut Ham a Meloun.",
+  "ex_en": "Today's starter is ham and melon.",
+  "lodId": "MELOUN1"
  },
  {
   "lb": "d'Ananas",
@@ -2810,12 +2787,12 @@
   "gender": "f",
   "level": "A2",
   "category": "fruit",
-  "ex_lb": "Ech schneiden d'Ananas.",
-  "ex_en": "I cut the pineapple.",
+  "ex_lb": "D'Ananas wiisst an tropesche Länner.",
+  "ex_en": "Pineapple grows in tropical countries.",
   "lodId": "ANANAS1"
  },
  {
-  "lb": "d'Hambier",
+  "lb": "d'Hammbier",
   "en": "raspberry",
   "de": "die Himbeere",
   "fr": "la framboise",
@@ -2823,8 +2800,9 @@
   "gender": "f",
   "level": "B1",
   "category": "fruit",
-  "ex_lb": "Ech hu gär Hambieren.",
-  "ex_en": "I like raspberries."
+  "ex_lb": "Dëst Joer waren d'Hammbiere fréi zeideg.",
+  "ex_en": "This year the raspberries were ripe early.",
+  "lodId": "HAMMBIER1"
  },
  {
   "lb": "d'Mandarinn",
@@ -2848,8 +2826,8 @@
   "gender": "f",
   "level": "B1",
   "category": "fruit",
-  "ex_lb": "Ech iessen eng Kiwi.",
-  "ex_en": "I eat a kiwi.",
+  "ex_lb": "Vun den exotesche Friichten hunn ech d'Kiwien am léifsten.",
+  "ex_en": "Of the exotic fruits, I like kiwis best.",
   "lodId": "KIWI1"
  },
  {
@@ -2861,8 +2839,8 @@
   "gender": "f",
   "level": "B1",
   "category": "fruit",
-  "ex_lb": "D'Schuel vun der Banann.",
-  "ex_en": "The peel of the banana.",
+  "ex_lb": "Ech iessen d'Äppel am léifste mat der Schuel.",
+  "ex_en": "I like eating apples best with the skin on.",
   "lodId": "SCHUEL1"
  },
  {
@@ -2887,12 +2865,12 @@
   "gender": "",
   "level": "B1",
   "category": "fruit",
-  "ex_lb": "D'Banann ass räif.",
-  "ex_en": "The banana is ripe.",
+  "ex_lb": "Äre Fils ass an der Lescht méi räif ginn.",
+  "ex_en": "Your son has become more mature lately.",
   "lodId": "RAIF2"
  },
  {
-  "lb": "bitter",
+  "lb": "batter",
   "en": "bitter",
   "de": "bitter",
   "fr": "amer",
@@ -2900,8 +2878,9 @@
   "gender": "",
   "level": "B1",
   "category": "food",
-  "ex_lb": "De Kaffi ass bitter.",
-  "ex_en": "The coffee is bitter."
+  "ex_lb": "Jidderee mécht batter Erfarungen.",
+  "ex_en": "Everyone has bitter experiences.",
+  "lodId": "BATTER1"
  },
  {
   "lb": "ofgelaf",
@@ -2912,8 +2891,8 @@
   "gender": "",
   "level": "B2",
   "category": "supermarket",
-  "ex_lb": "De Joghurt ass ofgelaf.",
-  "ex_en": "The yoghurt is expired."
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "verduerwen",
@@ -2936,8 +2915,8 @@
   "gender": "m",
   "level": "A2",
   "category": "drink",
-  "ex_lb": "Ech hätt gär e Cola.",
-  "ex_en": "I would like a cola.",
+  "ex_lb": "Ass an der Cola gradesou vill Koffein ewéi am Kaffi?",
+  "ex_en": "Is there as much caffeine in cola as in coffee?",
   "lodId": "COLA1"
  },
  {
@@ -2949,8 +2928,8 @@
   "gender": "n",
   "level": "A2",
   "category": "drink",
-  "ex_lb": "Ee Mineralwaasser, w.e.g.",
-  "ex_en": "One mineral water, please.",
+  "ex_lb": "Dat Mineralwaasser ass mir ze salzeg.",
+  "ex_en": "This mineral water is too salty for me.",
   "lodId": "MINERALWAASSER1"
  },
  {
@@ -2962,8 +2941,8 @@
   "gender": "m",
   "level": "A2",
   "category": "drink",
-  "ex_lb": "D'Kanner drénke Kakao.",
-  "ex_en": "The children drink cocoa.",
+  "ex_lb": "Eise Grosist kritt de Kakao a grousse Säck geliwwert.",
+  "ex_en": "Our wholesaler gets cocoa delivered in big sacks.",
   "lodId": "KAKAO1"
  },
  {
@@ -2975,8 +2954,8 @@
   "gender": "m",
   "level": "A2",
   "category": "drink",
-  "ex_lb": "En Espresso, w.e.g.",
-  "ex_en": "An espresso, please.",
+  "ex_lb": "Mir hunn op enger Terrass en Espresso gedronk.",
+  "ex_en": "We had an espresso on a terrace.",
   "lodId": "ESPRESSO1"
  },
  {
@@ -3012,8 +2991,8 @@
   "gender": "m",
   "level": "B1",
   "category": "drink",
-  "ex_lb": "Waasser mat Sirop, w.e.g.",
-  "ex_en": "Water with syrup, please.",
+  "ex_lb": "Du houschts nach ëmmer, hues de däi Sirop scho geholl?",
+  "ex_en": "You're still coughing, have you taken your syrup yet?",
   "lodId": "SIROP1"
  },
  {
@@ -3025,8 +3004,8 @@
   "gender": "f",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "D'Zooss ass lecker.",
-  "ex_en": "The sauce is delicious.",
+  "ex_lb": "An dëser Zooss schmaacht een d'Gewierzer gutt eraus.",
+  "ex_en": "You can really taste the spices in this sauce.",
   "lodId": "ZOOSS1"
  },
  {
@@ -3038,12 +3017,12 @@
   "gender": "n",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Ech kafen e Kilo Miel.",
-  "ex_en": "I buy a kilo of flour.",
+  "ex_lb": "De Kach huet d'Zooss mat Miel gebonnen.",
+  "ex_en": "The cook thickened the sauce with flour.",
   "lodId": "MIEL1"
  },
  {
-  "lb": "d'Rais",
+  "lb": "de Räis",
   "en": "rice",
   "de": "der Reis",
   "fr": "le riz",
@@ -3051,20 +3030,9 @@
   "gender": "m",
   "level": "A1",
   "category": "food",
-  "ex_lb": "Mir iessen Rais haut.",
-  "ex_en": "We eat rice today."
- },
- {
-  "lb": "d'Konfitür",
-  "en": "jam",
-  "de": "die Marmelade",
-  "fr": "la confiture",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "food",
-  "ex_lb": "D'Konfitür ass aus Äerdbieren.",
-  "ex_en": "The jam is from strawberries."
+  "ex_lb": "An eise Géigende gëtt kee Räis ugeplanzt.",
+  "ex_en": "No rice is grown in our part of the world.",
+  "lodId": "RAIS1"
  },
  {
   "lb": "den Hunneg",
@@ -3075,8 +3043,8 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Ech maachen Hunneg um Brout.",
-  "ex_en": "I put honey on the bread.",
+  "ex_lb": "Drénk Mëllech mat Hunneg, da vergeet däin Halswéi!",
+  "ex_en": "Drink milk with honey and your sore throat will go away!",
   "lodId": "HUNNEG1"
  },
  {
@@ -3088,8 +3056,8 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Ech iessen e Kichelchen.",
-  "ex_en": "I eat a biscuit.",
+  "ex_lb": "Mäi Brudder ass esou verfroossen, datt en eng ganz Këscht Kichelcher beieneen eragefeiert huet.",
+  "ex_en": "My brother is such a glutton that he wolfed down a whole box of biscuits at once.",
   "lodId": "KICHELCHEN1"
  },
  {
@@ -3101,12 +3069,12 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "D'Kand iesst e Bonbon.",
-  "ex_en": "The child eats a candy.",
+  "ex_lb": "D'Kanner hunn d'Bonbonen all beienee giess!",
+  "ex_en": "The children ate all the sweets at once!",
   "lodId": "BONBON1"
  },
  {
-  "lb": "de Müesli",
+  "lb": "de Müsli",
   "en": "muesli",
   "de": "das Müsli",
   "fr": "le muesli",
@@ -3114,11 +3082,12 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Moies iessen ech Müesli.",
-  "ex_en": "In the morning I eat muesli."
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "MUSLI1"
  },
  {
-  "lb": "de Vinaigre",
+  "lb": "den Esseg",
   "en": "vinegar",
   "de": "der Essig",
   "fr": "le vinaigre",
@@ -3126,8 +3095,9 @@
   "gender": "m",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech maache Vinaigre an d'Zalot.",
-  "ex_en": "I put vinegar in the salad."
+  "ex_lb": "Maach net ze vill Esseg an d'Zooss!",
+  "ex_en": "Don't put too much vinegar in the sauce!",
+  "lodId": "ESSEG1"
  },
  {
   "lb": "d'Mayonnaise",
@@ -3138,8 +3108,8 @@
   "gender": "f",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "Fritten mat Mayonnaise.",
-  "ex_en": "Fries with mayonnaise.",
+  "ex_lb": "Et ass eng Gerot, ob meng Mayonnaise eppes gëtt oder net.",
+  "ex_en": "It's a matter of luck whether my mayonnaise turns out or not.",
   "lodId": "MAYONNAISE1"
  },
  {
@@ -3151,12 +3121,12 @@
   "gender": "m",
   "level": "A2",
   "category": "cooking",
-  "ex_lb": "D'Kand wëllt Ketchup.",
-  "ex_en": "The child wants ketchup.",
+  "ex_lb": "Tomatepüree ass net dat selwecht ewéi Ketchup.",
+  "ex_en": "Tomato purée is not the same as ketchup.",
   "lodId": "KETCHUP1"
  },
  {
-  "lb": "de Mostert",
+  "lb": "de Moschter",
   "en": "mustard",
   "de": "der Senf",
   "fr": "la moutarde",
@@ -3164,20 +3134,22 @@
   "gender": "m",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech iesse Wurscht mat Mostert.",
-  "ex_en": "I eat sausage with mustard."
+  "ex_lb": "Schmier de Brot mat Moschter an!",
+  "ex_en": "Spread the bread with mustard!",
+  "lodId": "MOSCHTER1"
  },
  {
-  "lb": "d'Petersëlleg",
+  "lb": "de Péiterséileg",
   "en": "parsley",
   "de": "die Petersilie",
   "fr": "le persil",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech schneiden Petersëlleg.",
-  "ex_en": "I cut parsley."
+  "ex_lb": "D'Plattoe ware mat Péiterséileg garnéiert.",
+  "ex_en": "The platters were garnished with parsley.",
+  "lodId": "PEITERSEILEG1"
  },
  {
   "lb": "d'Schmull",
@@ -3201,8 +3173,8 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Ech iessen e Croissant.",
-  "ex_en": "I eat a croissant.",
+  "ex_lb": "Ech gi fir d'Kaffispaus bei de Bäcker Croissante sichen.",
+  "ex_en": "I'm going to the baker's for croissants for the coffee break.",
   "lodId": "CROISSANT1"
  },
  {
@@ -3214,8 +3186,8 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "D'Kanner iesse Chips.",
-  "ex_en": "The children eat crisps.",
+  "ex_lb": "Mir hu gëschter bal eng ganz Tut Chipse virun der Tëlee giess.",
+  "ex_en": "Yesterday we ate almost a whole bag of crisps in front of the TV.",
   "lodId": "CHIPS1"
  },
  {
@@ -3251,12 +3223,12 @@
   "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Ech bestellen en Hamburger.",
-  "ex_en": "I order a hamburger.",
+  "ex_lb": "Mir hunn op der Kiermes en Hamburger an eng Portioun Fritte giess.",
+  "ex_en": "At the fair we ate a hamburger and a portion of chips.",
   "lodId": "HAMBURGER1"
  },
  {
-  "lb": "de Steak",
+  "lb": "de Bifdeck",
   "en": "steak",
   "de": "das Steak",
   "fr": "le steak",
@@ -3264,32 +3236,35 @@
   "gender": "m",
   "level": "A2",
   "category": "meat",
-  "ex_lb": "Ech iessen e Steak.",
-  "ex_en": "I eat a steak."
+  "ex_lb": "Ech brode mer heiansdo e gudde säftege Bifdeck.",
+  "ex_en": "I sometimes fry myself a good juicy steak.",
+  "lodId": "BIFDECK1"
  },
  {
-  "lb": "den Omelett",
+  "lb": "d'Omlett",
   "en": "omelette",
   "de": "das Omelett",
   "fr": "l'omelette",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "food",
-  "ex_lb": "Ech maachen en Omelett.",
-  "ex_en": "I make an omelette."
+  "ex_lb": "Soll ech eis den Owend eng Omlett mat Champignone maachen?",
+  "ex_en": "Shall I make us a mushroom omelette tonight?",
+  "lodId": "OMLETT1"
  },
  {
-  "lb": "d'Crêpe",
+  "lb": "de Paangech",
   "en": "crepe/pancake",
   "de": "der Pfannkuchen",
   "fr": "la crêpe",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "food",
-  "ex_lb": "D'Kanner iesse Crêpen.",
-  "ex_en": "The children eat crepes."
+  "ex_lb": "Ech hätt emol erëm Loscht op eng Geméiszopp mat Paangecher!",
+  "ex_en": "I'd love a vegetable soup with pancakes again!",
+  "lodId": "PAANGECH1"
  },
  {
   "lb": "d'Quetschentaart",
@@ -3300,12 +3275,12 @@
   "gender": "f",
   "level": "B1",
   "category": "luxdish",
-  "ex_lb": "D'Quetschentaart schmaacht am Hierscht.",
-  "ex_en": "The plum tart tastes good in autumn.",
+  "ex_lb": "Der Boma hir Quetschentaart ass nach ëmmer déi bescht!",
+  "ex_en": "Grandma's plum tart is still the best!",
   "lodId": "QUETSCHENTAART1"
  },
  {
-  "lb": "d'Aeppeltaart",
+  "lb": "d'Äppeltaart",
   "en": "apple tart",
   "de": "der Apfelkuchen",
   "fr": "la tarte aux pommes",
@@ -3313,11 +3288,12 @@
   "gender": "f",
   "level": "A2",
   "category": "luxdish",
-  "ex_lb": "D'Aeppeltaart richt gutt.",
-  "ex_en": "The apple tart smells good."
+  "ex_lb": "D'Kanner hunn eng Äppeltaart mat Äppel aus dem Bongert gebak.",
+  "ex_en": "The children baked an apple tart with apples from the orchard.",
+  "lodId": "APPELTAART1"
  },
  {
-  "lb": "de Gromperestamp",
+  "lb": "de Gromperepüree",
   "en": "mashed potatoes",
   "de": "der Kartoffelstampf",
   "fr": "la purée",
@@ -3325,11 +3301,12 @@
   "gender": "m",
   "level": "B1",
   "category": "luxdish",
-  "ex_lb": "Ech iesse gär Gromperestamp.",
-  "ex_en": "I like mashed potatoes."
+  "ex_lb": "Ech maachen ëmmer e bësse Muskat an de Gromperepüree.",
+  "ex_en": "I always put a bit of nutmeg in the mashed potatoes.",
+  "lodId": "GROMPEREPUREE1"
  },
  {
-  "lb": "de Crémant",
+  "lb": "de Cremant",
   "en": "sparkling wine",
   "de": "der Crémant",
   "fr": "le crémant",
@@ -3337,8 +3314,9 @@
   "gender": "m",
   "level": "B1",
   "category": "luxdish",
-  "ex_lb": "De Crémant kënnt aus Lëtzebuerg.",
-  "ex_en": "The crémant comes from Luxembourg."
+  "ex_lb": "Soll ech eis nach zwee Cremante bestellen?",
+  "ex_en": "Shall I order us two more glasses of crémant?",
+  "lodId": "CREMANT1"
  },
  {
   "lb": "de Riesling",
@@ -3349,8 +3327,8 @@
   "gender": "m",
   "level": "B1",
   "category": "luxdish",
-  "ex_lb": "De Riesling kënnt vun der Musel.",
-  "ex_en": "The Riesling comes from the Moselle.",
+  "ex_lb": "Haut hu mer de ganzen Dag Riesling gelies.",
+  "ex_en": "Today we spent the whole day picking Riesling.",
   "lodId": "RIESLING1"
  },
  {
@@ -3367,7 +3345,7 @@
   "lodId": "REZEPT1"
  },
  {
-  "lb": "de Brett",
+  "lb": "d'Brietchen",
   "en": "cutting board",
   "de": "das Brett",
   "fr": "la planche",
@@ -3375,8 +3353,9 @@
   "gender": "n",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech schneiden um Brett.",
-  "ex_en": "I cut on the board."
+  "ex_lb": "De Kach huet d'Brietchen erausgeholl, fir d'Ënnen drop ze schneiden.",
+  "ex_en": "The cook took out the chopping board to cut the onions on it.",
+  "lodId": "BRIETCHEN1"
  },
  {
   "lb": "de Mixer",
@@ -3387,21 +3366,22 @@
   "gender": "m",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech brauch de Mixer.",
-  "ex_en": "I need the blender.",
+  "ex_lb": "Ech hunn en extrae Mixer, fir Milkshaken ze maachen.",
+  "ex_en": "I have a separate blender for making milkshakes.",
   "lodId": "MIXER1"
  },
  {
-  "lb": "de Congélateur",
+  "lb": "d'Killtru",
   "en": "freezer",
   "de": "der Gefrierschrank",
   "fr": "le congélateur",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "D'Glace ass am Congélateur.",
-  "ex_en": "The ice cream is in the freezer."
+  "ex_lb": "Huel d'Fleesch scho mueres fréi aus der Killtru!",
+  "ex_en": "Take the meat out of the freezer early in the morning!",
+  "lodId": "KILLTRU1"
  },
  {
   "lb": "afréieren",
@@ -3412,33 +3392,35 @@
   "gender": "",
   "level": "B1",
   "category": "cooking",
-  "ex_lb": "Ech fréieren d'Fleesch an.",
-  "ex_en": "I freeze the meat.",
+  "ex_lb": "D'Subside vun de Gemenge sinn zäitweileg agefruer ginn.",
+  "ex_en": "The municipalities' subsidies have been temporarily frozen.",
   "lodId": "AFREIEREN1"
  },
  {
-  "lb": "de Pot",
+  "lb": "d'Dëppen",
   "en": "jar/pot",
   "de": "das Glas/der Topf",
   "fr": "le pot",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A2",
   "category": "container",
-  "ex_lb": "E Pot Konfitür.",
-  "ex_en": "A jar of jam."
+  "ex_lb": "D'Käche kacht d'Geméiszopp an engem groussen Dëppen.",
+  "ex_en": "The cook makes the vegetable soup in a big pot.",
+  "lodId": "DEPPEN1"
  },
  {
-  "lb": "d'Kanne",
+  "lb": "de Krou",
   "en": "jug",
   "de": "die Kanne",
   "fr": "le pichet",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "container",
-  "ex_lb": "Eng Kanne Waasser, w.e.g.",
-  "ex_en": "A jug of water, please."
+  "ex_lb": "De Krou ass erofgefall a gebrach.",
+  "ex_en": "The jug fell down and broke.",
+  "lodId": "KROU1"
  },
  {
   "lb": "den Eemer",
@@ -3449,8 +3431,8 @@
   "gender": "m",
   "level": "B1",
   "category": "container",
-  "ex_lb": "En Eemer voll Äppel.",
-  "ex_en": "A bucket full of apples.",
+  "ex_lb": "Et deet mer leed, ech hunn aus Versinn däin Eemer ëmgehäit.",
+  "ex_en": "I'm sorry, I accidentally knocked over your bucket.",
   "lodId": "EEMER1"
  },
  {
@@ -3462,8 +3444,8 @@
   "gender": "f",
   "level": "B2",
   "category": "supermarket",
-  "ex_lb": "Kuck op d'Date.",
-  "ex_en": "Check the expiry date.",
+  "ex_lb": "War dat däin Date, mat deem ech dech gëschter an der Stad gesinn hunn?",
+  "ex_en": "Was that your date I saw you with in town yesterday?",
   "lodId": "DATE1"
  },
  {
@@ -3475,8 +3457,8 @@
   "gender": "f",
   "level": "B1",
   "category": "supermarket",
-  "ex_lb": "De Präis steet op der Etikett.",
-  "ex_en": "The price is on the label.",
+  "ex_lb": "Pech d'Etikett mat der Adress op d'Enveloppe!",
+  "ex_en": "Stick the address label on the envelope!",
   "lodId": "ETIKETT1"
  },
  {
@@ -3488,9 +3470,9 @@
   "gender": "",
   "level": "B1",
   "category": "supermarket",
-  "ex_lb": "Ech wéien d'Äppel.",
-  "ex_en": "I weigh the apples.",
-  "lodId": "WEIEN3"
+  "ex_lb": "D'Vendeuse huet d'Ham mam Pabeier gewien.",
+  "ex_en": "The saleswoman weighed the ham together with the paper.",
+  "lodId": "WEIEN2"
  },
  {
   "lb": "d'Wo",
@@ -3501,8 +3483,8 @@
   "gender": "f",
   "level": "B1",
   "category": "supermarket",
-  "ex_lb": "Leeën d'Uebst op d'Wo.",
-  "ex_en": "Put the fruit on the scale.",
+  "ex_lb": "Ass deng Wo iwwerhaapt geeicht?",
+  "ex_en": "Are your scales even calibrated?",
   "lodId": "WO1"
  },
  {
@@ -3527,8 +3509,8 @@
   "gender": "f",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "D'Qualitéit ass gutt.",
-  "ex_en": "The quality is good.",
+  "ex_lb": "D'Qualitéit vun deem Stoft ass mëttelméisseg.",
+  "ex_en": "The quality of that fabric is mediocre.",
   "lodId": "QUALITEIT1"
  },
  {
@@ -3540,24 +3522,12 @@
   "gender": "f",
   "level": "B1",
   "category": "shopping",
-  "ex_lb": "D'Epicerie ass um Eck.",
-  "ex_en": "The grocery shop is on the corner.",
+  "ex_lb": "D'Supermarchéë sinn eng grouss Konkurrenz fir déi kleng Epicerien.",
+  "ex_en": "Supermarkets are strong competition for the small grocery shops.",
   "lodId": "EPICERIE1"
  },
  {
-  "lb": "d'Backwueren",
-  "en": "baked goods",
-  "de": "die Backwaren",
-  "fr": "les produits de boulangerie",
-  "pos": "noun",
-  "gender": "",
-  "level": "B2",
-  "category": "shopping",
-  "ex_lb": "D'Backwuere sinn frësch.",
-  "ex_en": "The baked goods are fresh."
- },
- {
-  "lb": "d'Beilag",
+  "lb": "d'Bäiluecht",
   "en": "side dish",
   "de": "die Beilage",
   "fr": "l'accompagnement",
@@ -3565,8 +3535,9 @@
   "gender": "f",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "Als Beilag huelen ech Rais.",
-  "ex_en": "As a side I'll have rice."
+  "ex_lb": "Wëllt Der Räis oder Fritten als Bäiluecht?",
+  "ex_en": "Would you like rice or chips as a side?",
+  "lodId": "BAILUECHT1"
  },
  {
   "lb": "empfeelen",
@@ -3590,8 +3561,8 @@
   "gender": "f",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "Mir setze op der Terrasse.",
-  "ex_en": "We sit on the terrace.",
+  "ex_lb": "",
+  "ex_en": "",
   "lodId": "TERRASSE1"
  },
  {
@@ -3603,8 +3574,8 @@
   "gender": "",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "Ech huelen d'Pizza mat.",
-  "ex_en": "I take the pizza away.",
+  "ex_lb": "An der Hetz hat ech vergiess, e Prabbeli matzehuelen.",
+  "ex_en": "In the rush I forgot to take an umbrella.",
   "lodId": "MATHUELEN1"
  },
  {
@@ -3616,12 +3587,12 @@
   "gender": "m",
   "level": "A2",
   "category": "restaurant",
-  "ex_lb": "De Kach mécht gutt Iessen.",
-  "ex_en": "The cook makes good food.",
+  "ex_lb": "Dem Kach seng Spezialitéit ass Fierkelshämmche mat gebootschte Gromperen.",
+  "ex_en": "The cook's speciality is pork knuckle with roast potatoes.",
   "lodId": "KACH1"
  },
  {
-  "lb": "d'Cantine",
+  "lb": "d'Kantin",
   "en": "canteen",
   "de": "die Kantine",
   "fr": "la cantine",
@@ -3629,20 +3600,9 @@
   "gender": "f",
   "level": "B1",
   "category": "meal",
-  "ex_lb": "Ech iessen an der Cantine.",
-  "ex_en": "I eat in the canteen."
- },
- {
-  "lb": "de Goûter",
-  "en": "afternoon snack",
-  "de": "die Zwischenmahlzeit",
-  "fr": "le goûter",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "meal",
-  "ex_lb": "D'Kanner kréien e Goûter.",
-  "ex_en": "The children get an afternoon snack."
+  "ex_lb": "D'Schüler ginn all Dag an d'Kantin.",
+  "ex_en": "The pupils go to the canteen every day.",
+  "lodId": "KANTIN1"
  },
  {
   "lb": "d'Gedrénks",
@@ -3653,8 +3613,8 @@
   "gender": "n",
   "level": "A2",
   "category": "drink",
-  "ex_lb": "Wat fir e Gedrénks wëlls du?",
-  "ex_en": "Which beverage do you want?",
+  "ex_lb": "Um Bal ass fir Iessen a Gedrénks gesuergt.",
+  "ex_en": "Food and drink are provided at the ball.",
   "lodId": "GEDRENKS1"
  }
 ]
