@@ -132,6 +132,7 @@ var REVIEW_MAX = 20;
 var today = Math.floor(Date.now() / DAY);
 
 function article(w) {
+  if (w.art !== undefined) return w.art;
   if (w.pos !== 'noun') return '';
   if (w.gender === 'f' || w.gender === 'n') return "d'";
   if (w.gender === 'm') return /^[aeiouäëéhdtzn]/i.test(w.lb) ? 'den ' : 'de ';
@@ -139,7 +140,11 @@ function article(w) {
 }
 
 // ── storage: id -> [box, dueDay], in chunks of under 4 096 characters ──
-var KEY = 'lt.progress.v1';
+// Two decks share this page: Luxembourgish (default) and French (#lang=fr,
+// since 25 Oct 2026). Each keeps its own progress.
+var LANG = new URLSearchParams(location.hash.slice(1)).get('lang') === 'fr' ? 'fr' : 'lb';
+var KEY = 'lt.progress.v1' + (LANG === 'fr' ? '.fr' : '');
+var CK = LANG === 'fr' ? 'f' : '';
 var prog = {};
 function pack() {
   var parts = [], cur = '';
@@ -167,10 +172,10 @@ function loadLocal() {
 function load(done) {
   var local = loadLocal();
   if (!cloud) { prog = local; return done(); }
-  cloud.getItem('n', function (err, n) {
+  cloud.getItem(CK + 'n', function (err, n) {
     n = +n || 0;
     if (err || !n) { prog = local; return done(); }
-    var keys = []; for (var i = 0; i < n; i++) keys.push('p' + i);
+    var keys = []; for (var i = 0; i < n; i++) keys.push(CK + 'p' + i);
     cloud.getItems(keys, function (err2, vals) {
       prog = err2 ? local : unpack(keys.map(function (k) { return vals[k]; }));
       done();
@@ -181,8 +186,8 @@ function save() {
   try { localStorage.setItem(KEY, JSON.stringify(prog)); } catch (e) {}
   if (!cloud) return;
   var parts = pack();
-  parts.forEach(function (p, i) { cloud.setItem('p' + i, p); });
-  cloud.setItem('n', String(parts.length));
+  parts.forEach(function (p, i) { cloud.setItem(CK + 'p' + i, p); });
+  cloud.setItem(CK + 'n', String(parts.length));
 }
 
 // ── session ──
@@ -193,6 +198,13 @@ var BY_ID = {};
 var queue = [], pos = 0, total = 0, know = 0, again = 0, missed = [], cur = null, reverse = false, retried = {};
 
 function start(words) {
+  if (LANG === 'fr') {
+    // French deck: same shape as the Luxembourgish one, Tatoeba examples.
+    words = words.map(function (w) {
+      return { id: w.id, lb: w.fr, art: w.art, ru: w.ru, en: '', pos: w.pos, level: w.level, gender: w.gender,
+        examples: (w.examples || []).map(function (e) { return { lb: e.fr, ru: e.ru, mp3: e.audio }; }) };
+    });
+  }
   words.forEach(function (w) {
     w.ex = (w.examples || []).slice().sort(function (a, b) { return a.lb.length - b.lb.length; })[0] || null;
     BY_ID[w.id] = w;
@@ -219,15 +231,15 @@ function show() {
   reverse = !!(p && p[0] >= 2);
   var lb = article(cur) + cur.lb;
   $('dir').textContent = reverse ? 'Как это по-люксембургски?' : 'Что это значит?';
-  var meaning = cur.ru ? cur.ru + ' (' + cur.en + ')' : cur.en;
+  var meaning = cur.ru ? cur.ru + (cur.en ? ' (' + cur.en + ')' : '') : cur.en;
   $('front').textContent = reverse ? meaning : lb;
   $('meta').textContent = reverse ? '' : [cur.pos, cur.gender ? '(' + cur.gender + ')' : '', cur.level].filter(Boolean).join(' · ');
   $('back').textContent = reverse ? lb : meaning;
   $('ex').textContent = cur.ex ? cur.ex.lb : '';
-  $('exen').textContent = cur.ex ? (cur.ex.ru || '') + ' · пример из словаря LOD' : '';
+  $('exen').textContent = cur.ex ? (cur.ex.ru || '') + (LANG === 'fr' ? ' · пример из Tatoeba' : ' · пример из словаря LOD') : '';
   $('exen').classList.toggle('hidden', !cur.ex);
-  $('sayEx').classList.toggle('hidden', !(cur.ex && cur.ex.ogg));
-  $('say').classList.toggle('hidden', !cur.lodId || reverse);
+  $('sayEx').classList.toggle('hidden', !(cur.ex && (cur.ex.ogg || cur.ex.mp3 || (LANG === 'fr' && canSpeak))));
+  $('say').classList.toggle('hidden', !(cur.lodId || (LANG === 'fr' && canSpeak)) || reverse);
   $('answer').classList.add('hidden');
   $('showBtn').classList.remove('hidden');
   $('grade').classList.add('hidden');
@@ -239,7 +251,7 @@ function reveal() {
   $('answer').classList.remove('hidden');
   $('showBtn').classList.add('hidden');
   $('grade').classList.remove('hidden');
-  if (reverse && cur.lodId) $('say').classList.remove('hidden');
+  if (reverse && (cur.lodId || (LANG === 'fr' && canSpeak))) $('say').classList.remove('hidden');
 }
 
 function grade(ok) {
@@ -300,11 +312,26 @@ var audio = new Audio();
 var ogg = audio.canPlayType('audio/ogg; codecs=vorbis');
 function play(src) { audio.src = src; audio.play().catch(function () {}); }
 // LOD's ids are upper case; its recordings are filed under the lower-case id.
+// French words have no recording of their own: the phone's French voice reads them.
+var canSpeak = !!(window.speechSynthesis && window.SpeechSynthesisUtterance);
+function speak(text) {
+  try {
+    speechSynthesis.cancel();
+    var u = new SpeechSynthesisUtterance(text);
+    u.lang = 'fr-FR'; u.rate = 0.9;
+    speechSynthesis.speak(u);
+  } catch (e) {}
+}
 $('say').onclick = function () {
+  if (LANG === 'fr') return speak(article(cur) + cur.lb);
   var id = String(cur.lodId).toLowerCase();
   play('https://lod.lu/uploads/' + (ogg ? 'OGG/' + id + '.ogg' : 'AAC/' + id + '.m4a'));
 };
-$('sayEx').onclick = function () { play(ogg ? cur.ex.ogg : cur.ex.aac); };
+$('sayEx').onclick = function () {
+  if (cur.ex.mp3) return play(cur.ex.mp3);
+  if (LANG === 'fr') return speak(cur.ex.lb);
+  play(ogg ? cur.ex.ogg : cur.ex.aac);
+};
 $('showBtn').onclick = reveal;
 // Tapping the card shows the answer too; the listen button only plays.
 $('cardView').onclick = function (e) { if (e.target.id !== 'say' && e.target.id !== 'sayEx') reveal(); };
@@ -313,7 +340,7 @@ $('yesBtn').onclick = function () { grade(true); };
 $('closeBtn').onclick = function () { if (inTelegram) tg.close(); else history.back(); };
 
 load(function () {
-  fetch('words.json?v=4')
+  fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=4')
     .then(function (r) { return r.json(); })
     .then(start)
     .catch(function () { $('front').textContent = 'Не загрузился список слов — попробуйте ещё раз.'; });
