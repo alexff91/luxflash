@@ -2499,12 +2499,12 @@
   "lodId": "GROND1"
  },
  {
-  "lb": "d'Problem",
+  "lb": "de Problem",
   "en": "problem",
   "de": "das Problem",
   "fr": "le problème",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "abstract",
   "ex_lb": "Den Techniker konnt de Problem un der Elektronik séier behiewen.",
@@ -3529,12 +3529,12 @@
   "lodId": "FOTO1"
  },
  {
-  "lb": "d'Video",
+  "lb": "de Video",
   "en": "video",
   "de": "das Video",
   "fr": "la vidéo",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "media",
   "ex_lb": "Vill ëffentlech Plaze gi mat Video iwwerwaacht.",
@@ -3873,7 +3873,7 @@
   "de": "der Newsletter",
   "fr": "la newsletter",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "media",
   "ex_lb": "Ech hu mech op d'Newsletter vum Dictionnaire abonéiert.",
@@ -3920,12 +3920,12 @@
   "lodId": "REPORTAGE1"
  },
  {
-  "lb": "d'Interview",
+  "lb": "den Interview",
   "en": "interview",
   "de": "das Interview",
   "fr": "l'interview",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "B1",
   "category": "media",
   "ex_lb": "Den Trainer wollt nom Match keen Interview ginn.",

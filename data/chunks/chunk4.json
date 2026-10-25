@@ -298,12 +298,12 @@
   "lodId": "BREIF1"
  },
  {
-  "lb": "d'Telefon",
+  "lb": "den Telefon",
   "en": "telephone",
   "de": "das Telefon",
   "fr": "le téléphone",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A1",
   "category": "office",
   "ex_lb": "Matzen an der Nuecht huet den Telefon gerabbelt.",
@@ -545,12 +545,12 @@
   "lodId": "NOTE1"
  },
  {
-  "lb": "d'Examen",
+  "lb": "den Examen",
   "en": "exam",
   "de": "die Prüfung",
   "fr": "l'examen",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "school",
   "ex_lb": "An zwee Méint ginn d'Examen un.",
@@ -558,12 +558,12 @@
   "lodId": "EXAMEN1"
  },
  {
-  "lb": "d'Diplom",
+  "lb": "den Diplom",
   "en": "diploma",
   "de": "das Diplom",
   "fr": "le diplôme",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "B1",
   "category": "university",
   "ex_lb": "Hie mécht en Diplom an der Chimie.",
@@ -1361,12 +1361,12 @@
   "lodId": "AARBECHTSLOSEGKEET1"
  },
  {
-  "lb": "den Aarbechtsplaz",
+  "lb": "d'Aarbechtsplaz",
   "en": "workplace",
   "de": "der Arbeitsplatz",
   "fr": "le lieu de travail",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "work",
   "ex_lb": "Hie sicht nach ëmmer eng Aarbechtsplaz.",
@@ -1400,12 +1400,12 @@
   "lodId": "AUFGAB1"
  },
  {
-  "lb": "d'Projet",
+  "lb": "de Projet",
   "en": "project",
   "de": "das Projekt",
   "fr": "le projet",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "work",
   "ex_lb": "Wat sinn Är Projete fir déi nächst Vakanz?",
@@ -1997,12 +1997,12 @@
   "lodId": "LESCHT1"
  },
  {
-  "lb": "d'Dossier",
+  "lb": "den Dossier",
   "en": "file",
   "de": "die Akte",
   "fr": "le dossier",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "B1",
   "category": "admin",
   "ex_lb": "Ech hu mer e puer schéin Dossiere kaaft.",
@@ -2130,7 +2130,7 @@
   "de": "die Öffnungszeiten",
   "fr": "les heures d'ouverture",
   "pos": "noun",
-  "gender": "",
+  "gender": "f",
   "level": "A2",
   "category": "admin",
   "ex_lb": "D'Ëffnungszäite vum Service si vun aacht bis zwielef a vun dräizéng bis siwwenzéng Auer.",
@@ -2539,12 +2539,12 @@
   "lodId": "NUMMER1"
  },
  {
-  "lb": "de Matricule",
+  "lb": "d'Matricule",
   "en": "social security number",
   "de": "die Sozialnummer",
   "fr": "le matricule",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B2",
   "category": "admin",
   "ex_lb": "Der Doktesch hir Sekretärin huet meng Matricule gefrot.",
@@ -3585,12 +3585,12 @@
   "lodId": "POST1"
  },
  {
-  "lb": "d'Datum",
+  "lb": "den Datum",
   "en": "date",
   "de": "das Datum",
   "fr": "la date",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A1",
   "category": "admin",
   "ex_lb": "Fir eis Feier zécke mer tëschent zwee Datumen.",

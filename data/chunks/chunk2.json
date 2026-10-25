@@ -285,12 +285,12 @@
   "lodId": "PLAFFONG1"
  },
  {
-  "lb": "den Etage",
+  "lb": "d'Etage",
   "en": "the floor (storey)",
   "de": "die Etage",
   "fr": "l'étage",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "home",
   "ex_lb": "Niewent déi nei Gare soll en Héichhaus mat iwwer 30 Etagë gebaut ginn.",
@@ -350,12 +350,12 @@
   "lodId": "STULL1"
  },
  {
-  "lb": "de Fotell",
+  "lb": "d'Fotell",
   "en": "the armchair",
   "de": "der Sessel",
   "fr": "le fauteuil",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "furniture",
   "ex_lb": "Hie sëtzt de ganzen Dag an der Fotell a kuckt d'Televisioun.",
@@ -570,12 +570,12 @@
   "lodId": "FORSCHETT1"
  },
  {
-  "lb": "de Messer",
+  "lb": "d'Messer",
   "en": "the knife",
   "de": "das Messer",
   "fr": "le couteau",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A1",
   "category": "kitchen",
   "ex_lb": "D'Messere si frësch geschlaff!",
@@ -583,12 +583,12 @@
   "lodId": "MESSER1"
  },
  {
-  "lb": "den Dëppen",
+  "lb": "d'Dëppen",
   "en": "the pot",
   "de": "der Topf",
   "fr": "la casserole",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A2",
   "category": "kitchen",
   "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
@@ -882,12 +882,12 @@
   "lodId": "HANDDUCH1"
  },
  {
-  "lb": "de Poubelle",
+  "lb": "d'Poubelle",
   "en": "the bin",
   "de": "der Mülleimer",
   "fr": "la poubelle",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "cleaning",
   "ex_lb": "An der Kichen hu mer eng kleng Poubelle ënnerem Spullsteen.",
@@ -1206,12 +1206,12 @@
   "lodId": "PYJAMA1"
  },
  {
-  "lb": "d'T-Shirt",
+  "lb": "den T-Shirt",
   "en": "the t-shirt",
   "de": "das T-Shirt",
   "fr": "le t-shirt",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A1",
   "category": "clothes",
   "ex_lb": "Meng kleng Schwëster hëlt ee vu mengen T-Shirten als Nuetshiem.",
@@ -2525,12 +2525,12 @@
   "lodId": "TOILETTE1"
  },
  {
-  "lb": "d'Brëll",
+  "lb": "de Brëll",
   "en": "the glasses",
   "de": "die Brille",
   "fr": "les lunettes",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "household",
   "ex_lb": "Meng Fra krut hire Brëll beim Optiker gefléckt.",
@@ -2577,12 +2577,12 @@
   "lodId": "PLAZ1"
  },
  {
-  "lb": "d'Eck",
+  "lb": "den Eck",
   "en": "the corner",
   "de": "die Ecke",
   "fr": "le coin",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "home",
   "ex_lb": "D'Kand huet sech de Kapp um Eck vum Dësch gestouss.",
@@ -2655,12 +2655,12 @@
   "lodId": "DOHEEM2"
  },
  {
-  "lb": "de Botzmëttel",
+  "lb": "d'Botzmëttel",
   "en": "the cleaning agent",
   "de": "das Putzmittel",
   "fr": "le produit ménager",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "B2",
   "category": "cleaning",
   "ex_lb": "Ech hunn d'Fangere réi vun de Botzmëttelen.",

@@ -449,19 +449,6 @@
   "lodId": "BLUMM1"
  },
  {
-  "lb": "d'Botter",
-  "en": "butter",
-  "de": "die Butter",
-  "fr": "le beurre",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A1",
-  "category": "food",
-  "ex_lb": "Mäi Papp ësst keng Schmier ouni Botter.",
-  "ex_en": "My dad never eats a sandwich without butter.",
-  "lodId": "BOTTER1"
- },
- {
   "lb": "d'Box",
   "en": "the trousers",
   "de": "die Hose",
@@ -512,19 +499,6 @@
   "ex_lb": "Mir hunn doheem d'Plättercher am Buedzëmmer nei gemaach.",
   "ex_en": "We redid the tiles in our bathroom at home.",
   "lodId": "BUEDZEMMER1"
- },
- {
-  "lb": "d'Datum",
-  "en": "date",
-  "de": "das Datum",
-  "fr": "la date",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A1",
-  "category": "admin",
-  "ex_lb": "Fir eis Feier zécke mer tëschent zwee Datumen.",
-  "ex_en": "We're hesitating between two dates for our party.",
-  "lodId": "DATUM1"
  },
  {
   "lb": "d'Dier",
@@ -643,6 +617,19 @@
   "lodId": "FORSCHETT1"
  },
  {
+  "lb": "d'Foto",
+  "en": "the photo",
+  "de": "das Foto",
+  "fr": "la photo",
+  "pos": "noun",
+  "gender": "f",
+  "level": "A1",
+  "category": "tourism",
+  "ex_lb": "Wie mécht d'Fotoen op Ärer Hochzäit?",
+  "ex_en": "Who's taking the photos at your wedding?",
+  "lodId": "FOTO1"
+ },
+ {
   "lb": "d'Fritt",
   "en": "chips/fries",
   "de": "die Pommes frites",
@@ -679,6 +666,19 @@
   "ex_lb": "Dat ass eng gutt Fro!",
   "ex_en": "That's a good question!",
   "lodId": "FRO1"
+ },
+ {
+  "lb": "d'Fréijoer",
+  "en": "spring",
+  "de": "der Frühling",
+  "fr": "le printemps",
+  "pos": "noun",
+  "gender": "n",
+  "level": "A1",
+  "category": "seasons",
+  "ex_lb": "Dëst Fréijoer stinn d'Beem fréi an der Bléi.",
+  "ex_en": "This spring the trees blossomed early.",
+  "lodId": "FREIJOER1"
  },
  {
   "lb": "d'Fënster",
@@ -966,6 +966,19 @@
   "lodId": "LEIERIN1"
  },
  {
+  "lb": "d'Messer",
+  "en": "the knife",
+  "de": "das Messer",
+  "fr": "le couteau",
+  "pos": "noun",
+  "gender": "n",
+  "level": "A1",
+  "category": "kitchen",
+  "ex_lb": "D'Messere si frësch geschlaff!",
+  "ex_en": "The knives have just been sharpened!",
+  "lodId": "MESSER1"
+ },
+ {
   "lb": "d'Minutt",
   "en": "the minute",
   "de": "die Minute",
@@ -1108,19 +1121,6 @@
   "lodId": "PAERD1"
  },
  {
-  "lb": "d'Restaurant",
-  "en": "restaurant",
-  "de": "das Restaurant",
-  "fr": "le restaurant",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A1",
-  "category": "restaurant",
-  "ex_lb": "An deem klenge Restaurant kritt ee gutt a bëlleg z'iessen.",
-  "ex_en": "In that little restaurant you get good, cheap food.",
-  "lodId": "RESTAURANT1"
- },
- {
   "lb": "d'Salz",
   "en": "salt",
   "de": "das Salz",
@@ -1145,19 +1145,6 @@
   "ex_lb": "An deem Haus si véier Schlofzëmmeren.",
   "ex_en": "There are four bedrooms in that house.",
   "lodId": "SCHLOFZEMMER1"
- },
- {
-  "lb": "d'Schockela",
-  "en": "chocolate",
-  "de": "die Schokolade",
-  "fr": "le chocolat",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A1",
-  "category": "food",
-  "ex_lb": "De schwaarze Schockela ass mir ze batter.",
-  "ex_en": "Dark chocolate is too bitter for me.",
-  "lodId": "SCHOCKELA2"
  },
  {
   "lb": "d'Schoul",
@@ -1276,19 +1263,6 @@
   "ex_en": ""
  },
  {
-  "lb": "d'T-Shirt",
-  "en": "the t-shirt",
-  "de": "das T-Shirt",
-  "fr": "le t-shirt",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A1",
-  "category": "clothes",
-  "ex_lb": "Meng kleng Schwëster hëlt ee vu mengen T-Shirten als Nuetshiem.",
-  "ex_en": "My little sister wears one of my T-shirts as a nightshirt.",
-  "lodId": "TSHIRT1"
- },
- {
   "lb": "d'Taass",
   "en": "the cup",
   "de": "die Tasse",
@@ -1300,19 +1274,6 @@
   "ex_lb": "Ech drénken ni méi ewéi eng Taass Kaffi.",
   "ex_en": "I never drink more than one cup of coffee.",
   "lodId": "TAASS1"
- },
- {
-  "lb": "d'Telefon",
-  "en": "telephone",
-  "de": "das Telefon",
-  "fr": "le téléphone",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A1",
-  "category": "office",
-  "ex_lb": "Matzen an der Nuecht huet den Telefon gerabbelt.",
-  "ex_en": "In the middle of the night the phone rang.",
-  "lodId": "TELEFON1"
  },
  {
   "lb": "d'Toilette",
@@ -1393,19 +1354,6 @@
   "lodId": "VAKANZ1"
  },
  {
-  "lb": "d'Vëlo",
-  "en": "the bicycle",
-  "de": "das Fahrrad",
-  "fr": "le vélo",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A1",
-  "category": "transport",
-  "ex_lb": "D'viischt Rad vu mengem Vëlo huet eng Aachtchen.",
-  "ex_en": "The front wheel of my bike is buckled.",
-  "lodId": "VELO1"
- },
- {
   "lb": "d'Waasser",
   "en": "the water",
   "de": "das Wasser",
@@ -1417,19 +1365,6 @@
   "ex_lb": "Dëse Stoft léisst kee Waasser duerch.",
   "ex_en": "This fabric doesn't let water through.",
   "lodId": "WAASSER2"
- },
- {
-  "lb": "d'Weekend",
-  "en": "weekend",
-  "de": "das Wochenende",
-  "fr": "le week-end",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A1",
-  "category": "calendar",
-  "ex_lb": "Ech fuere fir de verlängerte Weekend op d'belsch Plage.",
-  "ex_en": "For the long weekend I'm going to the Belgian seaside.",
-  "lodId": "WEEKEND1"
  },
  {
   "lb": "d'Wieder",
@@ -1614,6 +1549,19 @@
   "lodId": "BAM1"
  },
  {
+  "lb": "de Botter",
+  "en": "butter",
+  "de": "die Butter",
+  "fr": "le beurre",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A1",
+  "category": "food",
+  "ex_lb": "Mäi Papp ësst keng Schmier ouni Botter.",
+  "ex_en": "My dad never eats a sandwich without butter.",
+  "lodId": "BOTTER1"
+ },
+ {
   "lb": "de Bus",
   "en": "the bus",
   "de": "der Bus",
@@ -1783,19 +1731,6 @@
   "lodId": "FLIGER1"
  },
  {
-  "lb": "de Foto",
-  "en": "the photo",
-  "de": "das Foto",
-  "fr": "la photo",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A1",
-  "category": "tourism",
-  "ex_lb": "Wie mécht d'Fotoen op Ärer Hochzäit?",
-  "ex_en": "Who's taking the photos at your wedding?",
-  "lodId": "FOTO1"
- },
- {
   "lb": "de Foussball",
   "en": "football",
   "de": "der Fußball",
@@ -1820,19 +1755,6 @@
   "ex_lb": "Lee de Botter an de Frigo!",
   "ex_en": "Put the butter in the fridge!",
   "lodId": "FRIGO1"
- },
- {
-  "lb": "de Fréijoer",
-  "en": "spring",
-  "de": "der Frühling",
-  "fr": "le printemps",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A1",
-  "category": "seasons",
-  "ex_lb": "Dëst Fréijoer stinn d'Beem fréi an der Bléi.",
-  "ex_en": "This spring the trees blossomed early.",
-  "lodId": "FREIJOER1"
  },
  {
   "lb": "de Fësch",
@@ -1978,19 +1900,6 @@
   "lodId": "LAFFEL1"
  },
  {
-  "lb": "de Messer",
-  "en": "the knife",
-  "de": "das Messer",
-  "fr": "le couteau",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A1",
-  "category": "kitchen",
-  "ex_lb": "D'Messere si frësch geschlaff!",
-  "ex_en": "The knives have just been sharpened!",
-  "lodId": "MESSER1"
- },
- {
   "lb": "de Moien",
   "en": "the morning",
   "de": "der Morgen",
@@ -2122,13 +2031,13 @@
  },
  {
   "lb": "de Restaurant",
-  "en": "the restaurant",
+  "en": "restaurant",
   "de": "das Restaurant",
   "fr": "le restaurant",
   "pos": "noun",
   "gender": "m",
   "level": "A1",
-  "category": "buildings",
+  "category": "restaurant",
   "ex_lb": "An deem klenge Restaurant kritt ee gutt a bëlleg z'iessen.",
   "ex_en": "In that little restaurant you get good, cheap food.",
   "lodId": "RESTAURANT1"
@@ -2184,6 +2093,19 @@
   "ex_lb": "Et gëtt Schief vu verschiddenen Déiften.",
   "ex_en": "There are cupboards of different depths.",
   "lodId": "SCHAF1"
+ },
+ {
+  "lb": "de Schockela",
+  "en": "chocolate",
+  "de": "die Schokolade",
+  "fr": "le chocolat",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A1",
+  "category": "food",
+  "ex_lb": "De schwaarze Schockela ass mir ze batter.",
+  "ex_en": "Dark chocolate is too bitter for me.",
+  "lodId": "SCHOCKELA2"
  },
  {
   "lb": "de Schong",
@@ -2330,13 +2252,13 @@
  },
  {
   "lb": "de Vëlo",
-  "en": "bicycle",
+  "en": "the bicycle",
   "de": "das Fahrrad",
   "fr": "le vélo",
   "pos": "noun",
   "gender": "m",
   "level": "A1",
-  "category": "sport",
+  "category": "transport",
   "ex_lb": "D'viischt Rad vu mengem Vëlo huet eng Aachtchen.",
   "ex_en": "The front wheel of my bike is buckled.",
   "lodId": "VELO1"
@@ -2366,6 +2288,19 @@
   "ex_lb": "D'Bänke laanscht dem Wee ginn nei ugestrach.",
   "ex_en": "The benches along the path are being repainted.",
   "lodId": "WEE1"
+ },
+ {
+  "lb": "de Weekend",
+  "en": "weekend",
+  "de": "das Wochenende",
+  "fr": "le week-end",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A1",
+  "category": "calendar",
+  "ex_lb": "Ech fuere fir de verlängerte Weekend op d'belsch Plage.",
+  "ex_en": "For the long weekend I'm going to the Belgian seaside.",
+  "lodId": "WEEKEND1"
  },
  {
   "lb": "de Wäin",
@@ -2457,6 +2392,19 @@
   "ex_lb": "Ech fueren all Dag an d'Stad schaffen.",
   "ex_en": "I drive into town to work every day.",
   "lodId": "DAG1"
+ },
+ {
+  "lb": "den Datum",
+  "en": "date",
+  "de": "das Datum",
+  "fr": "la date",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A1",
+  "category": "admin",
+  "ex_lb": "Fir eis Feier zécke mer tëschent zwee Datumen.",
+  "ex_en": "We're hesitating between two dates for our party.",
+  "lodId": "DATUM1"
  },
  {
   "lb": "den Dokter",
@@ -2626,6 +2574,19 @@
   "ex_lb": "Gees de muer den Owend mat an de Kino?",
   "ex_en": "Are you coming to the cinema with us tomorrow evening?",
   "lodId": "OWEND1"
+ },
+ {
+  "lb": "den T-Shirt",
+  "en": "the t-shirt",
+  "de": "das T-Shirt",
+  "fr": "le t-shirt",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A1",
+  "category": "clothes",
+  "ex_lb": "Meng kleng Schwëster hëlt ee vu mengen T-Shirten als Nuetshiem.",
+  "ex_en": "My little sister wears one of my T-shirts as a nightshirt.",
+  "lodId": "TSHIRT1"
  },
  {
   "lb": "den Taxi",
@@ -5074,7 +5035,7 @@
   "de": "Baby",
   "fr": "bébé",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A1",
   "category": "people",
   "ex_lb": "D'Mamm gëtt dem Puppelchen d'Fläsch.",
@@ -6154,7 +6115,7 @@
   "de": "Alter",
   "fr": "âge",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "ages",
   "ex_lb": "Äre Bouf ass grouss fir säin Alter.",
@@ -6344,7 +6305,7 @@
   "de": "Bauchschmerzen",
   "fr": "mal de ventre",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "health",
   "ex_lb": "D'Patientin krëmmt sech vu Bauchwéi.",
@@ -6651,7 +6612,7 @@
   "de": "Brille",
   "fr": "lunettes",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "appearance",
   "ex_lb": "Meng Fra krut hire Brëll beim Optiker gefléckt.",
@@ -6789,19 +6750,6 @@
   "lodId": "AUFGAB1"
  },
  {
-  "lb": "d'Bagage",
-  "en": "the luggage",
-  "de": "das Gepäck",
-  "fr": "les bagages",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "travel",
-  "ex_lb": "Si hunn hir Bagagen an d'Mall gelueden.",
-  "ex_en": "They loaded their luggage into the boot.",
-  "lodId": "BAGAGE1"
- },
- {
   "lb": "d'Bankkaart",
   "en": "bank card",
   "de": "die Bankkarte",
@@ -6932,19 +6880,6 @@
   "lodId": "BREITCHEN1"
  },
  {
-  "lb": "d'Brëll",
-  "en": "the glasses",
-  "de": "die Brille",
-  "fr": "les lunettes",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "household",
-  "ex_lb": "Meng Fra krut hire Brëll beim Optiker gefléckt.",
-  "ex_en": "My wife had her glasses repaired at the optician's.",
-  "lodId": "BRELL1"
- },
- {
   "lb": "d'Bushaltestell",
   "en": "the bus stop",
   "de": "die Bushaltestelle",
@@ -6969,6 +6904,32 @@
   "ex_lb": "An där Bäckerei kritt ee ganz gutt Aachtercher.",
   "ex_en": "That bakery sells very good figure-of-eight pastries.",
   "lodId": "BACKEREI1"
+ },
+ {
+  "lb": "d'Chips",
+  "en": "crisps",
+  "de": "die Chips",
+  "fr": "les chips",
+  "pos": "noun",
+  "gender": "f",
+  "level": "A2",
+  "category": "food",
+  "ex_lb": "Mir hu gëschter bal eng ganz Tut Chipse virun der Tëlee giess.",
+  "ex_en": "Yesterday we ate almost a whole bag of crisps in front of the TV.",
+  "lodId": "CHIPS1"
+ },
+ {
+  "lb": "d'Cola",
+  "en": "cola",
+  "de": "die Cola",
+  "fr": "le coca",
+  "pos": "noun",
+  "gender": "f",
+  "level": "A2",
+  "category": "drink",
+  "ex_lb": "Ass an der Cola gradesou vill Koffein ewéi am Kaffi?",
+  "ex_en": "Is there as much caffeine in cola as in coffee?",
+  "lodId": "COLA1"
  },
  {
   "lb": "d'Concomber",
@@ -7075,29 +7036,16 @@
  },
  {
   "lb": "d'Dëppen",
-  "en": "jar/pot",
-  "de": "das Glas/der Topf",
-  "fr": "le pot",
+  "en": "pot/saucepan",
+  "de": "der Topf",
+  "fr": "la casserole",
   "pos": "noun",
   "gender": "n",
   "level": "A2",
-  "category": "container",
-  "ex_lb": "D'Käche kacht d'Geméiszopp an engem groussen Dëppen.",
-  "ex_en": "The cook makes the vegetable soup in a big pot.",
+  "category": "kitchen",
+  "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
+  "ex_en": "The painter knocked over the paint pots.",
   "lodId": "DEPPEN1"
- },
- {
-  "lb": "d'Eck",
-  "en": "the corner",
-  "de": "die Ecke",
-  "fr": "le coin",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "home",
-  "ex_lb": "D'Kand huet sech de Kapp um Eck vum Dësch gestouss.",
-  "ex_en": "The child bumped its head on the corner of the table.",
-  "lodId": "ECK1"
  },
  {
   "lb": "d'Equipe",
@@ -7113,17 +7061,17 @@
   "lodId": "EQUIPE1"
  },
  {
-  "lb": "d'Examen",
-  "en": "exam",
-  "de": "die Prüfung",
-  "fr": "l'examen",
+  "lb": "d'Etage",
+  "en": "the floor (storey)",
+  "de": "die Etage",
+  "fr": "l'étage",
   "pos": "noun",
-  "gender": "n",
+  "gender": "f",
   "level": "A2",
-  "category": "school",
-  "ex_lb": "An zwee Méint ginn d'Examen un.",
-  "ex_en": "The exams start in two months.",
-  "lodId": "EXAMEN1"
+  "category": "home",
+  "ex_lb": "Niewent déi nei Gare soll en Héichhaus mat iwwer 30 Etagë gebaut ginn.",
+  "ex_en": "A high-rise with over 30 floors is to be built next to the new station.",
+  "lodId": "ETAGE1"
  },
  {
   "lb": "d'Faarf",
@@ -7230,17 +7178,17 @@
   "lodId": "FLUTT1"
  },
  {
-  "lb": "d'Foto",
-  "en": "photo",
-  "de": "das Foto",
-  "fr": "la photo",
+  "lb": "d'Fotell",
+  "en": "the armchair",
+  "de": "der Sessel",
+  "fr": "le fauteuil",
   "pos": "noun",
   "gender": "f",
   "level": "A2",
-  "category": "media",
-  "ex_lb": "Wie mécht d'Fotoen op Ärer Hochzäit?",
-  "ex_en": "Who's taking the photos at your wedding?",
-  "lodId": "FOTO1"
+  "category": "furniture",
+  "ex_lb": "Hie sëtzt de ganzen Dag an der Fotell a kuckt d'Televisioun.",
+  "ex_en": "He sits in the armchair all day watching television.",
+  "lodId": "FOTELL1"
  },
  {
   "lb": "d'Fräizäit",
@@ -7397,19 +7345,6 @@
   "ex_lb": "Eis Brautréng sinn aus wäissem Gold.",
   "ex_en": "Our wedding rings are made of white gold.",
   "lodId": "GOLD2"
- },
- {
-  "lb": "d'Gramm",
-  "en": "gram",
-  "de": "das Gramm",
-  "fr": "le gramme",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A2",
-  "category": "quantity",
-  "ex_lb": "Dësen Timber ass gutt fir Bréiwer bis 20 Gramm.",
-  "ex_en": "This stamp is good for letters up to 20 grams.",
-  "lodId": "GRAMM1"
  },
  {
   "lb": "d'Gras",
@@ -8071,6 +8006,19 @@
   "lodId": "MELOUN1"
  },
  {
+  "lb": "d'Metall",
+  "en": "metal",
+  "de": "das Metall",
+  "fr": "le métal",
+  "pos": "noun",
+  "gender": "n",
+  "level": "A2",
+  "category": "material",
+  "ex_lb": "Dat Gestell ass aus Metall.",
+  "ex_en": "That frame is made of metal.",
+  "lodId": "METALL2"
+ },
+ {
   "lb": "d'Miel",
   "en": "flour",
   "de": "das Mehl",
@@ -8243,7 +8191,7 @@
   "de": "Ostern",
   "fr": "Pâques",
   "pos": "noun",
-  "gender": "f",
+  "gender": "n",
   "level": "A2",
   "category": "holidays",
   "ex_lb": "Iwwer d'Ouschtere fueren ech dacks an d'Vakanz.",
@@ -8355,30 +8303,17 @@
   "lodId": "POLICE1"
  },
  {
-  "lb": "d'Problem",
-  "en": "problem",
-  "de": "das Problem",
-  "fr": "le problème",
+  "lb": "d'Poubelle",
+  "en": "the bin",
+  "de": "der Mülleimer",
+  "fr": "la poubelle",
   "pos": "noun",
-  "gender": "n",
+  "gender": "f",
   "level": "A2",
-  "category": "abstract",
-  "ex_lb": "Den Techniker konnt de Problem un der Elektronik séier behiewen.",
-  "ex_en": "The technician quickly fixed the problem with the electronics.",
-  "lodId": "PROBLEM1"
- },
- {
-  "lb": "d'Projet",
-  "en": "project",
-  "de": "das Projekt",
-  "fr": "le projet",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A2",
-  "category": "work",
-  "ex_lb": "Wat sinn Är Projete fir déi nächst Vakanz?",
-  "ex_en": "What are your plans for the next holiday?",
-  "lodId": "PROJET1"
+  "category": "cleaning",
+  "ex_lb": "An der Kichen hu mer eng kleng Poubelle ënnerem Spullsteen.",
+  "ex_en": "In the kitchen we have a small bin under the sink.",
+  "lodId": "POUBELLE1"
  },
  {
   "lb": "d'Rad",
@@ -8770,19 +8705,6 @@
   "lodId": "SEKONN1"
  },
  {
-  "lb": "d'Sonnebrëll",
-  "en": "sunglasses",
-  "de": "die Sonnenbrille",
-  "fr": "les lunettes de soleil",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "accessory",
-  "ex_lb": "Ech hu mer beim Optiker eng haart Scheek fir mäi Sonnebrëll gefrot.",
-  "ex_en": "I asked the optician for a hard case for my sunglasses.",
-  "lodId": "SONNEBRELL1"
- },
- {
   "lb": "d'Spidol",
   "en": "the hospital",
   "de": "das Krankenhaus",
@@ -8794,6 +8716,19 @@
   "ex_lb": "Et sinn net genuch Parkplaze beim Spidol.",
   "ex_en": "There aren't enough parking spaces at the hospital.",
   "lodId": "SPIDOL1"
+ },
+ {
+  "lb": "d'Spillplaz",
+  "en": "playground",
+  "de": "der Spielplatz",
+  "fr": "l'aire de jeux",
+  "pos": "noun",
+  "gender": "f",
+  "level": "A2",
+  "category": "leisure",
+  "ex_lb": "Op der Spillplaz ware vill Famille mat klenge Kanner.",
+  "ex_en": "There were many families with small children at the playground.",
+  "lodId": "SPILLPLAZ1"
  },
  {
   "lb": "d'Spillsaachen",
@@ -8912,19 +8847,6 @@
   "lodId": "TERRASSE1"
  },
  {
-  "lb": "d'Tram",
-  "en": "the tram",
-  "de": "die Straßenbahn",
-  "fr": "le tram",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "transport",
-  "ex_lb": "Wéi laang dauert et, bis den nächsten Tram kënnt?",
-  "ex_en": "How long until the next tram comes?",
-  "lodId": "TRAM1"
- },
- {
   "lb": "d'Tromm",
   "en": "drum",
   "de": "die Trommel",
@@ -8974,19 +8896,6 @@
   "ex_lb": "Ech kafe meeschtens Hiemer mat enger Täsch.",
   "ex_en": "I usually buy shirts with a pocket.",
   "lodId": "TASCH1"
- },
- {
-  "lb": "d'Ueleg",
-  "en": "oil",
-  "de": "das Öl",
-  "fr": "l'huile",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "cooking",
-  "ex_lb": "Kuck no, ob nach genuch Ueleg am Motor ass!",
-  "ex_en": "Check whether there's still enough oil in the engine!",
-  "lodId": "UELEG1"
  },
  {
   "lb": "d'Universitéit",
@@ -9039,19 +8948,6 @@
   "ex_lb": "D'Verkeeferin ass d'Wueren hannenaus an den Depot siche gaangen.",
   "ex_en": "The saleswoman went to fetch the goods from the stockroom at the back.",
   "lodId": "VERKEEFERIN1"
- },
- {
-  "lb": "d'Video",
-  "en": "video",
-  "de": "das Video",
-  "fr": "la vidéo",
-  "pos": "noun",
-  "gender": "f",
-  "level": "A2",
-  "category": "media",
-  "ex_lb": "Vill ëffentlech Plaze gi mat Video iwwerwaacht.",
-  "ex_en": "Many public places are under video surveillance.",
-  "lodId": "VIDEO1"
  },
  {
   "lb": "d'Visitt",
@@ -9209,19 +9105,6 @@
   "lodId": "ZELT1"
  },
  {
-  "lb": "d'Zentrum",
-  "en": "the centre",
-  "de": "das Zentrum",
-  "fr": "le centre",
-  "pos": "noun",
-  "gender": "n",
-  "level": "A2",
-  "category": "city",
-  "ex_lb": "Am Zentrum vum Duerf ass eng kleng Epicerie.",
-  "ex_en": "There's a small grocery shop in the centre of the village.",
-  "lodId": "ZENTRUM1"
- },
- {
   "lb": "d'Zerwéit",
   "en": "napkin",
   "de": "die Serviette",
@@ -9331,12 +9214,25 @@
   "de": "die Öffnungszeiten",
   "fr": "les heures d'ouverture",
   "pos": "noun",
-  "gender": "",
+  "gender": "f",
   "level": "A2",
   "category": "admin",
   "ex_lb": "D'Ëffnungszäite vum Service si vun aacht bis zwielef a vun dräizéng bis siwwenzéng Auer.",
   "ex_en": "The office is open from eight to twelve and from one to five.",
   "lodId": "EFFNUNGSZAITEN1"
+ },
+ {
+  "lb": "d'Ënn",
+  "en": "onion",
+  "de": "die Zwiebel",
+  "fr": "l'oignon",
+  "pos": "noun",
+  "gender": "f",
+  "level": "A2",
+  "category": "vegetable",
+  "ex_lb": "De Kach schneit d'Ënn kleng.",
+  "ex_en": "The cook chops the onions finely.",
+  "lodId": "ENN2"
  },
  {
   "lb": "d'Übung",
@@ -9415,6 +9311,19 @@
   "ex_lb": "Ech sinn amgaang, e Puzzle vun dausend Stécker ze maachen.",
   "ex_en": "I'm doing a thousand-piece jigsaw puzzle.",
   "lodId": "DAUSEND1"
+ },
+ {
+  "lb": "de Bagage",
+  "en": "the luggage",
+  "de": "das Gepäck",
+  "fr": "les bagages",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "travel",
+  "ex_lb": "Si hunn hir Bagagen an d'Mall gelueden.",
+  "ex_en": "They loaded their luggage into the boot.",
+  "lodId": "BAGAGE1"
  },
  {
   "lb": "de Bakuewen",
@@ -9612,6 +9521,19 @@
   "lodId": "BREIF1"
  },
  {
+  "lb": "de Brëll",
+  "en": "the glasses",
+  "de": "die Brille",
+  "fr": "les lunettes",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "household",
+  "ex_lb": "Meng Fra krut hire Brëll beim Optiker gefléckt.",
+  "ex_en": "My wife had her glasses repaired at the optician's.",
+  "lodId": "BRELL1"
+ },
+ {
   "lb": "de Buedem",
   "en": "the floor",
   "de": "der Boden",
@@ -9715,19 +9637,6 @@
   "lodId": "CHEF1"
  },
  {
-  "lb": "de Chips",
-  "en": "crisps",
-  "de": "die Chips",
-  "fr": "les chips",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "food",
-  "ex_lb": "Mir hu gëschter bal eng ganz Tut Chipse virun der Tëlee giess.",
-  "ex_en": "Yesterday we ate almost a whole bag of crisps in front of the TV.",
-  "lodId": "CHIPS1"
- },
- {
   "lb": "de Client",
   "en": "customer",
   "de": "der Kunde",
@@ -9778,19 +9687,6 @@
   "ex_lb": "De Coiffeur schneit meng Hoer.",
   "ex_en": "The hairdresser cuts my hair.",
   "lodId": "COIFFEUR1"
- },
- {
-  "lb": "de Cola",
-  "en": "cola",
-  "de": "die Cola",
-  "fr": "le coca",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "drink",
-  "ex_lb": "Ass an der Cola gradesou vill Koffein ewéi am Kaffi?",
-  "ex_en": "Is there as much caffeine in cola as in coffee?",
-  "lodId": "COLA1"
  },
  {
   "lb": "de Computer-Maus",
@@ -9896,19 +9792,6 @@
   "lodId": "FORMULAIRE1"
  },
  {
-  "lb": "de Fotell",
-  "en": "the armchair",
-  "de": "der Sessel",
-  "fr": "le fauteuil",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "furniture",
-  "ex_lb": "Hie sëtzt de ganzen Dag an der Fotell a kuckt d'Televisioun.",
-  "ex_en": "He sits in the armchair all day watching television.",
-  "lodId": "FOTELL1"
- },
- {
   "lb": "de Fräsch",
   "en": "frog",
   "de": "der Frosch",
@@ -9985,6 +9868,19 @@
   "ex_lb": "Muer gëtt et bis zwee Grad ënner null.",
   "ex_en": "Tomorrow it will be down to two degrees below zero.",
   "lodId": "GRAD1"
+ },
+ {
+  "lb": "de Gramm",
+  "en": "gram",
+  "de": "das Gramm",
+  "fr": "le gramme",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "quantity",
+  "ex_lb": "Dësen Timber ass gutt fir Bréiwer bis 20 Gramm.",
+  "ex_en": "This stamp is good for letters up to 20 grams.",
+  "lodId": "GRAMM1"
  },
  {
   "lb": "de Hamburger",
@@ -10335,19 +10231,6 @@
   "ex_lb": "De Chef proposéiert de Mëtteg e Menü mat véier Gäng.",
   "ex_en": "Today at lunch the chef is offering a four-course menu.",
   "lodId": "MENU1"
- },
- {
-  "lb": "de Metall",
-  "en": "metal",
-  "de": "das Metall",
-  "fr": "le métal",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "material",
-  "ex_lb": "Dat Gestell ass aus Metall.",
-  "ex_en": "That frame is made of metal.",
-  "lodId": "METALL2"
  },
  {
   "lb": "de Meter",
@@ -10739,19 +10622,6 @@
   "lodId": "PORTUGIS1"
  },
  {
-  "lb": "de Poubelle",
-  "en": "the bin",
-  "de": "der Mülleimer",
-  "fr": "la poubelle",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "cleaning",
-  "ex_lb": "An der Kichen hu mer eng kleng Poubelle ënnerem Spullsteen.",
-  "ex_en": "In the kitchen we have a small bin under the sink.",
-  "lodId": "POUBELLE1"
- },
- {
   "lb": "de Prabbeli",
   "en": "umbrella",
   "de": "der Regenschirm",
@@ -10776,6 +10646,19 @@
   "ex_lb": "Eise Produit hält, wat e versprécht!",
   "ex_en": "Our product does what it promises!",
   "lodId": "PRODUIT1"
+ },
+ {
+  "lb": "de Projet",
+  "en": "project",
+  "de": "das Projekt",
+  "fr": "le projet",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "work",
+  "ex_lb": "Wat sinn Är Projete fir déi nächst Vakanz?",
+  "ex_en": "What are your plans for the next holiday?",
+  "lodId": "PROJET1"
  },
  {
   "lb": "de Pyjama",
@@ -11116,6 +10999,19 @@
   "lodId": "SOM1"
  },
  {
+  "lb": "de Sonnebrëll",
+  "en": "sunglasses",
+  "de": "die Sonnenbrille",
+  "fr": "les lunettes de soleil",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "accessory",
+  "ex_lb": "Ech hu mer beim Optiker eng haart Scheek fir mäi Sonnebrëll gefrot.",
+  "ex_en": "I asked the optician for a hard case for my sunglasses.",
+  "lodId": "SONNEBRELL1"
+ },
+ {
   "lb": "de Spigel",
   "en": "the mirror",
   "de": "der Spiegel",
@@ -11140,19 +11036,6 @@
   "ex_lb": "All Spiller kritt siwe Kaarten.",
   "ex_en": "Each player gets seven cards.",
   "lodId": "SPILLER1"
- },
- {
-  "lb": "de Spillplaz",
-  "en": "playground",
-  "de": "der Spielplatz",
-  "fr": "l'aire de jeux",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "leisure",
-  "ex_lb": "Op der Spillplaz ware vill Famille mat klenge Kanner.",
-  "ex_en": "There were many families with small children at the playground.",
-  "lodId": "SPILLPLAZ1"
  },
  {
   "lb": "de Sprit",
@@ -11389,6 +11272,19 @@
   "lodId": "VENDEUR1"
  },
  {
+  "lb": "de Video",
+  "en": "video",
+  "de": "das Video",
+  "fr": "la vidéo",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "media",
+  "ex_lb": "Vill ëffentlech Plaze gi mat Video iwwerwaacht.",
+  "ex_en": "Many public places are under video surveillance.",
+  "lodId": "VIDEO1"
+ },
+ {
   "lb": "de Véierel",
   "en": "quarter",
   "de": "das Viertel",
@@ -11619,19 +11515,6 @@
   "lodId": "DAITSCHEN1"
  },
  {
-  "lb": "den Dëppen",
-  "en": "pot/saucepan",
-  "de": "der Topf",
-  "fr": "la casserole",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "kitchen",
-  "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
-  "ex_en": "The painter knocked over the paint pots.",
-  "lodId": "DEPPEN1"
- },
- {
   "lb": "den Dësch decken",
   "en": "to set the table",
   "de": "den Tisch decken",
@@ -11651,7 +11534,7 @@
   "pos": "noun",
   "gender": "m",
   "level": "A2",
-  "category": "directions",
+  "category": "home",
   "ex_lb": "D'Kand huet sech de Kapp um Eck vum Dësch gestouss.",
   "ex_en": "The child bumped its head on the corner of the table.",
   "lodId": "ECK1"
@@ -11709,17 +11592,17 @@
   "lodId": "ESPRESSO1"
  },
  {
-  "lb": "den Etage",
-  "en": "the floor (storey)",
-  "de": "die Etage",
-  "fr": "l'étage",
+  "lb": "den Examen",
+  "en": "exam",
+  "de": "die Prüfung",
+  "fr": "l'examen",
   "pos": "noun",
   "gender": "m",
   "level": "A2",
-  "category": "home",
-  "ex_lb": "Niewent déi nei Gare soll en Héichhaus mat iwwer 30 Etagë gebaut ginn.",
-  "ex_en": "A high-rise with over 30 floors is to be built next to the new station.",
-  "lodId": "ETAGE1"
+  "category": "school",
+  "ex_lb": "An zwee Méint ginn d'Examen un.",
+  "ex_en": "The exams start in two months.",
+  "lodId": "EXAMEN1"
  },
  {
   "lb": "den Fuedem",
@@ -11917,6 +11800,32 @@
   "lodId": "TOILETTEPABEIER1"
  },
  {
+  "lb": "den Tram",
+  "en": "the tram",
+  "de": "die Straßenbahn",
+  "fr": "le tram",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "transport",
+  "ex_lb": "Wéi laang dauert et, bis den nächsten Tram kënnt?",
+  "ex_en": "How long until the next tram comes?",
+  "lodId": "TRAM1"
+ },
+ {
+  "lb": "den Ueleg",
+  "en": "oil",
+  "de": "das Öl",
+  "fr": "l'huile",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "cooking",
+  "ex_lb": "Kuck no, ob nach genuch Ueleg am Motor ass!",
+  "ex_en": "Check whether there's still enough oil in the engine!",
+  "lodId": "UELEG1"
+ },
+ {
   "lb": "den Uewen",
   "en": "the oven",
   "de": "der Backofen",
@@ -11930,6 +11839,19 @@
   "lodId": "UEWEN2"
  },
  {
+  "lb": "den Zentrum",
+  "en": "the centre",
+  "de": "das Zentrum",
+  "fr": "le centre",
+  "pos": "noun",
+  "gender": "m",
+  "level": "A2",
+  "category": "city",
+  "ex_lb": "Am Zentrum vum Duerf ass eng kleng Epicerie.",
+  "ex_en": "There's a small grocery shop in the centre of the village.",
+  "lodId": "ZENTRUM1"
+ },
+ {
   "lb": "den Äis",
   "en": "ice",
   "de": "das Eis",
@@ -11941,19 +11863,6 @@
   "ex_lb": "De Séi läit ënner enger dënner Schicht Äis.",
   "ex_en": "The lake lies under a thin layer of ice.",
   "lodId": "AIS1"
- },
- {
-  "lb": "den Ënn",
-  "en": "onion",
-  "de": "die Zwiebel",
-  "fr": "l'oignon",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "vegetable",
-  "ex_lb": "De Kach schneit d'Ënn kleng.",
-  "ex_en": "The cook chops the onions finely.",
-  "lodId": "ENN2"
  },
  {
   "lb": "denken",
@@ -13560,7 +13469,7 @@
   "de": "Kopfschmerzen",
   "fr": "mal de tête",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "health",
   "ex_lb": "Ech hu schonn e puer Deeg laang Kappwéi.",
@@ -13611,7 +13520,7 @@
   "de": "Knie",
   "fr": "genou",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "body",
   "ex_lb": "Mäi Monni gëtt mam Knéi operéiert.",
@@ -14910,7 +14819,7 @@
   "de": "Schnupfen, Erkältung",
   "fr": "rhume",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "health",
   "ex_lb": "Ech hu schonn e puermol genéitst, hoffentlech kréien ech kee Schnapp!",
@@ -16815,6 +16724,19 @@
   "lodId": "COURAGE1"
  },
  {
+  "lb": "d'Aarbechtsplaz",
+  "en": "workplace",
+  "de": "der Arbeitsplatz",
+  "fr": "le lieu de travail",
+  "pos": "noun",
+  "gender": "f",
+  "level": "B1",
+  "category": "work",
+  "ex_lb": "Hie sicht nach ëmmer eng Aarbechtsplaz.",
+  "ex_en": "He is still looking for a job.",
+  "lodId": "AARBECHTSPLAZ1"
+ },
+ {
   "lb": "d'Aarbechtszäit",
   "en": "working hours",
   "de": "die Arbeitszeit",
@@ -17217,19 +17139,6 @@
   "lodId": "DECISIOUN1"
  },
  {
-  "lb": "d'Diplom",
-  "en": "diploma",
-  "de": "das Diplom",
-  "fr": "le diplôme",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B1",
-  "category": "university",
-  "ex_lb": "Hie mécht en Diplom an der Chimie.",
-  "ex_en": "He is doing a degree in chemistry.",
-  "lodId": "DIPLOM1"
- },
- {
   "lb": "d'Diskussioun",
   "en": "discussion",
   "de": "die Diskussion",
@@ -17266,19 +17175,6 @@
   "category": "office",
   "ex_lb": "",
   "ex_en": ""
- },
- {
-  "lb": "d'Dossier",
-  "en": "file",
-  "de": "die Akte",
-  "fr": "le dossier",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B1",
-  "category": "admin",
-  "ex_lb": "Ech hu mer e puer schéin Dossiere kaaft.",
-  "ex_en": "I bought myself a few nice folders.",
-  "lodId": "DOSSIER1"
  },
  {
   "lb": "d'Drénkgeld",
@@ -17353,8 +17249,8 @@
   "gender": "f",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "",
-  "ex_en": "",
+  "ex_lb": "D'Entrée vum Theater ass voller Leit.",
+  "ex_en": "The theatre foyer is full of people.",
   "lodId": "ENTREE1"
  },
  {
@@ -17382,19 +17278,6 @@
   "ex_lb": "Meng Studienzäit war eng flott Erfarung.",
   "ex_en": "My time as a student was a great experience.",
   "lodId": "ERFARUNG1"
- },
- {
-  "lb": "d'Etage",
-  "en": "the floor/storey",
-  "de": "das Stockwerk",
-  "fr": "l'étage",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "buildings",
-  "ex_lb": "Niewent déi nei Gare soll en Héichhaus mat iwwer 30 Etagë gebaut ginn.",
-  "ex_en": "A high-rise with over 30 floors is to be built next to the new station.",
-  "lodId": "ETAGE1"
  },
  {
   "lb": "d'Etikett",
@@ -17798,19 +17681,6 @@
   "lodId": "INSEL1"
  },
  {
-  "lb": "d'Interview",
-  "en": "interview",
-  "de": "das Interview",
-  "fr": "l'interview",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B1",
-  "category": "media",
-  "ex_lb": "Den Trainer wollt nom Match keen Interview ginn.",
-  "ex_en": "The coach didn't want to give an interview after the match.",
-  "lodId": "INTERVIEW1"
- },
- {
   "lb": "d'Invitatioun",
   "en": "invitation",
   "de": "die Einladung",
@@ -18041,19 +17911,6 @@
   "ex_lb": "D'Police huet de Weekend vill Kontrollen op de Stroosse gemaach.",
   "ex_en": "The police carried out a lot of checks on the roads at the weekend.",
   "lodId": "KONTROLL1"
- },
- {
-  "lb": "d'Kotteng",
-  "en": "cotton",
-  "de": "die Baumwolle",
-  "fr": "le coton",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B1",
-  "category": "material",
-  "ex_lb": "Meng nei Box ass aus Kotteng.",
-  "ex_en": "My new trousers are made of cotton.",
-  "lodId": "KOTTENG1"
  },
  {
   "lb": "d'Krise",
@@ -18314,6 +18171,19 @@
   "lodId": "MEIGLECHKEET1"
  },
  {
+  "lb": "d'Mëtternuecht",
+  "en": "midnight",
+  "de": "die Mitternacht",
+  "fr": "minuit",
+  "pos": "noun",
+  "gender": "f",
+  "level": "B1",
+  "category": "time",
+  "ex_lb": "Kuerz no Mëtternuecht gouf bei eis agebrach.",
+  "ex_en": "Shortly after midnight we were burgled.",
+  "lodId": "METTERNUECHT1"
+ },
+ {
   "lb": "d'Mëttesiessen huelen",
   "en": "to have lunch",
   "de": "zu Mittag essen",
@@ -18344,7 +18214,7 @@
   "de": "der Newsletter",
   "fr": "la newsletter",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "media",
   "ex_lb": "Ech hu mech op d'Newsletter vum Dictionnaire abonéiert.",
@@ -18646,6 +18516,19 @@
   "ex_lb": "Dat Gesetz ass am Aklang mam europäesche Recht.",
   "ex_en": "That law is in line with European law.",
   "lodId": "RECHT1"
+ },
+ {
+  "lb": "d'Regal",
+  "en": "shelf",
+  "de": "das Regal",
+  "fr": "le rayon",
+  "pos": "noun",
+  "gender": "n",
+  "level": "B1",
+  "category": "supermarket",
+  "ex_lb": "Am Keller ass d'Regal mat den Amaachglieser ëmgefall.",
+  "ex_en": "In the cellar the shelf with the preserving jars fell over.",
+  "lodId": "REGAL1"
  },
  {
   "lb": "d'Regierung",
@@ -19020,6 +18903,19 @@
   "lodId": "SECHERHEET1"
  },
  {
+  "lb": "d'Sëlwer",
+  "en": "silver",
+  "de": "das Silber",
+  "fr": "l'argent",
+  "pos": "noun",
+  "gender": "n",
+  "level": "B1",
+  "category": "material",
+  "ex_lb": "Dëse Käerzestänner ass aus puerem Sëlwer.",
+  "ex_en": "This candlestick is made of pure silver.",
+  "lodId": "SELWER4"
+ },
+ {
   "lb": "d'Tastatur",
   "en": "keyboard",
   "de": "die Tastatur",
@@ -19031,19 +18927,6 @@
   "ex_lb": "Deng Tastatur war net un de Computer ugeschloss.",
   "ex_en": "Your keyboard wasn't connected to the computer.",
   "lodId": "TASTATUR1"
- },
- {
-  "lb": "d'Theater",
-  "en": "the theatre",
-  "de": "das Theater",
-  "fr": "le théâtre",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B1",
-  "category": "buildings",
-  "ex_lb": "Dësen Theater spillt nëmme modern Stécker.",
-  "ex_en": "This theatre only puts on modern plays.",
-  "lodId": "THEATER1"
  },
  {
   "lb": "d'Tirett",
@@ -19297,7 +19180,7 @@
   "pos": "noun",
   "gender": "f",
   "level": "B1",
-  "category": "plants",
+  "category": "garden",
   "ex_lb": "D'Wuerzel vum Bakzant ass entzünt.",
   "ex_en": "The root of the molar is inflamed.",
   "lodId": "WUERZEL1"
@@ -20242,6 +20125,19 @@
   "lodId": "KONTRAKT1"
  },
  {
+  "lb": "de Kotteng",
+  "en": "cotton",
+  "de": "die Baumwolle",
+  "fr": "le coton",
+  "pos": "noun",
+  "gender": "m",
+  "level": "B1",
+  "category": "material",
+  "ex_lb": "Meng nei Box ass aus Kotteng.",
+  "ex_en": "My new trousers are made of cotton.",
+  "lodId": "KOTTENG1"
+ },
+ {
   "lb": "de Kredit",
   "en": "loan",
   "de": "der Kredit",
@@ -20409,19 +20305,6 @@
   "ex_lb": "Schmier de Brot mat Moschter an!",
   "ex_en": "Spread the bread with mustard!",
   "lodId": "MOSCHTER1"
- },
- {
-  "lb": "de Mëtternuecht",
-  "en": "midnight",
-  "de": "die Mitternacht",
-  "fr": "minuit",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "time",
-  "ex_lb": "Kuerz no Mëtternuecht gouf bei eis agebrach.",
-  "ex_en": "Shortly after midnight we were burgled.",
-  "lodId": "METTERNUECHT1"
  },
  {
   "lb": "de Palais",
@@ -20641,19 +20524,6 @@
   "ex_lb": "Well mer esou vill kaaft hunn, krute mer Rabatt.",
   "ex_en": "Because we bought so much, we got a discount.",
   "lodId": "RABATT1"
- },
- {
-  "lb": "de Regal",
-  "en": "shelf",
-  "de": "das Regal",
-  "fr": "le rayon",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "supermarket",
-  "ex_lb": "Am Keller ass d'Regal mat den Amaachglieser ëmgefall.",
-  "ex_en": "In the cellar the shelf with the preserving jars fell over.",
-  "lodId": "REGAL1"
  },
  {
   "lb": "de Respekt",
@@ -21137,19 +21007,6 @@
   "lodId": "SUEDEL1"
  },
  {
-  "lb": "de Sëlwer",
-  "en": "silver",
-  "de": "das Silber",
-  "fr": "l'argent",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "material",
-  "ex_lb": "Dëse Käerzestänner ass aus puerem Sëlwer.",
-  "ex_en": "This candlestick is made of pure silver.",
-  "lodId": "SELWER4"
- },
- {
   "lb": "de Tuerm",
   "en": "the tower",
   "de": "der Turm",
@@ -21267,19 +21124,6 @@
   "lodId": "WOLLEF2"
  },
  {
-  "lb": "de Wuerzel",
-  "en": "root",
-  "de": "die Wurzel",
-  "fr": "la racine",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "garden",
-  "ex_lb": "D'Wuerzel vum Bakzant ass entzünt.",
-  "ex_en": "The root of the molar is inflamed.",
-  "lodId": "WUERZEL1"
- },
- {
   "lb": "decidéieren",
   "en": "to decide",
   "de": "entscheiden",
@@ -21317,19 +21161,6 @@
   "ex_lb": "Ech si frou, datt ech konnt un där Aarbecht deelhuelen.",
   "ex_en": "I'm glad I was able to take part in that work.",
   "lodId": "DEELHUELEN1"
- },
- {
-  "lb": "den Aarbechtsplaz",
-  "en": "workplace",
-  "de": "der Arbeitsplatz",
-  "fr": "le lieu de travail",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "work",
-  "ex_lb": "Hie sicht nach ëmmer eng Aarbechtsplaz.",
-  "ex_en": "He is still looking for a job.",
-  "lodId": "AARBECHTSPLAZ1"
  },
  {
   "lb": "den Affekot",
@@ -21449,6 +21280,19 @@
   "lodId": "DALL1"
  },
  {
+  "lb": "den Diplom",
+  "en": "diploma",
+  "de": "das Diplom",
+  "fr": "le diplôme",
+  "pos": "noun",
+  "gender": "m",
+  "level": "B1",
+  "category": "university",
+  "ex_lb": "Hie mécht en Diplom an der Chimie.",
+  "ex_en": "He is doing a degree in chemistry.",
+  "lodId": "DIPLOM1"
+ },
+ {
   "lb": "den Dirigent",
   "en": "conductor",
   "de": "der Dirigent",
@@ -21473,6 +21317,19 @@
   "ex_lb": "Ech hat als Kand Angscht virum Blëtz a virum Donner.",
   "ex_en": "As a child I was afraid of lightning and thunder.",
   "lodId": "DONNER1"
+ },
+ {
+  "lb": "den Dossier",
+  "en": "file",
+  "de": "die Akte",
+  "fr": "le dossier",
+  "pos": "noun",
+  "gender": "m",
+  "level": "B1",
+  "category": "admin",
+  "ex_lb": "Ech hu mer e puer schéin Dossiere kaaft.",
+  "ex_en": "I bought myself a few nice folders.",
+  "lodId": "DOSSIER1"
  },
  {
   "lb": "den Dünger",
@@ -21656,6 +21513,19 @@
   "lodId": "INSTALLATEUR1"
  },
  {
+  "lb": "den Interview",
+  "en": "interview",
+  "de": "das Interview",
+  "fr": "l'interview",
+  "pos": "noun",
+  "gender": "m",
+  "level": "B1",
+  "category": "media",
+  "ex_lb": "Den Trainer wollt nom Match keen Interview ginn.",
+  "ex_en": "The coach didn't want to give an interview after the match.",
+  "lodId": "INTERVIEW1"
+ },
+ {
   "lb": "den Iwwerbléck",
   "en": "overview",
   "de": "der Überblick",
@@ -21705,6 +21575,19 @@
   "category": "school",
   "ex_lb": "Ech maachen en Owend-Cours.",
   "ex_en": "I'm taking an evening class."
+ },
+ {
+  "lb": "den Theater",
+  "en": "the theatre",
+  "de": "das Theater",
+  "fr": "le théâtre",
+  "pos": "noun",
+  "gender": "m",
+  "level": "B1",
+  "category": "buildings",
+  "ex_lb": "Dësen Theater spillt nëmme modern Stécker.",
+  "ex_en": "This theatre only puts on modern plays.",
+  "lodId": "THEATER1"
  },
  {
   "lb": "den Thon",
@@ -26248,7 +26131,7 @@
   "de": "Atom",
   "fr": "atome",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "B2",
   "category": "science",
   "ex_lb": "Den Atom gouf laang als dat klengst Element vum Universum ugesinn.",
@@ -26659,6 +26542,19 @@
   "lodId": "BEAMTIN1"
  },
  {
+  "lb": "d'Botzmëttel",
+  "en": "the cleaning agent",
+  "de": "das Putzmittel",
+  "fr": "le produit ménager",
+  "pos": "noun",
+  "gender": "n",
+  "level": "B2",
+  "category": "cleaning",
+  "ex_lb": "Ech hunn d'Fangere réi vun de Botzmëttelen.",
+  "ex_en": "My hands are rough from the cleaning products.",
+  "lodId": "BOTZMETTEL1"
+ },
+ {
   "lb": "d'Buermaschinn",
   "en": "the drill",
   "de": "die Bohrmaschine",
@@ -26670,19 +26566,6 @@
   "ex_lb": "Fir dëst Lach ze bueren, brauch een eng zolidd Buermaschinn.",
   "ex_en": "To drill this hole you need a solid drill.",
   "lodId": "BUERMASCHINN1"
- },
- {
-  "lb": "d'Date",
-  "en": "expiry date",
-  "de": "das Haltbarkeitsdatum",
-  "fr": "la date de péremption",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B2",
-  "category": "supermarket",
-  "ex_lb": "War dat däin Date, mat deem ech dech gëschter an der Stad gesinn hunn?",
-  "ex_en": "Was that your date I saw you with in town yesterday?",
-  "lodId": "DATE1"
  },
  {
   "lb": "d'Demokratie",
@@ -27062,6 +26945,19 @@
   "lodId": "MANIFESTATIOUN1"
  },
  {
+  "lb": "d'Matricule",
+  "en": "social security number",
+  "de": "die Sozialnummer",
+  "fr": "le matricule",
+  "pos": "noun",
+  "gender": "f",
+  "level": "B2",
+  "category": "admin",
+  "ex_lb": "Der Doktesch hir Sekretärin huet meng Matricule gefrot.",
+  "ex_en": "The doctor's secretary asked for my social security number.",
+  "lodId": "MATRICULE1"
+ },
+ {
   "lb": "d'Meenungsfräiheet",
   "en": "freedom of speech",
   "de": "die Meinungsfreiheit",
@@ -27201,6 +27097,19 @@
   "ex_lb": "Op der Televisioun kënnt den Owend e Reportage iwwer de Wäibau.",
   "ex_en": "There's a documentary on winegrowing on TV tonight.",
   "lodId": "REPORTAGE1"
+ },
+ {
+  "lb": "d'Schauer",
+  "en": "shower (rain)",
+  "de": "der Schauer",
+  "fr": "l'averse",
+  "pos": "noun",
+  "gender": "f",
+  "level": "B2",
+  "category": "weather",
+  "ex_lb": "Ech hu léiwer eng zerguttst Schauer ewéi dat stännegt Gefisems.",
+  "ex_en": "I prefer a proper downpour to this constant drizzle.",
+  "lodId": "SCHAUER1"
  },
  {
   "lb": "d'Schueberfouer",
@@ -27513,19 +27422,6 @@
   "lodId": "BOCK1"
  },
  {
-  "lb": "de Botzmëttel",
-  "en": "the cleaning agent",
-  "de": "das Putzmittel",
-  "fr": "le produit ménager",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B2",
-  "category": "cleaning",
-  "ex_lb": "Ech hunn d'Fangere réi vun de Botzmëttelen.",
-  "ex_en": "My hands are rough from the cleaning products.",
-  "lodId": "BOTZMETTEL1"
- },
- {
   "lb": "de Buedem­belag",
   "en": "the flooring",
   "de": "der Bodenbelag",
@@ -27720,19 +27616,6 @@
   "lodId": "MASTER1"
  },
  {
-  "lb": "de Matricule",
-  "en": "social security number",
-  "de": "die Sozialnummer",
-  "fr": "le matricule",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B2",
-  "category": "admin",
-  "ex_lb": "Der Doktesch hir Sekretärin huet meng Matricule gefrot.",
-  "ex_en": "The doctor's secretary asked for my social security number.",
-  "lodId": "MATRICULE1"
- },
- {
   "lb": "de Premier",
   "en": "prime minister",
   "de": "der Premierminister",
@@ -27811,19 +27694,6 @@
   "lodId": "RISIKO1"
  },
  {
-  "lb": "de Schauer",
-  "en": "shower (rain)",
-  "de": "der Schauer",
-  "fr": "l'averse",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B2",
-  "category": "weather",
-  "ex_lb": "Ech hu léiwer eng zerguttst Schauer ewéi dat stännegt Gefisems.",
-  "ex_en": "I prefer a proper downpour to this constant drizzle.",
-  "lodId": "SCHAUER1"
- },
- {
   "lb": "de Schlittschong",
   "en": "ice skate",
   "de": "der Schlittschuh",
@@ -27898,6 +27768,19 @@
   "ex_lb": "De Wuesstem ass staark.",
   "ex_en": "The growth is strong.",
   "lodId": "WUESSTEM1"
+ },
+ {
+  "lb": "den Date",
+  "en": "expiry date",
+  "de": "das Haltbarkeitsdatum",
+  "fr": "la date de péremption",
+  "pos": "noun",
+  "gender": "m",
+  "level": "B2",
+  "category": "supermarket",
+  "ex_lb": "War dat däin Date, mat deem ech dech gëschter an der Stad gesinn hunn?",
+  "ex_en": "Was that your date I saw you with in town yesterday?",
+  "lodId": "DATE1"
  },
  {
   "lb": "den Echec",

@@ -65,12 +65,12 @@
   "lodId": "BREITCHEN1"
  },
  {
-  "lb": "d'Botter",
+  "lb": "de Botter",
   "en": "butter",
   "de": "die Butter",
   "fr": "le beurre",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A1",
   "category": "food",
   "ex_lb": "Mäi Papp ësst keng Schmier ouni Botter.",
@@ -169,12 +169,12 @@
   "lodId": "PEFFER1"
  },
  {
-  "lb": "d'Ueleg",
+  "lb": "den Ueleg",
   "en": "oil",
   "de": "das Öl",
   "fr": "l'huile",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "cooking",
   "ex_lb": "Kuck no, ob nach genuch Ueleg am Motor ass!",
@@ -467,12 +467,12 @@
   "lodId": "TOMAT1"
  },
  {
-  "lb": "den Ënn",
+  "lb": "d'Ënn",
   "en": "onion",
   "de": "die Zwiebel",
   "fr": "l'oignon",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "vegetable",
   "ex_lb": "De Kach schneit d'Ënn kleng.",
@@ -713,12 +713,12 @@
   "lodId": "KUCH1"
  },
  {
-  "lb": "d'Schockela",
+  "lb": "de Schockela",
   "en": "chocolate",
   "de": "die Schokolade",
   "fr": "le chocolat",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A1",
   "category": "food",
   "ex_lb": "De schwaarze Schockela ass mir ze batter.",
@@ -856,12 +856,12 @@
   "lodId": "PAN1"
  },
  {
-  "lb": "den Dëppen",
+  "lb": "d'Dëppen",
   "en": "pot",
   "de": "der Topf",
   "fr": "la casserole",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A2",
   "category": "cooking",
   "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
@@ -895,12 +895,12 @@
   "lodId": "FRIGO1"
  },
  {
-  "lb": "de Messer",
+  "lb": "d'Messer",
   "en": "knife",
   "de": "das Messer",
   "fr": "le couteau",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A1",
   "category": "cooking",
   "ex_lb": "D'Messere si frësch geschlaff!",
@@ -1114,12 +1114,12 @@
   "lodId": "KILO1"
  },
  {
-  "lb": "d'Gramm",
+  "lb": "de Gramm",
   "en": "gram",
   "de": "das Gramm",
   "fr": "le gramme",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "quantity",
   "ex_lb": "Dësen Timber ass gutt fir Bréiwer bis 20 Gramm.",
@@ -1166,12 +1166,12 @@
   "lodId": "GENUCH1"
  },
  {
-  "lb": "d'Restaurant",
+  "lb": "de Restaurant",
   "en": "restaurant",
   "de": "das Restaurant",
   "fr": "le restaurant",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A1",
   "category": "restaurant",
   "ex_lb": "An deem klenge Restaurant kritt ee gutt a bëlleg z'iessen.",
@@ -1317,8 +1317,8 @@
   "gender": "f",
   "level": "B1",
   "category": "restaurant",
-  "ex_lb": "",
-  "ex_en": "",
+  "ex_lb": "D'Entrée vum Theater ass voller Leit.",
+  "ex_en": "The theatre foyer is full of people.",
   "lodId": "ENTREE1"
  },
  {
@@ -2229,12 +2229,12 @@
   "lodId": "FANNEN1"
  },
  {
-  "lb": "de Regal",
+  "lb": "d'Regal",
   "en": "shelf",
   "de": "das Regal",
   "fr": "le rayon",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "B1",
   "category": "supermarket",
   "ex_lb": "Am Keller ass d'Regal mat den Amaachglieser ëmgefall.",
@@ -2907,12 +2907,12 @@
   "ex_en": "The milk is spoiled."
  },
  {
-  "lb": "de Cola",
+  "lb": "d'Cola",
   "en": "cola",
   "de": "die Cola",
   "fr": "le coca",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "drink",
   "ex_lb": "Ass an der Cola gradesou vill Koffein ewéi am Kaffi?",
@@ -3178,12 +3178,12 @@
   "lodId": "CROISSANT1"
  },
  {
-  "lb": "de Chips",
+  "lb": "d'Chips",
   "en": "crisps",
   "de": "die Chips",
   "fr": "les chips",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "food",
   "ex_lb": "Mir hu gëschter bal eng ganz Tut Chipse virun der Tëlee giess.",
@@ -3405,8 +3405,8 @@
   "gender": "n",
   "level": "A2",
   "category": "container",
-  "ex_lb": "D'Käche kacht d'Geméiszopp an engem groussen Dëppen.",
-  "ex_en": "The cook makes the vegetable soup in a big pot.",
+  "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
+  "ex_en": "The painter knocked over the paint pots.",
   "lodId": "DEPPEN1"
  },
  {
@@ -3436,12 +3436,12 @@
   "lodId": "EEMER1"
  },
  {
-  "lb": "d'Date",
+  "lb": "den Date",
   "en": "expiry date",
   "de": "das Haltbarkeitsdatum",
   "fr": "la date de péremption",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B2",
   "category": "supermarket",
   "ex_lb": "War dat däin Date, mat deem ech dech gëschter an der Stad gesinn hunn?",

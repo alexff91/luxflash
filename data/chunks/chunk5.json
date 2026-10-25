@@ -65,12 +65,12 @@
   "lodId": "PASS1"
  },
  {
-  "lb": "d'Bagage",
+  "lb": "de Bagage",
   "en": "the luggage",
   "de": "das Gepäck",
   "fr": "les bagages",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "travel",
   "ex_lb": "Si hunn hir Bagagen an d'Mall gelueden.",
@@ -208,12 +208,12 @@
   "lodId": "SOUVENIR1"
  },
  {
-  "lb": "de Foto",
+  "lb": "d'Foto",
   "en": "the photo",
   "de": "das Foto",
   "fr": "la photo",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A1",
   "category": "tourism",
   "ex_lb": "Wie mécht d'Fotoen op Ärer Hochzäit?",
@@ -416,12 +416,12 @@
   "lodId": "ZUCH1"
  },
  {
-  "lb": "d'Tram",
+  "lb": "den Tram",
   "en": "the tram",
   "de": "die Straßenbahn",
   "fr": "le tram",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "transport",
   "ex_lb": "Wéi laang dauert et, bis den nächsten Tram kënnt?",
@@ -455,12 +455,12 @@
   "lodId": "CAMION1"
  },
  {
-  "lb": "d'Vëlo",
+  "lb": "de Vëlo",
   "en": "the bicycle",
   "de": "das Fahrrad",
   "fr": "le vélo",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A1",
   "category": "transport",
   "ex_lb": "D'viischt Rad vu mengem Vëlo huet eng Aachtchen.",
@@ -1116,12 +1116,12 @@
   "lodId": "DUERF1"
  },
  {
-  "lb": "d'Zentrum",
+  "lb": "den Zentrum",
   "en": "the centre",
   "de": "das Zentrum",
   "fr": "le centre",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "city",
   "ex_lb": "Am Zentrum vum Duerf ass eng kleng Epicerie.",
@@ -1285,12 +1285,12 @@
   "lodId": "BIBLIOTHEIK1"
  },
  {
-  "lb": "d'Theater",
+  "lb": "den Theater",
   "en": "the theatre",
   "de": "das Theater",
   "fr": "le théâtre",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "B1",
   "category": "buildings",
   "ex_lb": "Dësen Theater spillt nëmme modern Stécker.",

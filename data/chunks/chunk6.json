@@ -1168,12 +1168,12 @@
   "lodId": "JORESZAIT1"
  },
  {
-  "lb": "de Fréijoer",
+  "lb": "d'Fréijoer",
   "en": "spring",
   "de": "der Frühling",
   "fr": "le printemps",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A1",
   "category": "seasons",
   "ex_lb": "Dëst Fréijoer stinn d'Beem fréi an der Bléi.",
@@ -1870,12 +1870,12 @@
   "lodId": "DEZEMBER1"
  },
  {
-  "lb": "d'Datum",
+  "lb": "den Datum",
   "en": "date",
   "de": "das Datum",
   "fr": "la date",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A2",
   "category": "calendar",
   "ex_lb": "Fir eis Feier zécke mer tëschent zwee Datumen.",
@@ -1896,12 +1896,12 @@
   "lodId": "KALENNER1"
  },
  {
-  "lb": "d'Weekend",
+  "lb": "de Weekend",
   "en": "weekend",
   "de": "das Wochenende",
   "fr": "le week-end",
   "pos": "noun",
-  "gender": "n",
+  "gender": "m",
   "level": "A1",
   "category": "calendar",
   "ex_lb": "Ech fuere fir de verlängerte Weekend op d'belsch Plage.",
@@ -1966,7 +1966,7 @@
   "de": "Ostern",
   "fr": "Pâques",
   "pos": "noun",
-  "gender": "f",
+  "gender": "n",
   "level": "A2",
   "category": "holidays",
   "ex_lb": "Iwwer d'Ouschtere fueren ech dacks an d'Vakanz.",
@@ -2883,12 +2883,12 @@
   "lodId": "FRASCHT1"
  },
  {
-  "lb": "de Schauer",
+  "lb": "d'Schauer",
   "en": "shower (rain)",
   "de": "der Schauer",
   "fr": "l'averse",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B2",
   "category": "weather",
   "ex_lb": "Ech hu léiwer eng zerguttst Schauer ewéi dat stännegt Gefisems.",
@@ -2934,12 +2934,12 @@
   "ex_en": "On Wednesday evening we go swimming."
  },
  {
-  "lb": "de Mëtternuecht",
+  "lb": "d'Mëtternuecht",
   "en": "midnight",
   "de": "die Mitternacht",
   "fr": "minuit",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "time",
   "ex_lb": "Kuerz no Mëtternuecht gouf bei eis agebrach.",
@@ -3462,12 +3462,12 @@
   "lodId": "IWWERNUECHTUNG1"
  },
  {
-  "lb": "de Spillplaz",
+  "lb": "d'Spillplaz",
   "en": "playground",
   "de": "der Spielplatz",
   "fr": "l'aire de jeux",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "A2",
   "category": "leisure",
   "ex_lb": "Op der Spillplaz ware vill Famille mat klenge Kanner.",

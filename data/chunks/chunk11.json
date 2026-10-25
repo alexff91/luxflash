@@ -1243,12 +1243,12 @@
   "lodId": "PANN1"
  },
  {
-  "lb": "den Dëppen",
+  "lb": "d'Dëppen",
   "en": "pot/saucepan",
   "de": "der Topf",
   "fr": "la casserole",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A2",
   "category": "kitchen",
   "ex_lb": "Den Usträicher huet d'Dëppe mat der Faarf ëmgehäit.",
@@ -1424,12 +1424,12 @@
   "lodId": "HOLZ1"
  },
  {
-  "lb": "de Metall",
+  "lb": "d'Metall",
   "en": "metal",
   "de": "das Metall",
   "fr": "le métal",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "A2",
   "category": "material",
   "ex_lb": "Dat Gestell ass aus Metall.",
@@ -1579,12 +1579,12 @@
   "lodId": "SEID1"
  },
  {
-  "lb": "d'Kotteng",
+  "lb": "de Kotteng",
   "en": "cotton",
   "de": "die Baumwolle",
   "fr": "le coton",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "B1",
   "category": "material",
   "ex_lb": "Meng nei Box ass aus Kotteng.",
@@ -1807,12 +1807,12 @@
   "ex_en": ""
  },
  {
-  "lb": "d'Sonnebrëll",
+  "lb": "de Sonnebrëll",
   "en": "sunglasses",
   "de": "die Sonnenbrille",
   "fr": "les lunettes de soleil",
   "pos": "noun",
-  "gender": "f",
+  "gender": "m",
   "level": "A2",
   "category": "accessory",
   "ex_lb": "Ech hu mer beim Optiker eng haart Scheek fir mäi Sonnebrëll gefrot.",
@@ -1934,12 +1934,12 @@
   "ex_en": "In spring the buds appear."
  },
  {
-  "lb": "de Wuerzel",
+  "lb": "d'Wuerzel",
   "en": "root",
   "de": "die Wurzel",
   "fr": "la racine",
   "pos": "noun",
-  "gender": "m",
+  "gender": "f",
   "level": "B1",
   "category": "garden",
   "ex_lb": "D'Wuerzel vum Bakzant ass entzünt.",
@@ -2037,12 +2037,12 @@
   "lodId": "OPTIKERIN1"
  },
  {
-  "lb": "de Sëlwer",
+  "lb": "d'Sëlwer",
   "en": "silver",
   "de": "das Silber",
   "fr": "l'argent",
   "pos": "noun",
-  "gender": "m",
+  "gender": "n",
   "level": "B1",
   "category": "material",
   "ex_lb": "Dëse Käerzestänner ass aus puerem Sëlwer.",
