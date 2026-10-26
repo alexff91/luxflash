@@ -48,6 +48,11 @@
      его вовсе. Вид прежний: браузерные умолчания для h1 здесь не нужны. */
   .brand-text h1 { font: inherit; font-weight: 700; margin: 0; }
 
+    .path-banner { display:flex; flex-direction:column; gap:2px; margin:10px 16px 0; padding:12px 16px; border-radius:12px;
+      background:#00a1de; color:#fff; text-decoration:none; font-size:14px; line-height:1.35; }
+    .path-banner b { font-size:15.5px; }
+    .path-banner span { opacity:.92; }
+    @media (min-width:900px) { .path-banner { max-width:860px; margin:12px auto 0; } }
     .printed { margin: 24px 0 0; padding: 16px 18px; background: rgba(255,255,255,.7);
       border: 1px solid var(--line, #e3e8ef); border-radius: 14px; }
     .printed h2 { font-size: 17px; margin: 0 0 6px; }
@@ -80,6 +85,7 @@
   </button>
 </header>
 
+<a class="path-banner" href="/path/"><b>New · 30 days to the Sproochentest</b><span>15 minutes a day: grammar, the exam's speaking questions, words, the INLL podcast — EN / RU →</span></a>
 <main id="main">
 
   <!-- ============ STUDY ============ -->

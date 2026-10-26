@@ -285,6 +285,12 @@ def main():
           f'Every one of the {len(words)} Luxembourgish words in the LuxFlash deck, printed by topic '
           f'and level with English, German and French translations and example sentences. Free.', body)
 
+    # Pages other scripts print (the 30-day path, grammar, phrases) belong in the
+    # same sitemap; this one rewrites it, so it lists them too.
+    for extra in ('path', 'grammar', 'phrases'):
+        for f in sorted((ROOT / extra).glob('**/index.html')):
+            urls.append('/' + str(f.parent.relative_to(ROOT)).replace('\\', '/') + '/')
+
     today = time.strftime('%Y-%m-%d')
     entries = ''.join(
         f'  <url>\n    <loc>{ORIGIN}{u}</loc>\n    <lastmod>{today}</lastmod>\n  </url>\n'
