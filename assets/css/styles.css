@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lato:ital,wght@0,400;0,700;0,900;1,400&display=swap');
 
 /* `display: grid/flex` on author CSS overrides the UA rule for [hidden];
    restore it so toggling the `hidden` attribute actually hides elements. */
@@ -371,64 +371,99 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(16px, 3vw, 30px); 
 }
 
 /* ---------------------------------------------------------------------------
-   October 2026: an index-card box instead of the violet app.
-   The words are studied on cards, so the card is drawn as one — cream stock,
-   the red header rule and the pale blue lines of a ruled index card, which
-   also happen to be the flag's colours. Everything around it is the shared
-   desk: cool paper, ink buttons, square edges, numbers in a monospace.
-   Written as overrides at the end so the old rules above stay readable.
+   28 October 2026: the corner café.
+   Luxembourgish is learnt to be spoken - at the bakery, on the terrace, with
+   the neighbour - so the app is set in a neighbourhood café: apricot walls,
+   a striped awning over the top bar, cream crockery with the blue of the
+   porcelain that has been fired in Septfontaines since 1767, and each
+   example sentence said out loud in a speech bubble. Bree Serif is the
+   painted shop sign; Lato does the talking. Direction from a GPT second
+   opinion after the owner said every site had been given one look.
 --------------------------------------------------------------------------- */
 :root {
-  --accent: #0b1622; --accent-press: #22323f; --accent-soft: #dfe6ec; --accent-2: #4a5966;
-  --bg: #e9edf1; --bg-elev: #f7f9fa; --surface: #ffffff; --text: #0b1622; --text-soft: #4a5966; --border: #c3ced8;
-  --shadow: 0 1px 0 rgba(11, 22, 34, .06); --shadow-lg: 0 18px 36px -22px rgba(11, 22, 34, .45);
-  --radius: 3px; --radius-sm: 2px; --easy: #0b1622; --on-accent: #ffffff;
-  --card-stock: #fffdf7; --card-rule: #cfe3f0;
-  --mono: 'DM Mono', ui-monospace, Menlo, monospace; --serif: 'Instrument Serif', Georgia, serif;
+  --wall: #f5bea0; --cream: #fff4d5; --porcelain: #245877; --brick: #b84638; --sage: #72917b;
+  --accent: #245877; --accent-press: #1b4560; --accent-soft: #ffe7cf; --accent-2: #72917b;
+  --bg: var(--wall); --bg-elev: #fff4d5; --surface: #fffaf0; --text: #1d3346; --text-soft: #5b6470; --border: #e9b496;
+  --shadow: 0 2px 0 rgba(29, 51, 70, .12); --shadow-lg: 0 16px 30px -18px rgba(76, 32, 16, .55);
+  --radius: 18px; --radius-sm: 12px; --easy: #245877; --on-accent: #fff4d5;
+  --good: #3f7d56; --hard: #c98a1e; --again: #b84638;
 }
 [data-theme="dark"] {
-  --bg: #0b1622; --bg-elev: #101c2a; --surface: #16232f; --text: #e9eef3; --text-soft: #93a3b1; --border: #2c3b48;
-  --accent: #e9eef3; --accent-press: #ffffff; --accent-soft: #1e2d3b; --on-accent: #0b1622;
+  /* the same café after closing: blue walls, the lamp still on over the counter */
+  --wall: #142a3a; --bg: #142a3a; --bg-elev: #1b3448; --surface: #1d3a50; --text: #fdf0d8; --text-soft: #b9c3cc; --border: #2d4a61;
+  --accent: #f5bea0; --accent-press: #ffd3b9; --accent-soft: #22405a; --on-accent: #142a3a;
   --shadow: none; --shadow-lg: 0 18px 36px -22px rgba(0, 0, 0, .8);
-  --card-stock: #f3efe4; --card-rule: #c4d8e6;
 }
-body { background: var(--bg); }
-.topbar { background: color-mix(in srgb, var(--bg) 90%, transparent); }
-.brand-flag { border-radius: 0; box-shadow: inset 0 0 0 1px rgba(11, 22, 34, .25); }
-.tab { border-radius: 0; font-family: var(--mono); font-size: 13px; letter-spacing: .02em; }
-.tab.is-active { background: var(--accent); color: var(--on-accent); box-shadow: none; }
-.icon-btn { border-radius: 0; }
-.icon-btn:hover, .btn:hover { transform: none; }
-.chip { border-radius: 0; font-family: var(--mono); font-weight: 500; }
-.chip.on, .chip.on[data-level] { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
-.btn { border-radius: 0; font-family: var(--mono); font-weight: 500; letter-spacing: .02em; }
-.btn.primary { background: var(--accent); color: var(--on-accent); box-shadow: none; }
-.btn.danger { background: transparent; color: #b3261e; border-color: currentColor; }
-.queue-pill, .pos-tag, .level-tag { border-radius: 0 !important; font-family: var(--mono); }
-.box-bar { background: var(--accent); border-radius: 0; }
+body { background: var(--bg); font-family: 'Lato', system-ui, -apple-system, sans-serif; }
+h1, h2, h3, .brand-text h1 { font-family: 'Bree Serif', Georgia, serif; font-weight: 400; }
+.brand-text h1 { font-size: 22px; letter-spacing: .01em; }
 
-/* the card itself */
-.flashcard-face { border-radius: 2px; border: 1px solid #d8d2c2; box-shadow: var(--shadow-lg); color: #14202c; }
-.flashcard-front, .flashcard-back {
+/* the awning over the shop front */
+.topbar { background: var(--cream); color: #1d3346; border-bottom: 0; position: sticky; margin-bottom: 22px; }
+.topbar::after { content: ''; position: absolute; left: 0; right: 0; top: 100%; height: 18px;
+  background: repeating-linear-gradient(90deg, var(--brick) 0 28px, var(--cream) 28px 56px);
+  -webkit-mask: radial-gradient(14px 14px at 14px 0, #000 98%, transparent) 0 0 / 28px 18px repeat-x;
+          mask: radial-gradient(14px 14px at 14px 0, #000 98%, transparent) 0 0 / 28px 18px repeat-x; }
+[data-theme="dark"] .topbar { background: #1b3448; color: var(--text); }
+.brand-flag { border-radius: 50%; width: 28px; height: 28px; box-shadow: 0 0 0 2px var(--cream), 0 0 0 3.5px var(--porcelain); }
+.tab { border-radius: 999px; font-family: 'Lato', sans-serif; font-weight: 700; font-size: 14px; letter-spacing: 0; }
+.tab.is-active { background: var(--porcelain); color: #fff4d5; box-shadow: none; }
+[data-theme="dark"] .tab.is-active { background: var(--accent); color: var(--on-accent); }
+.tabs { background: transparent; border: 0; box-shadow: none; padding: 0; }
+.icon-btn { border-radius: 50%; }
+.icon-btn:hover, .btn:hover, .grade:hover { transform: none; }
+.chip { border-radius: 999px; font-family: 'Lato', sans-serif; font-weight: 700; background: var(--cream); border-color: var(--border); }
+.chip.on, .chip.on[data-level] { background: var(--porcelain); color: #fff4d5; border-color: var(--porcelain); }
+[data-theme="dark"] .chip { background: var(--surface); }
+[data-theme="dark"] .chip.on, [data-theme="dark"] .chip.on[data-level] { background: var(--accent); color: var(--on-accent); }
+.btn { border-radius: 999px; font-family: 'Lato', sans-serif; font-weight: 700; letter-spacing: .01em; }
+.btn.primary { background: var(--porcelain); color: #fff4d5; box-shadow: 0 3px 0 #163a52; }
+[data-theme="dark"] .btn.primary { background: var(--accent); color: var(--on-accent); box-shadow: none; }
+.btn.danger { background: transparent; color: var(--brick); border-color: currentColor; }
+.queue-pill, .pos-tag, .level-tag { border-radius: 999px !important; font-family: 'Lato', sans-serif; }
+.box-bar { background: var(--porcelain); border-radius: 6px 6px 0 0; }
+
+/* the card: a cream plate with the porcelain's blue rim and corner sprigs */
+.flashcard-face {
+  --text: #1d3346; --text-soft: #5b6470; --accent: #245877; --on-accent: #fff4d5; --surface: #fffaf0; --border: #c9d6e0;
+  border-radius: 22px; border: 0; color: var(--text);
   background:
-    linear-gradient(#e0414e, #e0414e) 0 58px / 100% 1.5px no-repeat,
-    repeating-linear-gradient(to bottom, transparent 0 27px, var(--card-rule) 27px 28px) 0 59px / 100% calc(100% - 59px) no-repeat,
-    var(--card-stock);
+    radial-gradient(circle at 0 0, var(--porcelain) 0 10px, transparent 11px),
+    radial-gradient(circle at 100% 0, var(--porcelain) 0 10px, transparent 11px),
+    radial-gradient(circle at 0 100%, var(--porcelain) 0 10px, transparent 11px),
+    radial-gradient(circle at 100% 100%, var(--porcelain) 0 10px, transparent 11px),
+    radial-gradient(circle at 26px 26px, var(--porcelain) 0 2.5px, transparent 3px),
+    radial-gradient(circle at calc(100% - 26px) 26px, var(--porcelain) 0 2.5px, transparent 3px),
+    radial-gradient(circle at 26px calc(100% - 26px), var(--porcelain) 0 2.5px, transparent 3px),
+    radial-gradient(circle at calc(100% - 26px) calc(100% - 26px), var(--porcelain) 0 2.5px, transparent 3px),
+    #fffaf0;
+  box-shadow: inset 0 0 0 3px #fffaf0, inset 0 0 0 5px var(--porcelain), inset 0 0 0 8px #fffaf0, inset 0 0 0 9px rgba(36, 88, 119, .45), var(--shadow-lg);
 }
-.flashcard-face .pos-tag, .flashcard-face .level-tag { background: transparent; color: #4a5966; border: 1px solid #c9c1ad; }
-.headword { font-family: var(--serif); font-weight: 400; font-size: clamp(2.6rem, 10vw, 4.4rem); letter-spacing: -.01em; line-height: 1; color: #0b1622; }
-.headword-answer { color: #0b1622; font-style: italic; }
-.flashcard-face .subword, .flashcard-face .example, .flashcard-face .flip-hint { color: #3b4a57; }
-.flip-hint kbd { border-radius: 0; font-family: var(--mono); }
+.flashcard-front, .flashcard-back { background-color: #fffaf0; }
+.flashcard-face .pos-tag, .flashcard-face .level-tag { background: transparent; color: var(--porcelain); border: 1px solid rgba(36, 88, 119, .4); }
+.headword { font-family: 'Bree Serif', Georgia, serif; font-weight: 400; font-size: clamp(2.4rem, 9.5vw, 4rem); letter-spacing: 0; line-height: 1.05; color: var(--porcelain); }
+.headword-answer { color: var(--porcelain); }
+.flashcard-face .subword, .flashcard-face .flip-hint { color: #5b6470; }
+.flip-hint kbd { border-radius: 6px; }
+.flashcard-face .icon-btn, .flashcard-face .face-audio, .flashcard-face a { background: transparent; color: var(--porcelain); border-color: rgba(36, 88, 119, .35); }
 
-/* the 30-day path link: a note pinned to the desk, not a blue slab */
-.path-banner { background: var(--surface); color: var(--text); border-radius: 0; border: 1px solid var(--border); border-left: 3px solid #e0414e; }
-.path-banner b { font-weight: 700; }
-.printed { border-radius: 0; background: var(--surface); }
-.tabs { border-radius: 0; background: transparent; border: 0; box-shadow: none; padding: 0; }
-/* the card is cream stock in both themes, so it carries its own ink */
-.flashcard-face { --text: #14202c; --text-soft: #3b4a57; --accent: #0b1622; --on-accent: #fff; --surface: #fff; --border: #c9c1ad; color: var(--text); }
-.flashcard-face .icon-btn, .flashcard-face .face-audio, .flashcard-face a { background: transparent; color: #14202c; border-color: #c9c1ad; border-radius: 0; }
-.grade { border-radius: 0; font-family: var(--mono); }
-.grade:hover { transform: none; }
-.grade.again, .grade.hard, .grade.good, .grade.easy { border-top-width: 2px; }
+/* the example is something somebody says - so it is said, in a bubble */
+.flashcard-face .example {
+  position: relative; font-style: normal; color: #1d3346; background: #ffe7cf; border-radius: 18px 18px 18px 4px;
+  padding: 10px 14px; max-width: 32ch; text-align: left; margin-top: 20px; box-shadow: 0 2px 0 rgba(184, 70, 56, .25);
+}
+.flashcard-face .example::after { content: ''; position: absolute; left: -2px; bottom: -9px; border: 6px solid transparent; border-top-color: #ffe7cf; border-left-color: #ffe7cf; }
+.flashcard-face .example b { color: var(--brick); }
+.flashcard-back .example { background: #dbe8f0; border-radius: 18px 18px 4px 18px; margin-left: auto; box-shadow: 0 2px 0 rgba(36, 88, 119, .25); }
+.flashcard-back .example::after { left: auto; right: -2px; border-top-color: #dbe8f0; border-left-color: transparent; border-right-color: #dbe8f0; }
+
+.grade { border-radius: 16px; font-family: 'Lato', sans-serif; background: var(--cream); }
+[data-theme="dark"] .grade { background: var(--surface); }
+.grade.again, .grade.hard, .grade.good, .grade.easy { border-top-width: 0; border-bottom: 3px solid; }
+.grade.again { border-bottom-color: var(--again); } .grade.hard { border-bottom-color: var(--hard); }
+.grade.good { border-bottom-color: var(--good); } .grade.easy { border-bottom-color: var(--porcelain); }
+
+/* the 30-day path: a chalk board by the door */
+.path-banner { background: #24382f; color: #fdf6e3; border: 0; border-radius: 14px; box-shadow: inset 0 0 0 4px #24382f, inset 0 0 0 6px #8a6a44; }
+.path-banner b { font-family: 'Bree Serif', serif; font-weight: 400; font-size: 17px; }
+.printed { border-radius: 14px; background: var(--cream); border-color: var(--border); }
