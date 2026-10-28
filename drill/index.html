@@ -64,7 +64,20 @@
   .answer .ex { font-style: italic; }
   .answer .exen { color: var(--soft); font-size: 15px; }
   .hidden { display: none !important; }
-  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
+  .row { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 14px; }
+  /* the answers stay under the thumb when a verb's table makes the card tall */
+  #grade { position: sticky; bottom: 0; padding: 8px 0 calc(8px + env(safe-area-inset-bottom)); background: var(--bg); }
+  .mid { background: color-mix(in srgb, #f59e0b 16%, var(--card)); color: #b26b00; }
+  .status { align-self: flex-start; font-size: 12.5px; color: var(--soft); border: 1px solid var(--line); border-radius: 999px; padding: 2px 10px; }
+  .status.learn { color: #b26b00; border-color: color-mix(in srgb, #f59e0b 40%, transparent); }
+  .status.done { color: var(--good); border-color: color-mix(in srgb, var(--good) 40%, transparent); }
+  .forms { border-top: 1px dashed var(--line); padding-top: 10px; margin-top: 4px; font-size: 15px; display: grid; gap: 6px; }
+  .forms .k { color: var(--soft); font-size: 12.5px; text-transform: uppercase; letter-spacing: .04em; }
+  .conj { display: grid; grid-template-columns: auto 1fr 1fr; gap: 2px 12px; font-size: 15px; }
+  .conj .h { color: var(--soft); font-size: 12px; }
+  .conj .p { color: var(--soft); }
+  .prompt { font-size: 15px; color: var(--soft); }
+  .stats.two { grid-template-columns: repeat(2, 1fr); }
   button.big { min-height: 54px; border: 0; border-radius: 14px; font-size: 17px; font-weight: 600; width: 100%; }
   .show { background: var(--accent); color: var(--accent-text); margin-top: 14px; }
   .no { background: color-mix(in srgb, var(--again) 14%, var(--card)); color: var(--again); }
@@ -90,17 +103,20 @@
     <div class="dir" id="dir"></div>
     <div class="word" id="front">…</div>
     <div class="meta" id="meta"></div>
+    <div class="status hidden" id="status"></div>
     <button class="say hidden" id="say" type="button">▶ Послушать</button>
     <div class="answer hidden" id="answer">
       <div class="tr" id="back"></div>
       <div class="ex" id="ex"></div>
       <button class="say hidden" id="sayEx" type="button">▶ Пример</button>
       <div class="exen" id="exen"></div>
+      <div class="forms hidden" id="forms"></div>
     </div>
   </section>
   <button class="big show" id="showBtn" type="button">Показать ответ</button>
   <div class="row hidden" id="grade">
-    <button class="big no" id="noBtn" type="button">Ещё нет</button>
+    <button class="big no" id="noBtn" type="button">Не знаю</button>
+    <button class="big mid" id="midBtn" type="button">Учу</button>
     <button class="big yes" id="yesBtn" type="button">Знаю</button>
   </div>
 
@@ -108,8 +124,13 @@
     <h1 id="doneTitle">Готово</h1>
     <div class="stats">
       <div><b id="sKnow">0</b><span>знаю</span></div>
-      <div><b id="sAgain">0</b><span>повторить</span></div>
+      <div><b id="sMid">0</b><span>учу</span></div>
+      <div><b id="sAgain">0</b><span>не знаю</span></div>
+    </div>
+    <b>Всего в колоде</b>
+    <div class="stats two">
       <div><b id="sLearned">0</b><span>выучено</span></div>
+      <div><b id="sLearning">0</b><span>в работе</span></div>
     </div>
     <div id="missWrap" class="hidden"><b>Вернутся завтра:</b><ul class="miss" id="miss"></ul></div>
     <p class="note" id="nextNote"></p>
@@ -128,7 +149,7 @@ var $ = function (id) { return document.getElementById(id); };
 var DAY = 86400000;
 var STEPS = [1, 3, 7, 14, 30, 60];     // days until the next showing, by box
 var LEARNED = 3;                        // box from which a word counts as learned
-var REVIEW_MAX = 20;
+var REVIEW_MAX = 30;
 var today = Math.floor(Date.now() / DAY);
 
 function article(w) {
@@ -191,11 +212,61 @@ function save() {
 }
 
 // ── session ──
+// Three answers since 28 Oct 2026. With only "know / not yet" a word he knew
+// on first sight still needed three right answers on three separate days
+// before it counted, so the finish screen said "0 выучено" after a lesson in
+// which he knew seven words - it looked as if nothing was remembered.
+//   Не знаю - back tomorrow, and once more at the end of this round;
+//   Учу     - half known: back tomorrow, keeps its place in the boxes;
+//   Знаю    - the next box; known on the very first showing, it goes straight
+//             to "learned" and comes back in a week to check.
+// And the forms, because a word is not known until it can be used: LOD's
+// conjugation, plural and declension (tools/fetch_forms.py in lux-teacher) on
+// the answer side, plus a few cards that ask for a form - the Perfekt, the
+// present, a plural, a comparative - spaced like words, under "id~kind".
 var params = new URLSearchParams(location.hash.slice(1));
 var lessonNo = params.get('n');
 var lessonIds = (params.get('w') || '').split(',').filter(Boolean);
 var BY_ID = {};
-var queue = [], pos = 0, total = 0, know = 0, again = 0, missed = [], cur = null, reverse = false, retried = {};
+var FORM_MAX = 6;
+var PRON = ['ech', 'du', 'hien / si / et', 'mir', 'dir', 'si'];
+var queue = [], pos = 0, know = 0, mid = 0, again = 0, missed = [], cur = null, reverse = false, retried = {};
+
+function isForm(id) { return id.indexOf('~') > 0; }
+
+// A card that asks for one form of a word, or null if LOD has none to ask.
+function formCard(w, kind) {
+  var f = w.forms || {};
+  var c = { id: w.id + '~' + kind, word: w, kind: kind };
+  if (kind === 'pf' && f.perf) {
+    var k = f.perf[0] ? 0 : 2;
+    c.ask = 'Прошедшее время (Perfekt)'; c.q = PRON[k] + ' … (' + w.lb + ')';
+    c.a = PRON[k] + ' ' + f.perf[k]; c.hint = (f.aux ? f.aux + ' + ' : '') + (f.pp || '');
+  } else if (kind === 'pr' && f.pres) {
+    var p = f.pres[1] ? 1 : 2;
+    c.ask = 'Настоящее время'; c.q = PRON[p] + ' … (' + w.lb + ')'; c.a = PRON[p] + ' ' + f.pres[p];
+  } else if (kind === 'pt' && f.past) {
+    c.ask = 'Простое прошедшее (Präteritum)'; c.q = 'ech … (' + w.lb + ')'; c.a = 'ech ' + f.past[0];
+  } else if (kind === 'pl' && f.pl) {
+    c.ask = 'Множественное число'; c.q = article(w) + w.lb + ' → …'; c.a = "d'" + f.pl[0];
+  } else if (kind === 'cp' && f.comp) {
+    c.ask = 'Сравнительная степень'; c.q = w.lb + ' → …'; c.a = f.comp + (f.sup ? ' · ' + f.sup : '');
+  } else return null;
+  return c;
+}
+// Which form to ask next for a word: the Perfekt first, the present once the
+// Perfekt is in hand, then the Präteritum where the verb has one.
+function nextKind(w) {
+  var f = w.forms || {};
+  if (f.perf) {
+    if (!prog[w.id + '~pf'] || prog[w.id + '~pf'][0] < 2) return 'pf';
+    if (f.pres && (!prog[w.id + '~pr'] || prog[w.id + '~pr'][0] < 2)) return 'pr';
+    return f.past ? 'pt' : null;
+  }
+  if (f.pl) return 'pl';
+  if (f.comp) return 'cp';
+  return null;
+}
 
 function start(words) {
   if (LANG === 'fr') {
@@ -211,35 +282,104 @@ function start(words) {
   });
   var lesson = lessonIds.map(function (id) { return BY_ID[id]; }).filter(Boolean);
   var inLesson = {}; lesson.forEach(function (w) { inLesson[w.id] = 1; });
-  var due = Object.keys(prog)
-    .filter(function (id) { return BY_ID[id] && !inLesson[id] && prog[id][1] <= today; })
-    .sort(function (a, b) { return prog[a][1] - prog[b][1]; })
-    .slice(0, REVIEW_MAX)
-    .map(function (id) { return BY_ID[id]; });
-  queue = lesson.concat(due);
-  total = queue.length;
-  $('title').textContent = lessonNo ? 'Урок ' + lessonNo + (due.length ? ' + повторение' : '') : 'Повторение';
+  var dueIds = Object.keys(prog)
+    .filter(function (id) { return prog[id][1] <= today && !inLesson[id]; })
+    .sort(function (a, b) { return prog[a][1] - prog[b][1]; });
+  var due = dueIds.filter(function (id) { return !isForm(id) && BY_ID[id]; }).slice(0, REVIEW_MAX).map(function (id) { return BY_ID[id]; });
+  // Form cards: those that are due, then new ones for today's words and the
+  // words under review, verbs first - the past tense was what was missing.
+  var forms = [], seen = {};
+  dueIds.filter(isForm).forEach(function (id) {
+    var parts = id.split('~'), w = BY_ID[parts[0]], c = w && formCard(w, parts[1]);
+    if (c && !seen[w.id] && forms.length < FORM_MAX) { forms.push(c); seen[w.id] = 1; }
+  });
+  if (LANG === 'lb') {
+    lesson.concat(due)
+      .filter(function (w) { return w.forms && !seen[w.id]; })
+      .sort(function (a, b) { return (b.pos === 'verb') - (a.pos === 'verb'); })
+      .forEach(function (w) {
+        if (forms.length >= FORM_MAX) return;
+        var k = nextKind(w), c = k && formCard(w, k);
+        if (c && !(prog[c.id] && prog[c.id][1] > today)) { forms.push(c); seen[w.id] = 1; }
+      });
+  }
+  queue = lesson.concat(due, forms);
+  $('title').textContent = lessonNo ? 'Урок ' + lessonNo + (due.length || forms.length ? ' + повторение' : '') : 'Повторение';
   if (!queue.length) return finish(true);
   show();
 }
 
+function statusOf(id) {
+  var p = prog[id];
+  if (!p) return ['новое', ''];
+  if (p[0] >= LEARNED) return ['выучено', 'done'];
+  if (p[0] >= 1) return ['учу · ' + p[0] + ' из ' + LEARNED, 'learn'];
+  return ['не знал(а) в прошлый раз', 'learn'];
+}
+
+function esc(t) { return String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+
+// LOD's forms for the answer side.
+function formsHtml(w) {
+  var f = w.forms;
+  if (!f || LANG !== 'lb') return '';
+  var out = [];
+  if (f.pres || f.perf) {
+    var rows = '<span class="h"></span><span class="h">сейчас</span><span class="h">Perfekt</span>';
+    for (var i = 0; i < 6; i++) {
+      rows += '<span class="p">' + esc(PRON[i].split(' / ')[0]) + '</span><span>' + esc((f.pres || [])[i] || '') + '</span><span>' + esc((f.perf || [])[i] || '') + '</span>';
+    }
+    out.push('<div class="conj">' + rows + '</div>');
+    var line = [];
+    if (f.past) line.push('Präteritum: ech ' + f.past[0] + ', hien ' + f.past[2]);
+    if (f.imp && (f.imp[0] || f.imp[1])) line.push('Imperativ: ' + f.imp.filter(Boolean).join(' · '));
+    if (f.sep) line.push('отделяемая приставка');
+    if (line.length) out.push('<div>' + esc(line.join(' · ')) + '</div>');
+  }
+  if (f.pl) out.push('<div><span class="k">мн. ч.</span> d\'' + esc(f.pl[0]) + '</div>');
+  if (f.decl) out.push('<div><span class="k">с сущ.</span> m ' + esc(f.decl.m) + ' · f ' + esc(f.decl.f) + ' · n ' + esc(f.decl.n) + ' · мн ' + esc(f.decl.pl) + '</div>');
+  if (f.comp) out.push('<div><span class="k">степени</span> ' + esc(f.comp) + (f.sup ? ' · ' + esc(f.sup) : '') + '</div>');
+  return out.length ? out.join('') + '<div class="exen">формы из словаря LOD</div>' : '';
+}
+
 function show() {
   cur = queue[pos];
-  var p = prog[cur.id];
-  // A word you have answered right twice comes the other way round: from the
-  // meaning to the Luxembourgish, which is the harder half of knowing it.
-  reverse = !!(p && p[0] >= 2);
-  var lb = article(cur) + cur.lb;
-  $('dir').textContent = reverse ? 'Как это по-люксембургски?' : 'Что это значит?';
-  var meaning = cur.ru ? cur.ru + (cur.en ? ' (' + cur.en + ')' : '') : cur.en;
-  $('front').textContent = reverse ? meaning : lb;
-  $('meta').textContent = reverse ? '' : [cur.pos, cur.gender ? '(' + cur.gender + ')' : '', cur.level].filter(Boolean).join(' · ');
-  $('back').textContent = reverse ? lb : meaning;
-  $('ex').textContent = cur.ex ? cur.ex.lb : '';
-  $('exen').textContent = cur.ex ? (cur.ex.ru || '') + (LANG === 'fr' ? ' · пример из Tatoeba' : ' · пример из словаря LOD') : '';
-  $('exen').classList.toggle('hidden', !cur.ex);
-  $('sayEx').classList.toggle('hidden', !(cur.ex && (cur.ex.ogg || cur.ex.mp3 || (LANG === 'fr' && canSpeak))));
-  $('say').classList.toggle('hidden', !(cur.lodId || (LANG === 'fr' && canSpeak)) || reverse);
+  var st = statusOf(cur.id);
+  $('status').textContent = st[0];
+  $('status').className = 'status ' + st[1];
+  if (cur.kind) {
+    // A form card: the word is known, the form is asked.
+    var w = cur.word;
+    reverse = false;
+    $('dir').textContent = cur.ask;
+    $('front').textContent = cur.q;
+    $('meta').textContent = w.ru || w.en || '';
+    $('back').textContent = cur.a;
+    $('ex').textContent = cur.hint || '';
+    $('exen').classList.add('hidden');
+    $('sayEx').classList.add('hidden');
+    $('say').classList.add('hidden');
+    $('forms').innerHTML = formsHtml(w);
+  } else {
+    var p = prog[cur.id];
+    // A word you have answered right twice comes the other way round: from the
+    // meaning to the Luxembourgish, which is the harder half of knowing it.
+    reverse = !!(p && p[0] >= 2);
+    var lb = article(cur) + cur.lb;
+    $('dir').textContent = reverse ? 'Как это по-люксембургски?' : 'Что это значит?';
+    var meaning = cur.ru ? cur.ru + (cur.en ? ' (' + cur.en + ')' : '') : cur.en;
+    $('front').textContent = reverse ? meaning : lb;
+    $('meta').textContent = reverse ? '' : [cur.pos, cur.gender ? '(' + cur.gender + ')' : '', cur.level].filter(Boolean).join(' · ');
+    $('back').textContent = reverse ? lb : meaning;
+    $('ex').textContent = cur.ex ? cur.ex.lb : '';
+    $('exen').textContent = cur.ex ? (cur.ex.ru || '') + (LANG === 'fr' ? ' · пример из Tatoeba' : ' · пример из словаря LOD') : '';
+    $('exen').classList.toggle('hidden', !cur.ex);
+    $('sayEx').classList.toggle('hidden', !(cur.ex && (cur.ex.ogg || cur.ex.mp3 || (LANG === 'fr' && canSpeak))));
+    $('say').classList.toggle('hidden', !(cur.lodId || (LANG === 'fr' && canSpeak)) || reverse);
+    $('forms').innerHTML = formsHtml(cur);
+  }
+  $('status').classList.remove('hidden');
+  $('forms').classList.toggle('hidden', !$('forms').innerHTML);
   $('answer').classList.add('hidden');
   $('showBtn').classList.remove('hidden');
   $('grade').classList.add('hidden');
@@ -251,26 +391,31 @@ function reveal() {
   $('answer').classList.remove('hidden');
   $('showBtn').classList.add('hidden');
   $('grade').classList.remove('hidden');
-  if (reverse && (cur.lodId || (LANG === 'fr' && canSpeak))) $('say').classList.remove('hidden');
+  if (!cur.kind && reverse && (cur.lodId || (LANG === 'fr' && canSpeak))) $('say').classList.remove('hidden');
 }
 
-function grade(ok) {
-  var p = prog[cur.id] || [0, today];
-  if (ok && retried[cur.id]) {
+// answer: 0 не знаю, 1 учу, 2 знаю
+function grade(answer) {
+  var p = prog[cur.id];
+  var box = p ? p[0] : 0;
+  if (answer === 2 && retried[cur.id]) {
     // Right on the second try, minutes after seeing the answer: that is
-    // memory of the answer, not of the word. Tomorrow, from the start.
-    prog[cur.id] = [0, today + 1];
-  } else if (ok) {
-    var box = Math.min(p[0] + 1, STEPS.length);
+    // memory of the answer, not of the word. Tomorrow, as one being learned.
+    prog[cur.id] = [1, today + 1];
+  } else if (answer === 2) {
+    box = p ? Math.min(box + 1, STEPS.length) : LEARNED;
     prog[cur.id] = [box, today + STEPS[box - 1]];
     know++;
+  } else if (answer === 1) {
+    prog[cur.id] = [Math.min(Math.max(box, 1), LEARNED - 1), today + 1];
+    mid++;
   } else {
     prog[cur.id] = [0, today + 1];
     if (!retried[cur.id]) { again++; missed.push(cur); }
     // Once more at the end of this round, so the session ends on a right answer.
     if (!retried[cur.id]) { retried[cur.id] = 1; queue.push(cur); }
   }
-  if (tg && tg.HapticFeedback) { try { tg.HapticFeedback.impactOccurred(ok ? 'light' : 'soft'); } catch (e) {} }
+  if (tg && tg.HapticFeedback) { try { tg.HapticFeedback.impactOccurred(answer === 2 ? 'light' : 'soft'); } catch (e) {} }
   save();
   pos++;
   if (pos >= queue.length) finish(false); else show();
@@ -283,21 +428,27 @@ function finish(empty) {
   $('doneView').classList.remove('hidden');
   $('fill').style.width = '100%';
   $('count').textContent = '';
-  var learned = Object.keys(prog).filter(function (id) { return prog[id][0] >= LEARNED; }).length;
-  var tomorrow = Object.keys(prog).filter(function (id) { return prog[id][1] <= today + 1; }).length;
+  var words = Object.keys(prog).filter(function (id) { return !isForm(id); });
+  var learned = words.filter(function (id) { return prog[id][0] >= LEARNED; }).length;
+  var learning = words.length - learned;
+  var tomorrow = words.filter(function (id) { return prog[id][1] <= today + 1; }).length;
   $('sKnow').textContent = know;
+  $('sMid').textContent = mid;
   $('sAgain').textContent = again;
   $('sLearned').textContent = learned;
-  $('doneTitle').textContent = empty ? 'Сегодня повторять нечего' : (again ? 'Готово' : 'Всё знаешь');
+  $('sLearning').textContent = learning;
+  $('doneTitle').textContent = empty ? 'Сегодня повторять нечего' : (again || mid ? 'Готово' : 'Всё знаешь');
   if (missed.length) {
     $('missWrap').classList.remove('hidden');
     missed.forEach(function (w) {
       var li = document.createElement('li');
-      li.textContent = article(w) + w.lb + ' — ' + (w.ru || w.en);
+      li.textContent = w.kind ? w.a + ' — ' + w.ask.toLowerCase() : article(w) + w.lb + ' — ' + (w.ru || w.en);
       $('miss').appendChild(li);
     });
   }
-  $('nextNote').textContent = 'Завтра на повторение: ' + tomorrow + ' ' + plural(tomorrow, 'слово', 'слова', 'слов') + '. Выученным слово считается после трёх «знаю» подряд.';
+  $('nextNote').textContent = 'Завтра на повторение: ' + tomorrow + ' ' + plural(tomorrow, 'слово', 'слова', 'слов') +
+    (tomorrow > REVIEW_MAX ? ' (покажу ' + REVIEW_MAX + ' самых давних)' : '') +
+    '. «Знаю» с первого раза — сразу в выученные, проверю через неделю; иначе слово выучено после трёх «знаю» в разные дни.';
   $('where').textContent = cloud ? 'Прогресс хранится в вашем Telegram — на всех устройствах.' : 'Прогресс хранится в этом браузере.';
 }
 
@@ -335,12 +486,13 @@ $('sayEx').onclick = function () {
 $('showBtn').onclick = reveal;
 // Tapping the card shows the answer too; the listen button only plays.
 $('cardView').onclick = function (e) { if (e.target.id !== 'say' && e.target.id !== 'sayEx') reveal(); };
-$('noBtn').onclick = function () { grade(false); };
-$('yesBtn').onclick = function () { grade(true); };
+$('noBtn').onclick = function () { grade(0); };
+$('midBtn').onclick = function () { grade(1); };
+$('yesBtn').onclick = function () { grade(2); };
 $('closeBtn').onclick = function () { if (inTelegram) tg.close(); else history.back(); };
 
 load(function () {
-  fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=6')
+  fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=7')
     .then(function (r) { return r.json(); })
     .then(start)
     .catch(function () { $('front').textContent = 'Не загрузился список слов — попробуйте ещё раз.'; });
