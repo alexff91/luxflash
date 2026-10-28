@@ -22,6 +22,7 @@
   be swallowed; a page that keeps its own state needs no updates at all.
 -->
 <script src="https://telegram.org/js/telegram-web-app.js?59"></script>
+<script src="/_sync/sync.js" defer></script>
 <style>
   :root {
     --bg: var(--tg-theme-secondary-bg-color, #f5f5fc);
@@ -136,6 +137,7 @@
     <p class="note" id="nextNote"></p>
     <button class="big show" id="closeBtn" type="button" data-i="close">Закрыть</button>
     <p class="note" id="where"></p>
+    <div id="syncMount"></div>
   </section>
 </main>
 <script>
@@ -242,6 +244,7 @@ function load(done) {
 }
 function save() {
   try { localStorage.setItem(KEY, JSON.stringify(prog)); } catch (e) {}
+  if (window.LuxSync) LuxSync.changed();
   if (!cloud) return;
   var parts = pack();
   parts.forEach(function (p, i) { cloud.setItem(CK + 'p' + i, p); });
@@ -526,6 +529,22 @@ $('noBtn').onclick = function () { grade(0); };
 $('midBtn').onclick = function () { grade(1); };
 $('yesBtn').onclick = function () { grade(2); };
 $('closeBtn').onclick = function () { if (inTelegram) return tg.close(); if (document.referrer && history.length > 1) history.back(); else location.href = '/'; };
+
+// The account (luxsync): two copies of the boxes become one word by word -
+// the record that is further along wins (higher box, then later due day).
+function mergeProg(a, b) {
+  var out = {}, k;
+  for (k in a) out[k] = a[k];
+  for (k in b) { var x = out[k], y = b[k]; if (!x || y[0] > x[0] || (y[0] === x[0] && y[1] > x[1])) out[k] = y; }
+  return out;
+}
+function startSync() {
+  if (!window.LuxSync) return;
+  LuxSync.start({ app: LANG === 'fr' ? 'drill-fr' : 'drill-lb', collect: function () { return prog; },
+    apply: function (p) { prog = p; try { localStorage.setItem(KEY, JSON.stringify(prog)); } catch (e) {} },
+    merge: mergeProg, mount: document.getElementById('syncMount'), lang: UI });
+}
+window.addEventListener('load', startSync);
 
 load(function () {
   fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=8')

@@ -625,4 +625,33 @@
     }
   }
   boot();
+
+  /* ---------- account (luxsync): progress on every device ---------- */
+  // Two copies of the deck become one card by card: the record reviewed last
+  // wins (then the one further along). Settings stay this device's own; the
+  // streak keeps the longer run.
+  function mergeLF(local, remote) {
+    var out = JSON.parse(JSON.stringify(local || {}));
+    out.cards = out.cards || {};
+    var rc = (remote && remote.cards) || {};
+    Object.keys(rc).forEach(function (id) {
+      var a = out.cards[id], b = rc[id];
+      if (!a) { out.cards[id] = b; return; }
+      var la = a.last || 0, lb = b.last || 0;
+      if (lb > la || (lb === la && ((b.box || 0) > (a.box || 0) || (b.reps || 0) > (a.reps || 0)))) out.cards[id] = b;
+    });
+    var rs = (remote && remote.streak) || {}, ls = out.streak || {};
+    if ((rs.lastDay || '') > (ls.lastDay || '')) out.streak = Object.assign({}, rs, { longest: Math.max(rs.longest || 0, ls.longest || 0) });
+    else if (out.streak) out.streak.longest = Math.max(ls.longest || 0, rs.longest || 0);
+    return out;
+  }
+  function startSync() {
+    if (!window.LuxSync) return;
+    var mount = $("#syncMount");
+    LuxSync.start({ app: "luxflash", collect: function () { return LFStore.state; },
+      apply: function (st) { LFStore.replaceState(st); refreshFromStore(); },
+      merge: mergeLF, mount: mount, lang: (navigator.language || "en").slice(0, 2) === "ru" ? "ru" : "en" });
+    window.addEventListener("lf:saved", function () { LuxSync.changed(); });
+  }
+  if (window.LuxSync) startSync(); else window.addEventListener("load", startSync);
 })();

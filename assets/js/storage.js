@@ -69,6 +69,8 @@
     try {
       localStorage.setItem(KEY, JSON.stringify(state));
       lastSavedAt = Date.now();
+      // the account sync (luxsync) listens for this and sends a copy
+      try { window.dispatchEvent(new Event("lf:saved")); } catch (e2) {}
     } catch (e) {
       console.warn("LuxFlash: save failed (storage full or blocked).", e);
     }
@@ -143,6 +145,11 @@
       state = clean;
       save();
       return countCards();
+    },
+    /* the merged copy from the account replaces the local one */
+    replaceState: function (incoming) {
+      state = migrate(incoming);
+      try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
     },
     reset: function () {
       state = defaults();

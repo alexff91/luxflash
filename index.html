@@ -187,6 +187,7 @@
 
   <!-- ============ STATS ============ -->
   <section class="view" id="view-stats" role="tabpanel">
+    <div id="syncMount"></div>
     <div class="stat-cards">
       <div class="stat-card"><span class="stat-num" id="statTotal">0</span><span class="stat-label">Words total</span></div>
       <div class="stat-card"><span class="stat-num" id="statSeen">0</span><span class="stat-label">Started</span></div>
@@ -313,8 +314,9 @@
 <!-- Data is loaded as a plain global so the app also works from file:// (no fetch/CORS) -->
 <script src="data/words.js?v=0e628339"></script>
 <script src="data/grammar.js?v=f019e2f5"></script>
-<script src="assets/js/storage.js?v=8c99e422"></script>
+<script src="assets/js/storage.js?v=08b6bab6"></script>
 <script src="assets/js/srs.js?v=1fa0c48a"></script>
-<script src="assets/js/app.js?v=a61ef7f2"></script>
+<script src="/_sync/sync.js" defer></script>
+<script src="assets/js/app.js?v=2faf89e7"></script>
 </body>
 </html>
