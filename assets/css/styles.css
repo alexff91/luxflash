@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap');
 
 /* `display: grid/flex` on author CSS overrides the UA rule for [hidden];
    restore it so toggling the `hidden` attribute actually hides elements. */
@@ -369,3 +369,66 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(16px, 3vw, 30px); 
 @media (max-width: 620px) {
   .topbar { position: static; }
 }
+
+/* ---------------------------------------------------------------------------
+   October 2026: an index-card box instead of the violet app.
+   The words are studied on cards, so the card is drawn as one — cream stock,
+   the red header rule and the pale blue lines of a ruled index card, which
+   also happen to be the flag's colours. Everything around it is the shared
+   desk: cool paper, ink buttons, square edges, numbers in a monospace.
+   Written as overrides at the end so the old rules above stay readable.
+--------------------------------------------------------------------------- */
+:root {
+  --accent: #0b1622; --accent-press: #22323f; --accent-soft: #dfe6ec; --accent-2: #4a5966;
+  --bg: #e9edf1; --bg-elev: #f7f9fa; --surface: #ffffff; --text: #0b1622; --text-soft: #4a5966; --border: #c3ced8;
+  --shadow: 0 1px 0 rgba(11, 22, 34, .06); --shadow-lg: 0 18px 36px -22px rgba(11, 22, 34, .45);
+  --radius: 3px; --radius-sm: 2px; --easy: #0b1622; --on-accent: #ffffff;
+  --card-stock: #fffdf7; --card-rule: #cfe3f0;
+  --mono: 'DM Mono', ui-monospace, Menlo, monospace; --serif: 'Instrument Serif', Georgia, serif;
+}
+[data-theme="dark"] {
+  --bg: #0b1622; --bg-elev: #101c2a; --surface: #16232f; --text: #e9eef3; --text-soft: #93a3b1; --border: #2c3b48;
+  --accent: #e9eef3; --accent-press: #ffffff; --accent-soft: #1e2d3b; --on-accent: #0b1622;
+  --shadow: none; --shadow-lg: 0 18px 36px -22px rgba(0, 0, 0, .8);
+  --card-stock: #f3efe4; --card-rule: #c4d8e6;
+}
+body { background: var(--bg); }
+.topbar { background: color-mix(in srgb, var(--bg) 90%, transparent); }
+.brand-flag { border-radius: 0; box-shadow: inset 0 0 0 1px rgba(11, 22, 34, .25); }
+.tab { border-radius: 0; font-family: var(--mono); font-size: 13px; letter-spacing: .02em; }
+.tab.is-active { background: var(--accent); color: var(--on-accent); box-shadow: none; }
+.icon-btn { border-radius: 0; }
+.icon-btn:hover, .btn:hover { transform: none; }
+.chip { border-radius: 0; font-family: var(--mono); font-weight: 500; }
+.chip.on, .chip.on[data-level] { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
+.btn { border-radius: 0; font-family: var(--mono); font-weight: 500; letter-spacing: .02em; }
+.btn.primary { background: var(--accent); color: var(--on-accent); box-shadow: none; }
+.btn.danger { background: transparent; color: #b3261e; border-color: currentColor; }
+.queue-pill, .pos-tag, .level-tag { border-radius: 0 !important; font-family: var(--mono); }
+.box-bar { background: var(--accent); border-radius: 0; }
+
+/* the card itself */
+.flashcard-face { border-radius: 2px; border: 1px solid #d8d2c2; box-shadow: var(--shadow-lg); color: #14202c; }
+.flashcard-front, .flashcard-back {
+  background:
+    linear-gradient(#e0414e, #e0414e) 0 58px / 100% 1.5px no-repeat,
+    repeating-linear-gradient(to bottom, transparent 0 27px, var(--card-rule) 27px 28px) 0 59px / 100% calc(100% - 59px) no-repeat,
+    var(--card-stock);
+}
+.flashcard-face .pos-tag, .flashcard-face .level-tag { background: transparent; color: #4a5966; border: 1px solid #c9c1ad; }
+.headword { font-family: var(--serif); font-weight: 400; font-size: clamp(2.6rem, 10vw, 4.4rem); letter-spacing: -.01em; line-height: 1; color: #0b1622; }
+.headword-answer { color: #0b1622; font-style: italic; }
+.flashcard-face .subword, .flashcard-face .example, .flashcard-face .flip-hint { color: #3b4a57; }
+.flip-hint kbd { border-radius: 0; font-family: var(--mono); }
+
+/* the 30-day path link: a note pinned to the desk, not a blue slab */
+.path-banner { background: var(--surface); color: var(--text); border-radius: 0; border: 1px solid var(--border); border-left: 3px solid #e0414e; }
+.path-banner b { font-weight: 700; }
+.printed { border-radius: 0; background: var(--surface); }
+.tabs { border-radius: 0; background: transparent; border: 0; box-shadow: none; padding: 0; }
+/* the card is cream stock in both themes, so it carries its own ink */
+.flashcard-face { --text: #14202c; --text-soft: #3b4a57; --accent: #0b1622; --on-accent: #fff; --surface: #fff; --border: #c9c1ad; color: var(--text); }
+.flashcard-face .icon-btn, .flashcard-face .face-audio, .flashcard-face a { background: transparent; color: #14202c; border-color: #c9c1ad; border-radius: 0; }
+.grade { border-radius: 0; font-family: var(--mono); }
+.grade:hover { transform: none; }
+.grade.again, .grade.hard, .grade.good, .grade.easy { border-top-width: 2px; }
