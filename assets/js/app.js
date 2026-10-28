@@ -123,7 +123,10 @@
   function toggleLevel(lv) {
     var sel = LFStore.settings().levels.slice();
     var i = sel.indexOf(lv);
-    if (i >= 0) { if (sel.length > 1) sel.splice(i, 1); }
+    if (i >= 0) {
+      if (sel.length > 1) sel.splice(i, 1);
+      else { toast("At least one level stays on — pick another first."); return; }
+    }
     else sel.push(lv);
     LFStore.setSettings({ levels: sel });
     refreshChips(); buildSession(); nextCard();
@@ -325,10 +328,14 @@
     if ((window.speechSynthesis.getVoices() || []).length) go();
     else window.speechSynthesis.addEventListener("voiceschanged", go, { once: true });
   }
+  // Safari (every iPhone) cannot play Ogg Vorbis: there the first tap used to
+  // fail and fall back to a German browser voice. Ask the browser first, the
+  // way the path and drill pages already did.
+  var CAN_OGG = !!(document.createElement("audio").canPlayType || function () { return ""; }).call(document.createElement("audio"), 'audio/ogg; codecs="vorbis"');
   function lodAudioURLs(id) {
     id = String(id).toLowerCase();
-    return ["https://lod.lu/uploads/OGG/" + id + ".ogg",
-            "https://lod.lu/uploads/AAC/" + id + ".m4a"];
+    var ogg = "https://lod.lu/uploads/OGG/" + id + ".ogg", aac = "https://lod.lu/uploads/AAC/" + id + ".m4a";
+    return CAN_OGG ? [ogg, aac] : [aac, ogg];
   }
 
   // Keep a tiny cache of preloaded Audio elements so the 🔊 tap is instant.
@@ -423,8 +430,10 @@
       desc: "News, radio and TV in Luxembourgish — real-world listening and reading once you reach A2/B1." },
     { name: "lod-anki (open source)", url: "https://github.com/brunopacheco1/lod-anki", tag: "Anki decks",
       desc: "Community project that turns LOD content (with audio) into Anki flashcards — handy if you also use Anki." },
-    { name: "Sproochentest — naturalisation test", url: "https://www.sproochentest.lu/", tag: "Exam",
-      desc: "Official information about the spoken Luxembourgish test required for citizenship." },
+    { name: "Sproochentest — naturalisation test", url: "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/conditions-prealables.html", tag: "Exam",
+      desc: "Official conditions for citizenship on guichet.lu: the Sproochentest (A2 speaking, B1 listening), the fee and how to register with the INL." },
+    { name: "Generalprouf — rehearse the oral test", url: "https://generalprouf.alftech.space/", tag: "Speaking",
+      desc: "A dress rehearsal for the Sproochentest: the examiner asks in Luxembourgish, you answer out loud and hear yourself back. Thirty days, a picture part and mock exams." },
     { name: "LLO.lu — Lëtzebuergesch Léieren Online", url: "https://www.llo.lu/", tag: "Free official courses",
       desc: "The government's free e-learning platform (by the INL): full CEFR-structured courses A1–B2 with audio, speech-recognition exercises and live conversation tables." },
     { name: "INL — Institut National des Langues", url: "https://www.inll.lu/", tag: "Classes & exams",
@@ -477,7 +486,8 @@
       if (!q) return true;
       return (w.lb + " " + w.en + " " + (w.de || "") + " " + (w.fr || "") + " " + (w.ex_lb || "")).toLowerCase().indexOf(q) >= 0;
     });
-    $("#browseCount").textContent = rows.length + " word" + (rows.length === 1 ? "" : "s");
+    $("#browseCount").textContent = rows.length + " word" + (rows.length === 1 ? "" : "s") +
+      (rows.length > 600 ? " — showing the first 600; search or filter to narrow it down" : "");
     var grid = $("#wordGrid");
     grid.innerHTML = rows.slice(0, 600).map(function (w) {
       return '<div class="word-card">' +
@@ -485,10 +495,21 @@
         '<div class="wc-en">' + escapeHTML(w.en || "") + '</div>' +
         (w.ex_lb ? '<div class="wc-ex">' + boldWord(w.ex_lb, w.lb) + '</div>' : '') +
         '<div class="wc-foot"><span class="wc-cat">' + escapeHTML(w.category || w.pos || "") + '</span>' +
-        '<a class="mini-link" target="_blank" rel="noopener" href="' + lodURL(w.lb) + '">LOD ↗</a></div>' +
+        '<span class="wc-acts"><button class="mini-say" type="button" data-id="' + escapeHTML(w.id) + '" aria-label="Hear ' + escapeHTML(w.lb) + '">🔊</button>' +
+        '<a class="mini-link" target="_blank" rel="noopener" href="' + lodURL(w.lb) + '">LOD ↗</a></span></div>' +
         '</div>';
     }).join("");
-    if (rows.length > 600) grid.insertAdjacentHTML("beforeend", '<p class="muted">Showing first 600 — refine your search.</p>');
+    if (!grid.dataset.say) {
+      grid.dataset.say = "1";
+      grid.addEventListener("click", function (e) {
+        var b = e.target.closest && e.target.closest(".mini-say");
+        if (!b) return;
+        var w = WORDS.filter(function (x) { return x.id === b.dataset.id; })[0];
+        if (w) playAudio(w);
+      });
+    }
+    if (!rows.length) grid.innerHTML = '<p class="muted">No word matches. Try fewer letters, or clear the topic and level filters.</p>';
+    if (rows.length > 600) grid.insertAdjacentHTML("beforeend", '<p class="muted">Showing the first 600 — search or filter to see the rest.</p>');
   }
 
   /* ---------- stats ---------- */
@@ -523,7 +544,7 @@
     $("#boxChart").innerHTML = boxes.map(function (n, i) {
       var h = Math.round(n / max * 100);
       return '<div class="box-col"><div class="box-bar" style="height:' + h + '%" title="' + n + ' cards"></div>' +
-        '<span class="box-lab">' + (i === 0 ? "New" : "B" + i) + '</span></div>';
+        '<span class="box-lab">' + (i === 0 ? "Again" : "B" + i) + '</span></div>';
     }).join("");
   }
 

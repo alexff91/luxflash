@@ -1,0 +1,1316 @@
+{
+"": [],
+"Bestueden": [
+{
+"id": "BESTUEDEN1",
+"lb": "bestueden",
+"pos": "VRB"
+}
+],
+"Bremsen": [
+{
+"id": "BREMSEN1",
+"lb": "bremsen",
+"pos": "VRB"
+},
+{
+"id": "BREMS1",
+"lb": "Brems",
+"pos": "SUBST+F"
+}
+],
+"Béien": [
+{
+"id": "BEIEN1",
+"lb": "béien",
+"pos": "VRB"
+},
+{
+"id": "BEI3",
+"lb": "Béi",
+"pos": "SUBST+F"
+},
+{
+"id": "BEI1",
+"lb": "Bei",
+"pos": "SUBST+F"
+}
+],
+"Merci": [
+{
+"id": "MERCI1",
+"lb": "Merci",
+"pos": "SUBST+M"
+},
+{
+"id": "MERCI2",
+"lb": "merci",
+"pos": "INTERJ"
+},
+{
+"id": "VILLMOOLS1",
+"lb": "villmools",
+"pos": "ADV"
+},
+{
+"id": "ABEE1",
+"lb": "abee",
+"pos": "INTERJ"
+}
+],
+"Moien": [
+{
+"id": "MOIEN1",
+"lb": "Moien",
+"pos": "SUBST+M"
+},
+{
+"id": "MOIEN2",
+"lb": "moien",
+"pos": "INTERJ"
+}
+],
+"Moies": [
+{
+"id": "MOIES1",
+"lb": "moies",
+"pos": "ADV"
+}
+],
+"Mëschten": [
+{
+"id": "MESCHTEN1",
+"lb": "mëschten",
+"pos": "VRB"
+}
+],
+"Nei": [
+{
+"id": "NEIBRECK1",
+"lb": "Nei Bréck",
+"pos": "NP"
+},
+{
+"id": "NEIBRASILIEN1",
+"lb": "Nei Brasilien",
+"pos": "NP"
+},
+{
+"id": "NEIDELHI1",
+"lb": "Nei-Delhi",
+"pos": "NP"
+},
+{
+"id": "NEI1",
+"lb": "nei",
+"pos": "ADJ"
+},
+{
+"id": "AKZENT1",
+"lb": "Akzent",
+"pos": "SUBST+M"
+},
+{
+"id": "ORIENTEIEREN1",
+"lb": "orientéieren",
+"pos": "VRB"
+},
+{
+"id": "NEIEN1",
+"lb": "néien",
+"pos": "VRB"
+}
+],
+"Nein": [],
+"Nuddelen": [
+{
+"id": "NUDDELEN1",
+"lb": "nuddelen",
+"pos": "VRB"
+},
+{
+"id": "NUDDEL1",
+"lb": "Nuddel",
+"pos": "SUBST+F"
+}
+],
+"Reiwen": [
+{
+"id": "REIWEN1",
+"lb": "reiwen",
+"pos": "VRB"
+}
+],
+"Schmuel": [
+{
+"id": "SCHMUEL1",
+"lb": "schmuel",
+"pos": "ADJ"
+}
+],
+"Schwammen": [
+{
+"id": "SCHWAMMEN1",
+"lb": "schwammen",
+"pos": "VRB"
+},
+{
+"id": "SCHWAMM1",
+"lb": "Schwämm",
+"pos": "SUBST+F"
+},
+{
+"id": "STROUM1",
+"lb": "Stroum",
+"pos": "SUBST+M"
+}
+],
+"Wëllkomm": [
+{
+"id": "WELLKOMM1",
+"lb": "wëllkomm",
+"pos": "ADJ"
+}
+],
+"a": [
+{
+"id": "A2",
+"lb": "a",
+"pos": "INTERJ"
+},
+{
+"id": "APUNCTO1",
+"lb": "a puncto",
+"pos": "ADV"
+},
+{
+"id": "APUNKTO1",
+"lb": "a punkto",
+"pos": "ADV"
+},
+{
+"id": "ASTAND1",
+"lb": "a Stand",
+"pos": "ADV"
+},
+{
+"id": "ANTIGUAABARBUDA1",
+"lb": "Antigua a Barbuda",
+"pos": "NP+N"
+},
+{
+"id": "ASOUWEIDER1",
+"lb": "a sou weider",
+"pos": "PART"
+},
+{
+"id": "HOLABLO1",
+"lb": "hol a blo",
+"pos": "ADV"
+},
+{
+"id": "HOLLABLO1",
+"lb": "holl a blo",
+"pos": "ADV"
+},
+{
+"id": "JANNIAMANNI1",
+"lb": "Jänni a Männi",
+"pos": "PRON+INDEF"
+},
+{
+"id": "KLENGAMETTELBETRIBER1",
+"lb": "Kleng- a Mëttelbetriber",
+"pos": "SUBST+M"
+},
+{
+"id": "KRAIZAQUIER1",
+"lb": "kräiz a quier",
+"pos": "ADV"
+},
+{
+"id": "SAOTOMEAPRINCIPE1",
+"lb": "Sao Tomé a Principe",
+"pos": "NP+N"
+},
+{
+"id": "A1",
+"lb": "A",
+"pos": "SUBST+N"
+},
+{
+"id": "A3",
+"lb": "ä",
+"pos": "INTERJ"
+},
+{
+"id": "A4",
+"lb": "A",
+"pos": "SUBST+M"
+},
+{
+"id": "AJOUR1",
+"lb": "à jour",
+"pos": "ADV"
+},
+{
+"id": "ALA1",
+"lb": "à la",
+"pos": "PREP"
+},
+{
+"id": "APROPOS1",
+"lb": "à propos",
+"pos": "ADV"
+},
+{
+"id": "AWOCH1",
+"lb": "A-Woch",
+"pos": "SUBST+F"
+},
+{
+"id": "BARBEAPAPA1",
+"lb": "Barbe à papa",
+"pos": "SUBST+F"
+},
+{
+"id": "BOUCHEABOUCHE1",
+"lb": "Bouche-à-bouche",
+"pos": "SUBST+M"
+},
+{
+"id": "MENAGEATROIS1",
+"lb": "Ménage à trois",
+"pos": "SUBST+M"
+},
+{
+"id": "METIERARISQUE1",
+"lb": "Métier à risque",
+"pos": "SUBST+M"
+},
+{
+"id": "SALLEAMANGER1",
+"lb": "Salle à manger",
+"pos": "SUBST+F"
+},
+{
+"id": "TETEATETE1",
+"lb": "Tête-à-tête",
+"pos": "SUBST+M"
+},
+{
+"id": "VISAVIS1",
+"lb": "vis-à-vis",
+"pos": "PREP"
+},
+{
+"id": "VISAVIS2",
+"lb": "vis-à-vis",
+"pos": "ADV"
+},
+{
+"id": "VISAVIS3",
+"lb": "Vis-à-vis",
+"pos": "SUBST+M"
+},
+{
+"id": "BOUCHEEALAREINE1",
+"lb": "Bouchée à la reine",
+"pos": "SUBST+F"
+},
+{
+"id": "SALLEAMANGERSDESCH1",
+"lb": "Salle-à-mangers-Dësch",
+"pos": "SUBST+M"
+}
+],
+"an": [
+{
+"id": "AN2",
+"lb": "an",
+"pos": "CONJ"
+},
+{
+"id": "AN3",
+"lb": "an",
+"pos": "PREP"
+},
+{
+"id": "AN4",
+"lb": "an",
+"pos": "ADV"
+},
+{
+"id": "AN5",
+"lb": "an",
+"pos": "INTERJ"
+},
+{
+"id": "AN7",
+"lb": "an-",
+"pos": "VRBPART"
+},
+{
+"id": "ANANAUSGOEN1",
+"lb": "an- an ausgoen",
+"pos": "VRB"
+},
+{
+"id": "ANANAUSWENNEG1",
+"lb": "an- an auswenneg",
+"pos": "ADV"
+},
+{
+"id": "ANENGEMS1",
+"lb": "an engems",
+"pos": "ADV"
+},
+{
+"id": "ALLESANALLEM1",
+"lb": "alles an allem",
+"pos": "ADV"
+},
+{
+"id": "ANDERBUERG1",
+"lb": "an der Buerg",
+"pos": "NP"
+},
+{
+"id": "ANESOUWEIDER1",
+"lb": "an esou weider",
+"pos": "ADV"
+},
+{
+"id": "HINANHIER1",
+"lb": "Hin an Hier",
+"pos": "SUBST+MN"
+},
+{
+"id": "HINANHIERBEWEEGEN1",
+"lb": "hin- an hierbeweegen",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERFEIEREN1",
+"lb": "hin- an hierféieren",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERFEIEREN2",
+"lb": "hin- an hierféieren",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERFLEIEN1",
+"lb": "hin- an hierfléien",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERFUEREN1",
+"lb": "hin- an hierfueren",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERGEHEIEN1",
+"lb": "hin- an hiergeheien",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERGERAPPT1",
+"lb": "hin- an hiergerappt",
+"pos": "ADJ"
+},
+{
+"id": "HINANHIERGOEN1",
+"lb": "hin- an hiergoen",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERLAFEN1",
+"lb": "hin- an hierlafen",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERSCHECKEN1",
+"lb": "hin- an hierschécken",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERSPRANGEN1",
+"lb": "hin- an hiersprangen",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERTRANSPORTEIEREN1",
+"lb": "hin- an hiertransportéieren",
+"pos": "VRB"
+},
+{
+"id": "HINANHIERWANDEREN1",
+"lb": "hin- an hierwanderen",
+"pos": "VRB"
+},
+{
+"id": "HOTTANHAR1",
+"lb": "hott an har",
+"pos": "ADV"
+},
+{
+"id": "MIESSANERKENNUNGSDENGSCHT1",
+"lb": "Miess- an Erkennungsdéngscht",
+"pos": "SUBST+M"
+},
+{
+"id": "MONDANNUESESCHUTZ1",
+"lb": "Mond- an Nueseschutz",
+"pos": "SUBST+M"
+},
+{
+"id": "MONDANNUESSCHUTZ1",
+"lb": "Mond- an Nuesschutz",
+"pos": "SUBST+M"
+},
+{
+"id": "NOANNO1",
+"lb": "no an no",
+"pos": "ADV"
+},
+{
+"id": "TRINIDADANTOBAGO1",
+"lb": "Trinidad an Tobago",
+"pos": "NP+N"
+},
+{
+"id": "ANNULLKOMMANAISCHT1",
+"lb": "an null Komma näischt",
+"pos": "ADV"
+},
+{
+"id": "ANNULLKOMMANIX1",
+"lb": "an null Komma nix",
+"pos": "ADV"
+},
+{
+"id": "KILOMEETERANDERSTONN1",
+"lb": "Kilomeeter an der Stonn",
+"pos": "SUBST+M"
+},
+{
+"id": "KILOMETERANDERSTONN1",
+"lb": "Kilometer an der Stonn",
+"pos": "SUBST+M"
+},
+{
+"id": "STKITTSANNEVIS1",
+"lb": "St. Kitts an Nevis",
+"pos": "NP+N"
+},
+{
+"id": "STVINCENTANDGRENADINNEN1",
+"lb": "St. Vincent an d'Grenadinnen",
+"pos": "NP+N"
+},
+{
+"id": "AN1",
+"lb": "An",
+"pos": "SUBST+N"
+}
+],
+"bis": [
+{
+"id": "BIS1",
+"lb": "bis",
+"pos": "PREP"
+},
+{
+"id": "BIS2",
+"lb": "bis",
+"pos": "CONJ"
+},
+{
+"id": "BIS4",
+"lb": "bis",
+"pos": "PART"
+},
+{
+"id": "BIS3",
+"lb": "Bis",
+"pos": "SUBST+M"
+},
+{
+"id": "HANNEWIDDER1",
+"lb": "hannewidder",
+"pos": "ADV"
+},
+{
+"id": "ZULESCHT1",
+"lb": "zulescht",
+"pos": "ADV"
+},
+{
+"id": "DOHIN1",
+"lb": "dohin",
+"pos": "ADV"
+},
+{
+"id": "ENNENHIN1",
+"lb": "ënnenhin",
+"pos": "ADV"
+},
+{
+"id": "HANNENHIN1",
+"lb": "hannenhin",
+"pos": "ADV"
+},
+{
+"id": "UEWENHIN1",
+"lb": "uewenhin",
+"pos": "ADV"
+},
+{
+"id": "REECHEN1",
+"lb": "reechen",
+"pos": "VRB"
+},
+{
+"id": "VUN1",
+"lb": "vun",
+"pos": "PREP"
+},
+{
+"id": "STOMP1",
+"lb": "Stomp",
+"pos": "SUBST+M"
+},
+{
+"id": "WEIDER2",
+"lb": "weider",
+"pos": "ADJ"
+},
+{
+"id": "DUERCHSCHLOEN1",
+"lb": "duerchschloen",
+"pos": "VRB"
+},
+{
+"id": "GOEN1",
+"lb": "goen",
+"pos": "VRB"
+}
+],
+"de": [
+{
+"id": "DE1",
+"lb": "de",
+"pos": "PRON+PERS"
+},
+{
+"id": "DEFACTO1",
+"lb": "de facto",
+"pos": "ADV"
+},
+{
+"id": "AGENCEDEVOYAGE1",
+"lb": "Agence de voyage",
+"pos": "SUBST+F"
+},
+{
+"id": "ANGINEDEPOITRINE1",
+"lb": "Angine de poitrine",
+"pos": "SUBST+F"
+},
+{
+"id": "CHARGEDECOURS1",
+"lb": "Chargé de cours",
+"pos": "SUBST+M"
+},
+{
+"id": "CHARGEEDECOURS1",
+"lb": "Chargée de cours",
+"pos": "SUBST+F"
+},
+{
+"id": "CHEFDEGARE1",
+"lb": "Chef de gare",
+"pos": "SUBST+M"
+},
+{
+"id": "CHEFDEGARE2",
+"lb": "Chef de gare",
+"pos": "SUBST+F"
+},
+{
+"id": "CHOUDECHINE1",
+"lb": "Chou de Chine",
+"pos": "SUBST+M"
+},
+{
+"id": "CONGEDEMATERNITE1",
+"lb": "Congé de maternité",
+"pos": "SUBST+M"
+},
+{
+"id": "CONSEILDEDISCIPLINE1",
+"lb": "Conseil de discipline",
+"pos": "SUBST+M"
+},
+{
+"id": "CONSEILLERDEGOUVERNEMENT1",
+"lb": "Conseiller de gouvernement",
+"pos": "SUBST+M"
+},
+{
+"id": "CONSEILLEREDEGOUVERNEMENT1",
+"lb": "Conseillère de gouvernement",
+"pos": "SUBST+F"
+},
+{
+"id": "COURDECASSATION1",
+"lb": "Cour de cassation",
+"pos": "SUBST+F"
+},
+{
+"id": "EAUDEJAVEL1",
+"lb": "Eau de Javel",
+"pos": "SUBST+M"
+},
+{
+"id": "EAUDETOILETTE1",
+"lb": "Eau de toilette",
+"pos": "SUBST+MF"
+},
+{
+"id": "EAUDEVIE1",
+"lb": "Eau-de-vie",
+"pos": "SUBST+F"
+},
+{
+"id": "ETATDECRISE1",
+"lb": "État de crise",
+"pos": "SUBST+M"
+},
+{
+"id": "FONDDEGRAS1",
+"lb": "Fond de Gras",
+"pos": "NP"
+},
+{
+"id": "FRUITSDEMER1",
+"lb": "Fruits de mer",
+"pos": "SUBST"
+},
+{
+"id": "LETTREDEMOTIVATION1",
+"lb": "Lettre de motivation",
+"pos": "SUBST+F"
+},
+{
+"id": "LOUPDEMER1",
+"lb": "Loup de mer",
+"pos": "SUBST+M"
+},
+{
+"id": "ONZEDEBASE1",
+"lb": "Onze de base",
+"pos": "SUBST+M"
+},
+{
+"id": "POINTDEVUE1",
+"lb": "Point de vue",
+"pos": "SUBST+M"
+},
+{
+"id": "PROJETDELOI1",
+"lb": "Projet de loi",
+"pos": "SUBST+M"
+},
+{
+"id": "REZDECHAUSSEE1",
+"lb": "Rez-de-chaussée",
+"pos": "SUBST+M"
+},
+{
+"id": "RISDEVEAU1",
+"lb": "Ris de veau",
+"pos": "SUBST+M"
+},
+{
+"id": "SALLEDEREVEIL1",
+"lb": "Salle de réveil",
+"pos": "SUBST+F"
+},
+{
+"id": "SANTIAGODECHILE1",
+"lb": "Santiago de Chile",
+"pos": "NP"
+},
+{
+"id": "TABLEAUDEBORD1",
+"lb": "Tableau de bord",
+"pos": "SUBST+M"
+},
+{
+"id": "CENTREDESOINSAVANCES1",
+"lb": "Centre de soins avancés",
+"pos": "SUBST+M"
+},
+{
+"id": "CODEDELAROUTE1",
+"lb": "Code de la route",
+"pos": "SUBST+M"
+},
+{
+"id": "DELITDEGRANDEVITESSE1",
+"lb": "Délit de grande vitesse",
+"pos": "SUBST+M"
+},
+{
+"id": "MARECHALDELACOUR1",
+"lb": "Maréchal de la Cour",
+"pos": "SUBST+M"
+},
+{
+"id": "MARECHALEDELACOUR1",
+"lb": "Maréchale de la Cour",
+"pos": "SUBST+F"
+}
+],
+"den": [
+{
+"id": "DEN1",
+"lb": "den",
+"pos": "ART+DEF"
+},
+{
+"id": "DENHAAG1",
+"lb": "Den Haag",
+"pos": "NP"
+}
+],
+"en": [
+{
+"id": "EN1",
+"lb": "en",
+"pos": "PRON+PERS"
+},
+{
+"id": "EN2",
+"lb": "en",
+"pos": "ART+INDEF"
+},
+{
+"id": "ENANER2",
+"lb": "en aner",
+"pos": "PRON+INDEF"
+},
+{
+"id": "ENPLUS1",
+"lb": "en plus",
+"pos": "ADV"
+},
+{
+"id": "ENVUE1",
+"lb": "en vue",
+"pos": "ADV"
+},
+{
+"id": "VERBINDUNGSEN1",
+"lb": "Verbindungs-en",
+"pos": "SUBST+M"
+},
+{
+"id": "ENVUEVUN1",
+"lb": "en vue vun",
+"pos": "PREP"
+},
+{
+"id": "OPENNEITS1",
+"lb": "op en Neits",
+"pos": "ADV"
+}
+],
+"eng": [
+{
+"id": "ENG1",
+"lb": "eng",
+"pos": "ART+INDEF"
+},
+{
+"id": "ENG2",
+"lb": "eng",
+"pos": "PRON+INDEF"
+}
+],
+"eng Millioun": [
+{
+"id": "MILLIOUN1",
+"lb": "Millioun",
+"pos": "SUBST+F"
+}
+],
+"engem": [
+{
+"id": "ENGEM1",
+"lb": "engem",
+"pos": "ART+INDEF"
+},
+{
+"id": "ENGEM2",
+"lb": "engem",
+"pos": "PRON+INDEF"
+},
+{
+"id": "MOOSS2",
+"lb": "Mooss",
+"pos": "SUBST+N"
+},
+{
+"id": "ZULEEDS1",
+"lb": "zuleeds",
+"pos": "ADV"
+},
+{
+"id": "EEN2",
+"lb": "een",
+"pos": "NB+CARD"
+},
+{
+"id": "LAUSEN1",
+"lb": "lausen",
+"pos": "VRB"
+},
+{
+"id": "DAUSCHEN2",
+"lb": "dauschen",
+"pos": "VRB"
+},
+{
+"id": "HAUWEN1",
+"lb": "hauwen",
+"pos": "VRB"
+},
+{
+"id": "BLOSEN1",
+"lb": "blosen",
+"pos": "VRB"
+},
+{
+"id": "HAEN1",
+"lb": "haen",
+"pos": "VRB"
+},
+{
+"id": "OTEMZUCH1",
+"lb": "Otemzuch",
+"pos": "SUBST+M"
+},
+{
+"id": "AREIWEN1",
+"lb": "areiwen",
+"pos": "VRB"
+},
+{
+"id": "COUP1",
+"lb": "Coup",
+"pos": "SUBST+M"
+},
+{
+"id": "STECK1",
+"lb": "Stéck",
+"pos": "SUBST+N"
+},
+{
+"id": "ZOCH1",
+"lb": "Zoch",
+"pos": "SUBST+M"
+},
+{
+"id": "ZOCK1",
+"lb": "Zock",
+"pos": "SUBST+M"
+},
+{
+"id": "UNHANKEN1",
+"lb": "unhänken",
+"pos": "VRB"
+},
+{
+"id": "FLATSCHEN1",
+"lb": "flätschen",
+"pos": "VRB"
+},
+{
+"id": "LAFFELEN1",
+"lb": "läffelen",
+"pos": "VRB"
+},
+{
+"id": "WEITSCHEN1",
+"lb": "wéitschen",
+"pos": "VRB"
+},
+{
+"id": "OPHANKEN1",
+"lb": "ophänken",
+"pos": "VRB"
+},
+{
+"id": "SCHAREN1",
+"lb": "schären",
+"pos": "VRB"
+},
+{
+"id": "EROFMOOSSEN1",
+"lb": "erofmoossen",
+"pos": "VRB"
+},
+{
+"id": "PARTIE1",
+"lb": "Partie",
+"pos": "SUBST+F"
+},
+{
+"id": "STEBSEN1",
+"lb": "stëbsen",
+"pos": "VRB"
+},
+{
+"id": "STIICHTEN1",
+"lb": "stiichten",
+"pos": "VRB"
+},
+{
+"id": "BOOTSCHEN1",
+"lb": "bootschen",
+"pos": "VRB"
+},
+{
+"id": "DUNNEN1",
+"lb": "dunnen",
+"pos": "VRB"
+},
+{
+"id": "JAUWEN1",
+"lb": "jauwen",
+"pos": "VRB"
+},
+{
+"id": "KLAKEN1",
+"lb": "klaken",
+"pos": "VRB"
+},
+{
+"id": "KRECKELEN1",
+"lb": "kréckelen",
+"pos": "VRB"
+},
+{
+"id": "LAATSCHEN3",
+"lb": "laatschen",
+"pos": "VRB"
+},
+{
+"id": "MOULEN1",
+"lb": "moulen",
+"pos": "VRB"
+},
+{
+"id": "PRAFFEN1",
+"lb": "praffen",
+"pos": "VRB"
+},
+{
+"id": "TACHTELEN1",
+"lb": "tachtelen",
+"pos": "VRB"
+},
+{
+"id": "AUSWESCHEN1",
+"lb": "auswëschen",
+"pos": "VRB"
+},
+{
+"id": "DIKSEN1",
+"lb": "diksen",
+"pos": "VRB"
+},
+{
+"id": "FACHEN1",
+"lb": "fachen",
+"pos": "VRB"
+},
+{
+"id": "SPILLEN1",
+"lb": "spillen",
+"pos": "VRB"
+},
+{
+"id": "ZOUPETZEN1",
+"lb": "zoupëtzen",
+"pos": "VRB"
+},
+{
+"id": "KROPEN1",
+"lb": "kropen",
+"pos": "VRB"
+},
+{
+"id": "ZOUDRECKEN1",
+"lb": "zoudrécken",
+"pos": "VRB"
+},
+{
+"id": "ZOUHALEN1",
+"lb": "zouhalen",
+"pos": "VRB"
+}
+],
+"erfueren": [
+{
+"id": "ERFUEREN1",
+"lb": "erfueren",
+"pos": "ADJ"
+}
+],
+"halt": [
+{
+"id": "HALT3",
+"lb": "halt",
+"pos": "INTERJ"
+},
+{
+"id": "HALT1",
+"lb": "Halt",
+"pos": "SUBST+M"
+},
+{
+"id": "HALT2",
+"lb": "Halt",
+"pos": "SUBST+MF"
+},
+{
+"id": "NIDDERWAMPERHALT1",
+"lb": "Nidderwämper Halt",
+"pos": "NP"
+},
+{
+"id": "CAFEHALT1",
+"lb": "Café Halt",
+"pos": "NP"
+},
+{
+"id": "COLMERHALT1",
+"lb": "Colmer Halt",
+"pos": "NP"
+},
+{
+"id": "NIDDERWAMPICHHALT1",
+"lb": "Nidderwampich-Halt",
+"pos": "NP"
+},
+{
+"id": "HALEN1",
+"lb": "halen",
+"pos": "VRB"
+}
+],
+"laut": [
+{
+"id": "LAUT2",
+"lb": "laut",
+"pos": "PREP"
+},
+{
+"id": "LAUT1",
+"lb": "Laut",
+"pos": "SUBST+M"
+},
+{
+"id": "LAUDEN1",
+"lb": "lauden",
+"pos": "VRB"
+}
+],
+"lescht": [
+{
+"id": "LESCHT2",
+"lb": "lescht",
+"pos": "ADJ"
+},
+{
+"id": "LESCHT1",
+"lb": "Lëscht",
+"pos": "SUBST+F"
+},
+{
+"id": "TODOLESCHT1",
+"lb": "To-do-Lëscht",
+"pos": "SUBST+F"
+}
+],
+"merci": [
+{
+"id": "MERCI2",
+"lb": "merci",
+"pos": "INTERJ"
+},
+{
+"id": "MERCI1",
+"lb": "Merci",
+"pos": "SUBST+M"
+},
+{
+"id": "VILLMOOLS1",
+"lb": "villmools",
+"pos": "ADV"
+},
+{
+"id": "ABEE1",
+"lb": "abee",
+"pos": "INTERJ"
+}
+],
+"objektiv": [
+{
+"id": "OBJEKTIV2",
+"lb": "objektiv",
+"pos": "ADJ"
+},
+{
+"id": "OBJEKTIV1",
+"lb": "Objektiv",
+"pos": "SUBST+N"
+}
+],
+"wäit": [
+{
+"id": "WAIT2",
+"lb": "wäit",
+"pos": "ADV"
+},
+{
+"id": "WAIT1",
+"lb": "wäit",
+"pos": "ADJ"
+},
+{
+"id": "FORT1",
+"lb": "fort",
+"pos": "ADV"
+}
+],
+"wéi": [
+{
+"id": "WEI3",
+"lb": "wéi",
+"pos": "PRON+INT"
+},
+{
+"id": "WEI2",
+"lb": "wéi",
+"pos": "CONJ"
+},
+{
+"id": "WEI8",
+"lb": "wéi",
+"pos": "CONJ"
+},
+{
+"id": "WEI1",
+"lb": "wéi",
+"pos": "ADJ"
+},
+{
+"id": "WEI6",
+"lb": "Wéi",
+"pos": "SUBST+M"
+},
+{
+"id": "WEI4",
+"lb": "Wei",
+"pos": "SUBST+F"
+},
+{
+"id": "WEI5",
+"lb": "Wéi",
+"pos": "SUBST+F"
+},
+{
+"id": "WEI7",
+"lb": "Wéi",
+"pos": "SUBST+F"
+},
+{
+"id": "BRONGWEI1",
+"lb": "Brong Wei",
+"pos": "SUBST+F"
+},
+{
+"id": "LIEDCHEN1",
+"lb": "Liedchen",
+"pos": "SUBST+F"
+},
+{
+"id": "SUMMESCH1",
+"lb": "summesch",
+"pos": "ADV"
+},
+{
+"id": "ESOU1",
+"lb": "esou",
+"pos": "ADV"
+},
+{
+"id": "WANN2",
+"lb": "wann",
+"pos": "CONJ"
+},
+{
+"id": "USCHAIN1",
+"lb": "Uschäin",
+"pos": "SUBST+M"
+},
+{
+"id": "MOOSS2",
+"lb": "Mooss",
+"pos": "SUBST+N"
+},
+{
+"id": "WEIEN3",
+"lb": "wéien",
+"pos": "VRB"
+},
+{
+"id": "WEIEN2",
+"lb": "weien",
+"pos": "VRB"
+},
+{
+"id": "WEIEN1",
+"lb": "weien",
+"pos": "VRB"
+}
+],
+"wéineg": [
+{
+"id": "WEINEG1",
+"lb": "wéineg",
+"pos": "ADV"
+},
+{
+"id": "WEINEG2",
+"lb": "wéineg",
+"pos": "PRON+INDEF"
+},
+{
+"id": "HAERZLECH2",
+"lb": "häerzlech",
+"pos": "ADV"
+},
+{
+"id": "ROSEN4",
+"lb": "rosen",
+"pos": "ADV"
+}
+]
+}

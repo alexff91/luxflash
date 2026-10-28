@@ -42,12 +42,12 @@ window.LUXFLASH_GRAMMAR = [
       { type: "table",
         head: ["case", "masc.", "fem.", "neut.", "plural"],
         rows: [
-          ["nominative", "den", "d'", "d'", "d'"],
-          ["accusative", "den", "d'", "d'", "d'"],
+          ["nominative", "den / de", "d'", "d'", "d'"],
+          ["accusative", "den / de", "d'", "d'", "d'"],
           ["dative", "dem", "der", "dem", "den"]
         ]
       },
-      { type: "p", text: "Masculine and neuter look the same in nom./acc.; the dative is where forms really change." },
+      { type: "p", text: "In the nominative and accusative feminine, neuter and plural all take d'; the masculine is den, or de before most consonants (the n-rule keeps den before a vowel and before d, t, z, n and h). The dative is where the forms really change." },
       { type: "ex", lb: "Ech ginn dem Mann d'Buch.", en: "I give the man the book. (dative: dem Mann)" },
       { type: "ex", lb: "mat der Kaz, no der Schoul", en: "with the cat, after school (dative after prepositions)" }
     ]

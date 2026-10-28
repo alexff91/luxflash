@@ -554,19 +554,6 @@
   "lodId": "LEIFT1"
  },
  {
-  "lb": "Bestueden",
-  "en": "wedding, marriage",
-  "de": "Hochzeit",
-  "fr": "mariage",
-  "pos": "noun",
-  "gender": "n",
-  "level": "B1",
-  "category": "relationships",
-  "ex_lb": "Mir ginn d'nächst Woch bestuet.",
-  "ex_en": "We're getting married next week.",
-  "lodId": "BESTUEDEN1"
- },
- {
   "lb": "Koppel",
   "en": "couple",
   "de": "Paar",
@@ -1844,9 +1831,9 @@
   "gender": "",
   "level": "A1",
   "category": "greetings",
-  "ex_lb": "Mäi Papp mécht all Moien de Baart.",
-  "ex_en": "My dad shaves every morning.",
-  "lodId": "MOIEN1"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "MOIEN2"
  },
  {
   "lb": "Äddi",
@@ -1919,9 +1906,9 @@
   "gender": "",
   "level": "A1",
   "category": "greetings",
-  "ex_lb": "Als Merci krut ech e Fräibilljee.",
-  "ex_en": "As a thank-you I got a free ticket.",
-  "lodId": "MERCI1"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "MERCI2"
  },
  {
   "lb": "Wann ech gelift",
@@ -2044,9 +2031,8 @@
   "gender": "",
   "level": "A2",
   "category": "greetings",
-  "ex_lb": "Hei am Haus ass jidderee wëllkomm.",
-  "ex_en": "Everyone is welcome in this house.",
-  "lodId": "WELLKOMM1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "Vill Gléck",

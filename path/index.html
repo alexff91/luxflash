@@ -13,9 +13,14 @@
 <meta property="og:image" content="https://luxflash.alftech.space/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <style>
-  :root { --paper:#f5f7fa; --card:#fff; --ink:#111823; --soft:#5b6779; --line:#e3e8ef;
-    --accent:#00a1de; --accent-soft:#e6f6fc; --red:#ed2939; --ok:#0f8a4b;
-    --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  /* the corner café, as in the app: cream, Septfontaines blue, an awning (28 Oct 2026) */
+  @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lato:wght@400;700;900&display=swap");
+  :root { --paper:#fbeee0; --card:#fffaf0; --ink:#1d3346; --soft:#5b6470; --line:#ecd2bd;
+    --accent:#245877; --accent-soft:#e3edf3; --red:#b84638; --ok:#3f7d56;
+    --sans:Lato,-apple-system,"Segoe UI",Roboto,sans-serif; --serif:"Bree Serif",Georgia,serif; }
+  h1, h2, h3 { font-family:var(--serif); font-weight:400; }
+  body::before { content:""; display:block; height:22px; background:repeating-linear-gradient(90deg,#b84638 0 24px,#fff4d5 24px 48px);
+    -webkit-mask:linear-gradient(#000,#000) 0 0/100% 10px no-repeat,radial-gradient(12px 12px at 12px 10px,#000 98%,transparent) 0 0/24px 22px repeat-x; mask:linear-gradient(#000,#000) 0 0/100% 10px no-repeat,radial-gradient(12px 12px at 12px 10px,#000 98%,transparent) 0 0/24px 22px repeat-x; }
   * { box-sizing:border-box; }
   body { margin:0; background:var(--paper); color:var(--ink); font:17px/1.6 var(--sans); -webkit-font-smoothing:antialiased; }
   html[data-lang="ru"] .l-en, html:not([data-lang="ru"]) .l-ru { display:none !important; }
@@ -67,7 +72,7 @@
   .grid { display:grid; grid-template-columns:repeat(5,1fr); gap:8px; margin:18px 0; }
   .grid a { display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:62px; border-radius:12px;
     background:var(--card); border:1px solid var(--line); text-decoration:none; color:var(--ink); font-weight:700; }
-  .grid a small { font-weight:500; font-size:11px; color:var(--soft); }
+  .grid a small { font-weight:500; font-size:11px; color:var(--soft); text-align:center; line-height:1.2; padding:0 4px; overflow-wrap:anywhere; hyphens:auto; }
   .grid a.done { background:var(--ok); color:#fff; border-color:var(--ok); }
   .grid a.done small { color:#dff5e9; }
   .grid a.today { border:2px solid var(--accent); }
@@ -76,7 +81,7 @@
   .facts b { display:block; font-size:22px; }
   .facts span { font-size:13px; color:var(--soft); }
   footer { margin-top:30px; padding-top:16px; border-top:1px solid var(--line); color:var(--soft); font-size:13.5px; }
-  @media (max-width:520px) { .grid { grid-template-columns:repeat(5,1fr); gap:6px; } .facts { grid-template-columns:1fr; } }
+  @media (max-width:520px) { .grid { grid-template-columns:repeat(3,1fr); gap:6px; } .facts { grid-template-columns:1fr; } }
 </style>
 </head>
 <body data-day="0">

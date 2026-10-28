@@ -88,9 +88,14 @@ def shell(title, description, canonical, body):
 <meta name="robots" content="index, follow, max-snippet:-1">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 <style>
-  :root {{ --paper:#f5f7fa; --card:#fff; --ink:#111823; --soft:#5b6779; --line:#e3e8ef;
-    --accent:#00a1de; --accent-soft:#e6f6fc; --red:#ed2939;
-    --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }}
+  /* the corner café, as in the app: cream, Septfontaines blue, an awning (28 Oct 2026) */
+  @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lato:wght@400;700;900&display=swap");
+  :root {{ --paper:#fbeee0; --card:#fffaf0; --ink:#1d3346; --soft:#5b6470; --line:#ecd2bd;
+    --accent:#245877; --accent-soft:#e3edf3; --red:#b84638;
+    --sans:Lato,-apple-system,"Segoe UI",Roboto,sans-serif; --serif:"Bree Serif",Georgia,serif; }}
+  h1, h2, h3 {{ font-family:var(--serif); font-weight:400; }}
+  body::before {{ content:""; display:block; height:22px; background:repeating-linear-gradient(90deg,#b84638 0 24px,#fff4d5 24px 48px);
+    -webkit-mask:linear-gradient(#000,#000) 0 0/100% 10px no-repeat,radial-gradient(12px 12px at 12px 10px,#000 98%,transparent) 0 0/24px 22px repeat-x; mask:linear-gradient(#000,#000) 0 0/100% 10px no-repeat,radial-gradient(12px 12px at 12px 10px,#000 98%,transparent) 0 0/24px 22px repeat-x; }}
   * {{ box-sizing:border-box; }}
   body {{ margin:0; background:var(--paper); color:var(--ink); font:17px/1.6 var(--sans);
     -webkit-font-smoothing:antialiased; }}

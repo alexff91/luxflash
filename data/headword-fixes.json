@@ -2797,5 +2797,47 @@
   "gender": "f",
   "ex_lb": "Mam Wieder ass nach keng Besserung ze erwaarden.",
   "ex_en": "No improvement in the weather is expected yet."
+ },
+ {
+  "old": "d'Béien",
+  "en": "bow (archery)",
+  "drop": true,
+  "why": "28 Oct 2026: no LOD entry for this word with this meaning; the headword was invented by the generator"
+ },
+ {
+  "old": "de Moies",
+  "en": "breakfast time",
+  "drop": true,
+  "why": "28 Oct 2026: no LOD entry for this word with this meaning; the headword was invented by the generator"
+ },
+ {
+  "old": "de Reiwen",
+  "en": "boxing/wrestling",
+  "drop": true,
+  "why": "28 Oct 2026: no LOD entry for this word with this meaning; the headword was invented by the generator"
+ },
+ {
+  "old": "Schmuel",
+  "en": "moth",
+  "drop": true,
+  "why": "28 Oct 2026: no LOD entry for this word with this meaning; the headword was invented by the generator"
+ },
+ {
+  "old": "Mëschten",
+  "en": "mistletoe",
+  "drop": true,
+  "why": "28 Oct 2026: no LOD entry for this word with this meaning; the headword was invented by the generator"
+ },
+ {
+  "old": "Nei",
+  "en": "envy, jealousy",
+  "drop": true,
+  "why": "28 Oct 2026: no LOD entry for this word with this meaning; the headword was invented by the generator"
+ },
+ {
+  "old": "Bestueden",
+  "en": "wedding, marriage",
+  "drop": true,
+  "why": "28 Oct 2026: no LOD entry for this word with this meaning; the headword was invented by the generator"
  }
 ]

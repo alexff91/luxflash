@@ -2164,9 +2164,8 @@
   "gender": "n",
   "level": "A2",
   "category": "sport",
-  "ex_lb": "Déi iewescht Klasse ginn de Mëtteg schwammen.",
-  "ex_en": "The upper classes go swimming this afternoon.",
-  "lodId": "SCHWAMMEN1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "schwammen",
@@ -3369,19 +3368,6 @@
   "ex_lb": "Beim Äerdbiewe sinn d'Leit aus den Haiser gerannt.",
   "ex_en": "During the earthquake people ran out of their houses.",
   "lodId": "RENNEN1"
- },
- {
-  "lb": "de Reiwen",
-  "en": "boxing/wrestling",
-  "de": "das Ringen",
-  "fr": "la lutte",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B2",
-  "category": "sport",
-  "ex_lb": "De Reiwen ass e schwéiere Sport.",
-  "ex_en": "Wrestling is a hard sport.",
-  "lodId": "REIWEN1"
  },
  {
   "lb": "d'Gymnastik",

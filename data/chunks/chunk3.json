@@ -191,8 +191,7 @@
   "level": "A1",
   "category": "food",
   "ex_lb": "",
-  "ex_en": "",
-  "lodId": "NUDDELEN1"
+  "ex_en": ""
  },
  {
   "lb": "d'Zalot",
@@ -595,19 +594,6 @@
   "ex_lb": "Mir sinn den Owend op e Cocktail invitéiert.",
   "ex_en": "We're invited to a reception tonight.",
   "lodId": "COCKTAIL1"
- },
- {
-  "lb": "de Moies",
-  "en": "breakfast time",
-  "de": "der Morgen",
-  "fr": "le matin",
-  "pos": "noun",
-  "gender": "m",
-  "level": "A2",
-  "category": "meal",
-  "ex_lb": "Dës Verwaltung ass nëmme moies op.",
-  "ex_en": "This office is only open in the mornings.",
-  "lodId": "MOIES1"
  },
  {
   "lb": "d'Moiesiessen",
@@ -1148,9 +1134,9 @@
   "gender": "",
   "level": "A2",
   "category": "quantity",
-  "ex_lb": "De leschte Mount ass wéineg Ree gefall.",
-  "ex_en": "Little rain fell last month.",
-  "lodId": "WEINEG2"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "WEINEG1"
  },
  {
   "lb": "genuch",

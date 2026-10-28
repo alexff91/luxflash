@@ -71,6 +71,17 @@ def clean(entry):
     return out
 
 
+GEN = json.load(open(os.path.join(ROOT, "data", "lod-genders.json"))) if os.path.exists(os.path.join(ROOT, "data", "lod-genders.json")) else {}
+
+
+def rank(e):
+    """How good a card is as the one card for its word."""
+    lb, g = e["lb"], GEN.get(e.get("lodId") or "", "")
+    art = "fn" if lb.startswith("d'") else "m" if re.match(r"^(de|den) ", lb) else ""
+    agrees = bool(art) and bool(g) and any(x in g for x in (["F", "N"] if art == "fn" else ["M"]))
+    return (agrees, bool(art), bool(e["ex_lb"]))
+
+
 def main():
     files = sorted(glob.glob(CHUNK_GLOB))
     if not files:
@@ -92,8 +103,20 @@ def main():
             if not e:
                 dropped += 1
                 continue
-            key = (norm(e["lb"]), e["pos"])
+            # One card per word. The key used to be the spelling, so "d'Famill"
+            # and "Famill", or "d'Glas" and "de Glas", were two cards for one
+            # LOD entry (88 such pairs on 28 Oct 2026). Now the LOD entry is the
+            # key where there is one; of two cards the one whose article agrees
+            # with LOD's gender wins, then the one with an article.
+            key = (e.get("lodId") or norm(re.sub(r"^(d'|den |de |déi )", "", e["lb"], flags=re.I)), e["pos"])
             if key in seen:
+                old = seen[key]
+                if rank(e) > rank(old):
+                    if not e["ex_lb"] and old["ex_lb"]:
+                        e["ex_lb"], e["ex_en"] = old["ex_lb"], old["ex_en"]
+                    seen[key] = e
+                elif not old["ex_lb"] and e["ex_lb"]:
+                    old["ex_lb"], old["ex_en"] = e["ex_lb"], e["ex_en"]
                 dropped += 1
                 continue
             seen[key] = e

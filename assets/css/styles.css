@@ -467,3 +467,13 @@ h1, h2, h3, .brand-text h1 { font-family: 'Bree Serif', Georgia, serif; font-wei
 .path-banner { background: #24382f; color: #fdf6e3; border: 0; border-radius: 14px; box-shadow: inset 0 0 0 4px #24382f, inset 0 0 0 6px #8a6a44; }
 .path-banner b { font-family: 'Bree Serif', serif; font-weight: 400; font-size: 17px; }
 .printed { border-radius: 14px; background: var(--cream); border-color: var(--border); }
+
+/* phone: the awning and tabs scroll away instead of covering a quarter of the screen */
+@media (max-width: 700px) {
+  .topbar { position: relative; flex-wrap: wrap; }
+  .tabs { order: 3; width: 100%; flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; gap: 4px; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { flex: none; }
+}
+.wc-acts { display: inline-flex; align-items: center; gap: 6px; }
+.mini-say { border: 1px solid var(--border); background: var(--surface); border-radius: 999px; min-width: 40px; min-height: 36px; cursor: pointer; }

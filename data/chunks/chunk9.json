@@ -1244,32 +1244,6 @@
   "lodId": "FRASCH1"
  },
  {
-  "lb": "Schmuel",
-  "en": "moth",
-  "de": "Motte",
-  "fr": "papillon de nuit",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B2",
-  "category": "nature",
-  "ex_lb": "De Camion kënnt net duerch déi schmuel Afaart an den Haff.",
-  "ex_en": "The lorry can't get through the narrow entrance into the yard.",
-  "lodId": "SCHMUEL1"
- },
- {
-  "lb": "Mëschten",
-  "en": "mistletoe",
-  "de": "Mistel",
-  "fr": "gui",
-  "pos": "noun",
-  "gender": "f",
-  "level": "B2",
-  "category": "nature",
-  "ex_lb": "",
-  "ex_en": "",
-  "lodId": "MESCHTEN1"
- },
- {
   "lb": "Brennnessel",
   "en": "nettle",
   "de": "Brennnessel",
@@ -1621,19 +1595,6 @@
   "lodId": "OFNEIGUNG1"
  },
  {
-  "lb": "Nei",
-  "en": "envy, jealousy",
-  "de": "Neid",
-  "fr": "envie, jalousie",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B2",
-  "category": "emotion",
-  "ex_lb": "Ech hu mer an der Vakanz en neie Bikini kaaft.",
-  "ex_en": "I bought myself a new bikini on holiday.",
-  "lodId": "NEI1"
- },
- {
   "lb": "Roserei",
   "en": "rage, fury",
   "de": "Wut",
@@ -1941,9 +1902,9 @@
   "gender": "",
   "level": "B2",
   "category": "philosophy",
-  "ex_lb": "Mir brauchen eng objektiv Analys.",
-  "ex_en": "We need an objective analysis.",
-  "lodId": "OBJEKTIV1"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "OBJEKTIV2"
  },
  {
   "lb": "subjektiv",

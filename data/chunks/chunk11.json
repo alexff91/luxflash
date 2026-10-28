@@ -294,8 +294,7 @@
   "level": "A2",
   "category": "car",
   "ex_lb": "",
-  "ex_en": "",
-  "lodId": "BREMSEN1"
+  "ex_en": ""
  },
  {
   "lb": "d'Steierrad",
@@ -1857,19 +1856,6 @@
   "ex_lb": "De Bijoutier huet eng schéi gëlle Brosch an der Fënster leien.",
   "ex_en": "The jeweller has a beautiful gold brooch in the window.",
   "lodId": "BROSCH1"
- },
- {
-  "lb": "d'Béien",
-  "en": "bow (archery)",
-  "de": "der Bogen",
-  "fr": "l'arc",
-  "pos": "noun",
-  "gender": "m",
-  "level": "B1",
-  "category": "sport",
-  "ex_lb": "Hie schéisst mam Béien op d'Zil.",
-  "ex_en": "He shoots with the bow at the target.",
-  "lodId": "BEIEN1"
  },
  {
   "lb": "d'Stäip",

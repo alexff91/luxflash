@@ -2741,9 +2741,9 @@
   "gender": "",
   "level": "B1",
   "category": "clothes",
-  "ex_lb": "Ech hu mer erlaabt eranzekommen, d'Hausdier stoung wäit op.",
-  "ex_en": "I took the liberty of coming in, the front door was wide open.",
-  "lodId": "WAIT2"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "WAIT1"
  },
  {
   "lb": "laang",

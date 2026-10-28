@@ -3707,9 +3707,9 @@
   "gender": "",
   "level": "A1",
   "category": "directions",
-  "ex_lb": "Mir waarde mam Iessen, bis (datt) eis Gäscht all ukomm sinn.",
-  "ex_en": "We'll wait with the meal until all our guests have arrived.",
-  "lodId": "BIS2"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "BIS1"
  },
  {
   "lb": "vun",

@@ -1488,9 +1488,9 @@
   "gender": "",
   "level": "A1",
   "category": "question",
-  "ex_lb": "Wéi kann ech Iech hëllefen?",
-  "ex_en": "How can I help you?",
-  "lodId": "WEI3"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "WEI1"
  },
  {
   "lb": "wouhin",
@@ -1514,9 +1514,9 @@
   "gender": "",
   "level": "A1",
   "category": "conjunction",
-  "ex_lb": "Mir ass eng Méck an d'A geflunn.",
-  "ex_en": "A fly flew into my eye.",
-  "lodId": "A1"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "AN2"
  },
  {
   "lb": "oder",
@@ -1644,9 +1644,8 @@
   "gender": "",
   "level": "A1",
   "category": "article",
-  "ex_lb": "De Film dauert annerhallef Stonn.",
-  "ex_en": "The film lasts an hour and a half.",
-  "lodId": "DEN1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "d'",
@@ -1657,9 +1656,8 @@
   "gender": "",
   "level": "A1",
   "category": "article",
-  "ex_lb": "Maach d'Fënster zou!",
-  "ex_en": "Close the window!",
-  "lodId": "D1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "de",
@@ -1670,9 +1668,8 @@
   "gender": "",
   "level": "A1",
   "category": "article",
-  "ex_lb": "De Mann schafft.",
-  "ex_en": "The man works.",
-  "lodId": "DE1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "en",
@@ -1683,9 +1680,8 @@
   "gender": "",
   "level": "A1",
   "category": "article",
-  "ex_lb": "En Hond leeft do.",
-  "ex_en": "A dog runs there.",
-  "lodId": "EN1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "eng",
@@ -1696,9 +1692,8 @@
   "gender": "",
   "level": "A1",
   "category": "article",
-  "ex_lb": "Eng Fra steet do.",
-  "ex_en": "A woman stands there.",
-  "lodId": "ENG1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "engem",
@@ -1709,9 +1704,8 @@
   "gender": "",
   "level": "A2",
   "category": "article",
-  "ex_lb": "De Brigang gouf vun engem Kompliz verroden.",
-  "ex_en": "The bandit was betrayed by an accomplice.",
-  "lodId": "ENGEM1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "an",
@@ -2411,9 +2405,8 @@
   "gender": "",
   "level": "A2",
   "category": "number",
-  "ex_lb": "D'Entreprise huet d'lescht Joer en Ëmsaz vu ronn dräi Milliounen Euro gemaach.",
-  "ex_en": "Last year the company had a turnover of around three million euros.",
-  "lodId": "MILLIOUN1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "éischten",
@@ -2484,9 +2477,8 @@
   "gender": "",
   "level": "A2",
   "category": "number",
-  "ex_lb": "Hie muss ëmmer dat lescht Wuert hunn.",
-  "ex_en": "He always has to have the last word.",
-  "lodId": "LESCHT2"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "jo",
@@ -2899,9 +2891,9 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "De leschte Mount ass wéineg Ree gefall.",
-  "ex_en": "Little rain fell last month.",
-  "lodId": "WEINEG2"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "WEINEG1"
  },
  {
   "lb": "e bëssen",
@@ -3258,9 +3250,8 @@
   "gender": "",
   "level": "B1",
   "category": "particle",
-  "ex_lb": "Dat ass halt esou.",
-  "ex_en": "That's just how it is.",
-  "lodId": "HALT1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "net wouer",
@@ -3335,9 +3326,8 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "Schwätz net esou laut.",
-  "ex_en": "Don't speak so loudly.",
-  "lodId": "LAUT1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "roueg",
@@ -3953,9 +3943,9 @@
   "gender": "",
   "level": "A1",
   "category": "particle",
-  "ex_lb": "Als Merci krut ech e Fräibilljee.",
-  "ex_en": "As a thank-you I got a free ticket.",
-  "lodId": "MERCI1"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "MERCI2"
  },
  {
   "lb": "vläicht",

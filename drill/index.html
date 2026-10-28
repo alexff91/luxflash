@@ -96,7 +96,7 @@
 </head>
 <body>
 <main>
-  <div class="top"><b id="title">Проверить себя</b><span id="count"></span></div>
+  <div class="top"><b id="title" data-i="title">Проверить себя</b><span id="count"></span></div>
   <div class="bar"><i id="fill"></i></div>
 
   <section class="card" id="cardView">
@@ -104,37 +104,37 @@
     <div class="word" id="front">…</div>
     <div class="meta" id="meta"></div>
     <div class="status hidden" id="status"></div>
-    <button class="say hidden" id="say" type="button">▶ Послушать</button>
+    <button class="say hidden" id="say" type="button" data-i="listen">▶ Послушать</button>
     <div class="answer hidden" id="answer">
       <div class="tr" id="back"></div>
       <div class="ex" id="ex"></div>
-      <button class="say hidden" id="sayEx" type="button">▶ Пример</button>
+      <button class="say hidden" id="sayEx" type="button" data-i="example">▶ Пример</button>
       <div class="exen" id="exen"></div>
       <div class="forms hidden" id="forms"></div>
     </div>
   </section>
-  <button class="big show" id="showBtn" type="button">Показать ответ</button>
+  <button class="big show" id="showBtn" type="button" data-i="show">Показать ответ</button>
   <div class="row hidden" id="grade">
-    <button class="big no" id="noBtn" type="button">Не знаю</button>
-    <button class="big mid" id="midBtn" type="button">Учу</button>
-    <button class="big yes" id="yesBtn" type="button">Знаю</button>
+    <button class="big no" id="noBtn" type="button" data-i="no">Не знаю</button>
+    <button class="big mid" id="midBtn" type="button" data-i="mid">Учу</button>
+    <button class="big yes" id="yesBtn" type="button" data-i="yes">Знаю</button>
   </div>
 
   <section class="card done hidden" id="doneView">
-    <h1 id="doneTitle">Готово</h1>
+    <h1 id="doneTitle" data-i="done">Готово</h1>
     <div class="stats">
-      <div><b id="sKnow">0</b><span>знаю</span></div>
-      <div><b id="sMid">0</b><span>учу</span></div>
-      <div><b id="sAgain">0</b><span>не знаю</span></div>
+      <div><b id="sKnow">0</b><span data-i="sKnow">знаю</span></div>
+      <div><b id="sMid">0</b><span data-i="sMid">учу</span></div>
+      <div><b id="sAgain">0</b><span data-i="sNo">не знаю</span></div>
     </div>
-    <b>Всего в колоде</b>
+    <b data-i="deck">Всего в колоде</b>
     <div class="stats two">
-      <div><b id="sLearned">0</b><span>выучено</span></div>
-      <div><b id="sLearning">0</b><span>в работе</span></div>
+      <div><b id="sLearned">0</b><span data-i="sLearned">выучено</span></div>
+      <div><b id="sLearning">0</b><span data-i="sLearning">в работе</span></div>
     </div>
-    <div id="missWrap" class="hidden"><b>Вернутся завтра:</b><ul class="miss" id="miss"></ul></div>
+    <div id="missWrap" class="hidden"><b data-i="back">Вернутся завтра:</b><ul class="miss" id="miss"></ul></div>
     <p class="note" id="nextNote"></p>
-    <button class="big show" id="closeBtn" type="button">Закрыть</button>
+    <button class="big show" id="closeBtn" type="button" data-i="close">Закрыть</button>
     <p class="note" id="where"></p>
   </section>
 </main>
@@ -146,6 +146,43 @@ var cloud = inTelegram && tg.isVersionAtLeast && tg.isVersionAtLeast('6.9') ? tg
 if (tg) { try { tg.ready(); tg.expand(); } catch (e) {} }
 
 var $ = function (id) { return document.getElementById(id); };
+
+// ── interface language ──
+// The drill began as the Russian lesson bot's. English readers of the public
+// 30-day path come here too (#ui=en, or an English Telegram / browser).
+var UI = (function () {
+  var h = new URLSearchParams(location.hash.slice(1)).get('ui');
+  if (h === 'en' || h === 'ru') return h;
+  var l = (tg && tg.initDataUnsafe && tg.initDataUnsafe.user && tg.initDataUnsafe.user.language_code) || navigator.language || 'ru';
+  return /^(ru|uk|be|kk)/i.test(l) ? 'ru' : 'en';
+})();
+var I = {
+  title: ['Проверить себя', 'Check yourself'], listen: ['▶ Послушать', '▶ Listen'], example: ['▶ Пример', '▶ Example'],
+  show: ['Показать ответ', 'Show the answer'], no: ['Не знаю', "Don't know"], mid: ['Учу', 'Learning'], yes: ['Знаю', 'Know it'],
+  done: ['Готово', 'Done'], sKnow: ['знаю', 'know'], sMid: ['учу', 'learning'], sNo: ['не знаю', "don't know"],
+  deck: ['Всего в колоде', 'The whole deck'], sLearned: ['выучено', 'learned'], sLearning: ['в работе', 'in progress'],
+  back: ['Вернутся завтра:', 'Back tomorrow:'], close: ['Закрыть', 'Close'],
+  askPf: ['Прошедшее время (Perfekt)', 'Past tense (Perfekt)'], askPr: ['Настоящее время', 'Present tense'],
+  askPt: ['Простое прошедшее (Präteritum)', 'Simple past (Präteritum)'], askPl: ['Множественное число', 'Plural'], askCp: ['Сравнительная степень', 'Comparative'],
+  lesson: ['Урок ', 'Lesson '], plusReview: [' + повторение', ' + review'], review: ['Повторение', 'Review'],
+  stNew: ['новое', 'new'], stDone: ['выучено', 'learned'], stLearn: ['учу · ', 'learning · '], stOf: [' из ', ' of '], stMissed: ['не знал(а) в прошлый раз', 'missed last time'],
+  now: ['сейчас', 'now'], sep: ['отделяемая приставка', 'separable prefix'], pl: ['мн. ч.', 'plural'], withNoun: ['с сущ.', 'with a noun'],
+  degrees: ['степени', 'degrees'], plur: ['мн', 'pl'], formsSrc: ['формы из словаря LOD', 'forms from the LOD dictionary'],
+  dirLb: ['Как это по-люксембургски?', 'How do you say it in Luxembourgish?'], dirMean: ['Что это значит?', 'What does it mean?'],
+  exTatoeba: [' · пример из Tatoeba', ' · example from Tatoeba'], exLod: [' · пример из словаря LOD', ' · example from the LOD dictionary'],
+  nothing: ['Сегодня повторять нечего', 'Nothing to review today'], allKnown: ['Всё знаешь', 'You knew them all'],
+  tomorrow: ['Завтра на повторение: ', 'Tomorrow, to review: '], showOldest: [' (покажу {n} самых давних)', ' (the {n} oldest will be shown)'],
+  rule: ['. «Знаю» с первого раза — сразу в выученные, проверю через неделю; иначе слово выучено после трёх «знаю» в разные дни.',
+         '. "Know it" the first time puts a word straight into learned, checked again in a week; otherwise a word is learned after three "know it" on different days.'],
+  whereTg: ['Прогресс хранится в вашем Telegram — на всех устройствах.', 'Your progress is kept in your Telegram account, on every device.'],
+  whereLocal: ['Прогресс хранится в этом браузере.', 'Your progress is kept in this browser.'],
+  loadFail: ['Не загрузился список слов — попробуйте ещё раз.', 'The word list did not load — try again.'],
+};
+function L(k) { var v = I[k]; return v ? v[UI === 'en' ? 1 : 0] : k; }
+function nWords(n) { return UI === 'en' ? n + (n === 1 ? ' word' : ' words') : n + ' ' + plural(n, 'слово', 'слова', 'слов'); }
+document.documentElement.lang = UI;
+Array.prototype.forEach.call(document.querySelectorAll('[data-i]'), function (el) { el.textContent = L(el.getAttribute('data-i')); });
+
 var DAY = 86400000;
 var STEPS = [1, 3, 7, 14, 30, 60];     // days until the next showing, by box
 var LEARNED = 3;                        // box from which a word counts as learned
@@ -240,17 +277,17 @@ function formCard(w, kind) {
   var c = { id: w.id + '~' + kind, word: w, kind: kind };
   if (kind === 'pf' && f.perf) {
     var k = f.perf[0] ? 0 : 2;
-    c.ask = 'Прошедшее время (Perfekt)'; c.q = PRON[k] + ' … (' + w.lb + ')';
+    c.ask = L('askPf'); c.q = PRON[k] + ' … (' + w.lb + ')';
     c.a = PRON[k] + ' ' + f.perf[k]; c.hint = (f.aux ? f.aux + ' + ' : '') + (f.pp || '');
   } else if (kind === 'pr' && f.pres) {
     var p = f.pres[1] ? 1 : 2;
-    c.ask = 'Настоящее время'; c.q = PRON[p] + ' … (' + w.lb + ')'; c.a = PRON[p] + ' ' + f.pres[p];
+    c.ask = L('askPr'); c.q = PRON[p] + ' … (' + w.lb + ')'; c.a = PRON[p] + ' ' + f.pres[p];
   } else if (kind === 'pt' && f.past) {
-    c.ask = 'Простое прошедшее (Präteritum)'; c.q = 'ech … (' + w.lb + ')'; c.a = 'ech ' + f.past[0];
+    c.ask = L('askPt'); c.q = 'ech … (' + w.lb + ')'; c.a = 'ech ' + f.past[0];
   } else if (kind === 'pl' && f.pl) {
-    c.ask = 'Множественное число'; c.q = article(w) + w.lb + ' → …'; c.a = "d'" + f.pl[0];
+    c.ask = L('askPl'); c.q = article(w) + w.lb + ' → …'; c.a = "d'" + f.pl[0];
   } else if (kind === 'cp' && f.comp) {
-    c.ask = 'Сравнительная степень'; c.q = w.lb + ' → …'; c.a = f.comp + (f.sup ? ' · ' + f.sup : '');
+    c.ask = L('askCp'); c.q = w.lb + ' → …'; c.a = f.comp + (f.sup ? ' · ' + f.sup : '');
   } else return null;
   return c;
 }
@@ -304,17 +341,17 @@ function start(words) {
       });
   }
   queue = lesson.concat(due, forms);
-  $('title').textContent = lessonNo ? 'Урок ' + lessonNo + (due.length || forms.length ? ' + повторение' : '') : 'Повторение';
+  $('title').textContent = lessonNo ? L('lesson') + lessonNo + (due.length || forms.length ? L('plusReview') : '') : L('review');
   if (!queue.length) return finish(true);
   show();
 }
 
 function statusOf(id) {
   var p = prog[id];
-  if (!p) return ['новое', ''];
-  if (p[0] >= LEARNED) return ['выучено', 'done'];
-  if (p[0] >= 1) return ['учу · ' + p[0] + ' из ' + LEARNED, 'learn'];
-  return ['не знал(а) в прошлый раз', 'learn'];
+  if (!p) return [L('stNew'), ''];
+  if (p[0] >= LEARNED) return [L('stDone'), 'done'];
+  if (p[0] >= 1) return [L('stLearn') + p[0] + L('stOf') + LEARNED, 'learn'];
+  return [L('stMissed'), 'learn'];
 }
 
 function esc(t) { return String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
@@ -325,7 +362,7 @@ function formsHtml(w) {
   if (!f || LANG !== 'lb') return '';
   var out = [];
   if (f.pres || f.perf) {
-    var rows = '<span class="h"></span><span class="h">сейчас</span><span class="h">Perfekt</span>';
+    var rows = '<span class="h"></span><span class="h">' + L('now') + '</span><span class="h">Perfekt</span>';
     for (var i = 0; i < 6; i++) {
       rows += '<span class="p">' + esc(PRON[i].split(' / ')[0]) + '</span><span>' + esc((f.pres || [])[i] || '') + '</span><span>' + esc((f.perf || [])[i] || '') + '</span>';
     }
@@ -333,13 +370,13 @@ function formsHtml(w) {
     var line = [];
     if (f.past) line.push('Präteritum: ech ' + f.past[0] + ', hien ' + f.past[2]);
     if (f.imp && (f.imp[0] || f.imp[1])) line.push('Imperativ: ' + f.imp.filter(Boolean).join(' · '));
-    if (f.sep) line.push('отделяемая приставка');
+    if (f.sep) line.push(L('sep'));
     if (line.length) out.push('<div>' + esc(line.join(' · ')) + '</div>');
   }
-  if (f.pl) out.push('<div><span class="k">мн. ч.</span> d\'' + esc(f.pl[0]) + '</div>');
-  if (f.decl) out.push('<div><span class="k">с сущ.</span> m ' + esc(f.decl.m) + ' · f ' + esc(f.decl.f) + ' · n ' + esc(f.decl.n) + ' · мн ' + esc(f.decl.pl) + '</div>');
-  if (f.comp) out.push('<div><span class="k">степени</span> ' + esc(f.comp) + (f.sup ? ' · ' + esc(f.sup) : '') + '</div>');
-  return out.length ? out.join('') + '<div class="exen">формы из словаря LOD</div>' : '';
+  if (f.pl) out.push('<div><span class="k">' + L('pl') + '</span> d\'' + esc(f.pl[0]) + '</div>');
+  if (f.decl) out.push('<div><span class="k">' + L('withNoun') + '</span> m ' + esc(f.decl.m) + ' · f ' + esc(f.decl.f) + ' · n ' + esc(f.decl.n) + ' · ' + L('plur') + ' ' + esc(f.decl.pl) + '</div>');
+  if (f.comp) out.push('<div><span class="k">' + L('degrees') + '</span> ' + esc(f.comp) + (f.sup ? ' · ' + esc(f.sup) : '') + '</div>');
+  return out.length ? out.join('') + '<div class="exen">' + L('formsSrc') + '</div>' : '';
 }
 
 function show() {
@@ -366,13 +403,13 @@ function show() {
     // meaning to the Luxembourgish, which is the harder half of knowing it.
     reverse = !!(p && p[0] >= 2);
     var lb = article(cur) + cur.lb;
-    $('dir').textContent = reverse ? 'Как это по-люксембургски?' : 'Что это значит?';
-    var meaning = cur.ru ? cur.ru + (cur.en ? ' (' + cur.en + ')' : '') : cur.en;
+    $('dir').textContent = reverse ? L('dirLb') : L('dirMean');
+    var meaning = UI === 'en' ? (cur.en || cur.ru) : (cur.ru ? cur.ru + (cur.en ? ' (' + cur.en + ')' : '') : cur.en);
     $('front').textContent = reverse ? meaning : lb;
     $('meta').textContent = reverse ? '' : [cur.pos, cur.gender ? '(' + cur.gender + ')' : '', cur.level].filter(Boolean).join(' · ');
     $('back').textContent = reverse ? lb : meaning;
     $('ex').textContent = cur.ex ? cur.ex.lb : '';
-    $('exen').textContent = cur.ex ? (cur.ex.ru || '') + (LANG === 'fr' ? ' · пример из Tatoeba' : ' · пример из словаря LOD') : '';
+    $('exen').textContent = cur.ex ? ((UI === 'en' ? cur.ex.en : cur.ex.ru) || '') + (LANG === 'fr' ? L('exTatoeba') : L('exLod')) : '';
     $('exen').classList.toggle('hidden', !cur.ex);
     $('sayEx').classList.toggle('hidden', !(cur.ex && (cur.ex.ogg || cur.ex.mp3 || (LANG === 'fr' && canSpeak))));
     $('say').classList.toggle('hidden', !(cur.lodId || (LANG === 'fr' && canSpeak)) || reverse);
@@ -437,19 +474,18 @@ function finish(empty) {
   $('sAgain').textContent = again;
   $('sLearned').textContent = learned;
   $('sLearning').textContent = learning;
-  $('doneTitle').textContent = empty ? 'Сегодня повторять нечего' : (again || mid ? 'Готово' : 'Всё знаешь');
+  $('doneTitle').textContent = empty ? L('nothing') : (again || mid ? L('done') : L('allKnown'));
   if (missed.length) {
     $('missWrap').classList.remove('hidden');
     missed.forEach(function (w) {
       var li = document.createElement('li');
-      li.textContent = w.kind ? w.a + ' — ' + w.ask.toLowerCase() : article(w) + w.lb + ' — ' + (w.ru || w.en);
+      li.textContent = w.kind ? w.a + ' — ' + w.ask.toLowerCase() : article(w) + w.lb + ' — ' + (UI === 'en' ? (w.en || w.ru) : (w.ru || w.en));
       $('miss').appendChild(li);
     });
   }
-  $('nextNote').textContent = 'Завтра на повторение: ' + tomorrow + ' ' + plural(tomorrow, 'слово', 'слова', 'слов') +
-    (tomorrow > REVIEW_MAX ? ' (покажу ' + REVIEW_MAX + ' самых давних)' : '') +
-    '. «Знаю» с первого раза — сразу в выученные, проверю через неделю; иначе слово выучено после трёх «знаю» в разные дни.';
-  $('where').textContent = cloud ? 'Прогресс хранится в вашем Telegram — на всех устройствах.' : 'Прогресс хранится в этом браузере.';
+  $('nextNote').textContent = L('tomorrow') + nWords(tomorrow) +
+    (tomorrow > REVIEW_MAX ? L('showOldest').replace('{n}', REVIEW_MAX) : '') + L('rule');
+  $('where').textContent = cloud ? L('whereTg') : L('whereLocal');
 }
 
 function plural(n, one, few, many) {
@@ -489,13 +525,13 @@ $('cardView').onclick = function (e) { if (e.target.id !== 'say' && e.target.id 
 $('noBtn').onclick = function () { grade(0); };
 $('midBtn').onclick = function () { grade(1); };
 $('yesBtn').onclick = function () { grade(2); };
-$('closeBtn').onclick = function () { if (inTelegram) tg.close(); else history.back(); };
+$('closeBtn').onclick = function () { if (inTelegram) return tg.close(); if (document.referrer && history.length > 1) history.back(); else location.href = '/'; };
 
 load(function () {
-  fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=7')
+  fetch(LANG === 'fr' ? 'words-fr.json?v=1' : 'words.json?v=8')
     .then(function (r) { return r.json(); })
     .then(start)
-    .catch(function () { $('front').textContent = 'Не загрузился список слов — попробуйте ещё раз.'; });
+    .catch(function () { $('front').textContent = L('loadFail'); });
 });
 </script>
 </body>

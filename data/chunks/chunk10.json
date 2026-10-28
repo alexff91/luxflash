@@ -1556,9 +1556,8 @@
   "gender": "",
   "level": "B1",
   "category": "verb",
-  "ex_lb": "Looss dech an där Affär vun engem erfuerenen Affekot beroden!",
-  "ex_en": "Get advice from an experienced lawyer on that matter!",
-  "lodId": "ERFUEREN1"
+  "ex_lb": "",
+  "ex_en": ""
  },
  {
   "lb": "erwaarden",

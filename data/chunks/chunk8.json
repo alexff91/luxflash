@@ -1147,9 +1147,9 @@
   "gender": "",
   "level": "A2",
   "category": "adverb",
-  "ex_lb": "De leschte Mount ass wéineg Ree gefall.",
-  "ex_en": "Little rain fell last month.",
-  "lodId": "WEINEG2"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "WEINEG1"
  },
  {
   "lb": "genuch",
@@ -2663,9 +2663,9 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "Mäi Papp mécht all Moien de Baart.",
-  "ex_en": "My dad shaves every morning.",
-  "lodId": "MOIEN1"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "MOIEN2"
  },
  {
   "lb": "Äddi",
@@ -2702,9 +2702,9 @@
   "gender": "",
   "level": "A1",
   "category": "phrase",
-  "ex_lb": "Als Merci krut ech e Fräibilljee.",
-  "ex_en": "As a thank-you I got a free ticket.",
-  "lodId": "MERCI1"
+  "ex_lb": "",
+  "ex_en": "",
+  "lodId": "MERCI2"
  },
  {
   "lb": "Pardon",
