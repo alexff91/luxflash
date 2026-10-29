@@ -36,6 +36,9 @@
     if (w.pos !== "noun") return "";
     var a = ARTICLE[w.gender];
     if (!a) return "";
+    // the n-rule: "den" keeps its n only before a vowel and before d, t, z, n, h
+    // ("den Apel", "den Dokter"); before other consonants it is "de" ("de Kéis").
+    if (a === "den" && !/^[aeiouäëéèêiïöüyhndtz]/i.test(w.lb)) a = "de";
     // "d'" joins the word with no space ("d'Aarbecht"); "den"/"de" take a space
     return a + (/'$/.test(a) ? "" : " ");
   }
@@ -277,10 +280,142 @@
     nextCard();
   }
 
+  /* ---------- practice modes ----------
+     Flipping a card and saying "I knew it" is the weakest kind of recall.
+     Four other ways to meet the same word, all feeding the same schedule:
+       Listen - LOD's recording, pick the meaning (needs a recording);
+       Type   - the meaning, type the Luxembourgish (spelling counts, an
+                accent or a typo is shown and still passes);
+       Gap    - LOD's own example sentence with the word blanked, pick it;
+       Mix    - a different one for every word, which is what makes it stick
+                (interleaving beats doing one kind of exercise in a block).
+     A right answer grades "good", a wrong one "again" (back later today). */
+  var MODES = ["cards", "listen", "type", "gap", "mix"];
+  function mode() { var m = LFStore.settings().mode; return MODES.indexOf(m) >= 0 ? m : "cards"; }
+  $$(".mode").forEach(function (b) {
+    b.addEventListener("click", function () { LFStore.setSettings({ mode: b.dataset.mode }); refreshModes(); render(); });
+  });
+  function refreshModes() { $$(".mode").forEach(function (b) { b.classList.toggle("on", b.dataset.mode === mode()); }); }
+  function bare(lb) { return String(lb).replace(/^(d'|den |de |déi )/i, ""); }
+  function fold(s) { return String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z']/g, ""); }
+  function lev(a, b) {
+    var m = [], i, j;
+    for (i = 0; i <= a.length; i++) { m[i] = [i]; }
+    for (j = 0; j <= b.length; j++) m[0][j] = j;
+    for (i = 1; i <= a.length; i++) for (j = 1; j <= b.length; j++)
+      m[i][j] = Math.min(m[i - 1][j] + 1, m[i][j - 1] + 1, m[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    return m[a.length][b.length];
+  }
+  function gapOf(w) {
+    if (!w.ex_lb) return null;
+    var word = bare(w.lb).split(/\s+/)[0];
+    var re = new RegExp("(^|[^\\wÀ-ÿ])(" + word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")(?![\\wÀ-ÿ])", "i");
+    var m = w.ex_lb.match(re);
+    return m ? { before: w.ex_lb.slice(0, m.index + m[1].length), word: m[2], after: w.ex_lb.slice(m.index + m[1].length + m[2].length) } : null;
+  }
+  function kinds(w) {
+    var k = ["type"];
+    if (w.lodId) k.push("listen");
+    if (gapOf(w)) k.push("gap");
+    return k;
+  }
+  function pickKind(w) {
+    var m = mode(), k = kinds(w);
+    if (m !== "mix") return k.indexOf(m) >= 0 ? m : (k.indexOf("type") >= 0 ? "type" : k[0]);
+    return k[Math.floor(Math.random() * k.length)];
+  }
+  function distractors(w, n, field) {
+    var same = WORDS.filter(function (x) { return x.id !== w.id && x.pos === w.pos && x[field] && x[field] !== w[field]; });
+    shuffle(same);
+    var out = [], seen = {}; seen[w[field]] = 1;
+    for (var i = 0; i < same.length && out.length < n; i++) if (!seen[same[i][field]]) { seen[same[i][field]] = 1; out.push(same[i]); }
+    return out;
+  }
+  var drillBox = $("#drillBox");
+  function renderDrill() {
+    var w = current, kind = pickKind(w), html = "";
+    drillBox.dataset.kind = kind;
+    if (kind === "listen") {
+      var opts = shuffle([w].concat(distractors(w, 3, "en")));
+      html = '<div class="dr-q">What does it mean?</div><button class="dr-hear" id="drHear" aria-label="Listen">🔊</button>' +
+        '<div class="dr-opts">' + opts.map(function (o) { return '<button class="dr-opt" data-id="' + escapeHTML(o.id) + '">' + escapeHTML(o.en) + '</button>'; }).join("") + '</div>';
+    } else if (kind === "gap") {
+      var g = gapOf(w), opts2 = shuffle([w].concat(distractors(w, 3, "lb")));
+      html = '<div class="dr-q">Which word fits?</div><div class="dr-sent">' + escapeHTML(g.before) + '<span class="dr-blank">＿＿＿</span>' + escapeHTML(g.after) + '</div>' +
+        (w.ex_en ? '<div class="dr-hint">' + escapeHTML(w.ex_en) + '</div>' : '') +
+        '<div class="dr-opts">' + opts2.map(function (o) { return '<button class="dr-opt" data-id="' + escapeHTML(o.id) + '">' + escapeHTML(bare(o.lb)) + '</button>'; }).join("") + '</div>';
+    } else {
+      html = '<div class="dr-q">In Luxembourgish?</div><div class="dr-mean">' + escapeHTML(w.en) + '<small>' + escapeHTML(w.pos || "") + (w.de ? ' · DE ' + escapeHTML(w.de) : '') + '</small></div>' +
+        '<form class="dr-type" id="drType" autocomplete="off"><input id="drIn" class="search" placeholder="type the word" autocapitalize="off" autocorrect="off" spellcheck="false" lang="lb">' +
+        '<button class="btn primary" type="submit">Check</button></form>' +
+        '<div class="dr-keys">' + ["ä", "ë", "é", "ö", "ü"].map(function (c) { return '<button class="dr-key" type="button">' + c + '</button>'; }).join("") + '</div>';
+    }
+    drillBox.innerHTML = '<div class="dr-card">' + html + '<div class="dr-fb" id="drFb"></div></div>';
+    if (kind === "listen") { var hb = $("#drHear"); hb.onclick = function () { playAudio(w); }; playAudio(w, true); }
+    if (kind === "type") {
+      var inp = $("#drIn");
+      setTimeout(function () { try { inp.focus(); } catch (e) {} }, 50);
+      $$(".dr-key", drillBox).forEach(function (k) { k.onclick = function () { inp.value += k.textContent; inp.focus(); }; });
+      $("#drType").onsubmit = function (e) { e.preventDefault(); answerTyped(w, inp.value); };
+    }
+    $$(".dr-opt", drillBox).forEach(function (b) { b.onclick = function () { answerChoice(w, b); }; });
+  }
+  function answerChoice(w, btn) {
+    if (drillBox.dataset.done) return;
+    var ok = btn.dataset.id === w.id;
+    $$(".dr-opt", drillBox).forEach(function (b) { b.disabled = true; if (b.dataset.id === w.id) b.classList.add("right"); });
+    if (!ok) btn.classList.add("wrong");
+    finishDrill(w, ok, ok ? "" : "");
+  }
+  function answerTyped(w, typed) {
+    if (drillBox.dataset.done) return;
+    var want = bare(w.lb), t = String(typed).trim();
+    var art = (t.match(/^(d'|den |de |déi )/i) || [""])[0].toLowerCase(), tw = t.slice(art.length).trim();
+    var exact = tw.toLowerCase() === want.toLowerCase();
+    var close = !exact && (fold(tw) === fold(want) || lev(tw.toLowerCase(), want.toLowerCase()) <= (want.length > 6 ? 2 : 1));
+    var note = "";
+    if (close) note = "Nearly — it is spelt <b>" + escapeHTML(want) + "</b>.";
+    var wantArt = articleFor(w).trim().toLowerCase();
+    if ((exact || close) && art && wantArt && art.trim() !== wantArt) note += (note ? " " : "") + "The article is <b>" + escapeHTML(articleFor(w).trim()) + "</b>.";
+    finishDrill(w, exact || close, note);
+  }
+  function finishDrill(w, ok, note) {
+    drillBox.dataset.done = "1";
+    var prog = LFsrs.grade(LFStore.getCard(w.id), ok ? "good" : "again");
+    LFStore.setCard(w.id, prog); LFStore.touchStreak();
+    if (!ok) queue.push(w.id);
+    $("#drFb").innerHTML = '<div class="dr-res ' + (ok ? "ok" : "no") + '">' + (ok ? "✓ Right" : "✗ Not this time — it comes back later today") + '</div>' +
+      (note ? '<div class="dr-note">' + note + '</div>' : '') +
+      '<div class="dr-answer"><b>' + escapeHTML(articleFor(w) + w.lb) + '</b> — ' + escapeHTML(w.en || "") + (w.lodId ? ' <button class="dr-say" id="drSay" aria-label="Listen">🔊</button>' : '') + '</div>' +
+      (w.ex_lb ? '<div class="dr-ex">' + boldWord(w.ex_lb, w.lb) + (w.ex_en ? '<small>' + escapeHTML(w.ex_en) + '</small>' : '') + '</div>' : '') +
+      '<button class="btn primary big" id="drNext">Next</button>';
+    var say = $("#drSay"); if (say) say.onclick = function () { playAudio(w); };
+    if (w.lodId && drillBox.dataset.kind !== "listen") playAudio(w, true);
+    $("#drNext").onclick = function () { nextCard(); };
+    try { $("#drNext").focus(); } catch (e) {}
+  }
+  var baseRender = render;
+  render = function () {
+    var drill = mode() !== "cards" && !!current;
+    drillBox.hidden = !drill;
+    delete drillBox.dataset.done;
+    if (!drill) { elFlashcard.parentElement.style.display = ""; return baseRender(); }
+    updateQueuePill();
+    $("#studyEmpty").hidden = true;
+    elFlashcard.parentElement.style.display = "none";
+    $("#flipBar").style.display = "none";
+    showGradeBar(false); $("#flipBar").style.display = "none";
+    renderDrill();
+  };
+  refreshModes();
+  // for the end-to-end check of the practice modes (scripts' Playwright run)
+  window.LFDebug = { current: function () { return current; }, article: articleFor };
+
   /* keyboard shortcuts */
   document.addEventListener("keydown", function (e) {
     if (/^(input|textarea|select)$/i.test(e.target.tagName)) return;
     if (!$("#view-study").classList.contains("is-active")) return;
+    if (mode() !== "cards") { if (e.key === "Enter" && $("#drNext")) { e.preventDefault(); $("#drNext").click(); } return; }
     if (e.key === " ") { e.preventDefault(); flip(); return; }
     if (e.key === "p" || e.key === "P") { if (current) playAudio(current); return; }
     if (flipped) {

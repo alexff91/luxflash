@@ -184,6 +184,8 @@ HAS_ARTICLE = re.compile(r"^(d['’]|de[nr]?\s|déi\s|dat\s|di\s)", re.I)
 
 def word_html(w):
     article = GENDER.get(w.get('gender', ''), '') if w.get('pos') == 'noun' else ''
+    # the n-rule: masculine "den" before a vowel and d, t, z, n, h; "de" otherwise
+    if article == 'de' and re.match(r"[aeiouäëéèêiïöüyhndtz]", w['lb'], re.I): article = 'den'
     # После апострофа пробела нет: d'Aen, но de Bauch.
     joiner = '' if article.endswith('’') else ' '
     lb = w['lb'] if (not article or HAS_ARTICLE.match(w['lb'])) else f"{article}{joiner}{w['lb']}"
