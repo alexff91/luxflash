@@ -273,6 +273,7 @@
   });
   function gradeCurrent(grade) {
     if (!current || !flipped) return;
+    used("study-cards");
     var prog = LFsrs.grade(LFStore.getCard(current.id), grade);
     LFStore.setCard(current.id, prog);
     var streak = LFStore.touchStreak();
@@ -290,6 +291,9 @@
        Mix    - a different one for every word, which is what makes it stick
                 (interleaving beats doing one kind of exercise in a block).
      A right answer grades "good", a wrong one "again" (back later today). */
+  // Usage beacon: /_used?e=study-<mode>, once per page load; counted from the Caddy log.
+  var beaconSent = {};
+  function used(e) { if (beaconSent[e]) return; beaconSent[e] = 1; try { navigator.sendBeacon("/_used?e=" + e, ""); } catch (x) {} }
   var MODES = ["cards", "listen", "type", "gap", "mix"];
   function mode() { var m = LFStore.settings().mode; return MODES.indexOf(m) >= 0 ? m : "cards"; }
   $$(".mode").forEach(function (b) {
@@ -381,6 +385,7 @@
   }
   function finishDrill(w, ok, note) {
     drillBox.dataset.done = "1";
+    used("study-" + mode());
     var prog = LFsrs.grade(LFStore.getCard(w.id), ok ? "good" : "again");
     LFStore.setCard(w.id, prog); LFStore.touchStreak();
     if (!ok) queue.push(w.id);

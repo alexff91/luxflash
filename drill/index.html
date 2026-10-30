@@ -435,7 +435,9 @@ function reveal() {
 }
 
 // answer: 0 не знаю, 1 учу, 2 знаю
+var beaconSent = false;   // маячок /_used: один на заход, считается по журналу Caddy
 function grade(answer) {
+  if (!beaconSent) { beaconSent = true; try { navigator.sendBeacon('/_used?e=drill-' + LANG, ''); } catch (x) {} }
   var p = prog[cur.id];
   var box = p ? p[0] : 0;
   if (answer === 2 && retried[cur.id]) {
